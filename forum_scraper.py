@@ -44,10 +44,40 @@ class ForumScraper:
         )
         self.session = requests.Session()
         self.session.mount("https://", HTTPAdapter(max_retries=retry_strategy))
+        # Configure rate limiting
+        self.requests_per_minute = 30  # Initial conservative estimate
+        self.last_request_time = 0
+        self.request_times = []
+        self.rate_limit_hits = 0
+        self.total_requests = 0
+
+    def _wait_for_rate_limit(self):
+        current_time = time.time()
+        elapsed_time = current_time - self.last_request_time
+        self.request_times.append(current_time)
+        self.last_request_time = current_time
+
+        while len(self.request_times) > self.requests_per_minute:
+            self.request_times.pop(0)
+
+        time_since_last_request = current_time - self.request_times[0] if len(self.request_times) > 0 else 0
+        if time_since_last_request < 60:
+            sleep(60 - time_since_last_request)
+
 
     def extract_page(self, url, timeout=30):
         try:
+            self._wait_for_rate_limit()
+            self.total_requests += 1
             response = self.session.get(url, timeout=timeout)
+
+            if response.status_code == 429:  # Too Many Requests
+                self.rate_limit_hits += 1
+                self.requests_per_minute = max(1, self.requests_per_minute - 5)
+                logger.warning(f"Rate limit hit. Reducing rate to {self.requests_per_minute} requests/minute")
+                time.sleep(60)  # Wait a minute before retrying
+                return self.extract_page(url, timeout)
+
             response.raise_for_status()
             return BeautifulSoup(response.text, 'html.parser')
         except requests.exceptions.RequestException as e:
@@ -404,5 +434,5 @@ def main():
     logger.info("Extraction process completed")
 
 if __name__ == "__main__":
-    
+
     main()
