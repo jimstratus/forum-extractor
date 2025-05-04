@@ -83,14 +83,14 @@ def find_scenarios(scenarios_dir, scenario_file=None, forum=None, year=None):
     
     # Exclude supplementary files
     scenario_files = [f for f in all_files if not any(f.endswith(suffix) for suffix in 
-                      ["_characters.md", "_timeline.md", "_analysis.md", "_development.md"])]
+                     ["_characters.md", "_timeline.md", "_analysis.md", "_development.md"])]
     
     return scenario_files
 
 def extract_characters(scenario_content):
     """
     Extract characters from scenario content
-    
+
     NOTE: This is a placeholder. The actual implementation would:
     1. Use NLP to identify named entities (PERSON)
     2. Track character mentions and interactions
@@ -119,7 +119,7 @@ def extract_characters(scenario_content):
 def extract_timeline(scenario_content):
     """
     Extract a timeline of events from scenario content
-    
+
     NOTE: This is a placeholder. The actual implementation would:
     1. Use NLP to identify temporal expressions
     2. Extract events and associate them with dates/times
@@ -158,7 +158,7 @@ def extract_timeline(scenario_content):
 def analyze_completion(scenario_content, timeline):
     """
     Analyze the completion status of a scenario
-    
+
     NOTE: This is a placeholder. The actual implementation would:
     1. Use NLP to identify narrative arcs and plotlines
     2. Detect unresolved conflicts and open questions
@@ -215,7 +215,7 @@ def analyze_completion(scenario_content, timeline):
 def suggest_development(scenario_content, characters, timeline, analysis):
     """
     Suggest plot developments for continuing the scenario
-    
+
     NOTE: This is a placeholder. The actual implementation would:
     1. Use NLP to identify narrative patterns and arcs
     2. Generate suggestions based on genre conventions
@@ -398,47 +398,68 @@ def generate_development_file(scenario_path, suggestions):
     logger.info(f"Generated development file: {development_path}")
     return development_path
 
-def process_scenario(scenario_path):
-    """Process a scenario to generate supplementary files"""
-    logger.info(f"Processing scenario: {scenario_path}")
-    
-    try:
-        # Read scenario file
-        frontmatter, content = read_scenario_file(scenario_path)
-        
-        # Extract characters
-        characters = extract_characters(content)
-        logger.info(f"Extracted {len(characters)} characters")
-        
-        # Extract timeline
-        timeline = extract_timeline(content)
-        logger.info(f"Extracted {len(timeline)} timeline events")
-        
-        # Analyze completion
-        analysis = analyze_completion(content, timeline)
-        logger.info(f"Completion status: {analysis['completion_status']}")
-        
-        # Suggest development
-        suggestions = suggest_development(content, characters, timeline, analysis)
-        logger.info(f"Generated {len(suggestions)} development suggestions")
-        
-        # Generate supplementary files
-        characters_path = generate_characters_file(scenario_path, characters)
-        timeline_path = generate_timeline_file(scenario_path, timeline)
-        analysis_path = generate_analysis_file(scenario_path, analysis)
-        development_path = generate_development_file(scenario_path, suggestions)
-        
-        return {
-            "scenario": scenario_path,
-            "characters": characters_path,
-            "timeline": timeline_path,
-            "analysis": analysis_path,
-            "development": development_path
-        }
-    
-    except Exception as e:
-        logger.error(f"Error processing scenario {scenario_path}: {e}")
-        return {"scenario": scenario_path, "error": str(e)}
+import logging
+from pathlib import Path
+import yaml
+
+logger = logging.getLogger(__name__)
+
+class ScenarioProcessor:
+    def __init__(self, scenario_path):
+        self.scenario_path = Path(scenario_path)
+
+    def validate_content(self, content):
+        if not content or len(content.strip()) == 0:
+            return False
+        return True
+
+    def process_scenario(self):
+        try:
+            content_file = self.scenario_path / "content.md"
+            if not content_file.exists():
+                logger.error(f"Content file missing for {self.scenario_path}")
+                return False
+
+            content = content_file.read_text(encoding='utf-8')
+            if not self.validate_content(content):
+                logger.error(f"Invalid content in {content_file}")
+                return False
+
+            # Process the valid content
+            # Extract characters
+            characters = extract_characters(content)
+            logger.info(f"Extracted {len(characters)} characters")
+
+            # Extract timeline
+            timeline = extract_timeline(content)
+            logger.info(f"Extracted {len(timeline)} timeline events")
+
+            # Analyze completion
+            analysis = analyze_completion(content, timeline)
+            logger.info(f"Completion status: {analysis['completion_status']}")
+
+            # Suggest development
+            suggestions = suggest_development(content, characters, timeline, analysis)
+            logger.info(f"Generated {len(suggestions)} development suggestions")
+
+            # Generate supplementary files
+            characters_path = generate_characters_file(self.scenario_path, characters)
+            timeline_path = generate_timeline_file(self.scenario_path, timeline)
+            analysis_path = generate_analysis_file(self.scenario_path, analysis)
+            development_path = generate_development_file(self.scenario_path, suggestions)
+
+            return {
+                "scenario": self.scenario_path,
+                "characters": characters_path,
+                "timeline": timeline_path,
+                "analysis": analysis_path,
+                "development": development_path
+            }
+
+        except Exception as e:
+            logger.error(f"Error processing scenario {self.scenario_path}: {e}")
+            return {"scenario": self.scenario_path, "error": str(e)}
+
 
 def main(args=None):
     """Main execution function"""
@@ -456,12 +477,9 @@ def main(args=None):
     # Process each scenario
     results = []
     for scenario_path in scenarios:
-        try:
-            result = process_scenario(scenario_path)
-            results.append(result)
-        except Exception as e:
-            logger.error(f"Failed to process {scenario_path}: {e}")
-            results.append({"scenario": scenario_path, "error": str(e)})
+        processor = ScenarioProcessor(scenario_path)
+        result = processor.process_scenario()
+        results.append(result)
     
     # Print summary
     logger.info(f"Processed {len(results)} scenarios")
