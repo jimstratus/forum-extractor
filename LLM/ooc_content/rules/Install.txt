@@ -1,8 +1,0 @@
----
-source: c:\EOTIR\EOTIR RPG\OOC\IPS\Plugins\(0A3) Consider for Later\(SOS42) New Members Defaults 1.0.0\Install.txt
-category: ooc_content/rules
-source_type: EOTIR RPG
-extraction_date: 2025-05-03T15:31:41.080697
----
-
-Go to ACP -> Ssytem -> Plugins -> Install New Plugin -> Upload the XML from this plugin.

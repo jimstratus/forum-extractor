@@ -1,8 +1,0 @@
----
-source: c:\EOTIR\EOTIR Novels\Reference\Designs by Brandon McBride.pdf
-category: unknown
-/producer: Lionel Li PDF Library
-source_type: EOTIR Novels
-extraction_date: 2025-05-03T15:30:32.226480
----
-

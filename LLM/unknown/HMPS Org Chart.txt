@@ -1,9 +1,0 @@
----
-source: c:\EOTIR\EOTIR RPG\Directories\HMPS Org Chart.pdf
-category: unknown
-/producer: Qt 5.3.0
-/creationdate: D:20160120112051
-source_type: EOTIR RPG
-extraction_date: 2025-05-03T15:31:10.441843
----
-

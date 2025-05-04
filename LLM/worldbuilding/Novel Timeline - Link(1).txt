@@ -1,9 +1,0 @@
----
-source: c:\EOTIR\EOTIR Novels\Reference\Novel Timeline - Link(1).docx
-category: worldbuilding
-title: Novel Timeline - Link.docx
-source_type: EOTIR Novels
-extraction_date: 2025-05-03T15:30:38.525954
----
-
-http://wiki.eotir.com/index.php?title=Timeline

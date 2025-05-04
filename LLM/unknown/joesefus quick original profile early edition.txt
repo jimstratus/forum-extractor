@@ -1,8 +1,0 @@
----
-source: c:\EOTIR\EOTIR RPG\Archives\joesefus quick original profile early edition.pdf
-category: unknown
-/producer: Lionel Li PDF Library
-source_type: EOTIR RPG
-extraction_date: 2025-05-03T15:30:48.007577
----
-
