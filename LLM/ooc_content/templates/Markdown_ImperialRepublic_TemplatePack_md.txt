@@ -1,0 +1,187 @@
+
+# 📦 Imperial Republic Project Template Pack
+
+This pack includes both **in-universe** and **out-of-character (OOC)** document templates.
+
+---
+
+## 🧾 In-Universe Templates
+
+### 1. 📄 Document Summary Sheet
+
+```markdown
+# 📄 Imperial Republic Document Summary Sheet
+
+**Document Title:**  
+**Document ID:**  
+**Issuing Authority:**  
+**Date (IRY):**  
+**Classification Level:** [Public | Confidential | Secret | Supreme Secret]  
+**Document Type:** [Law | Directive | Treaty | Mandate | Order]  
+**Status:** [Draft | Active | Superseded | Archived]
+
+## 🔍 Summary
+(Brief 2-5 sentence summary of the document's purpose)
+
+## 🗂️ Key Provisions
+- Provision 1
+- Provision 2
+- Provision 3
+
+## 🖋️ Signatures
+- [Title] [Name], [Position]
+```
+
+---
+
+### 2. 🏛 Imperial Bill or Law Template
+
+```markdown
+# 🏛 Imperial Republic Senate Bill
+
+**Bill Title:**  
+**Bill ID:** LA-SEN-IRYxx-###  
+**Date Introduced:**  
+**Sponsor:** [Senator Name, Planet]  
+**Co-Sponsors:**  
+
+## 📝 Preamble
+(One-paragraph justification and purpose of the law)
+
+## 📜 Articles
+### Article I – [Title]
+- Clause 1.1 – ...
+- Clause 1.2 – ...
+
+### Article II – [Title]
+- Clause 2.1 – ...
+
+## ✅ Enactment
+This bill shall take effect on IRY [Date] if passed by the Senate and signed by [Approving Authority].
+
+**Filed by:**  
+*Senator [Name], Representative of [System]*
+```
+
+---
+
+### 3. 👑 Imperial Executive Directive Template
+
+```markdown
+# 👑 Imperial Executive Directive
+
+**Directive ID:** ED-THR-IRYxx-###  
+**Issued by:** [Throne Title] [Name]  
+**Date of Issue:** IRY [Date]  
+**Classification:** [Public | Classified | Top Secret]  
+**Subject:**  
+
+## 📘 Purpose
+(Summarize the scope and reason for the directive)
+
+## 🔧 Directives
+- All military garrisons in [Region] are to...
+- Effective immediately, no unauthorized ships may enter...
+
+## 🔐 Distribution
+- COMPNOR
+- Ministry of State
+- Sector Governors: [Sector Names]
+```
+
+---
+
+### 4. 🔒 Classified File Template
+
+```markdown
+# 🔒 CLASSIFIED DOSSIER
+
+**Document ID:** CF-IRSB-IRYxx-###  
+**Clearance Level:** Supreme Secret  
+**Filed by:** Director of IRSB  
+**Recipients:** [Restricted List]
+
+## 🔻 REDACTED CONTENT BELOW
+[ ███████████████████████████ ]
+
+## 🧾 Incident Summary
+- Date: IRY xx
+- Location: [System/Sector]
+- Involved Parties: [REDACTED]
+- Description: [Summary]
+
+## ⚠️ Security Handling Instructions
+- Do not copy, forward, or store digitally without encryption level Omega-7.
+```
+
+---
+
+## 🛠️ OOC Templates
+
+### 1. 📐 Design Document Template
+
+```markdown
+# 📐 Project Design Document
+
+**Title:**  
+**Author:**  
+**Date:**  
+**Related Files/Docs:**  
+
+## 🎯 Objective
+(Summarize the goal of the system, feature, or story)
+
+## 🧱 Components
+- Component A: ...
+- Component B: ...
+
+## 🔍 References & Inspirations
+- [Game/book/reference]
+- [Notes from ChatGPT session]
+
+## 📌 Development Notes
+- Notes, concerns, and milestones
+```
+
+---
+
+### 2. 🌐 Worldbuilding Entry Template (for wiki or doc)
+
+```markdown
+# 🌐 [Entry Type: Character / Planet / Ship / Org]
+
+## 📛 Name:
+## 🧬 Species / Affiliation:
+## 🪐 Location / Origin:
+## 📜 Biography / Description:
+
+(Write the body text here...)
+
+## 🧩 Trivia
+- This planet has...
+- The character’s name means...
+
+## 📚 Appearances / Source:
+- [Story or doc references]
+```
+
+---
+
+### 3. 🤖 GPT Session Summary Template
+
+```markdown
+# 🤖 GPT Session Log Summary
+
+**Date:** 2025-04-10  
+**User:** Jim Stratus  
+**Topic:** [e.g., Title system brainstorm]  
+**Chat ID or File:** [Filename or Link]
+
+## 🔑 Key Ideas Captured
+- Idea 1: ...
+- Idea 2: ...
+
+## 🧠 Actionable Tasks
+- [ ] Draft new legislation format
+- [ ] Build MediaWiki template for registry
+```

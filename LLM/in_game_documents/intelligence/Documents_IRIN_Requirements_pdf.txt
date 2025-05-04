@@ -1,0 +1,110 @@
+IRIN Requirements  
+ 
+1) Design a new IRIN Logo and a new layout for the IRIN website.  
+2) Create Login and Logout Pages  
+a. People should be able to login  with their username and password.  
+i. Upon first login, the user should be forced to create a new 
+password.  
+b. People should be able to logout.  
+i. When a user clicks the logout button, a prompt should come up 
+to confirm that they want to logout.  
+3) Create  a “Documents” page  
+a. People with a security clearance of Delta Red or above  can add 
+documents.  
+b. People associate d with the right security clearance can edit the 
+document.  
+i. Delta Red Security Clearance  
+ii. Only the person who created the document, people assigned to 
+the document, the Imperial Throne, and Administrators can edit 
+the document.  
+c. Only t he Imperial Throne and Admins should be allowed to  delete 
+documents.  
+4) Create a “Users” page  
+a. Administrators  can create new users with the following information:  
+i. Username (usually their character’s first name)  
+ii. Email  
+iii. Character Name  
+iv. Rank  
+v. Division  
+vi. Security Clearance  
+ Note: After a new user is created, an email containing a 
+randomly generated password should be sent to the supplied 
+email address.  
+b. Admins  should be able to  edit and delete user information  
+i. Only if the user has a lower admin level than them.  
+ Note:  Admin levels will be stored in the Security Cleara nce 
+column. The value ranges from 7 to 12.  
+c. Admins should be able to  switc h to a user’s account  
+i. Only if the user has a lower admin level than them.  
+ii. There should be a button at the top to switch back to their 
+account  
+5) Create a “Divisions” page  
+a. The Throne and Admins can  create divisions  and units  
+i. Any new division will be a subset of one of the branches (list 
+will be given at a later dat e) 
+ii. Any new unit will be a subset of a division  
+b. The appropriate  people should be able to edit branch es, divisions, and 
+units  
+i. Branch  command can edit all divisions and units associated  
+with their branch.  
+ii. Division command can edit all units associated with their 
+branch.  
+iii. The Throne and Admi ns can edit all units, regardless of branch.   
+c. The Throne and Admins can delete any branch, division, or unit.  
+6) Create a “Rank ” page  
+a. The Throne an d Admins can create, modify, and delete  ranks  
+i. Only the Supreme Ruler and Admins should be able to  make 
+changes to Throne ranks.  
+7) Create a “Merits ” page  
+a. The appropriate  people  should be able to modify  their subordinates ’ 
+merits.  
+i. Branch command can modify th e merits for everyone in a 
+division or unit associated with their branch.  
+ii. Division co mmand can modify the merits for everyone in a unit 
+associated with their division.  
+iii. Unit command can modify the merits of everyone in their own 
+unit, excluding themselves, and, if the user is the unit ’s 2IC, the 
+unit leader  
+iv. The Throne and Admins can edit everyone ’s merit,  regardless 
+of branch  
+ Note: The Throne  and Admins should not appear on this page.  
+8) Create a “Security Clearance ” page  
+a. The appropriate people should be able to modify their subordinate ’s 
+security clearance  
+i. Follows the same rules as the “Merits ” page  
+ Note: The Supreme Ruler and Admins should not appear on 
+this page.  
+9) Create a “Year ” page  
+a. Admins should  be able to add new IR year s 
+b. SMART  (Moderating)  Staff Members , Assistant Admins, and the 
+Lead Admin should be able to set the current IR year from the list of 
+past year entries.  
+10) Create a “Dev Work  Log” page  
+a. OCOPS  Staff Members , Assistant Admins, and the Lead Admin 
+should be able to view the IRIN Development Work Log  
+i. Shows each requirement/PCR, who it ’s assigned to, it ’s current 
+status, and the date it  was finished (only when done)  
+ii. Status should be color coded  
+1. Red – Assigned  
+2. Yellow – In Progress  
+3. Green – Completed  
+b. The OCOPS Assistant Admin, the Senior Admin, and the Lead Admin 
+should be able to add  and delete  requirements/PCRs and assign it to 
+an OCOPS Staff  Member.  
+11) Create a “Code Generator ” page  
+a. CAT  (Character)  Staff Members, the CAT Assistant Admin, the 
+Senior Assistant Admin, and the Lead Admin should be able to 
+generate a character code to u se for character approvals.  
+i. Should follow this format: MMDDYYF FSS(S)  
+1. MM – Month  
+2. DD – Day 
+3. YYYY – Year  
+4. FF – First two letter s of username  
+5. SS(S) – First three letter of the abbreviation o f the user ’s 
+rank (Third letter only applies to ranks with three letter 
+abbreviations ) 
+12) Turn Google Documents into PHP Forms  and Views  
+a. IRIN currently uses 5 Google Documents.  
+i. 2 for displaying stored data  
+ii. 3 for forms  
+b. Convert these doc uments into PHP forms and views  

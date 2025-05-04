@@ -1,0 +1,26 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\Core.HiddenElements.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.429282
+---
+
+Core.HiddenElements
+TYPE: lookup
+--DEFAULT--
+array (
+  'script' => true,
+  'style' => true,
+)
+--DESCRIPTION--
+
+<p>
+  This directive is a lookup array of elements which should have their
+  contents removed when they are not allowed by the HTML definition.
+  For example, the contents of a <code>script</code> tag are not
+  normally shown in a document, so if script tags are to be removed,
+  their contents should be removed to. This is opposed to a <code>b</code>
+  tag, which defines some presentational changes but does not hide its
+  contents.
+</p>
+--# vim: et sw=4 sts=4

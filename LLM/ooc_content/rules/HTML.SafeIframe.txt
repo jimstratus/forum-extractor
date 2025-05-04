@@ -1,0 +1,20 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\HTML.SafeIframe.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.539349
+---
+
+HTML.SafeIframe
+TYPE: bool
+VERSION: 4.4.0
+DEFAULT: false
+--DESCRIPTION--
+<p>
+    Whether or not to permit iframe tags in untrusted documents.  This
+    directive must be accompanied by a whitelist of permitted iframes,
+    such as %URI.SafeIframeRegexp, otherwise it will fatally error.
+    This directive has no effect on strict doctypes, as iframes are not
+    valid.
+</p>
+--# vim: et sw=4 sts=4

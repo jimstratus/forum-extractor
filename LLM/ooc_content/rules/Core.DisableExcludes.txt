@@ -1,0 +1,21 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\Core.DisableExcludes.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.415650
+---
+
+Core.DisableExcludes
+TYPE: bool
+DEFAULT: false
+VERSION: 4.5.0
+--DESCRIPTION--
+<p>
+  This directive disables SGML-style exclusions, e.g. the exclusion of
+  <code>&lt;object&gt;</code> in any descendant of a
+  <code>&lt;pre&gt;</code> tag.  Disabling excludes will allow some
+  invalid documents to pass through HTML Purifier, but HTML Purifier
+  will also be less likely to accidentally remove large documents during
+  processing.
+</p>
+--# vim: et sw=4 sts=4

@@ -1,0 +1,18 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\HTML.FlashAllowFullScreen.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.520708
+---
+
+HTML.FlashAllowFullScreen
+TYPE: bool
+VERSION: 4.2.0
+DEFAULT: false
+--DESCRIPTION--
+<p>
+    Whether or not to permit embedded Flash content from
+    %HTML.SafeObject to expand to the full screen.  Corresponds to
+    the <code>allowFullScreen</code> parameter.
+</p>
+--# vim: et sw=4 sts=4

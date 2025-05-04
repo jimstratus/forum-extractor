@@ -1,0 +1,27 @@
+Imperial Republic Information Network
+
+
+
+Production environment: 	http://irin.imperialrepublic.org 
+
+or 	http://irin.eotir.com
+
+Development environment: 	http://dev.eotir.com/irin
+
+Project Management Tracking: http://dev.eotir.com/feng
+
+Bug Tracking: 				http://dev.eotir.com/mantis
+
+Help Desk: 				http://help.eotir.com
+
+
+
+Project e-mail: irin@imperialrepublic.org, admin@irin.eotir.com 
+
+
+
+Help E-mails: help@eotir.com, help@irin.eotir.com, help@irin.imperialrepublic.org, irin@help.eotir.com  
+
+
+
+(the above e-mails will generate a ticket assigned to the IRIN queue in osTicket)

@@ -1,0 +1,6650 @@
+POSTING MOTOR VEHICLE AND PEDESTRIAN STOP DATA 
+ 
+The policy of the Los Angeles Police Commission and the Chief of Police, William J. Bratton, is for 
+the LAPD to become more transparent in its policing.  The attached motor vehicle and pedestrian stop 
+data is consistent with this policy of disclosure to the community.  This is the first in a series of 
+postings of the motor vehicle and pedestrian stop data.  This posting only includes raw data without 
+any analysis.  The analysis and interpretation of stop data is a challenging endeavor.  Most methods 
+used by jurisdictions to analyze their data (e.g., comparing the demographics of the people stopped by 
+police to the demographics of the residential population as measured by the census) can identify 
+disparities in the distribution of police stops and/or searches.  Many of the most commonly used 
+methods cannot determine if that disparity is caused by police bias or by factors wholly independent of 
+the police.  The City of Los Angeles is in the process of contracting (through a proposal process) 
+qualified independent professional services who can assist the City in the analysis of the raw data to 
+produce meaningful results based on sound research methods.   
+ 
+The data presented was collected during the period of July 1, 2002, to November 30, 2002.  The data 
+currently being collected is based upon the requirements established by the Federal Consent Decree 
+governing police practices of the Los Angeles Police Department (See Consent Decree Paragraphs 30, 
+32, 104, 105, and 156.) (http://www.lapdonline.org/pdf_files/boi/final_consent_decree.pdf).  Future 
+data will be posted semiannually, in February and August. 
+ 
+This posting displays raw data for each of the following operational commands: 
+ 
+· The 18 geographic Areas 
+· The 4 traffic Divisions 
+· The four geographic Bureaus (consists of the 18 geographic Areas & 4 traffic divisions) 
+· Operations-Headquarters Bureau (consists of specialized Los Angeles Police Department 
+ Divisions) 
+· Citywide totals 
+ 
+Maps of the Area/Division and/or Bureau may be found at:  
+http://www.lapdonline.org/community/community_main.htm.     
+ 
+The City’s data collection process, including the types of data collected, will evolve over time.  For 
+example, the City is currently in the process of standardizing descent race/ethnicity categories utilized 
+in various Los Angeles Police Department data collection activities to facilitate data analysis and 
+comparisons.  Current descent race/ethnicity categories being used were originally selected for their 
+compatibility with mandatory crime and arrest reporting categories.  It should be noted that for 
+pedestrian and traffic stop data collection purposes, officers are required to report their perception of 
+racial/ethnic descent of the stopped person, and do not ask for their racial/ethnic origin. 
+ 
+If there are questions, comments, or suggestions relating to the data posted, please contact  
+Captain Brad Merritt, Los Angeles Police Department, at 14566@lapd.lacity.org or write the  
+Los Angeles Police Department, Management Services Division, 150 N. Los Angeles St., Room 717, 
+Los Angeles, Ca. 90012. 
+ 
+Very truly yours, 
+ 
+WILLIAM J. BRATTON 
+Chief of Police 
+LOS ANGELES POLICE DEPARTMENT
+CITYWIDEFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black Hispanic Chinese Filipino Japanese Amer. Ind. Other
+NUMBER OF PASSENGERS
+1164 2760 4394 38 61 11 214 9
+GENDER
+Male 685 2042 3590 25 51 8 157 5
+Female 479 718 804 13 10 3 57 4
+APPARENT AGE
+ 1 - 17 144 312 875 3 14 35 1
+18 - 40 868 2130 3322 33 45 10 155 4
+41 - 60 134 299 181 2 2 1 22 3
+61 - 80 14 18 16 2 1
+81+ 4 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 739 1826 3063 29 45 9 155 5
+Municipal Code Violation 85 59 246 3 4 15 1
+Suspect Flight 21 45 74 1 4
+Consensual 39 68 69 1 2
+Call For Service 29 37 74 2 2 2
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 12 44 102 4 3
+Penal Code Violation 98 252 238 2 4 8
+Equipment/Registration Violation 166 464 557 1 3 1 17 2
+Health & Safety Code Violation 43 84 125 1 1 8 1
+Other 40 92 158 12
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 504 1753 2742 10 38 3 88 4
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 255 880 1355 2 24 44 4
+GRANTED?
+Yes 251 878 1348 2 24 44 4
+WAS SEARCH CONDUCTED?
+Yes 549 1772 2743 11 36 4 84 6
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 76 312 256 2 2 4
+Odor of Contraband 13 60 84 6
+Incident to Pat Down/Frisk 120 508 852 5 11 1 19 1
+Incident to Arrest 154 338 505 1 6 1 18 1
+Impound Inventory 48 91 219 1 5
+Visible Contraband 22 51 82 1 3 1
+Consent 211 726 1126 2 18 32 3
+Other 8 16 31 4 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 173 448 740 2 6 1 25 2
+Belongings 55 103 86 2 1 1 2
+Person 466 1622 2466 9 33 3 81 4
+Container 7 11 11 1
+Residence 2 5
+Office 1 1
+Other 1 4 3
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 16 51 81 2 2
+Money 11 27 37 1
+Drugs 66 129 185 1 3 9 1
+Alcohol 18 49 112 1
+Other Contraband 31 40 52 2 1
+Other Evidence of Crime 25 36 77 3
+Other Property 21 87 96 5 1
+Nothing 418 1449 2272 10 30 4 70 4
+ACTION TAKEN:
+Warning 185 590 615 3 15 2 32 4
+Citation 513 667 1618 29 21 7 122 4
+Arrest 162 355 456 1 6 1 15 1
+Field Interview Completed 306 1029 1424 4 17 40 1
+None 146 517 753 1 6 1 17
+LOS ANGELES POLICE DEPARTMENT
+CITYWIDEFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black Hispanic Chinese Filipino Japanese Amer. Ind. Other
+NUMBER OF DRIVERS
+68266 37081 78687 5210 3472 2511 10962 289
+GENDER
+Male 44390 25087 60973 3462 2330 1576 7946 196
+Female 23865 11992 17706 1746 1142 935 3015 93
+APPARENT AGE
+ 1 - 17 1044 489 1549 55 47 28 181 3
+18 - 40 42314 26027 62215 3369 2255 1657 7053 199
+41 - 60 20414 9076 13635 1518 1004 659 3236 74
+61 - 80 4105 1402 1245 262 163 151 469 11
+81+ 387 86 41 6 3 16 22 2
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 59157 29776 64531 4380 2908 2160 9601 262
+Municipal Code Violation 613 312 984 87 36 22 114 3
+Suspect Flight 710 318 862 32 38 15 67 3
+Consensual 422 232 530 17 16 12 48
+Call For Service 235 167 618 12 13 1 48
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 84 84 153 9 2 5 14
+Penal Code Violation 167 316 414 3 7 4 22
+Equipment/Registration Violation 8781 6803 12696 791 543 346 1265 27
+Health & Safety Code Violation 304 190 362 17 11 13 60 1
+Other 324 327 622 14 11 8 49 1
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 4483 8175 17668 133 209 73 851 16
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 2227 5437 9707 46 97 31 392 11
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1003 2763 4200 21 42 18 189 6
+GRANTED?
+Yes 985 2741 4161 21 42 18 187 6
+WAS SEARCH CONDUCTED?
+Yes 3165 6986 14900 82 135 45 560 13
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 312 999 683 6 5 2 27
+Odor of Contraband 80 197 268 2 2 1 15
+Incident to Pat Down/Frisk 443 1408 2414 9 25 5 88 5
+Incident to Arrest 989 1471 3662 15 36 10 202 5
+Impound Inventory 1049 2171 6933 42 50 21 184 2
+Visible Contraband 43 87 120 1 2 1 6
+Consent 722 2139 3037 17 34 8 131 4
+Other 24 76 85 1 14
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 2222 4883 10856 64 100 32 359 9
+Belongings 203 247 384 4 7 4 26 1
+Person 2024 4791 8381 37 86 27 371 11
+Container 24 35 43 1 1
+Residence 9 6 17
+Office 3 2 3
+Other 12 12 27 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 59 131 182 2 5 2 13
+Money 52 121 132 1 5 9
+Drugs 254 404 463 7 4 1 33 3
+Alcohol 44 115 232 3 2 3
+Other Contraband 85 91 101 1 2 1 9 1
+Other Evidence of Crime 46 116 191 1 1 2
+Other Property 145 379 522 4 6 2 22 1
+Nothing 3208 6561 14237 124 141 66 621 17
+ACTION TAKEN:
+Warning 6428 5771 9201 312 300 180 899 25
+Citation 61344 29782 66501 4905 3169 2322 9886 265
+Arrest 1596 1568 3667 49 66 30 229 9
+Field Interview Completed 679 1719 2194 16 29 15 117 6
+None 209 285 485 11 14 9 41 1
+LOS ANGELES POLICE DEPARTMENT
+CITYWIDEFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black Hispanic Chinese Filipino Japanese Amer. Ind. Other
+NUMBER OF PEDESTRIANS
+10975 21953 25821 337 364 187 1103 124
+GENDER
+Male 8413 17842 22080 222 253 124 842 91
+Female 2560 4110 3741 115 111 63 261 33
+APPARENT AGE
+ 1 - 17 943 2795 6588 54 91 16 211 8
+18 - 40 6523 12164 15749 192 177 122 629 75
+41 - 60 3203 6688 3203 68 74 37 228 38
+61 - 80 289 300 276 21 21 11 32 3
+81+ 16 6 5 2 1 1 3
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 3919 7652 8725 203 136 88 449 39
+Municipal Code Violation 2208 4090 6771 57 77 21 220 31
+Suspect Flight 100 342 417 1 3 4 1
+Consensual 876 2300 2229 14 17 4 48 8
+Call For Service 258 721 790 1 13 4 33 6
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 160 550 555 1 8 2
+Penal Code Violation 2648 4810 4953 57 108 64 269 31
+Equipment/Registration Violation 80 285 252 1 3 2 2
+Health & Safety Code Violation 557 1473 1445 8 12 4 35 7
+Other 808 962 1198 5 7 3 75 5
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 2695 10405 12336 38 79 32 274 37
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1321 5018 5746 16 38 17 109 13
+GRANTED?
+Yes 1308 4979 5714 16 38 16 107 13
+WAS SEARCH CONDUCTED?
+Yes 2825 10481 11807 39 81 31 287 38
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 455 2232 1271 2 4 25 7
+Odor of Contraband 37 143 218 2 2
+Incident to Pat Down/Frisk 454 2492 3068 9 26 7 61 7
+Incident to Arrest 1069 2943 3767 15 24 9 120 15
+Impound Inventory 9 19 27 2 1
+Visible Contraband 81 276 383 6 2 10 1
+Consent 1035 3889 4352 14 31 13 88 10
+Other 30 65 98 6
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 72 173 261 1 4 9
+Belongings 446 766 748 8 10 3 25 5
+Person 2639 10217 11562 35 72 31 260 37
+Container 57 134 91 1 11
+Residence 46 68 115 1 2
+Office 8 3 10 1 8
+Other 32 46 70 3 5 4 8
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 72 236 241 1 5 1
+Money 44 244 203 2 1 1 5
+Drugs 280 978 830 3 3 2 19 3
+Alcohol 76 211 303 1 14 2
+Other Contraband 201 469 442 5 7 2 18
+Other Evidence of Crime 78 189 412 1 4 1 18
+Other Property 154 541 573 4 2 4 20
+Nothing 2252 8242 9484 28 69 24 212 32
+ACTION TAKEN:
+Warning 1443 4374 4127 43 35 15 108 25
+Citation 7205 10866 14637 269 285 155 788 76
+Arrest 1701 3647 3884 19 32 6 163 22
+Field Interview Completed 2166 5975 6650 21 32 14 178 21
+None 246 868 928 5 7 2 25 5
+LOS ANGELES POLICE DEPARTMENT
+OCBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black Hispanic Chinese Filipino Japanese Amer. Ind. Other
+NUMBER OF DRIVERS
+5850 4469 24231 1427 906 546 2093 33
+GENDER
+Male 4172 3250 19383 1011 645 375 1613 21
+Female 1678 1218 4847 416 261 171 480 12
+APPARENT AGE
+ 1 - 17 51 40 416 15 9 20
+18 - 40 3689 2893 18831 871 569 335 1339 24
+41 - 60 1780 1352 4489 466 277 170 629 8
+61 - 80 303 174 482 72 49 37 100 1
+81+ 27 10 13 3 2 4 5
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 5009 3606 19999 1228 733 490 1847 25
+Municipal Code Violation 31 40 172 15 6 5 8
+Suspect Flight 18 35 186 11 5 2 6
+Consensual 16 31 116 3 3 2 2
+Call For Service 35 30 248 5 5 1 8
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 10 2 36 2 2
+Penal Code Violation 15 40 100 4 1 5
+Equipment/Registration Violation 786 760 3841 188 161 50 234 8
+Health & Safety Code Violation 22 20 81 4 1 4 7
+Other 14 27 123 2 3 3 8 1
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 460 1172 6213 44 58 18 208 4
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 232 793 2932 16 29 11 92 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 106 389 1315 7 14 5 26 2
+GRANTED?
+Yes 102 388 1308 7 14 5 25 2
+WAS SEARCH CONDUCTED?
+Yes 344 1044 5479 28 44 14 142 3
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 40 159 223 1 1 1 7
+Odor of Contraband 5 14 69 1 1
+Incident to Pat Down/Frisk 54 166 789 2 7 3 24 1
+Incident to Arrest 79 226 1097 5 11 3 64
+Impound Inventory 123 318 2867 16 20 5 38 1
+Visible Contraband 5 17 35 1 2 1 1
+Consent 74 303 946 5 10 2 19 2
+Other 2 3 29 1 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 248 727 4119 24 36 10 77 3
+Belongings 11 26 82 1 4
+Person 222 708 2694 11 28 10 104 2
+Container 2 9 5
+Residence 2
+Office 1 1
+Other 2 1 7
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 3 11 46 1 4 1 2
+Money 2 9 36 2 1
+Drugs 30 60 114 3 2 7
+Alcohol 5 13 64 2
+Other Contraband 18 17 21 2 1 1
+Other Evidence of Crime 1 19 57 1
+Other Property 17 31 123 1 4 1 3
+Nothing 323 946 5271 34 35 14 146 3
+ACTION TAKEN:
+Warning 467 735 2776 96 70 29 196 2
+Citation 5278 3500 20472 1334 825 512 1826 30
+Arrest 118 191 1001 15 16 5 64
+Field Interview Completed 52 155 465 3 12 18 1
+None 12 35 115 5 3 9 1
+LOS ANGELES POLICE DEPARTMENT
+OCBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black Hispanic Chinese Filipino Japanese Amer. Ind. Other
+NUMBER OF PASSENGERS
+138 269 1248 12 20 4 32 2
+GENDER
+Male 86 188 1001 7 16 3 25 1
+Female 52 81 247 5 4 1 7 1
+APPARENT AGE
+ 1 - 17 6 27 234 1 4
+18 - 40 108 198 932 10 16 3 25
+41 - 60 22 40 74 1 1 6 2
+61 - 80 2 4 8 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 85 188 960 11 16 3 26 2
+Municipal Code Violation 2 4 35 1
+Suspect Flight 8 15 1
+Consensual 1 4 14
+Call For Service 2 7 14 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 2 2 31 2
+Penal Code Violation 10 22 56 1 3 1
+Equipment/Registration Violation 27 37 118 3
+Health & Safety Code Violation 4 8 25 1 1
+Other 7 4 36 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 69 180 749 4 10 1 14 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 29 82 350 1 6 9 1
+GRANTED?
+Yes 29 81 347 1 6 9 1
+WAS SEARCH CONDUCTED?
+Yes 74 182 795 4 10 1 14 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 11 45 88 1 1 1
+Odor of Contraband 8 11
+Incident to Pat Down/Frisk 25 46 278 1 3 3
+Incident to Arrest 21 39 125 1 4 2
+Impound Inventory 10 17 80 1 1
+Visible Contraband 1 5 18 1
+Consent 25 54 266 1 3 4 1
+Other 11 4
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 22 48 205 1 5
+Belongings 7 9 23 1
+Person 63 161 693 3 10 1 13 1
+Container 1
+Residence 1 1
+Office 1
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 7 29 1
+Money 5
+Drugs 10 23 44 1 1
+Alcohol 8 31
+Other Contraband 3 7 18 2
+Other Evidence of Crime 3 5 20
+Other Property 1 6 18 1
+Nothing 62 141 662 4 6 1 13 1
+ACTION TAKEN:
+Warning 14 45 149 2 4 3 2
+Citation 57 70 534 9 8 3 16
+Arrest 17 37 109 2 1 2
+Field Interview Completed 40 86 348 1 4 8
+None 16 50 201 4
+LOS ANGELES POLICE DEPARTMENT
+OCBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black Hispanic Chinese Filipino Japanese Amer. Ind. Other
+NUMBER OF PEDESTRIANS
+1738 5863 9380 128 126 55 288 39
+GENDER
+Male 1239 4977 8098 85 95 33 224 26
+Female 499 886 1282 43 31 22 64 13
+APPARENT AGE
+ 1 - 17 34 178 1412 3 21 3 29 2
+18 - 40 994 2994 6250 62 57 32 162 22
+41 - 60 634 2554 1563 45 39 16 84 12
+61 - 80 72 134 151 16 9 4 12 3
+81+ 4 3 4 2 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 1174 3250 5141 112 81 44 194 15
+Municipal Code Violation 172 1240 1716 8 23 4 34 11
+Suspect Flight 4 32 133 1
+Consensual 101 549 757 1 6 10 5
+Call For Service 51 124 236 7 2 8 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 10 39 143 1
+Penal Code Violation 137 294 797 3 3 4 19 3
+Equipment/Registration Violation 12 57 80 1
+Health & Safety Code Violation 88 372 445 3 6 1 9 3
+Other 30 87 269 1 17 2
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 371 2407 4098 12 31 7 56 14
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 157 1067 1864 5 8 3 29 5
+GRANTED?
+Yes 157 1057 1856 5 8 3 29 5
+WAS SEARCH CONDUCTED?
+Yes 409 2452 3915 14 30 7 63 13
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 65 668 540 1 3 9 5
+Odor of Contraband 9 25 1 1
+Incident to Pat Down/Frisk 72 388 1184 2 17 1 16 1
+Incident to Arrest 163 818 1129 5 10 4 20 3
+Impound Inventory 2 3 11 1
+Visible Contraband 13 47 81 1 2
+Consent 115 717 1201 5 6 1 24 5
+Other 5 11 38
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 7 17 52 2
+Belongings 57 139 129 2 3 1 5 2
+Person 382 2410 3868 12 29 7 56 12
+Container 5 23 17 1 3
+Residence 4 14 38
+Office 1 1 1
+Other 7 11 17 3
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 9 46 69 2
+Money 2 90 72 1 1 2
+Drugs 43 331 252 2 1 9 2
+Alcohol 9 25 72 1 4 2
+Other Contraband 32 126 159 2 1 6
+Other Evidence of Crime 10 61 101 1 1
+Other Property 17 89 159 2
+Nothing 319 1860 3213 12 28 5 44 9
+ACTION TAKEN:
+Warning 190 924 1250 10 16 3 18 11
+Citation 1220 3347 5731 112 95 47 218 19
+Arrest 184 1035 1151 5 9 2 29 8
+Field Interview Completed 216 950 1961 5 9 33 2
+None 44 205 294 2 3 4
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Central Traffic AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+716 1297 2372 87 52 33 107 3
+GENDER
+Male 544 1066 1892 55 38 19 76 3
+Female 172 231 480 32 14 14 31
+APPARENT AGE
+ 1 - 17 7 28 139 1 1 2
+18 - 40 375 500 1532 39 23 19 58 2
+41 - 60 279 712 610 33 20 11 37 1
+61 - 80 53 56 88 14 8 2 10
+81+ 2 1 3 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 679 1243 2289 87 52 30 101 3
+Municipal Code Violation 2 11 24 1
+Suspect Flight 3 13 23
+Consensual 2 6 13
+Call For Service 2 2 12
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1 2
+Penal Code Violation 34 50 38 2 6
+Equipment/Registration Violation 1 3
+Health & Safety Code Violation 1 5 9 1
+Other 1 1 4
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 7 14 50
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1 1
+GRANTED?
+Yes 1 1
+WAS SEARCH CONDUCTED?
+Yes 4 12 42
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 10 1
+Odor of Contraband
+Incident to Pat Down/Frisk 1 3 11
+Incident to Arrest 3 5 15
+Impound Inventory 2 1 5
+Visible Contraband
+Consent 1 2
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 2 2 6
+Belongings 1
+Person 4 10 37
+Container
+Residence 1
+Office
+Other 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 2
+Money
+Drugs
+Alcohol
+Other Contraband 1
+Other Evidence of Crime
+Other Property 1 5
+Nothing 6 12 38 1
+ACTION TAKEN:
+Warning 20 29 55 3 2 1 1
+Citation 697 1279 2303 84 49 32 105 3
+Arrest 7 17 32 1
+Field Interview Completed 2 23
+None 2 4 1
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Central Traffic AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+20 26 248 3 4 3 11
+GENDER
+Male 13 16 131 2 2 2 9
+Female 7 10 117 1 2 1 2
+APPARENT AGE
+ 1 - 17 1 2 40
+18 - 40 14 18 180 2 4 2 7
+41 - 60 5 5 23 1 1 3
+61 - 80 1 5 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 19 23 244 3 4 3 11
+Municipal Code Violation 1 6
+Suspect Flight 2 6
+Consensual 2 2
+Call For Service 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation 1
+Equipment/Registration Violation 1 3 2
+Health & Safety Code Violation
+Other 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 2 4 20
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 2 4
+GRANTED?
+Yes 1 4
+WAS SEARCH CONDUCTED?
+Yes 5 6 57 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 1 5
+Odor of Contraband 1
+Incident to Pat Down/Frisk 1 7
+Incident to Arrest 2 1 8
+Impound Inventory 3 5 32 1
+Visible Contraband 1
+Consent 3
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 4 7 44 1
+Belongings 1
+Person 2 3 17
+Container
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 2
+Money 1
+Drugs 2
+Alcohol 4
+Other Contraband 1 1
+Other Evidence of Crime 1
+Other Property 1
+Nothing 4 5 52 1
+ACTION TAKEN:
+Warning 1 2 8
+Citation 17 22 225 3 4 3 11
+Arrest 2 3 12
+Field Interview Completed 1 1 5
+None 1 2 8
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Central Traffic AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+3760 2287 14442 1013 577 404 1348 16
+GENDER
+Male 2602 1523 11172 717 389 273 1019 11
+Female 1158 764 3270 296 188 131 329 5
+APPARENT AGE
+ 1 - 17 31 20 168 10 3 11
+18 - 40 2260 1320 10718 588 318 237 830 13
+41 - 60 1222 805 3180 359 215 135 434 3
+61 - 80 230 134 366 55 39 30 70
+81+ 17 8 10 1 2 2 3
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 3295 1930 12159 879 475 366 1202 13
+Municipal Code Violation 22 21 108 13 5 5 6
+Suspect Flight 18 26 153 10 4 2 5
+Consensual 13 21 83 3 2 1 2
+Call For Service 26 16 183 3 5 1 8
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 4 1 6 1 1
+Penal Code Violation 2 1 6 1 1 1
+Equipment/Registration Violation 443 339 2139 127 95 36 141 3
+Health & Safety Code Violation 12 5 39 2 1 3
+Other 2 5 8 1
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 123 266 2742 21 9 6 86 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 22 59 548 4 2 2 24
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 4 9 84 1 1 3
+GRANTED?
+Yes 3 8 84 1 1 3
+WAS SEARCH CONDUCTED?
+Yes 90 243 2609 14 7 4 64 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 2 5 44 1
+Odor of Contraband 1 7 42 1
+Incident to Pat Down/Frisk 3 9 66 1 1
+Incident to Arrest 24 56 572 3 2 42
+Impound Inventory 62 185 1919 11 6 2 24 1
+Visible Contraband 2
+Consent 5 21 1
+Other 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 73 199 2151 11 6 3 26 1
+Belongings 1 6 39 3
+Person 28 70 655 3 2 2 43
+Container 1
+Residence 1
+Office 1
+Other 1 3
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2 9 1
+Money 1 12 1 1
+Drugs 6 13
+Alcohol 3 23
+Other Contraband 2 3 1
+Other Evidence of Crime 2
+Other Property 3 4 21
+Nothing 95 231 2590 18 9 4 68 1
+ACTION TAKEN:
+Warning 182 277 1331 41 19 16 127 2
+Citation 3570 1979 12620 976 562 388 1180 14
+Arrest 50 66 641 13 5 3 43
+Field Interview Completed 1 3 17 2
+None 3 13 2 2
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Newton AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+23 690 602 1 4
+GENDER
+Male 14 622 542 1 3
+Female 9 68 60 1
+APPARENT AGE
+ 1 - 17 77 213 1
+18 - 40 13 421 351 1 3
+41 - 60 10 187 34
+61 - 80 5 4
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 12 277 170 1
+Municipal Code Violation 1 122 164
+Suspect Flight 11 6
+Consensual 3 59 40
+Call For Service 4 76 65 2
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1 7 4
+Penal Code Violation 2 86 124 2
+Equipment/Registration Violation 1 28 20
+Health & Safety Code Violation 1 50 26
+Other 17 14
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 10 511 394 1 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 5 247 136
+GRANTED?
+Yes 5 246 136
+WAS SEARCH CONDUCTED?
+Yes 12 511 388 1 2
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 1 97 43
+Odor of Contraband 3 5
+Incident to Pat Down/Frisk 4 161 138 1 2
+Incident to Arrest 5 123 125
+Impound Inventory 2 2
+Visible Contraband 6 14
+Consent 5 212 119
+Other 6 6
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 8 7
+Belongings 11 8 1
+Person 12 507 384 1 2
+Container 1
+Residence 8 6
+Office
+Other 3 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 15 13
+Money 18 9
+Drugs 50 19
+Alcohol 4 3 2
+Other Contraband 12 16
+Other Evidence of Crime 12 35
+Other Property 1 11 12
+Nothing 12 416 297 1
+ACTION TAKEN:
+Warning 2 124 72
+Citation 11 269 287 1 2
+Arrest 4 137 115
+Field Interview Completed 6 233 180 1
+None 2 21 15 1
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Newton AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+8 104 193 1 1
+GENDER
+Male 5 77 178 1 1
+Female 3 27 15
+APPARENT AGE
+ 1 - 17 12 41
+18 - 40 6 77 147 1 1
+41 - 60 2 13 5
+61 - 80 2
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 3 71 141 1
+Municipal Code Violation 1 2
+Suspect Flight 2 2
+Consensual 2
+Call For Service 1 5 4
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 2 2 7 1
+Penal Code Violation 11 17
+Equipment/Registration Violation 2 14 16
+Health & Safety Code Violation 1 1 3
+Other 2
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 3 81 144 1 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1 38 67 1
+GRANTED?
+Yes 1 38 64 1
+WAS SEARCH CONDUCTED?
+Yes 6 84 154 1 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 19 12 1
+Odor of Contraband 4 2
+Incident to Pat Down/Frisk 2 28 65 1
+Incident to Arrest 16 26
+Impound Inventory 2 5 13
+Visible Contraband 2 2
+Consent 1 30 57
+Other 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 3 17 32
+Belongings 3 4
+Person 3 76 138 1 1
+Container
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 3 5
+Money
+Drugs 1 4 8
+Alcohol 2 1
+Other Contraband 3 1
+Other Evidence of Crime 5 14
+Other Property 3 2
+Nothing 5 69 125 1 1
+ACTION TAKEN:
+Warning 2 19 28 1
+Citation 1 15 45
+Arrest 1 13 23
+Field Interview Completed 2 41 57
+None 3 26 55 1
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Newton AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+56 704 1370 15 1 5 20
+GENDER
+Male 43 566 1221 11 3 14
+Female 13 138 148 4 1 2 6
+APPARENT AGE
+ 1 - 17 1 14 62 1
+18 - 40 38 548 1174 12 1 3 12
+41 - 60 15 132 131 3 2 7
+61 - 80 2 10 3
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 42 542 1106 14 1 4 18
+Municipal Code Violation 1 2 5
+Suspect Flight 4 4
+Consensual 3 4
+Call For Service 1 10 23
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 2 1 6
+Penal Code Violation 5 23 30
+Equipment/Registration Violation 8 128 214 1 1 2
+Health & Safety Code Violation 3 3
+Other 6 11 1
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 16 367 644 1 4
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 12 328 520 3
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 6 194 271 2
+GRANTED?
+Yes 6 194 271 2
+WAS SEARCH CONDUCTED?
+Yes 14 348 593 3
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 2 55 38 1
+Odor of Contraband 2 4
+Incident to Pat Down/Frisk 4 91 197
+Incident to Arrest 5 58 89
+Impound Inventory 3 56 184
+Visible Contraband 7 4
+Consent 6 170 245 2
+Other 1 3
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 11 229 388 2
+Belongings 3 5
+Person 11 285 464 3
+Container 1
+Residence
+Office 1
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 5 4
+Money 3 2
+Drugs 1 16 18
+Alcohol 1 3
+Other Contraband 1 4 1
+Other Evidence of Crime 9 31
+Other Property 1 6 21
+Nothing 13 320 532 3
+ACTION TAKEN:
+Warning 14 163 219 2 1 3
+Citation 35 454 1052 13 1 4 17
+Arrest 6 44 66
+Field Interview Completed 6 85 82 1
+None 7 11
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Northeast AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+172 134 923 2 30 2 42 4
+GENDER
+Male 128 91 827 2 23 1 41 4
+Female 44 43 96 7 1 1
+APPARENT AGE
+ 1 - 17 20 20 353 1 19 1 23 1
+18 - 40 103 84 474 9 1 16 2
+41 - 60 48 26 91 1 2 2 1
+61 - 80 1 4 5
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 62 46 145 2 1 4 1
+Municipal Code Violation 35 36 390 1 14 18 2
+Suspect Flight 15
+Consensual 15 14 59 1
+Call For Service 29 10 74 7 6 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3 8 40 1
+Penal Code Violation 19 17 153 1 2 1 5
+Equipment/Registration Violation 4 1 10
+Health & Safety Code Violation 5 6 43 5 1
+Other 9 4 64 10 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 62 55 595 1 14 21 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 25 27 257 1 4 11 1
+GRANTED?
+Yes 26 27 256 1 4 11 1
+WAS SEARCH CONDUCTED?
+Yes 58 49 541 1 14 19 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 6 4 52
+Odor of Contraband 3 1
+Incident to Pat Down/Frisk 13 15 86 11 9
+Incident to Arrest 24 15 217 4 5
+Impound Inventory 2
+Visible Contraband 1 22 1
+Consent 19 20 225 1 4 7 1
+Other 3 4
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 2 10 1
+Belongings 10 4 29 1
+Person 51 48 533 1 14 19 1
+Container 1
+Residence 1 5
+Office
+Other 2 1 4 2
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 1 11 1
+Money 2
+Drugs 1 3 26
+Alcohol 2 2 18
+Other Contraband 4 5 45 1 1 3
+Other Evidence of Crime 1 15
+Other Property 1 1 20
+Nothing 49 39 431 1 13 16 1
+ACTION TAKEN:
+Warning 39 31 119 1 9 6 2
+Citation 66 63 422 1 15 2 21 1
+Arrest 20 20 160 1 5 8
+Field Interview Completed 66 49 363 1 5 11
+None 6 5 46 1 1
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Northeast AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+43 31 265 3 12 5
+GENDER
+Male 33 16 226 2 12 3
+Female 10 15 39 1 2
+APPARENT AGE
+ 1 - 17 3 9 71 1 4
+18 - 40 37 20 181 2 8 4
+41 - 60 3 2 13 1
+61 - 80
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 23 11 168 3 8 5
+Municipal Code Violation 2 13 1
+Suspect Flight 2 2
+Consensual 3
+Call For Service 1 2 3 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 10 1
+Penal Code Violation 7 4 19 1 3
+Equipment/Registration Violation 9 10 54
+Health & Safety Code Violation 1 3
+Other 2 9
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 26 14 189 2 8 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 9 5 96 1 5 3
+GRANTED?
+Yes 9 5 96 1 5 3
+WAS SEARCH CONDUCTED?
+Yes 23 14 184 1 8 2
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 4 1 24
+Odor of Contraband
+Incident to Pat Down/Frisk 11 5 42 3
+Incident to Arrest 7 3 37 3
+Impound Inventory 1 1 12
+Visible Contraband 1 2 8 1
+Consent 7 3 84 1 2 2
+Other 3
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 6 7 46
+Belongings 2 6
+Person 22 10 167 1 8 2
+Container
+Residence
+Office 1
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2 7 1
+Money
+Drugs 1 2 11 1
+Alcohol 1 8
+Other Contraband 6 1
+Other Evidence of Crime 1 3
+Other Property 4
+Nothing 24 10 153 1 5 2
+ACTION TAKEN:
+Warning 2 5 26 1 4
+Citation 15 7 81 2 1 2
+Arrest 1 2 29 1
+Field Interview Completed 17 12 134 4 3
+None 5 2 30
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Northeast AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+1081 289 2353 97 167 26 199 5
+GENDER
+Male 827 227 1947 66 133 20 164 4
+Female 254 62 406 31 34 6 35 1
+APPARENT AGE
+ 1 - 17 14 3 90 5 6
+18 - 40 764 222 1932 75 130 18 165 5
+41 - 60 261 60 302 19 28 5 21
+61 - 80 39 3 28 3 4 2 7
+81+ 3 1 1 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 880 168 1707 76 120 22 165 2
+Municipal Code Violation 4 1 17
+Suspect Flight 2 2
+Consensual 2 2 1
+Call For Service 4 15 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 2 8
+Penal Code Violation 5 4 20 2 1
+Equipment/Registration Violation 192 114 576 20 45 4 32 3
+Health & Safety Code Violation 2 1 9
+Other 5 3 38 1 2
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 119 85 752 3 26 24 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 70 64 495 2 13 10
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 36 20 251 1 5 1
+GRANTED?
+Yes 34 20 250 1 5 1
+WAS SEARCH CONDUCTED?
+Yes 86 72 586 2 17 10
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 11 5 35 1
+Odor of Contraband 3 1 9
+Incident to Pat Down/Frisk 16 12 79 1 3 4
+Incident to Arrest 15 22 151 1 6 3
+Impound Inventory 28 20 198 8 3
+Visible Contraband 1 2 15 1
+Consent 20 12 207 1 3 1
+Other 6 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 53 48 414 2 15 6
+Belongings 4 6
+Person 63 45 416 1 12 8
+Container 1 1
+Residence
+Office
+Other 1 2
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 2 6 1
+Money 1 1 1
+Drugs 3 6 22 1
+Alcohol 3 1 17 1
+Other Contraband 2 8
+Other Evidence of Crime 1 6
+Other Property 4 4 16 3
+Nothing 90 64 561 2 13 1 10
+ACTION TAKEN:
+Warning 137 47 393 15 26 3 15
+Citation 910 224 1834 82 136 23 177 4
+Arrest 21 11 93 4 1
+Field Interview Completed 29 10 157 1 9 7
+None 6 4 26 1 3 1
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Hollenbeck AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+21 26 1103 5 2 1 3
+GENDER
+Male 16 22 980 2 1 1 2
+Female 5 4 123 3 1 1
+APPARENT AGE
+ 1 - 17 5 280 2 1 1
+18 - 40 16 11 665 2 2
+41 - 60 4 10 146 1 1 1
+61 - 80 1 12
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 13 7 324 5 1 1 3
+Municipal Code Violation 6 338 1
+Suspect Flight 44
+Consensual 2 8 138
+Call For Service 9
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 34
+Penal Code Violation 4 4 132
+Equipment/Registration Violation 1 7
+Health & Safety Code Violation 1 59
+Other 1 79
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 5 22 689 1 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 3 12 396 1
+GRANTED?
+Yes 3 11 394 1
+WAS SEARCH CONDUCTED?
+Yes 5 19 675 1 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 4 34
+Odor of Contraband 7
+Incident to Pat Down/Frisk 2 12 435
+Incident to Arrest 3 2 134 1
+Impound Inventory
+Visible Contraband
+Consent 2 87
+Other 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 1 5
+Belongings 20
+Person 5 21 670 1 1
+Container 6
+Residence 10
+Office 1
+Other 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 13
+Money 2
+Drugs 2 1 31
+Alcohol 8
+Other Contraband 17
+Other Evidence of Crime 1 15
+Other Property 13
+Nothing 4 20 594 1 1
+ACTION TAKEN:
+Warning 4 10 264
+Citation 10 6 480 5 2 1 3
+Arrest 2 3 226
+Field Interview Completed 4 10 404
+None 2 1 40
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Hollenbeck AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+6 7 211 1
+GENDER
+Male 5 5 179 1
+Female 1 2 32
+APPARENT AGE
+ 1 - 17 1 1 33
+18 - 40 5 5 165 1
+41 - 60 1 13
+61 - 80
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 5 6 166
+Municipal Code Violation 7
+Suspect Flight 4 1
+Consensual 3
+Call For Service 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3
+Penal Code Violation 10
+Equipment/Registration Violation 1 1 8
+Health & Safety Code Violation 2
+Other 13
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 2 6 151 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 4 62
+GRANTED?
+Yes 4 62
+WAS SEARCH CONDUCTED?
+Yes 2 6 155 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 1 18
+Odor of Contraband 3
+Incident to Pat Down/Frisk 1 4 90 1
+Incident to Arrest 1 1 19
+Impound Inventory 7
+Visible Contraband 4
+Consent 22
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 1 28 1
+Belongings 5
+Person 2 5 141 1
+Container
+Residence 1
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 4
+Money 2
+Drugs 1 4
+Alcohol 1 5
+Other Contraband 3
+Other Evidence of Crime 1
+Other Property 6
+Nothing 3 4 136 1
+ACTION TAKEN:
+Warning 43
+Citation 3 4 70
+Arrest 1 1 16
+Field Interview Completed 1 3 74 1
+None 2 36
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Hollenbeck AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+117 94 2302 69 21 14 42 2
+GENDER
+Male 77 62 1809 46 14 11 32 1
+Female 40 32 493 23 7 3 10 1
+APPARENT AGE
+ 1 - 17 2 34 1 1
+18 - 40 75 67 1877 48 17 7 27 2
+41 - 60 37 24 347 15 3 5 15
+61 - 80 3 1 44 5 2
+81+ 2
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 97 74 1885 58 15 13 38 1
+Municipal Code Violation 1 16 1
+Suspect Flight 1 24 1 1
+Consensual 15
+Call For Service 13
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3
+Penal Code Violation 11
+Equipment/Registration Violation 20 19 378 11 5 5 1
+Health & Safety Code Violation 11 1
+Other 1 1 27 1 1 1
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 12 20 583 5 2 1 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 6 14 355 1 1 3
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 9 187 1 1 2
+GRANTED?
+Yes 9 185 1 1 2
+WAS SEARCH CONDUCTED?
+Yes 8 18 447 1 3 1 3
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 1 1 34
+Odor of Contraband 9
+Incident to Pat Down/Frisk 3 6 187 3
+Incident to Arrest 1 2 43
+Impound Inventory 3 4 139 1 1
+Visible Contraband 2
+Consent 3 62 1 1
+Other 4
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 6 13 330 1 3 1 3
+Belongings 1 12
+Person 5 11 296 1 1 2
+Container
+Residence
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 16 1
+Money 11
+Drugs 3 12
+Alcohol 9
+Other Contraband 3
+Other Evidence of Crime 4
+Other Property 1 13 1
+Nothing 8 16 426 1 2 1 2
+ACTION TAKEN:
+Warning 20 17 308 9 4 1 3
+Citation 96 75 1929 61 16 12 39 2
+Arrest 1 2 54 1 1
+Field Interview Completed 1 4 79 1 1 1
+None 1 2 23 1 1
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Rampart AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+435 913 2491 11 24 5 51 16
+GENDER
+Male 263 767 2217 8 20 4 38 8
+Female 172 146 274 3 4 1 13 8
+APPARENT AGE
+ 1 - 17 3 9 261 1
+18 - 40 271 516 1871 10 15 5 35 9
+41 - 60 155 372 338 1 8 15 5
+61 - 80 6 16 21 1 2
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 182 380 1158 4 13 1 22 5
+Municipal Code Violation 70 222 531 3 5 3 6 3
+Suspect Flight 1 2 22 1
+Consensual 55 121 185 4 7 3
+Call For Service 4 9 57
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3 11 56
+Penal Code Violation 61 65 277 1 1 6 2
+Equipment/Registration Violation 5 10 31 1
+Health & Safety Code Violation 56 111 187 2 1 6 2
+Other 10 21 75 1 4 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 190 519 1508 5 11 4 23 8
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 85 202 606 2 4 3 12 3
+GRANTED?
+Yes 84 201 604 2 4 3 12 3
+WAS SEARCH CONDUCTED?
+Yes 225 553 1470 6 10 4 31 9
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 45 159 164 2 5 4
+Odor of Contraband 2 9 1
+Incident to Pat Down/Frisk 39 103 446 1 4 1 4 1
+Incident to Arrest 89 208 450 3 4 2 14 2
+Impound Inventory 2
+Visible Contraband 9 14 30 1
+Consent 67 142 477 2 2 1 12 3
+Other 1 1 24
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 1 3 15
+Belongings 35 40 49 1 1 5 1
+Person 208 539 1449 5 10 4 24 8
+Container 5 6 8 3
+Residence 1 1 3
+Office
+Other 2 1 8 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 6 15 1
+Money 1 9 34 1 1
+Drugs 30 62 97 1 8 1
+Alcohol 7 9 33 1 2 2
+Other Contraband 22 45 52 1 2
+Other Evidence of Crime 1 6 23 1 1
+Other Property 6 28 90 1
+Nothing 168 420 1186 4 9 3 18 6
+ACTION TAKEN:
+Warning 75 164 429 3 4 2 2 2
+Citation 201 383 1252 6 15 1 24 8
+Arrest 90 211 396 2 2 2 16 6
+Field Interview Completed 83 182 577 3 14 1
+None 20 47 83 1 2
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Rampart AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+52 50 246 3 4 10 2
+GENDER
+Male 25 35 207 2 7 1
+Female 27 15 39 3 2 3 1
+APPARENT AGE
+ 1 - 17 1 1 40
+18 - 40 39 40 186 3 4 8
+41 - 60 10 9 17 2 2
+61 - 80 2 3
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 29 36 174 3 4 5 2
+Municipal Code Violation 1 7
+Suspect Flight 2
+Consensual 1 3
+Call For Service 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 11
+Penal Code Violation 2 5 7 1
+Equipment/Registration Violation 13 7 31 3
+Health & Safety Code Violation 2 3 13 1
+Other 5 2 8
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 32 34 185 1 2 6 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 16 14 83 1 2 1
+GRANTED?
+Yes 16 14 83 1 2 1
+WAS SEARCH CONDUCTED?
+Yes 33 34 184 1 2 7 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 7 9 17 1
+Odor of Contraband 4 5
+Incident to Pat Down/Frisk 10 7 71 2
+Incident to Arrest 10 7 28 1 1 2
+Impound Inventory 3 4 10 1
+Visible Contraband 3
+Consent 15 11 70 1 2 1
+Other 6 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 8 9 43 1
+Belongings 3 3 8 1
+Person 31 31 175 1 2 6 1
+Container 1
+Residence 1
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 1 11
+Money 2
+Drugs 7 8 15 1
+Alcohol 4 8
+Other Contraband 3 1 6 1
+Other Evidence of Crime 1 2
+Other Property 3 4 1
+Nothing 23 22 143 1 1 5 1
+ACTION TAKEN:
+Warning 8 9 34 3 2
+Citation 17 15 83 2 3 2
+Arrest 10 8 24 1 2
+Field Interview Completed 15 11 55 1 1
+None 5 12 57 3
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Rampart AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+501 514 2356 113 111 51 333 7
+GENDER
+Male 385 415 2060 89 90 35 267 2
+Female 116 98 296 24 21 16 66 5
+APPARENT AGE
+ 1 - 17 3 1 33 1 1
+18 - 40 342 363 1992 73 83 37 227 3
+41 - 60 139 139 309 32 26 14 89 3
+61 - 80 14 10 20 6 2 15 1
+81+ 3 1 2 1 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 413 406 1909 92 98 45 292 7
+Municipal Code Violation 1 7 15 1
+Suspect Flight 1 2 1
+Consensual 2 1 8 1
+Call For Service 2 10 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1 8 1
+Penal Code Violation 3 5 30 1 3
+Equipment/Registration Violation 78 94 385 20 12 4 36
+Health & Safety Code Violation 7 7 11 1 2 3
+Other 5 5 24 1 1 1 3
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 156 206 1013 10 17 7 71 2
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 106 165 712 7 12 7 44 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 52 75 330 6 5 2 16 2
+GRANTED?
+Yes 51 74 326 6 5 2 15 2
+WAS SEARCH CONDUCTED?
+Yes 125 177 857 9 15 6 52 2
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 21 40 41 1 2
+Odor of Contraband 1 3 5 1
+Incident to Pat Down/Frisk 26 38 236 1 2 3 16 1
+Incident to Arrest 28 51 192 1 5 1 15
+Impound Inventory 19 29 293 4 5 9
+Visible Contraband 4 5 10 1 1
+Consent 45 57 266 4 4 1 14 2
+Other 2 2 7 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 87 112 573 8 11 3 35 2
+Belongings 5 9 15 1 1
+Person 102 152 623 5 11 6 40 2
+Container 2 4 2
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2 1 8 1 2 1
+Money 1 1 7
+Drugs 22 23 35 2 2 6
+Alcohol 2 5 9 1
+Other Contraband 12 5 5 2 1 1
+Other Evidence of Crime 4 11 1
+Other Property 6 16 40 1 3
+Nothing 93 133 772 7 9 5 47 2
+ACTION TAKEN:
+Warning 68 82 319 18 17 2 33
+Citation 392 387 1909 94 85 46 284 7
+Arrest 35 36 100 1 7 2 15
+Field Interview Completed 11 20 83 1 2 4 1
+None 1 8 25 1 1 2
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Central AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+360 2531 1422 22 17 14 80 16
+GENDER
+Male 264 2141 1178 17 12 8 63 11
+Female 96 390 244 5 5 6 17 5
+APPARENT AGE
+ 1 - 17 4 14 61 2 1
+18 - 40 205 1262 1015 10 9 7 47 9
+41 - 60 138 1200 324 9 8 5 29 5
+61 - 80 11 53 21 2 2 2 1
+81+ 2 2 1 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 223 1189 897 16 12 11 64 6
+Municipal Code Violation 63 782 202 4 3 10 6
+Suspect Flight 5 7
+Consensual 21 286 167 1 2 2
+Call For Service 12 24 17 2
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3 9 7
+Penal Code Violation 17 51 46 1 1 1
+Equipment/Registration Violation 2 13 9
+Health & Safety Code Violation 20 183 85 1 1 1 1
+Other 9 40 22 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 88 1077 452 4 4 3 9 4
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 31 455 207 5 1
+GRANTED?
+Yes 31 449 206 5 1
+WAS SEARCH CONDUCTED?
+Yes 96 1142 465 5 4 3 10 3
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 12 339 109 1 3 1
+Odor of Contraband 3 1
+Incident to Pat Down/Frisk 13 91 56 1 1 1
+Incident to Arrest 37 442 150 2 1 2 1 1
+Impound Inventory 1
+Visible Contraband 4 25 14 1
+Consent 19 266 137 1 5 1
+Other 4 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 4 8 1
+Belongings 12 79 22 1 1 1
+Person 93 1119 460 4 3 3 10 3
+Container 14 1 1
+Residence 1 3 1
+Office 1 1
+Other 2 5 2
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 6 21 11
+Money 1 58 21 1 1
+Drugs 9 193 64 1 1 1 1
+Alcohol 10 3
+Other Contraband 6 59 16 1
+Other Evidence of Crime 7 42 9
+Other Property 8 48 18 1
+Nothing 72 814 365 5 4 2 8 2
+ACTION TAKEN:
+Warning 45 451 152 3 1 9 7
+Citation 235 1300 927 16 13 11 63 7
+Arrest 61 615 175 2 2 4 2
+Field Interview Completed 54 416 223 3 1 6 1
+None 12 104 54 1 1
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Central AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black Hispanic Chinese Filipino Japanese Amer. Ind. Other
+NUMBER OF PASSENGERS
+7 30 39 2 1 4
+GENDER
+Male 3 19 36 2 1 4
+Female 4 11 3
+APPARENT AGE
+ 1 - 17 1
+18 - 40 6 22 36 2 1 4
+41 - 60 1 7 2
+61 - 80 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 5 21 26 2 4
+Municipal Code Violation 1
+Suspect Flight
+Consensual 1 1
+Call For Service
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation 1 2 1
+Equipment/Registration Violation 2 5
+Health & Safety Code Violation 4 2 1
+Other 1 4 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 2 24 20 1 4
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1 8 11 3
+GRANTED?
+Yes 1 8 11 3
+WAS SEARCH CONDUCTED?
+Yes 3 24 20 1 3
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 10 6 1
+Odor of Contraband
+Incident to Pat Down/Frisk 1 1 3
+Incident to Arrest 1 10
+Impound Inventory 2 1
+Visible Contraband 1
+Consent 1 1 9
+Other 3
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 6 4 3
+Belongings 2 2
+Person 2 22 19 1 3
+Container
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons
+Money
+Drugs 1 7 1
+Alcohol
+Other Contraband 2 1
+Other Evidence of Crime
+Other Property 1 1
+Nothing 1 18 17 1 4
+ACTION TAKEN:
+Warning 1 4 4
+Citation 3 7 19 2 1
+Arrest 2 6 1 1
+Field Interview Completed 2 12 8 3
+None 1 8
+LOS ANGELES POLICE DEPARTMENT
+OCB -   Central AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black Hispanic Chinese Filipino Japanese Amer. Ind. Other
+NUMBER OF DRIVERS
+318 448 1046 111 28 43 131 3
+GENDER
+Male 225 334 831 73 18 32 103 3
+Female 93 114 215 38 10 11 28
+APPARENT AGE
+ 1 - 17 2 15 3 1
+18 - 40 199 266 819 67 19 31 67 1
+41 - 60 100 169 192 37 5 8 56 2
+61 - 80 15 13 20 3 4 3 7
+81+ 2 1 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 265 359 899 101 23 37 112 2
+Municipal Code Violation 3 8 11 1 1 1
+Suspect Flight 1 1
+Consensual 1 4 3
+Call For Service 2 4 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1 3 1
+Penal Code Violation 7 2
+Equipment/Registration Violation 45 60 128 8 4 5 18 1
+Health & Safety Code Violation 1 4 6 2 1
+Other 1 7 12 1 1 1
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 30 154 267 5 4 3 17
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 13 97 122 2 2 1 5
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 6 39 63 2 1 1
+GRANTED?
+Yes 6 39 63 2 1 1
+WAS SEARCH CONDUCTED?
+Yes 20 121 205 2 2 3 6
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 2 31 10 1 2
+Odor of Contraband
+Incident to Pat Down/Frisk 2 9 21 1
+Incident to Arrest 6 32 33 3
+Impound Inventory 8 22 90 3 1
+Visible Contraband 3 1 1 1
+Consent 2 22 45 1 1
+Other 6
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 16 77 147 2 1 3 4
+Belongings 1 7 5
+Person 11 86 107 2 2 1 5
+Container 3
+Residence 1
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2 1
+Money 4 3
+Drugs 4 6 4 1
+Alcohol 2 1
+Other Contraband 1 5 3
+Other Evidence of Crime 5 2
+Other Property 2 1 12 1
+Nothing 22 117 218 6 2 3 12
+ACTION TAKEN:
+Warning 42 93 105 11 4 6 14
+Citation 263 312 898 99 24 36 112 3
+Arrest 5 24 25 3
+Field Interview Completed 3 30 31 3
+None 4 11 12 1 1
+LOS ANGELES POLICE DEPARTMENT
+OSBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+89 1466 641 2 2 12 3
+GENDER
+Male 45 1109 530 2 2 7 2
+Female 44 357 111 5 1
+APPARENT AGE
+ 1 - 17 6 186 139 1
+18 - 40 71 1141 476 2 2 11 3
+41 - 60 12 129 23
+61 - 80 9 3
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 60 1024 464 1 2 8 1
+Municipal Code Violation 3 19 21
+Suspect Flight 27 21
+Consensual 2 43 15
+Call For Service 1 22 12 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1 19 9
+Penal Code Violation 7 103 39 3
+Equipment/Registration Violation 13 244 73 2
+Health & Safety Code Violation 4 30 11
+Other 3 44 30 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 51 935 436 2 7 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 17 462 192 1 1 1
+GRANTED?
+Yes 17 463 191 1 1 1
+WAS SEARCH CONDUCTED?
+Yes 49 922 417 1 7 2
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 9 151 53
+Odor of Contraband 2 30 22
+Incident to Pat Down/Frisk 13 289 132 5 1
+Incident to Arrest 17 163 83 3
+Impound Inventory 1 48 34 1
+Visible Contraband 5 20 14
+Consent 14 402 154 1 1
+Other 11 3 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 16 229 119 2 1
+Belongings 5 33 12
+Person 44 854 379 1 6 1
+Container 5 1
+Residence
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 3 30 16
+Money 18 3
+Drugs 7 45 23
+Alcohol 3 24 15
+Other Contraband 5 11 9
+Other Evidence of Crime 3 13 9
+Other Property 3 40 21 1 1
+Nothing 30 790 341 2 6 1
+ACTION TAKEN:
+Warning 15 321 92 1 1 3 2
+Citation 33 339 208 1 6 1
+Arrest 12 156 67 3
+Field Interview Completed 18 511 200 1
+None 17 333 125
+LOS ANGELES POLICE DEPARTMENT
+OSBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+3392 17173 11613 332 162 267 497 24
+GENDER
+Male 2277 11450 8954 224 109 176 353 17
+Female 1115 5723 2658 108 53 91 143 7
+APPARENT AGE
+ 1 - 17 41 296 293 1 1 4 5
+18 - 40 2054 12114 9074 214 101 165 340 16
+41 - 60 1041 3982 2063 94 53 70 138 7
+61 - 80 230 740 179 23 6 26 13 1
+81+ 26 41 4 1 2 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 3040 14292 9943 297 143 254 448 24
+Municipal Code Violation 11 78 65 1 1 1 1
+Suspect Flight 13 131 73 1 2
+Consensual 8 92 33 1 1
+Call For Service 5 78 60 1 1 2
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 6 40 22 1 1
+Penal Code Violation 8 157 73 2
+Equipment/Registration Violation 353 2757 1584 33 17 14 46
+Health & Safety Code Violation 11 58 50 1 3
+Other 3 143 75 1 4
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 260 4142 2590 4 8 9 34 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 159 2822 1569 3 5 1 16 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 62 1443 631 1 3 2 5 2
+GRANTED?
+Yes 61 1432 628 1 3 2 5 2
+WAS SEARCH CONDUCTED?
+Yes 211 3585 2204 3 7 4 23 2
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 28 497 126 1 1 1
+Odor of Contraband 3 97 43
+Incident to Pat Down/Frisk 43 765 393 1 1 4
+Incident to Arrest 61 709 483 1 6
+Impound Inventory 73 1152 1039 1 3 2 9
+Visible Contraband 3 28 22
+Consent 47 1140 475 1 3 4 2
+Other 1 33 14 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 153 2498 1623 1 6 3 15 1
+Belongings 6 116 38 1 1 1
+Person 132 2419 1214 3 3 1 12 1
+Container 3 12 5
+Residence 3 1 2
+Office 1 1 2
+Other 5 5
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 73 35 1
+Money 2 62 15
+Drugs 19 153 76 1
+Alcohol 7 64 39 1
+Other Contraband 2 36 24
+Other Evidence of Crime 5 58 46
+Other Property 13 181 158 3 1
+Nothing 230 3548 2095 18 13 11 22 6
+ACTION TAKEN:
+Warning 297 2590 1091 17 11 6 33 1
+Citation 3035 13850 10091 314 150 258 460 23
+Arrest 67 741 445 4 3 7
+Field Interview Completed 33 686 313 1 1 2 4 1
+None 13 111 64 2 1 2
+LOS ANGELES POLICE DEPARTMENT
+OSBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+557 6211 2674 36 10 12 61 4
+GENDER
+Male 393 4931 2282 20 5 4 45 2
+Female 163 1279 392 16 5 8 16 2
+APPARENT AGE
+ 1 - 17 62 1102 931 2 3 6 1
+18 - 40 363 3614 1510 30 6 8 44 2
+41 - 60 119 1419 211 2 3 9 1
+61 - 80 13 74 22 2 1 1 2
+81+ 2
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 300 2364 941 35 6 10 45 1
+Municipal Code Violation 84 1201 840 2 10 1
+Suspect Flight 9 223 57
+Consensual 60 750 244 1
+Call For Service 10 378 124 2 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 21 281 143 3
+Penal Code Violation 52 699 200 1 1 4
+Equipment/Registration Violation 3 145 59
+Health & Safety Code Violation 21 377 107
+Other 27 301 183 1 1 2 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 200 3931 1522 1 2 2 8 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 88 1797 657 1 3 1 2 1
+GRANTED?
+Yes 88 1791 655 1 3 1 2 1
+WAS SEARCH CONDUCTED?
+Yes 199 3857 1379 1 3 1 9 4
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 42 747 216 1
+Odor of Contraband 1 67 20 1
+Incident to Pat Down/Frisk 43 1176 393 3 1
+Incident to Arrest 80 965 354 1 5 3
+Impound Inventory 11 2
+Visible Contraband 4 87 29 1
+Consent 70 1469 525 1 3 1 1 1
+Other 5 20 13
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 2 97 36
+Belongings 24 194 47 2 1 1
+Person 190 3764 1348 1 1 1 9 4
+Container 66 12
+Residence 27 21
+Office 2 3
+Other 1 10 8 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 13 128 45 1
+Money 3 74 17 1
+Drugs 16 227 90
+Alcohol 5 99 33
+Other Contraband 16 121 54 1
+Other Evidence of Crime 4 52 47 2
+Other Property 8 187 85 1
+Nothing 150 3168 1116 1 4 1 6 3
+ACTION TAKEN:
+Warning 118 1726 588 5 2 6 2
+Citation 302 2194 1348 30 9 10 49
+Arrest 64 1076 269 10 2
+Field Interview Completed 101 1911 781 1 2 2
+None 22 356 98 1
+LOS ANGELES POLICE DEPARTMENT
+OSB -   South Traffic DivisionFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+193 473 336 34 4 10 36
+GENDER
+Male 132 317 258 19 3 2 29
+Female 61 156 78 15 1 8 7
+APPARENT AGE
+ 1 - 17 6 54 28 2 1
+18 - 40 140 240 217 28 3 7 30
+41 - 60 37 158 73 2 2 4
+61 - 80 10 21 18 2 1 1 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 192 463 330 34 4 10 36
+Municipal Code Violation 4
+Suspect Flight 1
+Consensual
+Call For Service 1 2
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1 1
+Penal Code Violation 2 2
+Equipment/Registration Violation 1
+Health & Safety Code Violation 2
+Other 1 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 1 13 4
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1 8 1
+GRANTED?
+Yes 1 8 1
+WAS SEARCH CONDUCTED?
+Yes 1 16 7
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 3 2
+Odor of Contraband 1
+Incident to Pat Down/Frisk 1 4 2
+Incident to Arrest 4 1
+Impound Inventory 2
+Visible Contraband 1
+Consent 1 6 1
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 3 1
+Belongings 2
+Person 1 11 6
+Container
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1
+Money 1
+Drugs 1
+Alcohol
+Other Contraband 2
+Other Evidence of Crime
+Other Property
+Nothing 4 22 8
+ACTION TAKEN:
+Warning 5 17 5 5 2
+Citation 187 453 329 29 4 10 34
+Arrest 1 3 2
+Field Interview Completed 3 1
+None 1 1
+LOS ANGELES POLICE DEPARTMENT
+OSB -   South Traffic DivisionFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+7 85 63 1 5
+GENDER
+Male 2 41 30 1 2
+Female 5 44 33 3
+APPARENT AGE
+ 1 - 17 7 7
+18 - 40 5 59 48 1 5
+41 - 60 2 15 6
+61 - 80 4 2
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 7 83 60 1 5
+Municipal Code Violation 1
+Suspect Flight
+Consensual
+Call For Service
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation 1
+Equipment/Registration Violation 1 1
+Health & Safety Code Violation 1
+Other 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 1 6 8
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1 4
+GRANTED?
+Yes 1 4
+WAS SEARCH CONDUCTED?
+Yes 1 15 12 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 2
+Odor of Contraband
+Incident to Pat Down/Frisk 1 5 4
+Incident to Arrest 2 2
+Impound Inventory 10 5 1
+Visible Contraband 1
+Consent
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 11 6 1
+Belongings 1
+Person 1 6 7
+Container
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons
+Money
+Drugs 2
+Alcohol
+Other Contraband
+Other Evidence of Crime
+Other Property 1 2
+Nothing 1 13 10 1
+ACTION TAKEN:
+Warning 1 2
+Citation 6 76 54 1 5
+Arrest 1 2
+Field Interview Completed 2 1
+None 6 5
+LOS ANGELES POLICE DEPARTMENT
+OSB -   South Traffic DivisionFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+2297 8382 6781 237 105 211 343 19
+GENDER
+Male 1506 4864 4867 156 67 137 237 13
+Female 791 3518 1913 81 38 74 105 6
+APPARENT AGE
+ 1 - 17 29 87 106 1 2 3
+18 - 40 1308 5331 5026 144 65 124 227 11
+41 - 60 749 2390 1501 74 36 62 105 7
+61 - 80 189 541 144 18 4 21 8 1
+81+ 22 33 4 2
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 2124 7572 6076 219 95 203 316 19
+Municipal Code Violation 5 28 20 1 1 1
+Suspect Flight 10 39 35 1 2
+Consensual 4 34 14 1 1
+Call For Service 2 35 32 1 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 2
+Penal Code Violation 2 2
+Equipment/Registration Violation 177 901 741 18 9 9 29
+Health & Safety Code Violation 3 19 17 1 1
+Other 6 6
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 65 772 777 1 1 3 10 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 24 236 244 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 5 47 31
+GRANTED?
+Yes 5 45 31
+WAS SEARCH CONDUCTED?
+Yes 50 695 699 1 2 6
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 1 14 7
+Odor of Contraband 17 14
+Incident to Pat Down/Frisk 3 72 53
+Incident to Arrest 19 174 165
+Impound Inventory 29 491 507 1 2 5
+Visible Contraband 1 1
+Consent 4 19 12
+Other 3 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 39 573 584 1 2 6
+Belongings 21 3
+Person 23 220 196
+Container 1
+Residence
+Office
+Other 2
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 6 1
+Money 9 3
+Drugs 3 23 5
+Alcohol 13 5
+Other Contraband 3 1
+Other Evidence of Crime 2 10 8
+Other Property 2 55 86 1
+Nothing 88 910 744 10 7 9 6 5
+ACTION TAKEN:
+Warning 78 350 225 3 3 7
+Citation 2203 7897 6407 234 102 211 339 19
+Arrest 29 225 205 1 1 5
+Field Interview Completed 5 11
+None 1 15 6
+LOS ANGELES POLICE DEPARTMENT
+OSB -   Southeast AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+30 1298 422 1 3
+GENDER
+Male 16 1098 352 1
+Female 14 199 70 1 2
+APPARENT AGE
+ 1 - 17 7 274 177
+18 - 40 20 793 223 1 3
+41 - 60 3 214 22
+61 - 80 16
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 7 521 114 1 2
+Municipal Code Violation 6 288 164 1
+Suspect Flight 2 83 10
+Consensual 3 101 26
+Call For Service 1 48 16
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 60 27 1
+Penal Code Violation 13 149 40
+Equipment/Registration Violation 62 15
+Health & Safety Code Violation 3 69 22
+Other 39 21
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 12 927 257
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 8 386 94
+GRANTED?
+Yes 8 386 94
+WAS SEARCH CONDUCTED?
+Yes 13 721 192
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 5 139 45
+Odor of Contraband 1 27 7
+Incident to Pat Down/Frisk 1 130 39
+Incident to Arrest 3 226 45
+Impound Inventory 2
+Visible Contraband 22 6
+Consent 6 295 65
+Other 3 6
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 1 38 9
+Belongings 2 51 12
+Person 11 697 186
+Container 19 3
+Residence 10 4
+Office 1 3
+Other 4 4
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2 50 8
+Money 1 29 7
+Drugs 2 48 12
+Alcohol 18 6
+Other Contraband 23 3
+Other Evidence of Crime 9 10
+Other Property 1 50 21
+Nothing 9 563 142
+ACTION TAKEN:
+Warning 17 348 106
+Citation 5 502 193 1 3
+Arrest 5 252 46 1
+Field Interview Completed 7 356 127
+None 1 79 17
+LOS ANGELES POLICE DEPARTMENT
+OSB -   Southeast AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+7 311 115 1
+GENDER
+Male 4 247 98 1
+Female 3 64 17
+APPARENT AGE
+ 1 - 17 34 25
+18 - 40 7 251 90 1
+41 - 60 26
+61 - 80
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 3 210 85
+Municipal Code Violation 4 6
+Suspect Flight 11 8
+Consensual 13 5
+Call For Service 1 5 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3
+Penal Code Violation 1 29 10
+Equipment/Registration Violation 2 60 23
+Health & Safety Code Violation 7
+Other 9 2 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 4 230 90 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1 88 32
+GRANTED?
+Yes 1 88 32
+WAS SEARCH CONDUCTED?
+Yes 2 170 67 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 1 35 6
+Odor of Contraband 12 5
+Incident to Pat Down/Frisk 1 42 14 1
+Incident to Arrest 34 12
+Impound Inventory 8 3
+Visible Contraband 1 2
+Consent 72 31
+Other 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 52 25 1
+Belongings 13 4
+Person 2 150 58 1
+Container 2 1
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 9 4
+Money 8 3
+Drugs 1 7 3
+Alcohol 2
+Other Contraband 2
+Other Evidence of Crime 2 3
+Other Property 15 6
+Nothing 2 145 53 1
+ACTION TAKEN:
+Warning 1 69 16 1
+Citation 1 68 25
+Arrest 2 37 15
+Field Interview Completed 99 35
+None 2 82 37
+LOS ANGELES POLICE DEPARTMENT
+OSB -   Southeast AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+58 2320 1054 7 8 6 20 1
+GENDER
+Male 50 1768 887 5 6 5 18
+Female 8 552 167 2 2 1 2 1
+APPARENT AGE
+ 1 - 17 2 53 39
+18 - 40 37 1819 908 4 3 6 15 1
+41 - 60 16 408 104 3 4 2
+61 - 80 3 37 3 2
+81+ 3 1 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 40 1639 806 5 7 4 16 1
+Municipal Code Violation 26 20
+Suspect Flight 59 21
+Consensual 1 24 10
+Call For Service 9 4
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 2 11 4 1
+Penal Code Violation 4 51 12
+Equipment/Registration Violation 15 616 231 1 1 1 4
+Health & Safety Code Violation 1 6 7
+Other 25 9 1
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 16 976 468 1 4 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 14 792 318 1 1 3
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 4 343 128 1 2 2
+GRANTED?
+Yes 4 342 128 1 2 2
+WAS SEARCH CONDUCTED?
+Yes 11 750 336 1 2 2
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 2 134 32 1
+Odor of Contraband 32 12
+Incident to Pat Down/Frisk 5 147 56
+Incident to Arrest 1 164 66 1
+Impound Inventory 2 174 115
+Visible Contraband 3 3
+Consent 3 243 94 1 1
+Other 5 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 6 514 242 1 1 2
+Belongings 1 48 7 1
+Person 10 538 201 1 1 1
+Container 5 1
+Residence 1
+Office 1 1 2
+Other 2 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 24 11 1
+Money 1 27 6
+Drugs 2 33 10
+Alcohol 1 9 3
+Other Contraband 4 4
+Other Evidence of Crime 13 7
+Other Property 1 35 11
+Nothing 8 706 318 1 1 2
+ACTION TAKEN:
+Warning 15 562 215 3 2 1 4
+Citation 38 1616 800 3 6 3 14 1
+Arrest 4 167 58 1 1
+Field Interview Completed 6 182 66 2 1
+None 2 26 10 1 1
+LOS ANGELES POLICE DEPARTMENT
+OSB -   77th Street AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+58 2410 532 3 10 1
+GENDER
+Male 22 1788 456 1 6
+Female 36 622 76 2 4 1
+APPARENT AGE
+ 1 - 17 6 394 192 1 1 1
+18 - 40 42 1482 314 2 6
+41 - 60 10 515 26 2
+61 - 80 18 1
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 19 910 163 2 5 1
+Municipal Code Violation 7 381 164 1 2
+Suspect Flight 1 99 14
+Consensual 7 273 39
+Call For Service 3 217 76 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 91 15 1
+Penal Code Violation 18 385 67 1
+Equipment/Registration Violation 28 5
+Health & Safety Code Violation 1 143 16
+Other 3 114 25 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 22 1539 362 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 10 652 154 2 1 1
+GRANTED?
+Yes 10 649 154 2 1 1
+WAS SEARCH CONDUCTED?
+Yes 24 1621 350 2 2 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 3 305 36
+Odor of Contraband 15 2
+Incident to Pat Down/Frisk 3 498 109 2
+Incident to Arrest 9 435 102
+Impound Inventory 5
+Visible Contraband 18 3
+Consent 10 528 133 2 1
+Other 7 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 30 7
+Belongings 5 84 3 2 1 1
+Person 23 1586 350 2 1
+Container 7
+Residence 12 5
+Office 1
+Other 2
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 44 13 1
+Money 24 4
+Drugs 1 86 15
+Alcohol 25 3
+Other Contraband 54 4
+Other Evidence of Crime 1 26 16
+Other Property 1 93 10
+Nothing 22 1347 305 2 2
+ACTION TAKEN:
+Warning 18 708 155 3
+Citation 19 710 216 3 5
+Arrest 9 451 60 4 1
+Field Interview Completed 13 888 166 1
+None 1 117 31
+LOS ANGELES POLICE DEPARTMENT
+OSB -   77th Street AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+12 628 156 1 1
+GENDER
+Male 1 478 133 1 1
+Female 11 150 23
+APPARENT AGE
+ 1 - 17 88 42
+18 - 40 9 502 110 1 1
+41 - 60 3 36 4
+61 - 80 1
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 7 443 111
+Municipal Code Violation 8 2
+Suspect Flight 11 8
+Consensual 1 18 4
+Call For Service 15 7 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 10 3
+Penal Code Violation 5 43 10
+Equipment/Registration Violation 1 91 11 1
+Health & Safety Code Violation 9 2
+Other 1 18 11
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 4 404 114
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1 202 45
+GRANTED?
+Yes 1 203 45
+WAS SEARCH CONDUCTED?
+Yes 5 428 102 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 75 12
+Odor of Contraband 8 5
+Incident to Pat Down/Frisk 137 44
+Incident to Arrest 4 71 15
+Impound Inventory 18 5
+Visible Contraband 9 1
+Consent 1 184 36
+Other 3 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 3 74 18 1
+Belongings 9 3
+Person 4 410 99
+Container 1
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 10 4
+Money 8
+Drugs 1 17 3
+Alcohol 13
+Other Contraband 1 6
+Other Evidence of Crime 2 6 3
+Other Property 19 3 1
+Nothing 3 369 96
+ACTION TAKEN:
+Warning 4 148 33 1 1
+Citation 1 91 34
+Arrest 2 57 12
+Field Interview Completed 3 259 59
+None 4 165 31
+LOS ANGELES POLICE DEPARTMENT
+OSB -   77th Street AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+45 2596 912 6 2 3 21
+GENDER
+Male 30 2016 806 4 2 1 17
+Female 15 580 106 2 2 4
+APPARENT AGE
+ 1 - 17 1 72 37
+18 - 40 34 2106 782 4 1 2 15
+41 - 60 10 373 85 2 1 1 6
+61 - 80 44 8
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 35 2154 755 6 2 3 18
+Municipal Code Violation 2 8 6
+Suspect Flight 15 5
+Consensual 12 2
+Call For Service 1 27 12 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 14 4
+Penal Code Violation 2 55 23 1
+Equipment/Registration Violation 8 336 113 1
+Health & Safety Code Violation 11 5
+Other 1 73 27 1
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 14 1188 432 1 1 7
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 7 897 336 1 4
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 4 505 132 1
+GRANTED?
+Yes 4 502 131 1
+WAS SEARCH CONDUCTED?
+Yes 10 1023 359 1 5
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 184 10 1
+Odor of Contraband 16 3
+Incident to Pat Down/Frisk 238 96 1 1
+Incident to Arrest 4 185 81 1
+Impound Inventory 3 211 133
+Visible Contraband 9 2
+Consent 3 410 99 1
+Other 6 3
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 8 649 237 2
+Belongings 20 9
+Person 3 786 246 1 5
+Container 2 2
+Residence 1
+Office
+Other 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 13 8
+Money 16 1
+Drugs 1 39 8
+Alcohol 23 9
+Other Contraband 13 4
+Other Evidence of Crime 1 27 10
+Other Property 54 31 1
+Nothing 8 895 305 1 4
+ACTION TAKEN:
+Warning 19 859 220 1 1 5
+Citation 23 1483 609 5 2 2 14
+Arrest 3 151 56
+Field Interview Completed 4 296 68 1
+None 1 37 13
+LOS ANGELES POLICE DEPARTMENT
+OSB -   Harbor AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+246 207 858 1 2 1 10 2
+GENDER
+Male 199 176 767 1 1 1 7 2
+Female 46 31 91 1 3
+APPARENT AGE
+ 1 - 17 40 52 266 2 4
+18 - 40 145 116 521 1 1 4 1
+41 - 60 60 38 69 2 1
+61 - 80 1 1 2
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 73 44 217 2
+Municipal Code Violation 62 53 236 1 6 1
+Suspect Flight 5 8 28
+Consensual 47 33 112 1
+Call For Service 4 5 20 1 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 17 15 84 1
+Penal Code Violation 19 25 59 1 2
+Equipment/Registration Violation 3 4 29
+Health & Safety Code Violation 14 12 55
+Other 22 23 121 1 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 148 145 606 1 2 1 5 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 58 40 219 1 1 1
+GRANTED?
+Yes 58 40 217 1 1 1
+WAS SEARCH CONDUCTED?
+Yes 142 129 530 1 1 5 2
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 34 38 110 1
+Odor of Contraband 7 1
+Incident to Pat Down/Frisk 33 34 150 1 1
+Incident to Arrest 62 47 156 1 4 2
+Impound Inventory 2
+Visible Contraband 2 2 15
+Consent 44 21 149 1 1 1
+Other 5 5
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 1 17
+Belongings 16 11 27
+Person 136 123 514 1 1 5 2
+Container 1
+Residence 1 11
+Office
+Other 1 1 3
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 10 5 17
+Money 1 3 5 1
+Drugs 12 8 51
+Alcohol 5 3 14
+Other Contraband 15 4 39 1
+Other Evidence of Crime 3 1 17 1
+Other Property 6 1 19 1
+Nothing 99 111 414 1 2 3 2
+ACTION TAKEN:
+Warning 64 44 185 1 1 1
+Citation 82 62 346 2 6
+Arrest 43 32 107 3 1
+Field Interview Completed 71 58 316 1 2
+None 18 28 37 1
+LOS ANGELES POLICE DEPARTMENT
+OSB -   Harbor AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+57 44 184 2 5 2
+GENDER
+Male 36 29 160 2 3 1
+Female 21 15 24 2 1
+APPARENT AGE
+ 1 - 17 6 2 38 1
+18 - 40 44 29 135 2 4 2
+41 - 60 7 13 11
+61 - 80
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 39 28 125 2 2 1
+Municipal Code Violation 3 12
+Suspect Flight 5
+Consensual 3 2
+Call For Service
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1 4
+Penal Code Violation 5 7 3
+Equipment/Registration Violation 10 9 20 1
+Health & Safety Code Violation 4 1 9
+Other 2 1 11
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 40 26 138 2 5 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 15 5 55 1 1 1
+GRANTED?
+Yes 15 5 54 1 1 1
+WAS SEARCH CONDUCTED?
+Yes 39 26 140 1 4 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 8 9 27
+Odor of Contraband 2 1 7
+Incident to Pat Down/Frisk 10 6 39 3 1
+Incident to Arrest 12 9 38 3
+Impound Inventory 1 2 17
+Visible Contraband 4 1 6
+Consent 13 1 37 1 1
+Other 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 12 9 48
+Belongings 5 1 4
+Person 35 21 122 1 4 1
+Container
+Residence
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2 3
+Money
+Drugs 4 1 14
+Alcohol 3 1 12
+Other Contraband 4 1 7
+Other Evidence of Crime 1
+Other Property 3 7 1
+Nothing 23 23 102 2 3 1
+ACTION TAKEN:
+Warning 7 6 21 1 1 1
+Citation 25 11 69 1 1
+Arrest 8 5 21 3
+Field Interview Completed 13 8 60 1
+None 9 13 27
+LOS ANGELES POLICE DEPARTMENT
+OSB -   Harbor AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+827 464 1767 47 39 31 76 2
+GENDER
+Male 585 349 1471 29 30 20 53 2
+Female 242 115 296 18 9 11 23
+APPARENT AGE
+ 1 - 17 9 8 78 1 2 2
+18 - 40 551 323 1436 32 28 23 57 2
+41 - 60 229 119 237 13 8 2 16
+61 - 80 34 14 16 2 2 4 1
+81+ 4
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 702 352 1466 40 33 30 69 2
+Municipal Code Violation 4 2 16
+Suspect Flight 2 6
+Consensual 2 3 4
+Call For Service 8 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3 4 10 1
+Penal Code Violation 1 5 20 1
+Equipment/Registration Violation 129 98 264 6 5 1 6
+Health & Safety Code Violation 4 1 12
+Other 2 6 18
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 141 128 548 2 6 1 10
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 97 94 432 2 4 6
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 38 44 169 1 2 1
+GRANTED?
+Yes 38 43 169 1 2 1
+WAS SEARCH CONDUCTED?
+Yes 120 120 482 2 5 7
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 23 25 64 1
+Odor of Contraband 3 3 9
+Incident to Pat Down/Frisk 30 27 102 1 1
+Incident to Arrest 32 23 125 1 3
+Impound Inventory 36 39 185 1 2 3
+Visible Contraband 2 2 13
+Consent 30 26 117 1 2 1
+Other 1 4 6
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 89 93 346 1 4 4
+Belongings 5 2 15 1
+Person 80 79 327 2 2 4
+Container 3 1
+Residence 2 2
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 4 8
+Money 1 2 2
+Drugs 10 8 44
+Alcohol 5 3 19 1
+Other Contraband 2 7 15
+Other Evidence of Crime 2 14
+Other Property 9 3 17 1
+Nothing 107 104 406 4 5 6 1
+ACTION TAKEN:
+Warning 151 96 226 7 5 3 12
+Citation 648 333 1424 39 33 27 62 2
+Arrest 23 19 82 1 1 1
+Field Interview Completed 20 21 111 1 2
+None 7 7 19 1 1
+LOS ANGELES POLICE DEPARTMENT
+OSB -   Southwest AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+30 1784 525 1 1 2 1
+GENDER
+Male 24 1514 448 1 2
+Female 6 270 77 1 1
+APPARENT AGE
+ 1 - 17 3 319 268
+18 - 40 16 955 234 1 1 1
+41 - 60 9 492 21 1 1
+61 - 80 2 18 2
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 9 420 117
+Municipal Code Violation 9 469 276 1
+Suspect Flight 1 24 5
+Consensual 3 339 67
+Call For Service 2 107 10
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 4 114 16
+Penal Code Violation 2 134 31 1 1
+Equipment/Registration Violation 49 10
+Health & Safety Code Violation 3 143 14
+Other 1 121 16 1 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 17 1277 292 1 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 11 701 188 1
+GRANTED?
+Yes 11 698 188 1
+WAS SEARCH CONDUCTED?
+Yes 19 1339 299 1 2 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 258 22
+Odor of Contraband 25 3
+Incident to Pat Down/Frisk 5 491 93
+Incident to Arrest 6 250 50 1 1
+Impound Inventory 2
+Visible Contraband 2 45 4 1
+Consent 9 608 177 1
+Other 9 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 24 2
+Belongings 1 46 5
+Person 19 1316 291 1 2 1
+Container 40 8
+Residence 3 1
+Office
+Other 3 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 28 7
+Money 1 17 1
+Drugs 1 84 12
+Alcohol 53 10
+Other Contraband 1 40 6
+Other Evidence of Crime 16 4 1
+Other Property 43 35
+Nothing 16 1094 246 1 1 1
+ACTION TAKEN:
+Warning 14 595 136 1 1
+Citation 9 462 264 1
+Arrest 6 335 54 2
+Field Interview Completed 10 589 171 1
+None 1 129 12
+LOS ANGELES POLICE DEPARTMENT
+OSB -   Southwest AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+5 389 123 1
+GENDER
+Male 2 307 109 1
+Female 3 82 14
+APPARENT AGE
+ 1 - 17 53 27
+18 - 40 5 293 93 1
+41 - 60 39 2
+61 - 80 4 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 4 256 83 1
+Municipal Code Violation 6 1
+Suspect Flight 5
+Consensual 1 7 4
+Call For Service 2 2
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 6 2
+Penal Code Violation 26 11
+Equipment/Registration Violation 81 18
+Health & Safety Code Violation 12
+Other 15 5
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 1 262 86 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 162 56
+GRANTED?
+Yes 162 56
+WAS SEARCH CONDUCTED?
+Yes 1 275 96 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 32 6
+Odor of Contraband 9 5
+Incident to Pat Down/Frisk 94 31 1
+Incident to Arrest 1 47 16
+Impound Inventory 10 4
+Visible Contraband 1 8 5
+Consent 142 50
+Other 6 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 1 82 22
+Belongings 8 1
+Person 1 260 93 1
+Container 2
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 11 5
+Money 2
+Drugs 1 17 3
+Alcohol 8 3
+Other Contraband 4
+Other Evidence of Crime 5 3
+Other Property 5 3
+Nothing 233 80 1
+ACTION TAKEN:
+Warning 1 97 20 1
+Citation 92 26
+Arrest 55 17
+Field Interview Completed 2 141 45
+None 2 63 25
+LOS ANGELES POLICE DEPARTMENT
+OSB -   Southwest AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+151 3387 1090 34 6 16 36 2
+GENDER
+Male 96 2433 915 29 2 13 27 2
+Female 55 954 175 5 4 3 9
+APPARENT AGE
+ 1 - 17 76 33
+18 - 40 114 2513 915 29 3 10 25 2
+41 - 60 33 690 134 2 3 5 9
+61 - 80 4 104 8 3 1 2
+81+ 4
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 128 2560 832 26 4 14 29 2
+Municipal Code Violation 14 3 1
+Suspect Flight 1 18 6
+Consensual 1 18 3
+Call For Service 2 7 4
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 9 4
+Penal Code Violation 43 16
+Equipment/Registration Violation 22 800 234 8 2 3 5
+Health & Safety Code Violation 3 21 9 2
+Other 32 15 3
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 22 1061 364 4 2
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 15 793 239 2 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 10 500 171 1 2
+GRANTED?
+Yes 9 496 169 1 2
+WAS SEARCH CONDUCTED?
+Yes 17 983 327 3 2
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 2 138 13
+Odor of Contraband 29 5
+Incident to Pat Down/Frisk 4 273 86 2
+Incident to Arrest 4 163 46 1
+Impound Inventory 2 235 98 1
+Visible Contraband 1 13 3
+Consent 6 439 153 1 2
+Other 15 3
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 10 659 213 1 1
+Belongings 24 4 1
+Person 14 786 244 2 1
+Container 5
+Residence
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 26 7
+Money 8 3
+Drugs 3 50 9 1
+Alcohol 1 15 3
+Other Contraband 9
+Other Evidence of Crime 8 7
+Other Property 34 13 1
+Nothing 17 920 321 3 1 4
+ACTION TAKEN:
+Warning 33 717 205 3 1 1 5 1
+Citation 112 2506 842 32 5 15 30 1
+Arrest 8 179 44 2
+Field Interview Completed 3 180 57 1 1
+None 1 25 16 1
+LOS ANGELES POLICE DEPARTMENT
+OVBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+557 253 1448 13 24 4 62 2
+GENDER
+Male 328 166 1175 8 23 2 46 1
+Female 229 87 273 5 1 2 16 1
+APPARENT AGE
+ 1 - 17 94 21 292 2 8 18 1
+18 - 40 396 198 1110 10 16 4 39 1
+41 - 60 57 32 44 1 5
+61 - 80 7 2 2
+81+ 3
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 352 142 924 9 16 3 38 1
+Municipal Code Violation 54 11 123 2 4 7 1
+Suspect Flight 18 6 17 1
+Consensual 19 8 20
+Call For Service 8 2 36 1 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 2 7 34 2 3
+Penal Code Violation 48 36 73
+Equipment/Registration Violation 80 59 221 3 1 7
+Health & Safety Code Violation 14 4 25 3
+Other 21 11 59 5
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 248 164 927 5 17 2 34 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 135 83 516 1 12 19 1
+GRANTED?
+Yes 132 82 513 1 12 19 1
+WAS SEARCH CONDUCTED?
+Yes 284 168 922 5 17 2 30 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 44 30 74 1 1 3
+Odor of Contraband 6 5 19 1
+Incident to Pat Down/Frisk 55 38 245 3 4 1 4
+Incident to Arrest 72 41 176 1 1 7
+Impound Inventory 29 13 73 2
+Visible Contraband 11 5 23 1
+Consent 114 69 461 1 11 15 1
+Other 1 1 5
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 94 57 239 1 11
+Belongings 29 27 25 1 1 2
+Person 237 152 836 5 17 2 30 1
+Container 4 2 7 1
+Residence 2
+Office 1
+Other 1 1 2
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 6 4 23 1
+Money 8 4 12 1
+Drugs 29 14 61 1 2 4 1
+Alcohol 10 8 36 1
+Other Contraband 16 6 15
+Other Evidence of Crime 16 12 23 2
+Other Property 13 9 19 1
+Nothing 207 120 792 4 15 2 22
+ACTION TAKEN:
+Warning 93 64 194 7 1 14
+Citation 246 48 495 10 8 2 28 2
+Arrest 77 41 158 1 4 6 1
+Field Interview Completed 134 85 442 2 7 15
+None 75 51 303 4 1 4
+LOS ANGELES POLICE DEPARTMENT
+OVBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+26677 4672 25643 921 1278 519 2540 126
+GENDER
+Male 17076 3149 19262 583 849 304 1827 83
+Female 9597 1523 6377 337 429 215 713 43
+APPARENT AGE
+ 1 - 17 600 43 583 22 24 13 69 3
+18 - 40 16214 3466 20754 572 842 319 1686 84
+41 - 60 8014 1065 3950 278 358 161 685 31
+61 - 80 1703 94 338 48 54 23 94 6
+81+ 146 4 18 1 3 6 2
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 23983 3859 21524 835 1130 491 2223 122
+Municipal Code Violation 335 60 379 9 9 6 25 2
+Suspect Flight 559 83 508 13 24 9 28 2
+Consensual 309 53 291 6 7 7 20
+Call For Service 150 34 247 6 21
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 29 14 53 1 2 7
+Penal Code Violation 73 44 148 2 6
+Equipment/Registration Violation 2492 722 3612 85 149 29 277 4
+Health & Safety Code Violation 91 19 83 2 4 9
+Other 79 46 228 1 3 1 17
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 2011 749 5515 32 86 15 215 5
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 1092 475 3509 13 38 10 120 5
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 499 240 1507 6 15 8 66 1
+GRANTED?
+Yes 493 235 1489 6 15 8 66 1
+WAS SEARCH CONDUCTED?
+Yes 1483 640 4695 20 52 12 156 5
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 176 87 219 1 2 6
+Odor of Contraband 50 14 102 5
+Incident to Pat Down/Frisk 212 96 757 1 11 20 2
+Incident to Arrest 469 181 1520 5 12 3 54 4
+Impound Inventory 493 245 1968 8 20 5 55 1
+Visible Contraband 26 10 37 3
+Consent 366 183 1054 5 13 5 52
+Other 11 10 18 3
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 1109 485 3316 15 38 8 112 3
+Belongings 123 39 171 3 1 12 1
+Person 950 425 2995 10 33 9 109 5
+Container 12 3 22 1 1
+Residence 1 1 5
+Office 1
+Other 6 1 5 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 37 15 66 1 7
+Money 28 19 41 5
+Drugs 126 50 157 3 2 14 1
+Alcohol 22 7 79 1 1 2
+Other Contraband 41 8 36 1 5
+Other Evidence of Crime 25 15 58 2
+Other Property 48 26 117 1 7
+Nothing 1394 569 4466 31 55 13 152 5
+ACTION TAKEN:
+Warning 2756 784 3345 71 129 48 213 11
+Citation 23934 3765 21255 855 1158 475 2288 116
+Arrest 970 235 1727 17 32 15 80 6
+Field Interview Completed 267 136 550 5 8 2 30 2
+None 103 45 204 2 7 5 10
+LOS ANGELES POLICE DEPARTMENT
+OVBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+2159 1099 5137 52 79 30 184 16
+GENDER
+Male 1605 814 4386 41 56 23 136 14
+Female 553 285 751 11 23 7 48 2
+APPARENT AGE
+ 1 - 17 401 176 1646 20 38 6 84 2
+18 - 40 1162 714 2961 29 27 16 71 11
+41 - 60 512 199 490 2 8 5 24 3
+61 - 80 75 10 39 1 6 2 3
+81+ 9 1 1 2
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 1013 354 1377 26 28 15 57 11
+Municipal Code Violation 571 231 2102 17 41 10 79 3
+Suspect Flight 41 17 119 1 2 1
+Consensual 217 158 538 6 3 2 17 1
+Call For Service 88 73 244 1 3 1 6 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 21 25 94 1 1
+Penal Code Violation 155 165 484 1 1 1 14 1
+Equipment/Registration Violation 30 11 53 2 1 1
+Health & Safety Code Violation 41 57 182 6
+Other 109 84 291 1 1 1 10
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 636 505 3008 6 23 8 61 7
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 315 288 1379 4 10 7 26 2
+GRANTED?
+Yes 314 288 1370 4 10 6 25 2
+WAS SEARCH CONDUCTED?
+Yes 655 540 2877 5 19 9 60 7
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 99 105 265 1 1 7
+Odor of Contraband 13 3 42 1
+Incident to Pat Down/Frisk 103 108 727 1 6 3 14 2
+Incident to Arrest 241 169 1052 7 1 26 3
+Impound Inventory 3 1 9 1 1
+Visible Contraband 21 6 46 1
+Consent 261 220 1138 4 7 5 18 1
+Other 7 2 19
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 32 11 85 1 5
+Belongings 104 76 132 1 1 3 1
+Person 594 502 2824 5 18 9 56 7
+Container 22 12 21 4
+Residence 20 3 25 1
+Office 5
+Other 6 4 21 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 23 5 54 1
+Money 16 7 23
+Drugs 40 35 138 1 1
+Alcohol 25 6 80
+Other Contraband 29 25 79 4
+Other Evidence of Crime 27 16 72 1
+Other Property 46 35 150 1 8
+Nothing 513 431 2375 5 19 8 46 6
+ACTION TAKEN:
+Warning 386 253 902 14 9 3 22 2
+Citation 1257 421 2554 36 59 23 115 12
+Arrest 298 202 968 9 1 42 2
+Field Interview Completed 415 374 1330 3 7 5 28 3
+None 75 62 257 1 2 8 1
+LOS ANGELES POLICE DEPARTMENT
+OVB -   Valley Traffic DivisionFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+594 210 540 12 21 11 21 7
+GENDER
+Male 428 136 377 10 12 8 16 7
+Female 166 74 163 2 9 3 5
+APPARENT AGE
+ 1 - 17 32 8 76 4 2
+18 - 40 338 146 338 6 10 5 12 7
+41 - 60 165 50 107 1 5 3 3
+61 - 80 51 6 19 1 6 2 2
+81+ 8 1 2
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 570 173 511 10 19 10 20 7
+Municipal Code Violation 18 2 14 2 2 1
+Suspect Flight 29 6 21 1
+Consensual 22 3 13 1
+Call For Service 2 2 10
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1
+Penal Code Violation 9 34 12
+Equipment/Registration Violation 3 1 1
+Health & Safety Code Violation 7 5 2
+Other 2 1 2 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 10 12 33 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 2 4 12
+GRANTED?
+Yes 2 4 11
+WAS SEARCH CONDUCTED?
+Yes 11 15 28 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 1 4 1
+Odor of Contraband 2
+Incident to Pat Down/Frisk 4 4 5
+Incident to Arrest 6 7 15
+Impound Inventory 1 1
+Visible Contraband
+Consent 1 2 7
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 2 2 3
+Belongings 2 4 2
+Person 8 16 28 1
+Container
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1
+Money 3 3
+Drugs 1 1
+Alcohol 1 1
+Other Contraband 2
+Other Evidence of Crime 1
+Other Property 1 4
+Nothing 10 11 25 1
+ACTION TAKEN:
+Warning 62 44 53 1 1
+Citation 557 163 490 12 20 11 20 7
+Arrest 35 14 38 1
+Field Interview Completed 8 36 7
+None 1 1 3 1
+LOS ANGELES POLICE DEPARTMENT
+OVB -   Valley Traffic DivisionFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+114 30 120 3 2 2 6
+GENDER
+Male 59 15 84 1 1 3
+Female 55 15 36 2 1 2 3
+APPARENT AGE
+ 1 - 17 9 3 15
+18 - 40 88 23 95 2 2 2 5
+41 - 60 11 4 10 1 1
+61 - 80 3
+81+ 3
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 101 24 102 3 1 2 6
+Municipal Code Violation 5 1 7 1
+Suspect Flight 8 1 2
+Consensual 5 1
+Call For Service 1 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation 12 12 4
+Equipment/Registration Violation 4 4
+Health & Safety Code Violation 1 1
+Other 2 4
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 22 12 31 1 1 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 9 1 9
+GRANTED?
+Yes 9 1 9
+WAS SEARCH CONDUCTED?
+Yes 25 14 34 1 1 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 4 1 3
+Odor of Contraband 1 1
+Incident to Pat Down/Frisk 3 2 7 1
+Incident to Arrest 14 5 9 1
+Impound Inventory 5 6 9
+Visible Contraband 3
+Consent 8 2 7
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 11 10 13 1
+Belongings 5 2 2 1
+Person 20 10 27 1 1 1
+Container 1
+Residence
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 1
+Money 6 3 4
+Drugs 2 1 1 1
+Alcohol 3
+Other Contraband 2 1
+Other Evidence of Crime 1 1
+Other Property 2 2 3
+Nothing 15 8 31 1
+ACTION TAKEN:
+Warning 14 10 13
+Citation 91 13 89 2 2 2 5
+Arrest 17 6 12 1
+Field Interview Completed 15 7 11
+None 5 2 7
+LOS ANGELES POLICE DEPARTMENT
+OVB -   Valley Traffic DivisionFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+17405 2394 13007 565 766 351 1172 107
+GENDER
+Male 10736 1511 9147 348 486 200 792 67
+Female 6665 883 3856 216 280 151 380 40
+APPARENT AGE
+ 1 - 17 337 18 248 10 13 11 22 2
+18 - 40 10080 1695 10108 337 478 214 744 69
+41 - 60 5591 616 2428 187 230 107 349 28
+61 - 80 1288 62 207 30 45 16 54 6
+81+ 109 3 16 1 3 3 2
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 16861 2300 12313 555 734 344 1116 106
+Municipal Code Violation 270 43 254 8 6 5 15 2
+Suspect Flight 506 63 425 12 22 9 23 2
+Consensual 263 32 223 5 6 7 17
+Call For Service 113 23 187 2 17
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 4 1 1
+Penal Code Violation 19 18 9 1
+Equipment/Registration Violation 473 80 550 10 36 7 36 1
+Health & Safety Code Violation 58 8 36 2 3 3
+Other 2 2 19 1 4
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 583 148 1565 7 21 7 53 2
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 214 65 837 3 7 2 20 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 50 10 210 1 2 10
+GRANTED?
+Yes 49 10 209 1 2 10
+WAS SEARCH CONDUCTED?
+Yes 309 96 1183 5 8 5 28 2
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 25 6 52 1 1
+Odor of Contraband 26 3 56 3
+Incident to Pat Down/Frisk 38 8 101 1 5
+Incident to Arrest 146 46 640 3 5 2 15 2
+Impound Inventory 115 47 425 1 2 2 11
+Visible Contraband 3 2 4
+Consent 13 4 30 1 5
+Other 2 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 185 69 586 2 4 3 17
+Belongings 33 5 57 1 1 2
+Person 186 55 749 4 6 2 20 2
+Container 2 2 1
+Residence 2
+Office
+Other 3 1 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 10 5 13 3
+Money 12 13 18 2
+Drugs 7 6 20 2
+Alcohol 7 1 7 1 1
+Other Contraband 1 2 6 1
+Other Evidence of Crime 2 2 9
+Other Property 3 9 13 1 2
+Nothing 318 75 1167 8 6 5 26 3
+ACTION TAKEN:
+Warning 1138 238 1412 33 45 24 49 11
+Citation 16597 2177 11262 539 737 334 1125 98
+Arrest 677 114 1078 12 24 14 40 4
+Field Interview Completed 48 23 48 1 5 1
+None 13 2 17 1 1 2
+LOS ANGELES POLICE DEPARTMENT
+OVB -   Devonshire AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+428 209 1447 29 27 10 54 4
+GENDER
+Male 325 167 1268 21 20 7 45 2
+Female 103 42 179 8 7 3 9 2
+APPARENT AGE
+ 1 - 17 153 57 533 13 22 4 29 2
+18 - 40 198 121 850 15 5 6 20 2
+41 - 60 71 31 62 1 5
+61 - 80 6 2
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 110 54 231 9 3 2 11 2
+Municipal Code Violation 186 80 660 14 21 8 27 2
+Suspect Flight 1 2 7
+Consensual 47 30 250 6 2 11
+Call For Service 11 5 27 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 2 2
+Penal Code Violation 37 20 127 2
+Equipment/Registration Violation 7 17 1 1 1
+Health & Safety Code Violation 16 12 112 2
+Other 17 11 78 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 187 132 993 1 10 5 23 4
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 88 70 480 1 1 4 11 2
+GRANTED?
+Yes 88 70 479 1 1 4 10 2
+WAS SEARCH CONDUCTED?
+Yes 184 131 953 1 10 5 22 4
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 33 40 102 5
+Odor of Contraband 2 1 13 1
+Incident to Pat Down/Frisk 26 20 190 3 2 5
+Incident to Arrest 72 36 363 6 10 2
+Impound Inventory 1 3 1
+Visible Contraband 2 15
+Consent 69 53 408 1 3 6 1
+Other 1 5
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 7 2 15 1 3
+Belongings 24 15 21 1
+Person 173 126 941 1 10 5 22 4
+Container 4 3 6
+Residence 2 2
+Office
+Other 2 13
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 8 1
+Money 3 1 5
+Drugs 14 8 63
+Alcohol 7 4 41
+Other Contraband 11 8 39 1
+Other Evidence of Crime 5 4 23
+Other Property 4 3 13 1
+Nothing 150 109 791 1 10 5 19 4
+ACTION TAKEN:
+Warning 72 62 229 10 1 3
+Citation 241 81 681 19 23 10 35 3
+Arrest 68 36 302 3 10
+Field Interview Completed 100 54 368 2 4 17 1
+None 16 13 99 1 1
+LOS ANGELES POLICE DEPARTMENT
+OVB -   Devonshire AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+102 44 241 1 5 1 20
+GENDER
+Male 64 32 196 1 5 1 14
+Female 38 12 45 6
+APPARENT AGE
+ 1 - 17 14 5 48 4 6
+18 - 40 73 31 185 1 1 1 14
+41 - 60 15 8 8
+61 - 80
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 59 25 177 1 5 11
+Municipal Code Violation 12 3 14 2
+Suspect Flight 1 1
+Consensual 6 2 5
+Call For Service 2 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1 4
+Penal Code Violation 10 5 9
+Equipment/Registration Violation 8 8 13 1
+Health & Safety Code Violation 7 2 12 3
+Other 4 2 16 4
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 56 29 142 1 5 1 15
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 24 16 58 5 13
+GRANTED?
+Yes 22 16 58 5 13
+WAS SEARCH CONDUCTED?
+Yes 60 32 150 1 5 1 14
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 5 6 10 1
+Odor of Contraband 1 1 6 1
+Incident to Pat Down/Frisk 11 6 30 1 1 1
+Incident to Arrest 18 7 45 3
+Impound Inventory 4 2 22 1
+Visible Contraband 3 2 10
+Consent 22 13 52 5 10
+Other 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 17 14 52 6
+Belongings 3 1 6 1 1
+Person 51 29 129 1 5 1 14
+Container 2 1
+Residence 1
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1
+Money 1 4
+Drugs 9 1 16 3
+Alcohol 4 3 11
+Other Contraband 7
+Other Evidence of Crime 5 1 2
+Other Property 3 2
+Nothing 41 26 124 1 5 1 11
+ACTION TAKEN:
+Warning 14 11 25 4 5
+Citation 41 13 95 5
+Arrest 18 5 28 1
+Field Interview Completed 30 17 73 1 4 10
+None 8 5 42 1 1
+LOS ANGELES POLICE DEPARTMENT
+OVB -   Devonshire AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+2081 585 3066 144 176 60 397 3
+GENDER
+Male 1355 425 2402 89 119 36 291 3
+Female 726 160 664 55 57 24 106
+APPARENT AGE
+ 1 - 17 66 11 86 6 4 14
+18 - 40 1370 455 2532 92 115 33 274 3
+41 - 60 517 111 408 38 52 23 93
+61 - 80 119 7 40 8 5 4 16
+81+ 9 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 1721 428 2445 124 146 55 345 3
+Municipal Code Violation 17 4 29 1 2
+Suspect Flight 2 4 1 1
+Consensual 7 3 6
+Call For Service 3 1 4 1 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3 1 5
+Penal Code Violation 20 5 27
+Equipment/Registration Violation 297 138 531 19 29 6 45
+Health & Safety Code Violation 15 2 18 1 4
+Other 18 7 50 1 4
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 304 152 941 7 13 1 34
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 205 100 649 4 7 1 28
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 118 65 290 2 3 1 18
+GRANTED?
+Yes 117 65 283 2 3 1 18
+WAS SEARCH CONDUCTED?
+Yes 258 140 848 5 11 1 32
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 30 25 40 1 3
+Odor of Contraband 1 1 5 1
+Incident to Pat Down/Frisk 40 16 139 3 2
+Incident to Arrest 78 37 225 2 2 10
+Impound Inventory 62 55 426 2 5 1 11
+Visible Contraband 5 2 11 1
+Consent 89 49 211 2 3 1 13
+Other 4 6
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 186 112 658 3 10 1 28
+Belongings 10 4 17 1 2
+Person 178 87 536 3 7 1 24
+Container 3 4
+Residence
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 4 2 2
+Money 1 4
+Drugs 25 15 37 1 1 6
+Alcohol 4 2 18 1
+Other Contraband 7 1 9 1
+Other Evidence of Crime 6 4 8
+Other Property 8 2 16
+Nothing 282 132 840 13 14 1 40
+ACTION TAKEN:
+Warning 312 127 370 10 31 8 42
+Citation 1670 424 2514 133 144 50 343 3
+Arrest 53 29 155 1 2 8
+Field Interview Completed 70 30 91 2 1 6
+None 21 9 36 1 2 3
+LOS ANGELES POLICE DEPARTMENT
+OVB -   Foothill AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+253 234 951 2 5 6 8 2
+GENDER
+Male 201 205 860 2 5 6 6 2
+Female 52 29 91 2
+APPARENT AGE
+ 1 - 17 31 13 317 2 3
+18 - 40 145 161 562 2 3 5 2 1
+41 - 60 73 57 69 1 2 1
+61 - 80 4 3 3 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 49 26 206 1 2 4 1
+Municipal Code Violation 62 36 292 1 1
+Suspect Flight 4 36 1
+Consensual 57 50 120 1
+Call For Service 37 53 129 1 2 1 2 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 5 11 25
+Penal Code Violation 25 36 143 1 1 1
+Equipment/Registration Violation 5 5 10
+Health & Safety Code Violation 7 22 26
+Other 17 20 59 1 1 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 144 172 741 1 3 3 2 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 83 86 341 1 1 2 1
+GRANTED?
+Yes 83 86 340 1 1 1 1
+WAS SEARCH CONDUCTED?
+Yes 147 177 739 1 3 3 2 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 24 31 69 1
+Odor of Contraband 1 9
+Incident to Pat Down/Frisk 35 60 297 2 1 1
+Incident to Arrest 42 47 196 1 1 1 1
+Impound Inventory 1
+Visible Contraband 5 18
+Consent 82 80 318 1 1 1 1
+Other 1 2 4
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 8 5 21
+Belongings 21 11 30 1
+Person 141 176 735 1 3 3 2 1
+Container 2 1 2
+Residence 7 3 16
+Office
+Other 1 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 6 3 18
+Money 1 2
+Drugs 6 15 28 1
+Alcohol 3 18
+Other Contraband 3 8 14
+Other Evidence of Crime 4 2 14
+Other Property 2 1 4
+Nothing 131 151 656 1 3 2 2 1
+ACTION TAKEN:
+Warning 69 54 203 1 1 2 1
+Citation 62 30 325 2 1 5
+Arrest 48 52 205 1 1 1 1
+Field Interview Completed 96 121 402 2 2 1 1 1
+None 28 14 56 1 1
+LOS ANGELES POLICE DEPARTMENT
+OVB -   Foothill AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+138 85 609 2 7 7 2
+GENDER
+Male 84 56 499 1 7 6 1
+Female 54 29 110 1 1 1
+APPARENT AGE
+ 1 - 17 28 3 146 3 2 1
+18 - 40 96 66 446 2 4 5 1
+41 - 60 13 15 16
+61 - 80 1 1 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 65 50 331 3 6 1
+Municipal Code Violation 19 4 81 2 3 1
+Suspect Flight 2 2 8
+Consensual 3 1 8
+Call For Service 3 1 21
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1 21
+Penal Code Violation 8 7 30
+Equipment/Registration Violation 39 26 131 1 1
+Health & Safety Code Violation 1 8
+Other 5 4 18
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 79 61 429 3 4 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 41 30 295 2 3 1
+GRANTED?
+Yes 41 29 294 2 3 1
+WAS SEARCH CONDUCTED?
+Yes 88 61 434 3 3 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 23 14 42
+Odor of Contraband 2 2 6
+Incident to Pat Down/Frisk 26 21 142 1
+Incident to Arrest 16 13 51
+Impound Inventory 9 3 21
+Visible Contraband 2 1 6
+Consent 38 28 272 2 3 1
+Other 4
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 27 12 82
+Belongings 10 11 9
+Person 78 59 417 3 3 1
+Container 2 1 4
+Residence
+Office 1
+Other 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2 1 11
+Money 3
+Drugs 8 6 21 1 1
+Alcohol 16
+Other Contraband 3 3
+Other Evidence of Crime 3 4 11
+Other Property 1 1
+Nothing 75 51 386 2 3
+ACTION TAKEN:
+Warning 23 23 76 1 3
+Citation 43 3 172 2 4 3 2
+Arrest 19 16 56 2 1
+Field Interview Completed 39 34 229 2
+None 32 22 136 1 1
+LOS ANGELES POLICE DEPARTMENT
+OVB -   Foothill AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+1387 493 3847 53 90 19 172 2
+GENDER
+Male 1024 381 3131 45 69 14 142
+Female 363 112 716 8 21 5 30 2
+APPARENT AGE
+ 1 - 17 45 5 113 2 1 10
+18 - 40 957 370 3291 35 69 15 117 1
+41 - 60 337 109 396 14 17 2 39 1
+61 - 80 44 9 46 4 2 1 6
+81+ 4 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 884 320 2587 42 58 16 130 1
+Municipal Code Violation 14 1 53 1 3
+Suspect Flight 11 2 28 2
+Consensual 10 22
+Call For Service 12 5 26 3 2
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 4 4 22
+Penal Code Violation 10 11 39 1
+Equipment/Registration Violation 476 153 1161 11 29 3 42 1
+Health & Safety Code Violation 1 1 9
+Other 16 15 57 3
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 286 175 1277 7 13 2 25 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 204 136 910 2 8 3 18 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 110 80 549 1 3 2 11
+GRANTED?
+Yes 109 78 546 1 3 2 11
+WAS SEARCH CONDUCTED?
+Yes 258 165 1156 2 8 2 21 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 63 28 69 1 1
+Odor of Contraband 7 2 14
+Incident to Pat Down/Frisk 59 43 330 5 6 1
+Incident to Arrest 50 34 217 6 1
+Impound Inventory 95 55 436 1 2 1 9
+Visible Contraband 5 3 9
+Consent 105 76 514 1 3 2 10
+Other 2 2 6 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 220 118 860 2 5 2 15 1
+Belongings 27 13 37 1
+Person 197 131 844 1 7 2 18 1
+Container 1 3 5
+Residence 1 1 1
+Office 1
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 7 7 27
+Money 4 1 7 1
+Drugs 32 11 47 1
+Alcohol 3 3 27
+Other Contraband 10 3 10
+Other Evidence of Crime 4 6 18
+Other Property 2 1 11
+Nothing 225 145 1083 2 8 2 20
+ACTION TAKEN:
+Warning 344 131 672 4 19 2 28
+Citation 981 317 2960 49 68 16 140 1
+Arrest 59 32 191 6 1
+Field Interview Completed 51 39 222 1 2 5
+None 18 14 67 3 1 1
+LOS ANGELES POLICE DEPARTMENT
+OVB -   North Hollywood AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+276 115 916 4 3 1 22
+GENDER
+Male 214 91 764 4 2 1 14
+Female 62 24 152 1 8
+APPARENT AGE
+ 1 - 17 35 37 321 2 3 1 9
+18 - 40 142 51 458 2 9
+41 - 60 93 27 128 4
+61 - 80 6 8
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 120 46 179 2 7
+Municipal Code Violation 93 40 536 1 3 9
+Suspect Flight 10 2 31 1
+Consensual 16 8 71 1 2
+Call For Service 3 26
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 2 3 18
+Penal Code Violation 23 16 64 1 5
+Equipment/Registration Violation 1 4
+Health & Safety Code Violation 2 1 13
+Other 19 2 49 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 73 43 435 1 8
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 33 21 228 1 1
+GRANTED?
+Yes 33 21 228 1 1
+WAS SEARCH CONDUCTED?
+Yes 95 47 459 1 1 6
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 10 5 44 2
+Odor of Contraband 6 19
+Incident to Pat Down/Frisk 10 7 111 1 1
+Incident to Arrest 37 19 160 2
+Impound Inventory 1 1 1
+Visible Contraband 12 4
+Consent 28 16 171 1 1
+Other 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 9 23 2
+Belongings 15 2 26
+Person 72 45 447 1 1 6
+Container 13 6
+Residence 9 5
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 8 15
+Money 7 8
+Drugs 7 1 16
+Alcohol 13 7
+Other Contraband 4 1 10 1
+Other Evidence of Crime 9 9
+Other Property 10 7 50 2
+Nothing 61 39 369 1 1 3
+ACTION TAKEN:
+Warning 36 17 111 1 5
+Citation 160 68 582 2 3 16
+Arrest 54 18 77 3
+Field Interview Completed 30 12 144 1 1
+None 5 4 47 1
+LOS ANGELES POLICE DEPARTMENT
+OVB -   North Hollywood AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+56 23 173 3 2 4
+GENDER
+Male 35 13 146 3 2 2
+Female 21 10 27 2
+APPARENT AGE
+ 1 - 17 7 29 2 1 1
+18 - 40 40 20 140 1 1 3
+41 - 60 7 2 4
+61 - 80 2 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 38 16 137 1 2 2
+Municipal Code Violation 5 1 3 1
+Suspect Flight 4 2 4
+Consensual 4 3 3
+Call For Service 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1 2
+Penal Code Violation 5 1 12
+Equipment/Registration Violation 6 5 11 1
+Health & Safety Code Violation 1 2
+Other 2 2 6
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 23 15 112 2 2 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 14 9 60
+GRANTED?
+Yes 14 9 59
+WAS SEARCH CONDUCTED?
+Yes 28 16 114 2 2 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 5 4 5 1
+Odor of Contraband 1 3
+Incident to Pat Down/Frisk 1 5 29 2 2
+Incident to Arrest 7 1 22
+Impound Inventory 2 1 2
+Visible Contraband 1 1
+Consent 12 7 55
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 9 5 25
+Belongings 1 1 1
+Person 23 15 106 2 2 1
+Container 1
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 2 2
+Money
+Drugs 3 5
+Alcohol 1 5
+Other Contraband 2
+Other Evidence of Crime 3 6
+Other Property 3
+Nothing 22 14 95 2 2 1
+ACTION TAKEN:
+Warning 14 9 24 2
+Citation 24 2 68 3 1 2
+Arrest 7 3 20
+Field Interview Completed 9 5 37
+None 7 6 34
+LOS ANGELES POLICE DEPARTMENT
+OVB -   North Hollywood AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+1720 345 1875 32 59 24 157 2
+GENDER
+Male 1172 237 1495 16 42 15 121 2
+Female 548 108 380 16 17 9 36
+APPARENT AGE
+ 1 - 17 27 3 53 1 1 4
+18 - 40 1126 267 1548 20 41 16 121 2
+41 - 60 479 71 259 11 17 7 26
+61 - 80 79 4 15 1 6
+81+ 9
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 1591 287 1627 29 52 22 144 2
+Municipal Code Violation 18 8 22 2 1 1
+Suspect Flight 37 9 46 1 2 2
+Consensual 20 10 27 1 1 1
+Call For Service 3 2 9
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3 1
+Penal Code Violation 4 3 24 3
+Equipment/Registration Violation 122 49 190 3 6 1 10
+Health & Safety Code Violation 10 2 9
+Other 2 4 26
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 181 66 513 1 9 1 24
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 111 41 322 1 1 11
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 42 17 146 1 1 2
+GRANTED?
+Yes 42 17 145 1 1 2
+WAS SEARCH CONDUCTED?
+Yes 162 59 470 2 4 1 15
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 16 6 22
+Odor of Contraband 8 3 14
+Incident to Pat Down/Frisk 19 12 68 1 1
+Incident to Arrest 54 15 122 1 6
+Impound Inventory 44 17 172 2 2 5
+Visible Contraband 1 4
+Consent 33 14 105 1 2
+Other 2 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 117 42 358 2 3 1 7
+Belongings 14 4 20 1
+Person 99 41 303 2 1 10
+Container 1 1 1
+Residence
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 4 10
+Money 7 1 5
+Drugs 17 2 18
+Alcohol 3 12
+Other Contraband 4 1
+Other Evidence of Crime 6 1 9
+Other Property 2 1 18
+Nothing 143 58 423 2 5 1 18
+ACTION TAKEN:
+Warning 238 83 289 5 8 1 17
+Citation 1457 253 1518 28 53 23 137 2
+Arrest 62 18 125 1 1 7
+Field Interview Completed 17 8 45 1 1
+None 17 5 16
+LOS ANGELES POLICE DEPARTMENT
+OVB -   West Valley AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+259 63 509 4 6 28 1
+GENDER
+Male 193 55 475 3 5 25 1
+Female 66 8 34 1 1 3
+APPARENT AGE
+ 1 - 17 97 20 99 1 2 15
+18 - 40 115 33 340 3 3 8 1
+41 - 60 43 10 65 1 5
+61 - 80 4 5
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 63 12 113 4 1 10
+Municipal Code Violation 99 20 195 4 12
+Suspect Flight 1 2 9
+Consensual 34 7 39
+Call For Service 10 3 18
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 5 1 18 1
+Penal Code Violation 27 7 62 1
+Equipment/Registration Violation 5 2 13 1
+Health & Safety Code Violation 5 3 12 2
+Other 27 9 56 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 94 45 357 3 3 8 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 40 16 123 2 1 4
+GRANTED?
+Yes 40 16 121 2 1 4
+WAS SEARCH CONDUCTED?
+Yes 77 32 280 2 1 8 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 6 3 23
+Odor of Contraband 2
+Incident to Pat Down/Frisk 8 6 33 2
+Incident to Arrest 33 14 135 3
+Impound Inventory 1
+Visible Contraband 4 4 1
+Consent 27 11 80 2 1 4
+Other 3 4
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 3 12
+Belongings 12 1 12 1 1
+Person 71 31 274 2 1 7 1
+Container 1
+Residence 2
+Office 5
+Other 4 1 4
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 5 7
+Money 5
+Drugs 6 3 14 1
+Alcohol 5
+Other Contraband 2 1 5
+Other Evidence of Crime 2 1 8
+Other Property 6 1 7 1
+Nothing 59 27 236 2 1 7
+ACTION TAKEN:
+Warning 80 13 145 2 2 10
+Citation 108 29 205 2 3 13
+Arrest 13 8 70 1
+Field Interview Completed 60 18 133 2
+None 13 7 27 1 2
+LOS ANGELES POLICE DEPARTMENT
+OVB -   West Valley AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+91 35 131 4 3 1 14
+GENDER
+Male 62 30 112 2 3 1 12
+Female 29 5 19 2 2
+APPARENT AGE
+ 1 - 17 29 7 15 5
+18 - 40 55 27 111 4 3 1 8
+41 - 60 7 1 5 1
+61 - 80
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 61 14 77 4 2 1 6
+Municipal Code Violation 12 1 8 3
+Suspect Flight 1 1 1 1
+Consensual 1
+Call For Service
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1 3 2 2
+Penal Code Violation 3 4 5
+Equipment/Registration Violation 15 14 36 1 4
+Health & Safety Code Violation 3 1
+Other 4 4 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 47 27 98 1 3 1 10
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 26 18 39 1 3 1
+GRANTED?
+Yes 25 18 39 1 3 1
+WAS SEARCH CONDUCTED?
+Yes 46 21 80 1 3 1 9
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 4 6 1 2
+Odor of Contraband 2 3
+Incident to Pat Down/Frisk 10 2 16 2
+Incident to Arrest 7 4 17 1 3
+Impound Inventory 5 1 4 1
+Visible Contraband 2 1 3 1
+Consent 16 14 31 1 2
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 17 11 28 1 4
+Belongings 4 4 1 1
+Person 38 18 64 1 3 1 9
+Container
+Residence
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2 7
+Money 1
+Drugs 3 4 8 1 1
+Alcohol 2 4 1
+Other Contraband 7 2 2
+Other Evidence of Crime 4 1 2
+Other Property 4 3 1
+Nothing 27 11 70 1 2 1 6
+ACTION TAKEN:
+Warning 25 6 28 1 2
+Citation 33 10 29 3 7
+Arrest 6 1 20 1 1 3
+Field Interview Completed 14 6 24 1 3
+None 19 11 37 2 2
+LOS ANGELES POLICE DEPARTMENT
+OVB -   West Valley AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+2307 393 1681 64 93 37 351 4
+GENDER
+Male 1554 266 1369 40 64 20 256 4
+Female 753 127 312 24 29 17 95
+APPARENT AGE
+ 1 - 17 91 4 47 2 1 1 9 1
+18 - 40 1513 311 1441 42 71 22 237 1
+41 - 60 598 73 184 16 21 13 96 2
+61 - 80 95 5 9 4 1 8
+81+ 10 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 1614 225 1075 42 72 30 266 3
+Municipal Code Violation 9 2 13 1
+Suspect Flight 2 1 2
+Consensual 5 3 3 1
+Call For Service 5 2 7
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3 3 5 2
+Penal Code Violation 3 4 13 1
+Equipment/Registration Violation 693 159 572 22 23 8 80 1
+Health & Safety Code Violation 5 2 5
+Other 22 5 33 6
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 395 95 582 4 17 2 47 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 216 56 365 1 9 1 25 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 103 24 127 1 6 1 16
+GRANTED?
+Yes 101 24 125 1 6 1 16
+WAS SEARCH CONDUCTED?
+Yes 283 78 483 2 13 1 36 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 27 6 15
+Odor of Contraband 8 3 7 1
+Incident to Pat Down/Frisk 35 7 56 1 2
+Incident to Arrest 82 25 144 2 10 1
+Impound Inventory 100 32 260 5 1 11 1
+Visible Contraband 4 1 6 2
+Consent 78 15 82 1 5 15
+Other 3 2 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 228 65 412 2 9 29 1
+Belongings 21 7 10 6 1
+Person 177 47 261 1 8 1 23 1
+Container 4 4
+Residence
+Office
+Other 1 2
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 7 9 1 3
+Money 1 1 1 1
+Drugs 29 7 20 1 1 4
+Alcohol 4 1 6
+Other Contraband 9 2 7 2
+Other Evidence of Crime 5 1 6 2
+Other Property 22 6 24 3
+Nothing 225 68 438 3 14 1 28 1
+ACTION TAKEN:
+Warning 416 97 282 10 10 7 49
+Citation 1814 268 1294 53 80 30 288 4
+Arrest 69 20 78 1 3 12 1
+Field Interview Completed 26 14 48 1 2 7 1
+None 21 8 26 1 4
+LOS ANGELES POLICE DEPARTMENT
+OVB -   Van Nuys AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+348 260 765 1 17 1 51 2
+GENDER
+Male 243 152 633 1 12 1 30 2
+Female 104 108 132 5 21
+APPARENT AGE
+ 1 - 17 53 35 296 9 26
+18 - 40 223 200 408 1 6 20
+41 - 60 67 24 59 2 1 5 2
+61 - 80 4 1 2
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 100 42 128 1 4 5 1
+Municipal Code Violation 113 50 405 10 1 30 1
+Suspect Flight 1 15 1
+Consensual 41 57 45 1 4
+Call For Service 25 10 34 1 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 9 8 30 1
+Penal Code Violation 34 52 76 6
+Equipment/Registration Violation 9 3 8
+Health & Safety Code Violation 4 14 17 2
+Other 27 40 47 1 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 128 96 442 7 19 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 69 90 192 7 9
+GRANTED?
+Yes 68 90 188 7 9
+WAS SEARCH CONDUCTED?
+Yes 141 134 415 5 21 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 25 21 26 1
+Odor of Contraband 2 1
+Incident to Pat Down/Frisk 20 10 91 1 6 1
+Incident to Arrest 51 46 183 10
+Impound Inventory 3
+Visible Contraband 3 1 5
+Consent 54 57 151 5 6
+Other 2 4
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 3 2 11
+Belongings 30 43 41 1 1
+Person 129 104 396 4 18 1
+Container 3 8 6 4
+Residence 2 1
+Office
+Other 1 4
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 3 2 5
+Money 3 2 3
+Drugs 7 7 16
+Alcohol 1 1 9
+Other Contraband 9 5 11 2
+Other Evidence of Crime 7 9 17 1
+Other Property 23 19 76 1 4
+Nothing 102 90 295 5 14 1
+ACTION TAKEN:
+Warning 67 62 161 4 1 4
+Citation 128 47 263 1 8 26 2
+Arrest 80 74 276 5 27
+Field Interview Completed 121 130 272 3 7 1
+None 12 22 25 3
+LOS ANGELES POLICE DEPARTMENT
+OVB -   Van Nuys AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+52 34 140 5 10
+GENDER
+Male 22 18 109 5 9
+Female 30 16 31 1
+APPARENT AGE
+ 1 - 17 5 3 27 4
+18 - 40 42 29 111 5 4
+41 - 60 4 2 1 2
+61 - 80 1 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 24 11 70 3 7
+Municipal Code Violation 1 1 10 1
+Suspect Flight 2 1
+Consensual 1 2 2
+Call For Service 3 8 1 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3 5 1
+Penal Code Violation 10 7 13
+Equipment/Registration Violation 8 6 26 1
+Health & Safety Code Violation 1 1 1
+Other 4 3 10
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 19 19 92 3 3
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 20 9 44 2 2
+GRANTED?
+Yes 20 9 43 2 2
+WAS SEARCH CONDUCTED?
+Yes 34 23 88 3 2
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 3 4 7
+Odor of Contraband 1
+Incident to Pat Down/Frisk 4 2 21 1
+Incident to Arrest 10 11 30 1
+Impound Inventory 4 10
+Visible Contraband 1 3
+Consent 15 5 33 2 2
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 11 5 32
+Belongings 6 8 6
+Person 26 20 77 3 2
+Container 1
+Residence 1
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 2
+Money 1 1 1
+Drugs 4 2 10
+Alcohol 1 2
+Other Contraband 2 3 3
+Other Evidence of Crime 6 3
+Other Property 4 3 9 1
+Nothing 24 9 66 3 1
+ACTION TAKEN:
+Warning 3 5 24 2 2
+Citation 14 7 31 1 5
+Arrest 10 10 21 1 1
+Field Interview Completed 23 14 52 1 2
+None 4 5 33 1
+LOS ANGELES POLICE DEPARTMENT
+OVB -   Van Nuys AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+1715 442 2057 63 92 27 286 8
+GENDER
+Male 1185 311 1622 45 68 18 220 7
+Female 530 131 435 18 24 9 66 1
+APPARENT AGE
+ 1 - 17 33 2 29 3 3 10
+18 - 40 1117 349 1740 46 66 18 190 8
+41 - 60 482 84 266 12 21 9 80
+61 - 80 78 7 21 2 2 4
+81+ 5 1 2
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 1255 283 1374 43 66 23 217 7
+Municipal Code Violation 7 2 8 3
+Suspect Flight 1 3 4
+Consensual 4 5 9 1
+Call For Service 14 1 14 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 15 3 18 1 2 4
+Penal Code Violation 17 3 36 1 1
+Equipment/Registration Violation 424 141 599 20 26 4 64 1
+Health & Safety Code Violation 2 4 5 2
+Other 19 12 43 3
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 252 106 606 6 12 1 32 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 138 72 407 3 5 1 18 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 73 41 173 1 1 9 1
+GRANTED?
+Yes 72 38 170 1 1 9 1
+WAS SEARCH CONDUCTED?
+Yes 208 96 526 4 7 1 24 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 14 14 17 1
+Odor of Contraband 2 6
+Incident to Pat Down/Frisk 21 10 62 1 4 1
+Incident to Arrest 59 22 168 2 1 7
+Impound Inventory 75 38 242 2 4 8
+Visible Contraband 8 2 3
+Consent 46 23 100 1 7
+Other 2 1 3
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 169 74 419 4 6 1 16 1
+Belongings 18 5 29 1
+Person 111 60 291 1 3 1 14 1
+Container 1 6
+Residence 2
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 4 1 5 1
+Money 4 2 6 1
+Drugs 16 9 15 1 2
+Alcohol 1 7 1
+Other Contraband 8 3 1 1
+Other Evidence of Crime 2 1 8
+Other Property 11 7 35 2
+Nothing 198 85 487 3 7 2 20 1
+ACTION TAKEN:
+Warning 298 99 303 9 15 6 28
+Citation 1361 316 1621 53 75 21 250 8
+Arrest 48 21 97 2 2 1 7
+Field Interview Completed 45 17 70 2 6
+None 13 7 39 1 1 2
+LOS ANGELES POLICE DEPARTMENT
+OWBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+286 443 643 7 14 3 93 1
+GENDER
+Male 169 325 522 5 9 3 66 1
+Female 117 118 121 2 5 27
+APPARENT AGE
+ 1 - 17 32 50 130 2 14
+18 - 40 223 349 493 7 11 3 68
+41 - 60 26 43 18 1 10
+61 - 80 4 1 2 1 1
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 203 281 474 6 11 3 75
+Municipal Code Violation 24 20 50 8
+Suspect Flight 3 3 16 1 2
+Consensual 8 7 11 1 1
+Call For Service 14 2 9 1 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 5 12 21
+Penal Code Violation 23 49 29 1 1
+Equipment/Registration Violation 28 78 89 5
+Health & Safety Code Violation 8 7 8 3 1
+Other 7 22 24 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 90 260 337 8 27 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 45 133 159 4 11 1
+GRANTED?
+Yes 45 132 159 4 11 1
+WAS SEARCH CONDUCTED?
+Yes 89 272 306 7 1 27 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 10 51 26
+Odor of Contraband 4 14 19 5
+Incident to Pat Down/Frisk 16 53 77 4 6
+Incident to Arrest 27 72 64 1 5 1
+Impound Inventory 7 12 26 1
+Visible Contraband 3 10 17
+Consent 32 98 125 2 9 1
+Other 5 4
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 31 68 109 4 1 6
+Belongings 9 25 17
+Person 79 237 266 4 26 1
+Container 1 2
+Residence
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 4 5 7 1 1
+Money 2 1 4
+Drugs 11 22 14 3
+Alcohol 2 1 21
+Other Contraband 3 8 6
+Other Evidence of Crime 1 5 9 1
+Other Property 3 17 20 1
+Nothing 80 227 252 6 1 25 1
+ACTION TAKEN:
+Warning 42 90 105 3 1 11
+Citation 162 147 302 7 5 2 64 1
+Arrest 33 65 46 3
+Field Interview Completed 52 133 161 4 9
+None 32 63 93 2 8
+LOS ANGELES POLICE DEPARTMENT
+OWBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+31206 9286 14873 2322 1051 1124 5507 102
+GENDER
+Male 20038 6070 11418 1494 671 681 3899 72
+Female 11161 3216 3453 827 380 443 1608 30
+APPARENT AGE
+ 1 - 17 333 94 205 16 12 11 82
+18 - 40 19576 6457 11630 1567 697 800 3479 71
+41 - 60 9291 2340 2805 623 290 243 1684 28
+61 - 80 1816 365 226 114 52 63 252 3
+81+ 188 29 6 2 7 9
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 26334 7012 11509 1882 851 882 4838 88
+Municipal Code Violation 114 86 134 4 9 2 40
+Suspect Flight 118 62 85 5 8 4 31 1
+Consensual 77 40 59 5 5 3 22
+Call For Service 43 23 58 6 1 16
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 36 23 34 7 1 5
+Penal Code Violation 63 50 68 3 1 3 7
+Equipment/Registration Violation 4943 2211 3187 461 199 248 665 15
+Health & Safety Code Violation 152 41 66 10 5 8 39
+Other 218 96 163 9 5 4 19
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 1487 1307 2315 43 47 23 347 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 587 743 1046 10 20 8 141
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 239 368 425 4 8 3 77
+GRANTED?
+Yes 234 366 413 4 8 3 76
+WAS SEARCH CONDUCTED?
+Yes 944 1071 1783 25 27 13 214
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 53 185 80 3 1 1 12
+Odor of Contraband 18 40 41 2 1 1 9
+Incident to Pat Down/Frisk 90 142 218 3 5 1 34
+Incident to Arrest 336 268 416 4 11 4 72
+Impound Inventory 344 407 913 15 6 8 79
+Visible Contraband 4 12 7 1
+Consent 151 227 272 4 6 1 45
+Other 6 16 9 7
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 600 832 1372 21 17 10 139
+Belongings 53 46 62 3 4 1 9
+Person 564 657 844 9 17 6 127
+Container 5 8 4
+Residence 1 1 1
+Office
+Other 3 5 8 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 16 15 24 1 4
+Money 13 16 11 1 2 3
+Drugs 53 70 28 1 1 8
+Alcohol 10 14 34 1
+Other Contraband 13 14 5 3
+Other Evidence of Crime 9 14 10 1
+Other Property 62 71 88 3 1 1 7
+Nothing 1112 1006 1789 31 32 26 274 1
+ACTION TAKEN:
+Warning 2718 1313 1646 107 82 94 425 11
+Citation 28229 7732 12928 2212 972 1026 5028 93
+Arrest 393 274 320 10 15 7 73 2
+Field Interview Completed 157 223 232 3 4 7 37
+None 76 82 91 7 1 1 18
+LOS ANGELES POLICE DEPARTMENT
+OWBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+3827 3198 3552 66 39 31 329 29
+GENDER
+Male 3066 2616 3179 39 26 26 254 22
+Female 761 582 373 27 13 5 75 7
+APPARENT AGE
+ 1 - 17 219 398 972 20 9 5 50
+18 - 40 2227 1744 2105 34 18 21 200 19
+41 - 60 1288 1021 440 10 8 5 78 10
+61 - 80 90 35 35 2 3 1
+81+ 3 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 1234 999 910 28 17 18 138 9
+Municipal Code Violation 1251 897 1490 30 8 7 86 11
+Suspect Flight 11 20 54 1 1
+Consensual 296 427 373 4 3 2 19 1
+Call For Service 92 96 159 1 14 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 85 115 104 1 3 1
+Penal Code Violation 274 337 327 3 7 3 28 1
+Equipment/Registration Violation 31 39 44 1 1
+Health & Safety Code Violation 221 145 99 2 2 1 11 2
+Other 613 324 321 4 4 43 2
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 959 1579 1843 12 9 10 126 8
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 407 757 868 2 8 3 41 3
+GRANTED?
+Yes 399 748 861 2 8 3 41 3
+WAS SEARCH CONDUCTED?
+Yes 953 1539 1662 13 14 9 128 8
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 170 393 159 6 1
+Odor of Contraband 13 15 39
+Incident to Pat Down/Frisk 118 273 360 2 2 23 1
+Incident to Arrest 388 485 539 8 2 3 59 5
+Impound Inventory 3 3 3
+Visible Contraband 11 15 24 4 4
+Consent 296 525 692 2 8 3 36 1
+Other 7 12 8 5
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 12 25 45 1 3
+Belongings 149 147 118 3 12
+Person 900 1505 1628 11 10 9 114 8
+Container 19 19 10 4
+Residence 7 8 3 2
+Office 1 1 8
+Other 13 11 8 3 4 3 4
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 16 18 47 1
+Money 11 15 18 1 1 2
+Drugs 60 103 63 5
+Alcohol 30 36 68 10
+Other Contraband 65 64 53 3 2 2 3
+Other Evidence of Crime 18 25 46 4 13
+Other Property 60 87 85 4 3 8
+Nothing 853 1290 1445 6 8 6 100 8
+ACTION TAKEN:
+Warning 511 665 700 6 5 4 52 4
+Citation 2402 1390 1752 46 24 23 193 19
+Arrest 866 613 639 12 5 2 65 7
+Field Interview Completed 857 936 1057 12 7 6 92 3
+None 87 178 213 3 3 13
+LOS ANGELES POLICE DEPARTMENT
+OWB -   West Traffic DivisionFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+209 88 113 11 9 5 10 3
+GENDER
+Male 156 66 96 4 5 4 5 1
+Female 53 22 17 7 4 1 5 2
+APPARENT AGE
+ 1 - 17 7 2 8
+18 - 40 126 51 78 10 5 5 4 3
+41 - 60 60 33 23 1 2 5
+61 - 80 13 2 4 1 1
+81+ 3 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 205 81 105 11 7 5 9 3
+Municipal Code Violation 2
+Suspect Flight 1 1
+Consensual 2
+Call For Service 1 2
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation 3 2 1 1
+Equipment/Registration Violation 2 1 1 1
+Health & Safety Code Violation 1
+Other 1 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 2 2 4
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1 1 3
+GRANTED?
+Yes 1 1 3
+WAS SEARCH CONDUCTED?
+Yes 2 2 6
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation
+Odor of Contraband
+Incident to Pat Down/Frisk 1
+Incident to Arrest 1
+Impound Inventory 1
+Visible Contraband
+Consent 1 3
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 1 1
+Belongings 1
+Person 1 2 5
+Container 1
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons
+Money
+Drugs
+Alcohol
+Other Contraband
+Other Evidence of Crime
+Other Property 1 1
+Nothing 3 2 7 1 2
+ACTION TAKEN:
+Warning 10 5 6 1 3
+Citation 198 81 105 11 7 5 8 3
+Arrest 1 3
+Field Interview Completed 1 2
+None 3 1
+LOS ANGELES POLICE DEPARTMENT
+OWB -   West Traffic DivisionFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+28 12 41 1 1 1 8
+GENDER
+Male 17 10 32 1 1 6
+Female 11 2 9 1 2
+APPARENT AGE
+ 1 - 17 1 7 1
+18 - 40 23 9 32 1 1 6
+41 - 60 2 3 1 1 1
+61 - 80 1 1
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 25 10 36 1 1 1 8
+Municipal Code Violation 1 1
+Suspect Flight 1
+Consensual
+Call For Service 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation
+Equipment/Registration Violation 2 1 4
+Health & Safety Code Violation 1
+Other
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 2 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes
+GRANTED?
+Yes
+WAS SEARCH CONDUCTED?
+Yes 1 2 9
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation
+Odor of Contraband 1
+Incident to Pat Down/Frisk 1
+Incident to Arrest 1 1
+Impound Inventory 1 3
+Visible Contraband
+Consent
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 1 7
+Belongings
+Person 2 2
+Container
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons
+Money
+Drugs
+Alcohol
+Other Contraband
+Other Evidence of Crime
+Other Property
+Nothing 1 2 9
+ACTION TAKEN:
+Warning 1 1 2
+Citation 26 10 38 1 1 1 8
+Arrest 1
+Field Interview Completed 1
+None 1
+LOS ANGELES POLICE DEPARTMENT
+OWB -   West Traffic DivisionFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+21055 4702 8537 1796 738 771 2829 65
+GENDER
+Male 13358 2707 6263 1149 459 466 1927 44
+Female 7693 1995 2274 646 279 305 902 21
+APPARENT AGE
+ 1 - 17 228 35 77 11 6 7 49
+18 - 40 12825 2959 6416 1170 464 533 1682 42
+41 - 60 6517 1419 1861 517 227 176 937 22
+61 - 80 1346 269 177 96 41 51 152 1
+81+ 138 20 5 2 4 8
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 17729 3727 6745 1416 590 576 2512 57
+Municipal Code Violation 44 18 41 2 3 2 3
+Suspect Flight 69 17 26 2 2 3 5 1
+Consensual 41 4 20 1 1 2 3
+Call For Service 26 13 39 3 10
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 16 2 8 4 2
+Penal Code Violation 11 1 4 1 1
+Equipment/Registration Violation 3501 990 1792 404 149 202 327 9
+Health & Safety Code Violation 91 18 30 8 4 7 23
+Other 7 1 3 1
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 678 182 827 16 23 9 129
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 177 42 126 6 2 35
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 40 10 22 1 10
+GRANTED?
+Yes 40 9 21 1 11
+WAS SEARCH CONDUCTED?
+Yes 331 118 562 6 8 4 52
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 1 6 1 1
+Odor of Contraband 1 1 4 1 1
+Incident to Pat Down/Frisk 11 7 15 1 4
+Incident to Arrest 178 32 103 5 1 30
+Impound Inventory 106 73 411 6 2 2 14
+Visible Contraband
+Consent 5 3 3 1
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 132 82 451 6 2 2 17
+Belongings 10 1 6 1 1
+Person 212 40 123 6 2 35
+Container
+Residence
+Office
+Other 1 3
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 3 4
+Money 5 2 3
+Drugs 9 1 1 1
+Alcohol 1 6
+Other Contraband
+Other Evidence of Crime 1 1
+Other Property 14 9 13 1
+Nothing 349 118 564 5 8 7 69
+ACTION TAKEN:
+Warning 1130 300 565 40 32 45 152 3
+Citation 19798 4380 7884 1758 707 727 2640 64
+Arrest 195 40 60 5 6 3 18 2
+Field Interview Completed 5 2 1
+None 25 9 6 1 2
+LOS ANGELES POLICE DEPARTMENT
+OWB -   Pacific AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+1640 1000 1030 21 8 7 69 17
+GENDER
+Male 1367 897 887 13 6 6 61 16
+Female 273 103 143 8 2 1 8 1
+APPARENT AGE
+ 1 - 17 94 187 351 4 6 11
+18 - 40 855 427 474 9 1 5 36 8
+41 - 60 644 371 197 6 2 22 9
+61 - 80 47 15 8 2 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 274 173 187 5 2 14 3
+Municipal Code Violation 605 361 466 13 6 2 21 8
+Suspect Flight 2 7 9
+Consensual 85 126 69 3 1 2 13 1
+Call For Service 45 22 43 2 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 58 73 41 1 1 1
+Penal Code Violation 78 44 43 1 2
+Equipment/Registration Violation 16 19 18
+Health & Safety Code Violation 124 72 41 2 1 1 1
+Other 518 209 217 2 19 2
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 303 428 386 4 3 10 4
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 148 227 140 1 4 2 1 2
+GRANTED?
+Yes 143 227 139 1 4 2 1 2
+WAS SEARCH CONDUCTED?
+Yes 313 427 353 1 5 2 12 4
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 60 162 48 1 1
+Odor of Contraband 7 8 7
+Incident to Pat Down/Frisk 59 87 107 2 1
+Incident to Arrest 93 97 131 1 7 2
+Impound Inventory 2 2
+Visible Contraband 6 5 2 2
+Consent 95 145 99 1 4 2 1 1
+Other 3 2 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 7 6 6
+Belongings 29 23 22 1 1
+Person 287 415 343 5 2 9 4
+Container 3 6 3 2
+Residence 1 1
+Office 1
+Other 9 5 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 7 4 3
+Money 2 7 2
+Drugs 21 34 13
+Alcohol 13 8 9 1
+Other Contraband 15 12 6
+Other Evidence of Crime 2 5 5
+Other Property 14 30 20 2
+Nothing 328 359 387 1 5 3 10 4
+ACTION TAKEN:
+Warning 185 181 159 2 6 2
+Citation 1141 473 644 12 5 2 40 12
+Arrest 407 229 235 5 1 1 5 6
+Field Interview Completed 390 318 265 8 1 5 22 3
+None 29 52 44 1 1 2
+LOS ANGELES POLICE DEPARTMENT
+OWB -   Pacific AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+107 151 232 2 1 9
+GENDER
+Male 68 115 174 1 1 6
+Female 39 36 58 1 3
+APPARENT AGE
+ 1 - 17 13 29 50
+18 - 40 84 112 175 2 1 9
+41 - 60 9 10 6
+61 - 80 1 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 74 96 162 2 1 8
+Municipal Code Violation 14 14 25
+Suspect Flight 1 2
+Consensual 3 4 3
+Call For Service 8 2 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 4 9 17
+Penal Code Violation 4 5 4
+Equipment/Registration Violation 10 31 41 1
+Health & Safety Code Violation 6 6 3
+Other 2 9 10
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 29 84 92 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 8 48 45
+GRANTED?
+Yes 8 47 45
+WAS SEARCH CONDUCTED?
+Yes 28 89 91 1 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 6 31 10
+Odor of Contraband 1 5 8
+Incident to Pat Down/Frisk 8 18 38
+Incident to Arrest 8 15 24 1
+Impound Inventory 1 5 8
+Visible Contraband 2 5 10
+Consent 4 29 28
+Other 3
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 13 23 31 1
+Belongings 2 6 2
+Person 24 77 81 1
+Container 1
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 1
+Money 1 1
+Drugs 5 9 7
+Alcohol 2 7
+Other Contraband 5 3
+Other Evidence of Crime 1
+Other Property 2 11 10
+Nothing 27 68 76 1 1
+ACTION TAKEN:
+Warning 12 28 30 1 1
+Citation 68 69 130 8
+Arrest 10 20 17
+Field Interview Completed 24 41 51 1
+None 9 19 26 1
+LOS ANGELES POLICE DEPARTMENT
+OWB -   Pacific AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+3682 1632 2215 194 108 159 522 26
+GENDER
+Male 2434 1146 1763 120 73 104 414 20
+Female 1246 486 451 74 35 55 108 6
+APPARENT AGE
+ 1 - 17 41 25 34 3 3 3
+18 - 40 2514 1236 1843 141 80 120 371 20
+41 - 60 969 332 322 44 22 28 138 4
+61 - 80 148 38 16 9 3 5 10 2
+81+ 9 1 3
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 2910 1135 1583 169 85 130 429 23
+Municipal Code Violation 31 28 29 1 9
+Suspect Flight 15 2 7 1
+Consensual 11 5 7 2 1 1
+Call For Service 7 2 3 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 14 13 20 2 2
+Penal Code Violation 9 12 11
+Equipment/Registration Violation 735 467 577 26 24 29 87 3
+Health & Safety Code Violation 32 10 15 6
+Other 185 49 87 8 4 4 10
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 291 303 417 7 3 7 34
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 159 176 234 1 3 3 23
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 81 85 112 1 1 1 19
+GRANTED?
+Yes 80 84 110 1 1 1 17
+WAS SEARCH CONDUCTED?
+Yes 243 265 354 5 3 6 31
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 21 49 27 1 1 2
+Odor of Contraband 6 8 8 1 1
+Incident to Pat Down/Frisk 42 34 54 1 1 11
+Incident to Arrest 56 66 72 1 1 2 9
+Impound Inventory 91 102 162 3 4 14
+Visible Contraband 3 6 3
+Consent 63 50 68 1 1 1 13
+Other 3 1 2 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 188 204 274 5 2 6 25
+Belongings 17 6 9 1 1
+Person 136 160 194 1 2 3 19
+Container 2 2 2
+Residence 1 1
+Office
+Other 1 2 2
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 4 2 5
+Money 4 5 1 1
+Drugs 20 13 10 1 2
+Alcohol 6 7 7
+Other Contraband 8 3 2
+Other Evidence of Crime 4 1 1
+Other Property 24 24 27 1 1
+Nothing 330 272 378 8 6 12 60
+ACTION TAKEN:
+Warning 600 354 384 23 13 24 68 2
+Citation 3036 1214 1773 171 96 132 450 24
+Arrest 83 65 75 2 2 3 10
+Field Interview Completed 74 61 78 1 1 5 11
+None 24 26 31 3 1 4
+LOS ANGELES POLICE DEPARTMENT
+OWB -   West Los Angeles AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+805 530 525 12 3 8 82
+GENDER
+Male 688 488 487 9 2 5 69
+Female 117 42 38 3 1 3 13
+APPARENT AGE
+ 1 - 17 69 79 172 3 1 15
+18 - 40 344 202 289 8 2 7 52
+41 - 60 373 241 55 1 1 15
+61 - 80 19 8 9
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 281 194 78 8 2 6 49
+Municipal Code Violation 375 179 264 4 1 1 17
+Suspect Flight 4 2 9
+Consensual 46 69 79 2
+Call For Service 28 23 40 4
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 22 23 36 1
+Penal Code Violation 48 26 31 1 6
+Equipment/Registration Violation 1 1
+Health & Safety Code Violation 13 5 9 6
+Other 47 31 36 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 154 223 275 2 1 18
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 55 107 131 1 7
+GRANTED?
+Yes 54 107 131 1 6
+WAS SEARCH CONDUCTED?
+Yes 145 199 245 1 1 18
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 8 41 19
+Odor of Contraband 5 1 5
+Incident to Pat Down/Frisk 20 40 54 8
+Incident to Arrest 57 46 68 3
+Impound Inventory 1
+Visible Contraband 2 2 2 1
+Consent 45 79 95 1 5
+Other 3 4 4 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 2 2 1
+Belongings 27 19 27 1 3
+Person 134 196 236 1 1 14
+Container 2 1
+Residence 1 1
+Office
+Other 2 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2 3 4
+Money 2 1 1
+Drugs 5 3 6 2
+Alcohol 6 10 6
+Other Contraband 4 5 10 1
+Other Evidence of Crime 1 2 8
+Other Property 12 6 16
+Nothing 132 174 206 1 2 16
+ACTION TAKEN:
+Warning 91 97 98 3 1 1 12
+Citation 546 263 205 9 2 6 54
+Arrest 195 61 99 2 1 8
+Field Interview Completed 169 201 212 1 1 24
+None 17 26 42 5
+LOS ANGELES POLICE DEPARTMENT
+OWB -   West Los Angeles AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+49 45 84 1 4 1 14
+GENDER
+Male 35 35 67 4 1 13
+Female 14 10 17 1 1
+APPARENT AGE
+ 1 - 17 14 7 27 7
+18 - 40 26 36 54 1 4 1 6
+41 - 60 8 2 3 1
+61 - 80 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 36 23 63 3 1 11
+Municipal Code Violation 5 2 5 2
+Suspect Flight 2
+Consensual 1
+Call For Service 5 2 1 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1 2
+Penal Code Violation 2 1 7 1
+Equipment/Registration Violation 4 16 11
+Health & Safety Code Violation
+Other 3 4 4 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 17 21 53 4 7
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 12 12 18 1 5
+GRANTED?
+Yes 12 12 18 1 5
+WAS SEARCH CONDUCTED?
+Yes 16 23 44 3 7
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 5 2
+Odor of Contraband 1 2
+Incident to Pat Down/Frisk 2 5 12 2 1
+Incident to Arrest 3 9 1
+Impound Inventory 3 3 6
+Visible Contraband
+Consent 12 9 17 1 5
+Other 5 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 8 11 17 1 1
+Belongings 1 1 2
+Person 14 14 38 2 7
+Container
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1
+Money
+Drugs 1 1
+Alcohol 3
+Other Contraband
+Other Evidence of Crime 1 6 1
+Other Property 1
+Nothing 15 20 36 3 6
+ACTION TAKEN:
+Warning 8 9 16 2
+Citation 28 8 29 1 1 7
+Arrest 3 2 2
+Field Interview Completed 8 23 43 3 6
+None 10 7 2 3
+LOS ANGELES POLICE DEPARTMENT
+OWB -   West Los Angeles AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+3548 699 1152 162 85 114 632 5
+GENDER
+Male 2149 483 895 105 43 60 429 5
+Female 1399 216 257 57 42 54 203
+APPARENT AGE
+ 1 - 17 39 5 25 5 1 17
+18 - 40 2006 516 883 127 60 84 379 3
+41 - 60 1218 156 227 27 22 26 196 2
+61 - 80 254 20 16 3 3 3 39
+81+ 31 2 1 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 3370 551 1010 153 80 107 592 3
+Municipal Code Violation 8 6 4 1
+Suspect Flight 2 1 1
+Consensual 5 5 1 1
+Call For Service 7 2 5 5
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3 4 2 1
+Penal Code Violation 2 1 14 1 2
+Equipment/Registration Violation 160 126 108 8 5 6 33 2
+Health & Safety Code Violation 6 2 3 1 1
+Other 10 12 19 1 4
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 144 145 198 5 7 4 40 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 54 80 136 2 5 2 22
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 27 40 53 1 3 12
+GRANTED?
+Yes 27 40 49 1 3 12
+WAS SEARCH CONDUCTED?
+Yes 103 115 165 5 6 2 34
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 6 15 9 2
+Odor of Contraband 2 3 1
+Incident to Pat Down/Frisk 8 10 24 5
+Incident to Arrest 22 28 38 1 3 8
+Impound Inventory 54 55 70 3 3 2 13
+Visible Contraband
+Consent 20 29 37 1 2 8
+Other 4 2 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 84 100 132 4 4 2 26
+Belongings 9 9 10 1 3
+Person 42 64 91 2 3 20
+Container 2
+Residence 1
+Office
+Other 1 2
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 3 1
+Money 1
+Drugs 1 6 2 2
+Alcohol 1 1 2
+Other Contraband 3 2
+Other Evidence of Crime 2 2
+Other Property 8 6 12 1 3
+Nothing 131 104 156 6 5 3 34
+ACTION TAKEN:
+Warning 461 151 192 17 13 13 51 4
+Citation 3063 518 919 143 71 100 569 1
+Arrest 24 23 21 2 1 6
+Field Interview Completed 26 46 37 2 10
+None 10 9 16 1 3
+LOS ANGELES POLICE DEPARTMENT
+OWB -   Wilshire AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+136 554 1012 8 8 2 100
+GENDER
+Male 98 426 931 4 6 2 63
+Female 38 128 81 4 2 37
+APPARENT AGE
+ 1 - 17 7 69 273 5 16
+18 - 40 86 294 641 1 3 1 58
+41 - 60 40 185 94 2 5 1 26
+61 - 80 3 6 4
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 61 165 341 1 1 2 28
+Municipal Code Violation 28 124 412 5 1 38
+Suspect Flight 5 8 26 1
+Consensual 16 105 109 1 1 2
+Call For Service 10 39 40 1 7
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 6 6
+Penal Code Violation 18 77 144 3 15
+Equipment/Registration Violation 10 16 22
+Health & Safety Code Violation 1 24 21 1
+Other 2 22 30 1 4 12
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 52 349 612 2 3 62
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 25 187 324 3 16
+GRANTED?
+Yes 25 183 322 3 17
+WAS SEARCH CONDUCTED?
+Yes 55 350 572 2 7 66
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 5 79 51 2
+Odor of Contraband 3 24
+Incident to Pat Down/Frisk 8 61 135 10
+Incident to Arrest 29 104 169 2 39
+Impound Inventory 1
+Visible Contraband 1 2 8 4 1
+Consent 15 136 266 3 16
+Other 1 4 2 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 10 25
+Belongings 8 35 36 5
+Person 51 342 560 2 3 60
+Container 1 6 3 2
+Residence 2 1 1
+Office 7
+Other 1 1 1 4 4
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 4 20 1
+Money 4 11 1 2
+Drugs 3 24 29 2
+Alcohol 3 28 9
+Other Contraband 3 16 15 2 1
+Other Evidence of Crime 2 9 23 4 12
+Other Property 2 22 8 3
+Nothing 45 292 468 2 1 40
+ACTION TAKEN:
+Warning 28 169 276 1 1 20
+Citation 60 138 440 4 3 1 53
+Arrest 34 112 157 3 3 42
+Field Interview Completed 35 192 305 1 5 36
+None 6 54 72 2 1 3
+LOS ANGELES POLICE DEPARTMENT
+OWB -   Wilshire AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+19 123 133 4 2 34
+GENDER
+Male 11 85 115 3 1 19
+Female 8 38 18 1 1 15
+APPARENT AGE
+ 1 - 17 11 24 4
+18 - 40 17 88 101 4 2 24
+41 - 60 2 23 8 5
+61 - 80 1 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 16 86 96 4 1 30
+Municipal Code Violation 2 1 10 4
+Suspect Flight 2 2 10 1 2
+Consensual 1 2 7 1
+Call For Service 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 2 2
+Penal Code Violation 9 5
+Equipment/Registration Violation 4 26 21 1
+Health & Safety Code Violation 4
+Other 5 4 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 9 81 90 1 5
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 6 53 49 1
+GRANTED?
+Yes 6 53 49 1
+WAS SEARCH CONDUCTED?
+Yes 9 83 77 1 6
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 2 9 7
+Odor of Contraband 1 3 5
+Incident to Pat Down/Frisk 2 17 16 3
+Incident to Arrest 4 19 15 1 2
+Impound Inventory 1 3 4 1
+Visible Contraband 3 4
+Consent 3 41 40
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 3 20 36 1 1
+Belongings 2 8 9
+Person 8 73 69 5
+Container
+Residence
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 5 6 1
+Money 1 1 3
+Drugs 1 8 4
+Alcohol 6
+Other Contraband 2 1 2
+Other Evidence of Crime 3 2
+Other Property 2 6
+Nothing 6 68 57 6
+ACTION TAKEN:
+Warning 3 31 25 2
+Citation 8 22 45 4 1 29
+Arrest 4 17 15 2
+Field Interview Completed 2 36 33
+None 3 29 30 4
+LOS ANGELES POLICE DEPARTMENT
+OWB -   Wilshire AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+1011 1457 1752 102 68 39 1217 4
+GENDER
+Male 683 1081 1451 67 53 25 871 2
+Female 328 376 301 35 15 14 346 2
+APPARENT AGE
+ 1 - 17 6 22 43 2 3
+18 - 40 709 1066 1408 75 51 28 809 4
+41 - 60 253 332 290 23 12 7 360
+61 - 80 37 31 11 4 3 4 45
+81+ 6 5
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 771 987 1219 87 55 32 1054 3
+Municipal Code Violation 24 32 51 1 5 25
+Suspect Flight 31 42 50 2 6 1 26
+Consensual 18 26 31 2 3 1 17
+Call For Service 1 5 11 1 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1 2
+Penal Code Violation 6 14 16
+Equipment/Registration Violation 241 470 484 14 12 9 168 1
+Health & Safety Code Violation 4 7 9 1 1 8
+Other 4 24 36 1 4
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 77 431 515 6 5 1 79
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 38 298 312 5 1 1 29
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 18 167 139 2 1 1 13
+GRANTED?
+Yes 18 167 137 2 1 1 13
+WAS SEARCH CONDUCTED?
+Yes 63 385 436 4 5 1 59
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 9 98 29 1 5
+Odor of Contraband 7 25 25 1 8
+Incident to Pat Down/Frisk 11 71 89 2 2 10
+Incident to Arrest 11 88 119 1 1 1 19
+Impound Inventory 29 109 179 1 1 32
+Visible Contraband 5 2 1
+Consent 15 104 98 2 1 5
+Other 8 2 3
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 49 311 333 3 5 47
+Belongings 6 24 31 2 3 4
+Person 30 263 255 4 1 1 26
+Container 3
+Residence
+Office
+Other 3 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 4 9 13 1 2
+Money 2 8 5 1 1 2
+Drugs 3 37 10 1 2
+Alcohol 3 13
+Other Contraband 7 1
+Other Evidence of Crime 7 6 1
+Other Property 3 16 19 3
+Nothing 72 331 404 6 5 1 63
+ACTION TAKEN:
+Warning 159 351 291 15 12 5 104 1
+Citation 863 1032 1407 85 59 34 1122 3
+Arrest 35 103 110 4 1 33
+Field Interview Completed 10 87 71 1 1 12
+None 8 29 22 2 6
+LOS ANGELES POLICE DEPARTMENT
+OWB -   Hollywood AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+1037 1026 871 14 11 9 67 9
+GENDER
+Male 757 739 777 9 7 9 55 5
+Female 280 287 94 5 4 12 4
+APPARENT AGE
+ 1 - 17 42 61 168 8 2 5 8
+18 - 40 816 770 622 6 7 3 49 8
+41 - 60 171 191 71 1 1 10 1
+61 - 80 8 4 10 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 413 386 199 3 7 3 38 3
+Municipal Code Violation 243 233 346 8 4 9 3
+Suspect Flight 2 9 1
+Consensual 149 125 116 1 2
+Call For Service 8 10 36 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 5 13 21 1
+Penal Code Violation 127 188 108 3 2 2 5 1
+Equipment/Registration Violation 5 1 2
+Health & Safety Code Violation 82 44 28 4 2
+Other 46 61 34 1 9
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 448 577 565 8 2 6 36 4
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 178 235 270 1 1 16 1
+GRANTED?
+Yes 176 230 266 1 1 16 1
+WAS SEARCH CONDUCTED?
+Yes 438 561 485 9 2 6 31 4
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 97 111 40 3
+Odor of Contraband 1 3 3
+Incident to Pat Down/Frisk 31 85 63 2 2 3
+Incident to Arrest 209 238 170 6 1 3 10 3
+Impound Inventory 1 1
+Visible Contraband 2 6 12
+Consent 140 165 229 1 1 13
+Other 1 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 4 7 11 1 2
+Belongings 85 70 32 1 3
+Person 427 550 483 8 2 6 31 4
+Container 13 6 3
+Residence 3 6 3
+Office 1
+Other 1 5 5 3 3
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 6 7 20
+Money 7 3 4 1
+Drugs 31 42 15 1
+Alcohol 11 15 25
+Other Contraband 43 31 22 3 2 1
+Other Evidence of Crime 13 9 10 1
+Other Property 32 28 40 4 3 2
+Nothing 345 463 376 1 2 1 32 4
+ACTION TAKEN:
+Warning 197 213 161 3 2 11 2
+Citation 457 435 358 10 7 9 37 4
+Arrest 230 210 144 2 1 10 1
+Field Interview Completed 262 225 273 2 1 10
+None 35 43 55 3
+LOS ANGELES POLICE DEPARTMENT
+OWB -   Hollywood AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+83 111 149 1 5 27 1
+GENDER
+Male 38 79 132 1 3 21 1
+Female 45 32 17 2 6
+APPARENT AGE
+ 1 - 17 4 3 22 2 2
+18 - 40 73 103 127 1 3 22
+41 - 60 5 5 3
+61 - 80 1 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 52 65 113 1 4 17
+Municipal Code Violation 2 3 9 2
+Suspect Flight 2
+Consensual 3 1 1 1
+Call For Service 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1
+Penal Code Violation 17 34 13 1
+Equipment/Registration Violation 8 4 12 3
+Health & Safety Code Violation 2 1 3 1
+Other 2 4 6 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 35 72 100 3 14 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 19 20 47 3 5 1
+GRANTED?
+Yes 19 20 47 3 5 1
+WAS SEARCH CONDUCTED?
+Yes 35 75 85 3 13 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 2 6 7
+Odor of Contraband 1 3 6 5
+Incident to Pat Down/Frisk 4 13 10 2 2
+Incident to Arrest 15 34 15 1 1
+Impound Inventory 1 1 5
+Visible Contraband 1 2 3
+Consent 13 19 40 1 4 1
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 6 14 18 2 4
+Belongings 4 10 4
+Person 33 71 76 2 13 1
+Container 1 1
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2
+Money
+Drugs 4 4 3 3
+Alcohol 1 5
+Other Contraband 1 2 1
+Other Evidence of Crime 1 1
+Other Property 1 3 4 1
+Nothing 31 69 74 3 12 1
+ACTION TAKEN:
+Warning 18 21 32 9
+Citation 32 37 56 1 3 11 1
+Arrest 16 25 12 1
+Field Interview Completed 18 32 34 1 2
+None 9 8 35 1 1
+LOS ANGELES POLICE DEPARTMENT
+OWB -   Hollywood AreaFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+1906 791 1215 67 52 41 304 2
+GENDER
+Male 1411 649 1044 52 43 26 257 1
+Female 494 142 170 15 9 15 47 1
+APPARENT AGE
+ 1 - 17 19 7 26 1 10
+18 - 40 1521 675 1078 53 42 35 236 2
+41 - 60 332 101 105 12 7 6 52
+61 - 80 30 7 6 2 2 6
+81+ 4 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 1550 608 950 56 41 37 248 2
+Municipal Code Violation 7 2 9 1 2
+Suspect Flight 1 1
+Consensual 2
+Call For Service 2 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 2 4 2 1 1
+Penal Code Violation 35 22 23 2 1 2 4
+Equipment/Registration Violation 306 157 226 9 9 2 50
+Health & Safety Code Violation 19 4 9 1 1
+Other 12 10 18
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 297 244 358 9 9 2 65
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 159 146 238 2 5 32
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 73 64 99 3 23
+GRANTED?
+Yes 69 64 96 3 23
+WAS SEARCH CONDUCTED?
+Yes 204 186 266 5 5 38
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 16 22 9 1 2
+Odor of Contraband 2 3 3
+Incident to Pat Down/Frisk 18 20 36 2 4
+Incident to Arrest 69 53 84 1 1 6
+Impound Inventory 64 68 91 2 6
+Visible Contraband 1 1 2
+Consent 48 40 66 2 18
+Other 2 3 3
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 147 133 182 3 4 24
+Belongings 11 6 6
+Person 144 129 181 2 5 27
+Container 3 3
+Residence
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 4 1 1 2
+Money 2 1 2
+Drugs 20 13 5 1
+Alcohol 3 2 6 1
+Other Contraband 5 1 2 1
+Other Evidence of Crime 4 4
+Other Property 13 16 17 1 1
+Nothing 230 178 287 6 8 3 48 1
+ACTION TAKEN:
+Warning 367 157 213 12 12 7 50 1
+Citation 1466 583 944 54 39 33 244 1
+Arrest 56 43 54 1 2 6
+Field Interview Completed 42 27 45 1 2 4
+None 9 9 16 1 3
+LOS ANGELES POLICE DEPARTMENT
+OHBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+92 327 411 4 1 14 1
+GENDER
+Male 56 252 359 3 1 12
+Female 36 75 52 1 2 1
+APPARENT AGE
+ 1 - 17 5 28 79 1
+18 - 40 69 242 309 4 12
+41 - 60 17 55 22 1 1 1
+61 - 80 1 2 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 38 189 239 2 7 1
+Municipal Code Violation 2 5 17
+Suspect Flight 1 5
+Consensual 9 6 9 1
+Call For Service 3 4 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 2 4 7
+Penal Code Violation 10 42 41 1 3
+Equipment/Registration Violation 18 46 55 1 2
+Health & Safety Code Violation 13 35 56 1 1
+Other 2 11 9
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 46 213 290 1 1 5
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 29 120 138 1 4
+GRANTED?
+Yes 28 120 138 1 4
+WAS SEARCH CONDUCTED?
+Yes 53 227 301 2 1 6 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 2 34 15
+Odor of Contraband 1 3 13
+Incident to Pat Down/Frisk 11 82 118 1 1
+Incident to Arrest 17 23 57 1
+Impound Inventory 1 1 6
+Visible Contraband 2 11 10 2 1
+Consent 26 103 120 1 3
+Other 2 4 8
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 10 45 68 1 1 1 1
+Belongings 5 9 9 1
+Person 43 217 290 1 1 6
+Container 2 1 2
+Residence 1 2
+Office
+Other 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2 5 6
+Money 1 4 13
+Drugs 9 25 43 1
+Alcohol 3 8 9
+Other Contraband 4 8 4 1
+Other Evidence of Crime 2 1 16
+Other Property 1 15 18 1
+Nothing 39 170 223 2 1 4 1
+ACTION TAKEN:
+Warning 21 68 73 1
+Citation 14 63 79 2 7
+Arrest 22 56 76 1
+Field Interview Completed 62 213 272 1 1 8 1
+None 6 20 31 1 1
+LOS ANGELES POLICE DEPARTMENT
+OHBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+1096 1462 2266 206 72 54 319 4
+GENDER
+Male 800 1156 1911 148 54 40 248 3
+Female 296 305 355 58 18 14 71 1
+APPARENT AGE
+ 1 - 17 18 16 51 1 1 5
+18 - 40 756 1083 1879 144 45 37 207 4
+41 - 60 271 333 316 57 24 15 96
+61 - 80 51 28 20 4 2 2 10
+81+ 2 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 749 996 1504 136 50 42 240 3
+Municipal Code Violation 120 47 234 58 12 8 40
+Suspect Flight 2 6 10 2 1
+Consensual 12 16 31 2 4
+Call For Service 2 2 5 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3 5 8 1
+Penal Code Violation 8 24 25 2
+Equipment/Registration Violation 205 345 464 24 15 5 42
+Health & Safety Code Violation 28 52 82 1 1 2 1
+Other 10 15 33 1 1
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 263 800 1028 10 10 8 47 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 156 599 646 4 5 1 23 3
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 96 320 322 3 2 15 1
+GRANTED?
+Yes 94 317 323 3 2 15 1
+WAS SEARCH CONDUCTED?
+Yes 181 641 733 6 5 2 25 3
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 14 70 35 1
+Odor of Contraband 4 32 13
+Incident to Pat Down/Frisk 44 237 255 2 1 1 6 2
+Incident to Arrest 43 86 143 2 6 1
+Impound Inventory 16 49 143 2 1 1 3
+Visible Contraband 5 20 19 1
+Consent 83 284 290 2 2 11
+Other 4 14 15 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 110 338 422 3 3 1 16 2
+Belongings 10 20 31
+Person 155 577 630 4 5 1 19 3
+Container 2 2 7
+Residence 4 3 7
+Office 1
+Other 1 2
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2 17 11
+Money 7 15 29 1
+Drugs 25 71 87 4 1
+Alcohol 17 15
+Other Contraband 10 16 15 1
+Other Evidence of Crime 6 10 20
+Other Property 5 70 36 2
+Nothing 148 487 612 10 6 2 27 2
+ACTION TAKEN:
+Warning 187 344 338 21 8 3 31
+Citation 827 923 1702 188 61 50 279 3
+Arrest 46 125 171 3 3 5 1
+Field Interview Completed 169 516 633 4 4 4 28 2
+None 4 11 11 2
+LOS ANGELES POLICE DEPARTMENT
+OHBFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+2685 5568 5068 55 110 59 240 36
+GENDER
+Male 2104 4494 4127 37 71 38 182 27
+Female 581 1074 941 18 39 21 58 9
+APPARENT AGE
+ 1 - 17 226 940 1626 9 20 2 42 3
+18 - 40 1772 3089 2915 37 69 45 151 21
+41 - 60 647 1492 498 9 19 8 33 12
+61 - 80 39 46 29 2 4 14
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 195 682 354 2 4 1 15 3
+Municipal Code Violation 128 520 620 2 3 11 5
+Suspect Flight 35 50 54 1 1
+Consensual 200 412 315 2 5 2 1
+Call For Service 15 50 27 2 1 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 23 89 71
+Penal Code Violation 2030 3312 3142 50 96 55 203 26
+Equipment/Registration Violation 4 33 16 1
+Health & Safety Code Violation 185 521 612 3 4 2 9 2
+Other 29 165 134 1 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 525 1971 1860 7 14 5 23 6
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 350 1103 975 4 9 3 11 2
+GRANTED?
+Yes 346 1089 970 4 9 3 10 2
+WAS SEARCH CONDUCTED?
+Yes 604 2081 1968 6 15 5 27 6
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 79 318 91 2 1
+Odor of Contraband 10 49 92
+Incident to Pat Down/Frisk 117 542 402 4 3 1 5 2
+Incident to Arrest 196 504 689 2 4 1 10 1
+Impound Inventory 1 1 2
+Visible Contraband 32 121 203 2 1 3
+Consent 290 952 795 2 7 3 9 2
+Other 6 20 20 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 19 23 43 1 1
+Belongings 111 210 322 2 4 2 4 1
+Person 569 2024 1888 6 14 5 25 6
+Container 11 14 31
+Residence 15 15 28
+Office 7
+Other 5 10 16 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 11 39 26 1 1
+Money 12 58 73
+Drugs 119 280 284 1 3 5
+Alcohol 7 45 50
+Other Contraband 58 132 97 4 4
+Other Evidence of Crime 19 35 146 1 1
+Other Property 23 142 94 1 1 1
+Nothing 414 1485 1332 4 10 4 16 6
+ACTION TAKEN:
+Warning 238 803 686 8 5 3 10 6
+Citation 2019 3511 3248 45 98 52 212 26
+Arrest 286 718 853 2 9 1 17 3
+Field Interview Completed 573 1798 1519 1 8 3 23 11
+None 18 65 66 1 1 1
+LOS ANGELES POLICE DEPARTMENT
+OHB - Uniformed Services GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+390 1791 981 2 4 2 22 9
+GENDER
+Male 303 1580 919 1 2 2 19 6
+Female 87 211 62 1 2 3 3
+APPARENT AGE
+ 1 - 17 6 87 114 1
+18 - 40 236 979 732 1 1 1 14 6
+41 - 60 148 706 132 1 2 1 7 3
+61 - 80 19 3 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 104 589 256 1 2 1 6 3
+Municipal Code Violation 82 355 247 6 5
+Suspect Flight 25 14
+Consensual 96 318 163 3 2 1
+Call For Service 4 24 5
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 18 86 67
+Penal Code Violation 31 84 46 1
+Equipment/Registration Violation 3 14 14
+Health & Safety Code Violation 51 265 137 1 1 4
+Other 21 149 102 3
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 258 1396 787 1 1 2 13 4
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 182 847 451 1 2 6 2
+GRANTED?
+Yes 182 840 449 1 2 5 2
+WAS SEARCH CONDUCTED?
+Yes 284 1465 798 1 2 2 16 4
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 42 251 56 2 1
+Odor of Contraband 4 12 21
+Incident to Pat Down/Frisk 79 443 277 1 1 3
+Incident to Arrest 61 230 122 4 1
+Impound Inventory 1
+Visible Contraband 2 58 26 2
+Consent 157 765 405 1 2 6 2
+Other 2 16 12 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 3 12 6 1
+Belongings 32 73 15 1 1
+Person 273 1438 790 1 2 2 15 4
+Container 5 8 2
+Residence 1 6
+Office 1
+Other 1 9 5
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 30 10
+Money 1 16 9
+Drugs 33 148 62 3
+Alcohol 5 45 37
+Other Contraband 16 99 25 1 2
+Other Evidence of Crime 4 14 5
+Other Property 10 111 52 1
+Nothing 221 1080 621 1 1 2 10 4
+ACTION TAKEN:
+Warning 122 591 294 1 4 4
+Citation 50 342 203 1 7 2
+Arrest 81 353 172 1 9 3
+Field Interview Completed 321 1391 808 1 2 1 16 7
+None 1 32 11
+LOS ANGELES POLICE DEPARTMENT
+OHB - Uniformed Services GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+49 244 277 2 1 6
+GENDER
+Male 32 194 250 1 1 4
+Female 17 50 27 1 2
+APPARENT AGE
+ 1 - 17 1 15 46
+18 - 40 39 196 220 2 5
+41 - 60 9 33 10 1 1
+61 - 80 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 27 172 194 1 4
+Municipal Code Violation 1 5 5
+Suspect Flight 1 3
+Consensual 1 2 4
+Call For Service 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 2 4 7
+Penal Code Violation 14 7
+Equipment/Registration Violation 16 42 52 1 2
+Health & Safety Code Violation 2 9 13 1
+Other 1 10 7
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 27 174 211 1 1 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 13 89 96 1 2
+GRANTED?
+Yes 13 89 96 1 2
+WAS SEARCH CONDUCTED?
+Yes 28 183 213 2 1 3
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 1 32 12
+Odor of Contraband 3 11
+Incident to Pat Down/Frisk 9 77 113 1
+Incident to Arrest 5 16 16 1
+Impound Inventory 1 1 2
+Visible Contraband 1 6 6 1
+Consent 13 76 86 1 2
+Other 2 3 3
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 3 33 34 1 1
+Belongings 1 4 4 1
+Person 25 175 209 1 1 3
+Container 1
+Residence
+Office
+Other 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 4 2
+Money 3
+Drugs 1 11 13 1
+Alcohol 2 8 8
+Other Contraband 1 3 1 1
+Other Evidence of Crime
+Other Property 1 15 16 1
+Nothing 25 143 180 2 1 1
+ACTION TAKEN:
+Warning 15 63 65
+Citation 2 29 28 2
+Arrest 8 32 26 1
+Field Interview Completed 39 175 206 1 1 6
+None 5 13 26 1
+LOS ANGELES POLICE DEPARTMENT
+OHB - Uniformed Services GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+373 1092 1211 30 18 13 81 3
+GENDER
+Male 299 888 1075 25 13 13 69 2
+Female 74 203 136 5 5 12 1
+APPARENT AGE
+ 1 - 17 5 13 39 2
+18 - 40 275 832 1037 20 14 10 55 3
+41 - 60 80 224 129 9 4 2 23
+61 - 80 13 22 6 1 1 1
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 261 776 857 25 12 12 63 3
+Municipal Code Violation 7 11
+Suspect Flight 4 1
+Consensual 3 6 3
+Call For Service 1 1 2
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 3 5 8
+Penal Code Violation 4 15 13
+Equipment/Registration Violation 97 283 317 5 5 1 19
+Health & Safety Code Violation 9 11 10 1
+Other 6 12 17 1
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 182 698 779 6 8 4 33 2
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 97 520 483 4 4 1 17 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 67 269 234 3 2 12
+GRANTED?
+Yes 66 267 234 3 2 12
+WAS SEARCH CONDUCTED?
+Yes 109 540 503 4 4 1 17 2
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 7 63 29 1
+Odor of Contraband 1 30 9
+Incident to Pat Down/Frisk 38 223 230 2 1 1 6 2
+Incident to Arrest 13 61 54 1 3
+Impound Inventory 7 32 62
+Visible Contraband 2 18 10
+Consent 63 240 217 2 2 9
+Other 1 12 8
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 52 255 221 1 3 8 1
+Belongings 4 14 13
+Person 97 502 468 4 4 1 16 2
+Container 1 1 2
+Residence 1 1
+Office 1
+Other 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 13 6
+Money 6 2
+Drugs 6 40 26 1
+Alcohol 15 13
+Other Contraband 4 9 6
+Other Evidence of Crime 6 2
+Other Property 4 66 27 2
+Nothing 99 411 436 4 4 1 14 2
+ACTION TAKEN:
+Warning 100 293 236 4 4 14
+Citation 234 659 862 26 11 12 61 3
+Arrest 12 74 60 1 2
+Field Interview Completed 125 460 517 4 4 4 24 2
+None 2 9 6 1
+LOS ANGELES POLICE DEPARTMENT
+OHB - Transit GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+2079 3415 3350 49 100 56 214 27
+GENDER
+Male 1644 2632 2552 32 64 35 160 21
+Female 435 783 798 17 36 21 54 6
+APPARENT AGE
+ 1 - 17 175 747 1084 6 18 2 39 3
+18 - 40 1410 1956 1923 35 63 43 136 15
+41 - 60 455 688 319 8 17 7 26 9
+61 - 80 38 23 24 2 4 13
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 77 82 91 1 2 9
+Municipal Code Violation 35 128 247 2 2 4
+Suspect Flight 29 18 35 1 1
+Consensual 20 23 31 1
+Call For Service 11 23 22 2 1 3
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 4 3 4
+Penal Code Violation 1985 3185 3023 48 95 55 202 26
+Equipment/Registration Violation 1 19 2 1
+Health & Safety Code Violation 25 16 22 1 1 1 2
+Other 3 10 10 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 113 273 453 2 7 2 6 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 36 92 196 1 5 1 3
+GRANTED?
+Yes 34 89 195 1 5 1 3
+WAS SEARCH CONDUCTED?
+Yes 118 287 482 1 8 2 7 2
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 16 40 17
+Odor of Contraband 3 5
+Incident to Pat Down/Frisk 35 80 94 1 2 1 2 2
+Incident to Arrest 52 153 257 1 2 1 2
+Impound Inventory 1 1 1
+Visible Contraband 2 1 9
+Consent 22 53 143 1 3 1 3
+Other 4 3 5
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 2 2 5
+Belongings 24 67 117 1 2 2
+Person 111 273 440 1 7 2 6 2
+Container 4 4 26
+Residence
+Office
+Other 1 6 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2 7 5 1 1
+Money 2 6 3
+Drugs 4 10 8
+Alcohol 1 6
+Other Contraband 7 7 24 1
+Other Evidence of Crime 3 11 91 1
+Other Property 10 26 38 1 1
+Nothing 96 242 322 1 6 1 5 2
+ACTION TAKEN:
+Warning 93 154 247 7 5 2 6 2
+Citation 1962 3145 2967 43 96 52 205 24
+Arrest 75 157 248 1 3 4
+Field Interview Completed 109 240 369 4 2 5 4
+None 7 10 14 1
+LOS ANGELES POLICE DEPARTMENT
+OHB - Transit GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+20 42 62 2 6
+GENDER
+Male 13 33 48 2 6
+Female 7 9 14
+APPARENT AGE
+ 1 - 17 11 23 1
+18 - 40 16 22 35 2 5
+41 - 60 3 8 4
+61 - 80 1 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 7 6 22 1 3
+Municipal Code Violation 8
+Suspect Flight 1
+Consensual 1
+Call For Service 3 4 2
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation 7 27 30 1 3
+Equipment/Registration Violation 2 4 3
+Health & Safety Code Violation 1 2
+Other 1 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 6 7 16 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 3 1 5
+GRANTED?
+Yes 3 1 5
+WAS SEARCH CONDUCTED?
+Yes 5 7 19 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 2
+Odor of Contraband 1 1
+Incident to Pat Down/Frisk 1 2 2 1
+Incident to Arrest 2 2 5
+Impound Inventory 3
+Visible Contraband 1
+Consent 2 1 4
+Other 3
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 5
+Belongings 1
+Person 3 7 14 1
+Container 2 1
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons
+Money
+Drugs 2 1
+Alcohol
+Other Contraband
+Other Evidence of Crime 3
+Other Property
+Nothing 3 7 15 1
+ACTION TAKEN:
+Warning 4 1 4
+Citation 11 32 46 2 5
+Arrest 2 5 3
+Field Interview Completed 3 7 14
+None 1 4 2 1
+LOS ANGELES POLICE DEPARTMENT
+OHB - Transit GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+650 296 906 176 53 38 229
+GENDER
+Male 445 206 699 123 40 25 171
+Female 205 90 207 53 13 13 58
+APPARENT AGE
+ 1 - 17 11 1 11 1 1 3
+18 - 40 432 209 722 124 30 25 149
+41 - 60 171 80 159 48 20 12 68
+61 - 80 36 5 14 3 2 1 9
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 454 197 589 111 38 27 171
+Municipal Code Violation 120 40 221 58 12 8 40
+Suspect Flight 2 2 8 2 1
+Consensual 1 3 6 2 3
+Call For Service 1 1 3 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1
+Penal Code Violation 6 5 1
+Equipment/Registration Violation 100 59 144 19 9 4 23
+Health & Safety Code Violation 1 8 1 1
+Other 1 2 11 1
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 44 48 144 4 2 3 11
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 23 29 66 1 3
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 9 11 23 1
+GRANTED?
+Yes 8 11 24 1
+WAS SEARCH CONDUCTED?
+Yes 30 44 111 2 1 1 5
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 1 3 4
+Odor of Contraband 1 2
+Incident to Pat Down/Frisk 5 9 22
+Incident to Arrest 9 9 27 1 1
+Impound Inventory 8 15 62 2 1 1 3
+Visible Contraband 1 1
+Consent 3 9 15 1
+Other 3 1 5 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 20 30 91 2 1 5
+Belongings 2 2 9
+Person 20 26 55 1 2
+Container 1 4
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 2
+Money 2 1 1 1
+Drugs 2 1 1 1
+Alcohol 2 1
+Other Contraband 1
+Other Evidence of Crime 2
+Other Property 1 2 5
+Nothing 34 56 131 6 2 1 12
+ACTION TAKEN:
+Warning 77 45 94 17 4 2 16
+Citation 563 243 797 162 49 36 212
+Arrest 10 12 24 3 2 1
+Field Interview Completed 14 16 25 2
+None 2 1 3 1
+LOS ANGELES POLICE DEPARTMENT
+OHB - Juvenile Services GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+45 118 444 3 2 1 3
+GENDER
+Male 37 101 404 3 1 1 3
+Female 8 17 40 1
+APPARENT AGE
+ 1 - 17 43 102 409 2 1 3
+18 - 40 2 16 35 1 1 1
+41 - 60
+61 - 80
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 4 1
+Municipal Code Violation 8 30 114 1 1
+Suspect Flight 4 5 3
+Consensual 1 2 4
+Call For Service
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation 5 24 53 2
+Equipment/Registration Violation
+Health & Safety Code Violation 39 85 308 1 2 1 3
+Other 11
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 41 107 409 3 2 1 3
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 19 26 163 2 1 2
+GRANTED?
+Yes 19 26 163 2 1 2
+WAS SEARCH CONDUCTED?
+Yes 41 105 417 3 2 1 3
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 5 4
+Odor of Contraband 6 29 66
+Incident to Pat Down/Frisk 11 23 2
+Incident to Arrest 24 38 192 1 2 3
+Impound Inventory
+Visible Contraband 21 57 162 1 1 1
+Consent 10 18 104 1
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 2 4
+Belongings 23 37 140 1 1 1
+Person 40 100 408 3 2 1 3
+Container
+Residence
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 2
+Money 1 1
+Drugs 18 26 110 1 1 2
+Alcohol 5
+Other Contraband 8 7 24 1 1
+Other Evidence of Crime 8 3 23 1
+Other Property 1 1
+Nothing 18 70 277 1 1 1 1
+ACTION TAKEN:
+Warning 7 35 124 1
+Citation 4 13 67 2 1
+Arrest 30 65 237 1 2 1 3
+Field Interview Completed 20 36 154 1 1
+None 2 7 18
+LOS ANGELES POLICE DEPARTMENT
+OHB - Juvenile Services GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+2 1 8
+GENDER
+Male 1 1 6
+Female 1 2
+APPARENT AGE
+ 1 - 17 2 1 5
+18 - 40 3
+41 - 60
+61 - 80
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 1 1 2
+Municipal Code Violation 1 4
+Suspect Flight
+Consensual
+Call For Service
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation
+Equipment/Registration Violation
+Health & Safety Code Violation 1 4
+Other
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 2 1 8
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1 1 6
+GRANTED?
+Yes 1 1 6
+WAS SEARCH CONDUCTED?
+Yes 2 1 8
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation
+Odor of Contraband
+Incident to Pat Down/Frisk
+Incident to Arrest 1 4
+Impound Inventory
+Visible Contraband 1
+Consent 1 1 6
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle
+Belongings
+Person 2 1 8
+Container
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons
+Money
+Drugs 2
+Alcohol 1
+Other Contraband 1
+Other Evidence of Crime
+Other Property
+Nothing 2 1 5
+ACTION TAKEN:
+Warning 1 1 2
+Citation 2
+Arrest 1 4
+Field Interview Completed 1 2
+None
+LOS ANGELES POLICE DEPARTMENT
+OHB - Juvenile Services GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+6 3 6 1
+GENDER
+Male 4 3 5 1
+Female 2 1
+APPARENT AGE
+ 1 - 17 1 1
+18 - 40 5 1 5
+41 - 60 1 1 1
+61 - 80
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 4 2 4 1
+Municipal Code Violation 2
+Suspect Flight
+Consensual
+Call For Service
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation
+Equipment/Registration Violation
+Health & Safety Code Violation 2 1 1
+Other
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 3 2 4
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 3 2 4
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1 3
+GRANTED?
+Yes 1 3
+WAS SEARCH CONDUCTED?
+Yes 3 2 4
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation
+Odor of Contraband 1 1 1
+Incident to Pat Down/Frisk
+Incident to Arrest 3 1
+Impound Inventory
+Visible Contraband 1 1 1
+Consent 3
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 2 2 2
+Belongings 2
+Person 3 2 4
+Container
+Residence
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons
+Money
+Drugs 2 1
+Alcohol
+Other Contraband 1
+Other Evidence of Crime
+Other Property
+Nothing 1 2 3
+ACTION TAKEN:
+Warning 1
+Citation 3 3 4 1
+Arrest 3 1
+Field Interview Completed 3 1 1
+None
+LOS ANGELES POLICE DEPARTMENT
+OHB - Detective Services GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+5 7 10
+GENDER
+Male 5 7 10
+Female
+APPARENT AGE
+ 1 - 17 2 1
+18 - 40 3 3 8
+41 - 60 1 2 1
+61 - 80 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 1 2
+Municipal Code Violation 1 2
+Suspect Flight
+Consensual 4
+Call For Service 1
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation 5 1 3
+Equipment/Registration Violation
+Health & Safety Code Violation
+Other 3 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 5 5 9
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 3 5
+GRANTED?
+Yes 3 5
+WAS SEARCH CONDUCTED?
+Yes 4 5 7
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 1
+Odor of Contraband
+Incident to Pat Down/Frisk
+Incident to Arrest 4 4 3
+Impound Inventory
+Visible Contraband
+Consent 1 5
+Other 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 4 2 1
+Belongings
+Person 4 4 4
+Container 1
+Residence
+Office 5
+Other 4
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 4
+Money 4
+Drugs
+Alcohol 1
+Other Contraband 4 2
+Other Evidence of Crime 1 5
+Other Property
+Nothing 3 2
+ACTION TAKEN:
+Warning 1
+Citation 3 3
+Arrest 1 3 8
+Field Interview Completed 4 2 1
+None
+LOS ANGELES POLICE DEPARTMENT
+OHB - Detective Services GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+2 1 5
+GENDER
+Male 2 1 5
+Female
+APPARENT AGE
+ 1 - 17
+18 - 40 1 1 5
+41 - 60 1
+61 - 80
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 1 1 3
+Municipal Code Violation
+Suspect Flight
+Consensual
+Call For Service
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation 1 2
+Equipment/Registration Violation
+Health & Safety Code Violation
+Other
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 1 4
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1 1
+GRANTED?
+Yes 1
+WAS SEARCH CONDUCTED?
+Yes 1 3
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 1
+Odor of Contraband
+Incident to Pat Down/Frisk
+Incident to Arrest 1 2
+Impound Inventory
+Visible Contraband
+Consent 1 1
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 1 1
+Belongings 1
+Person 3
+Container
+Residence 1
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons
+Money 1
+Drugs
+Alcohol
+Other Contraband
+Other Evidence of Crime 1 1
+Other Property
+Nothing 2
+ACTION TAKEN:
+Warning
+Citation 1 1 1
+Arrest 1 2
+Field Interview Completed 1
+None 1
+LOS ANGELES POLICE DEPARTMENT
+OHB - Detective Services GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+27 12 31 1 2 4
+GENDER
+Male 21 10 26 1 2 4
+Female 6 2 5
+APPARENT AGE
+ 1 - 17 1
+18 - 40 18 10 25 1 1 1
+41 - 60 8 2 6 1 2
+61 - 80
+81+ 1
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 18 10 25 2 3
+Municipal Code Violation
+Suspect Flight
+Consensual
+Call For Service
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation 1 3 1
+Equipment/Registration Violation 6 1 3 1
+Health & Safety Code Violation
+Other 2 1
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 3 4 10 1 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 3 4 9 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 1 3 3
+GRANTED?
+Yes 1 3 3
+WAS SEARCH CONDUCTED?
+Yes 4 3 10 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation
+Odor of Contraband 1
+Incident to Pat Down/Frisk 2
+Incident to Arrest 3 7 1
+Impound Inventory 1 1 4
+Visible Contraband 1
+Consent 3 2
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 3 4 9 1
+Belongings 1
+Person 3 8
+Container
+Residence 1
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons
+Money 1
+Drugs
+Alcohol
+Other Contraband
+Other Evidence of Crime 2 3
+Other Property
+Nothing 2 4 7 1
+ACTION TAKEN:
+Warning 4 2 3 1
+Citation 20 9 24 1 1 3
+Arrest 2 5 1
+Field Interview Completed 1 2 2
+None
+LOS ANGELES POLICE DEPARTMENT
+OHB - Criminal Intelligence GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPEDESTRIAN
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PEDESTRIANS
+165 227 271 1 4 1
+GENDER
+Male 114 165 231 1 4
+Female 51 62 40 1
+APPARENT AGE
+ 1 - 17 2 2 17 1
+18 - 40 121 125 208 4 1
+41 - 60 42 96 45
+61 - 80 4 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 14 6 4
+Municipal Code Violation 3 6 8
+Suspect Flight 2 2 2
+Consensual 83 69 113 1 2
+Call For Service 2
+Department Briefing (Crime Broadcast, Bulletins, Roll Call) 1
+Penal Code Violation 3 8 9 1
+Equipment/Registration Violation
+Health & Safety Code Violation 70 155 144 1 1
+Other 5 3 8
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 107 187 199 1 4 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 113 134 159 1 2
+GRANTED?
+Yes 111 130 157 1 2
+WAS SEARCH CONDUCTED?
+Yes 157 212 253 1 3 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 21 20 13
+Odor of Contraband 5
+Incident to Pat Down/Frisk 3 8 8
+Incident to Arrest 55 74 106 1
+Impound Inventory
+Visible Contraband 7 5 6 1
+Consent 100 115 137 1 2
+Other 1 1
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 10 5 27 1
+Belongings 32 31 45 1 2
+Person 141 202 235 1 3 1
+Container 2 2 2
+Residence 14 9 27
+Office 1
+Other 3 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 4 11
+Money 5 34 60
+Drugs 64 96 103 2
+Alcohol 1 1
+Other Contraband 23 17 24 1 1
+Other Evidence of Crime 3 3 17
+Other Property 3 3 3
+Nothing 79 86 104 1 2
+ACTION TAKEN:
+Warning 16 22 20
+Citation 2 4 3
+Arrest 99 135 180 3 1
+Field Interview Completed 119 122 180 1 1
+None 8 16 22 1 1
+LOS ANGELES POLICE DEPARTMENT
+OHB - Criminal Intelligence GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMPASSENGER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF PASSENGERS
+19 39 59 2 1
+GENDER
+Male 8 23 50 2
+Female 11 16 9 1
+APPARENT AGE
+ 1 - 17 2 1 5
+18 - 40 13 23 46 2
+41 - 60 4 14 8 1
+61 - 80 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 2 9 18 1
+Municipal Code Violation
+Suspect Flight 1
+Consensual 7 4 5 1
+Call For Service
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation 2 1 2
+Equipment/Registration Violation
+Health & Safety Code Violation 9 26 37 1
+Other 2
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 10 31 51 2
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 11 29 30 2
+GRANTED?
+Yes 11 29 30 2
+WAS SEARCH CONDUCTED?
+Yes 17 36 58 2 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 1 2
+Odor of Contraband 1
+Incident to Pat Down/Frisk 1 3 3
+Incident to Arrest 8 5 30
+Impound Inventory 1
+Visible Contraband 5 3 1 1
+Consent 9 25 23 1
+Other 1 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 6 12 28 1 1
+Belongings 2 5 5
+Person 13 34 56 2
+Container 1
+Residence 2
+Office
+Other
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 1 4
+Money 1 1 12
+Drugs 6 14 27
+Alcohol 1
+Other Contraband 3 5 2
+Other Evidence of Crime 1 1 12
+Other Property 2
+Nothing 9 19 21 2 1
+ACTION TAKEN:
+Warning 1 3 2 1
+Citation 1 2
+Arrest 10 19 41
+Field Interview Completed 19 31 49 2 1
+None 3 2
+LOS ANGELES POLICE DEPARTMENT
+OHB - Criminal Intelligence GroupFIELD DATA STATISTICS07/01/2002  -  11/30/2002
+DESCRIPTION OF ITEMDRIVER
+White Black HispanicChineseFilipinoJapaneseAmer. Ind.Other
+NUMBER OF DRIVERS
+37 58 107 1 2 1
+GENDER
+Male 28 48 101 2 1
+Female 9 10 6 1
+APPARENT AGE
+ 1 - 17 1 1
+18 - 40 24 30 87 1 2 1
+41 - 60 11 26 19
+61 - 80 2 1
+81+
+INITIAL REASON FOR STOP
+Vehicle Code Moving/Pedestrian Violation 9 10 24 1
+Municipal Code Violation
+Suspect Flight 1
+Consensual 8 7 22 1
+Call For Service
+Department Briefing (Crime Broadcast, Bulletins, Roll Call)
+Penal Code Violation 3 3 4
+Equipment/Registration Violation 2 2
+Health & Safety Code Violation 16 40 63 1 1
+Other 1 5
+DRIVER REQUIRED TO EXIT VEHICLE?
+Yes 31 48 90 2 1
+PAT DOWN/FRISK SEARCH CONDUCTED?
+Yes 30 44 84 2 1
+DETAINEE ASKED TO SUBMIT TO CONSENSUAL SEARCH?
+Yes 19 36 59 2 1
+GRANTED?
+Yes 19 35 59 2 1
+WAS SEARCH CONDUCTED?
+Yes 35 52 104 2 1
+IF WARRANTLESS SEARCH CONDUCTED, SEARCH AUTHORITY
+Parole/Probation 6 4 2
+Odor of Contraband 1 1
+Incident to Pat Down/Frisk 1 3 3
+Incident to Arrest 15 15 55 1 1
+Impound Inventory 1 14
+Visible Contraband 1 1 6 1
+Consent 17 32 53 1
+Other 1 2
+IF SEARCH WAS CONDUCTED, WHAT WAS SEARCHED?
+Vehicle 33 47 98 2 1
+Belongings 1 4 9
+Person 32 47 95 1 1
+Container 1 1
+Residence 3 2 6
+Office
+Other 1
+IF SEARCH WAS CONDUCTED, WHAT WAS DISCOVERED?
+Weapons 1 3 3
+Money 5 8 25
+Drugs 15 30 59 2 1
+Alcohol 1
+Other Contraband 5 6 9 1
+Other Evidence of Crime 4 4 13
+Other Property 2 4
+Nothing 12 14 34
+ACTION TAKEN:
+Warning 6 4 4 1
+Citation 4 8 10 1
+Arrest 19 38 82 1 1
+Field Interview Completed 26 37 88 2
+None 1 2

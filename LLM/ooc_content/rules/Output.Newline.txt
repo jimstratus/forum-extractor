@@ -1,0 +1,20 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\Output.Newline.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.575064
+---
+
+Output.Newline
+TYPE: string/null
+VERSION: 2.0.1
+DEFAULT: NULL
+--DESCRIPTION--
+
+<p>
+    Newline string to format final output with. If left null, HTML Purifier
+    will auto-detect the default newline type of the system and use that;
+    you can manually override it here. Remember, \r\n is Windows, \r
+    is Mac, and \n is Unix.
+</p>
+--# vim: et sw=4 sts=4

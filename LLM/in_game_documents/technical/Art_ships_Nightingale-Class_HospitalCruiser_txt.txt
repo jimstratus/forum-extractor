@@ -1,0 +1,120 @@
+
+# 🛡️ Nightingale-Class Hospital Cruiser (NCHC) Overview
+
+Designated as NCHC, the Nightingale-class Hospital Cruiser is the Imperial Republic’s flagship medical vessel — a mobile trauma center, humanitarian hub, and strategic medical outpost.
+
+At 750 meters long and carrying a massive medical and logistics capacity, the Nightingale can treat thousands of wounded personnel in orbit or while grounded in active warzones. It is equipped with advanced surgical bays, intensive care decks, quarantine wards, and high-capacity trauma centers.
+
+Despite being a non-combat vessel by mission profile, the Nightingale is far from defenseless. Its reinforced hull, point-defense grid, missile launchers, and turbolaser batteries ensure it can protect itself long enough to complete medevac operations or await escort.
+
+With room for over 500 troopers, 750 passengers, 12 shuttles, and 2 squadrons, it often serves as a rally point or temporary command center for field operations and disaster relief. Its onboard jamming systems and medical-grade sensors allow it to operate even under partial electronic warfare conditions.
+
+Known colloquially as “The Winged Sanctuary,” the Nightingale-class is a symbol of mercy, recovery, and interstellar medical excellence across the Imperial Republic.
+
+# 🎨 Nightingale-Class Color Schemes
+
+| Vessel Designation     | Color Scheme Description                       | Notes                                       |
+|------------------------|-------------------------------------------------|---------------------------------------------|
+| Nightingale White      | Gloss white with red medical crosses and blue trim | Primary livery, humanitarian standard       |
+| Sanctuary Gray         | Light gray with violet markings                  | Secure ops deployment zones                 |
+| Ember Halo             | White hull with warm gold and red gradient striping | Royal medical or ceremonial fleet           |
+| Silent Bloom           | Matte silver-blue with navy insignia             | Used during long-range medical patrols       |
+| Aurora Mercy           | White/pink pearlescent panels with sky-blue trim | Peacetime and high-visibility PR missions    |
+
+# 🛡️ Nightingale-Class Hospital Cruiser (NCHC) Stat Sheet (Markdown)
+
+| Attribute            | Value |
+|----------------------|-------|
+| **Length**           | 750 meters |
+| **Cargo Capacity**   | 375,000 tons |
+| **Cargo Volume**     | 150,000 cubic meters |
+| **Hull Strength**    | 9,000 |
+| **Deflector Shields**| 8,000 (Recharge 350 per turn) |
+| **Ionic Capacitance**| 3,750 |
+| **Hyperspeed Multiplier** | 1.50x |
+| **Sublight Speed**   | 60 MGLT |
+| **Manoeuvrability**  | 5 |
+| **Crew**             | 3,000 |
+| **Troopers**         | 500 |
+| **Passengers**       | 750 |
+| **Squadrons**        | 2 |
+| **Shuttles**         | 12 |
+| **Ground Vehicles**  | 2 |
+| **Heavy Ground Vehicles** | 0 |
+| **Planetary Landing**| Yes |
+| **Docking Bay**      | Yes |
+| **Cloaking Device**  | No |
+| **Laser Cannons**    | 20 |
+| **Heavy Lasers**     | 10 |
+| **Turbolasers**      | 10 |
+| **Missile Launchers**| 5 (100 missiles) |
+| **Ion Batteries**    | 5 |
+| **Sensors**          | 6 |
+| **Jammers**          | 6 |
+| **Tractor Beams**    | 4 |
+| **Gravity Well Generator** | 0 |
+
+================================================================================
+
+== 🛡️ Nightingale-Class Hospital Cruiser (NCHC) Stat Sheet (Wikitext) ==
+
+{| class="wikitable sortable"
+! Attribute !! Value
+|-
+| Length || 750 meters
+|-
+| Cargo Capacity || 375,000 tons
+|-
+| Cargo Volume || 150,000 cubic meters
+|-
+| Hull Strength || 9,000
+|-
+| Deflector Shields || 8,000 (Recharge 350 per turn)
+|-
+| Ionic Capacitance || 3,750
+|-
+| Hyperspeed Multiplier || 1.50x
+|-
+| Sublight Speed || 60 MGLT
+|-
+| Manoeuvrability || 5
+|-
+| Crew || 3,000
+|-
+| Troopers || 500
+|-
+| Passengers || 750
+|-
+| Squadrons || 2
+|-
+| Shuttles || 12
+|-
+| Ground Vehicles || 2
+|-
+| Heavy Ground Vehicles || 0
+|-
+| Planetary Landing || Yes
+|-
+| Docking Bay || Yes
+|-
+| Cloaking Device || No
+|-
+| Laser Cannons || 20
+|-
+| Heavy Lasers || 10
+|-
+| Turbolasers || 10
+|-
+| Missile Launchers || 5 (100 missiles)
+|-
+| Ion Batteries || 5
+|-
+| Sensors || 6
+|-
+| Jammers || 6
+|-
+| Tractor Beams || 4
+|-
+| Gravity Well Generator || 0
+|}
+================================================================================

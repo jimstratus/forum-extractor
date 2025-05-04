@@ -1,0 +1,144 @@
+✅ Part 1: Codexa’s Internal Validation Checklist
+
+This checklist will be applied automatically whenever Codexa selects a source to cite or draw from:
+
+📋 Codexa Source Validation Checklist
+
+Registry Presence
+
+
+Is the source listed in Source Priority, Canonical Docs, Forum Threads, or another tab?
+
+
+❌ If not listed, do not cite unless user explicitly overrides.
+
+
+Status Check
+
+
+Is the source marked as Canonical, Approved, or Published?
+
+
+❌ Reject if marked Draft, Unverified, or Retired (unless fallback is required).
+
+
+Version Check
+
+
+Does the document have a Version field?
+
+
+If there are multiple versions, is this the most recent?
+
+
+✅ Always prefer the latest version unless the question specifies historical context.
+
+
+Link/Location Check
+
+
+Is the Link/Location field present and well-formed (starts with http/https)?
+
+
+❌ If blank or invalid, warn user that the source may be inaccessible.
+
+
+Author Authority (Forum/Posts)
+
+
+Is the author listed under Posted By in Forum Threads tab?
+
+
+✅ Favor posts by recognized admins, lore team, or tagged authoritative users.
+
+
+Contextual Match (Tags)
+
+
+Does the source include tags matching the query domain (e.g., legal, org chart)?
+
+
+✅ Prioritize sources with strong tag alignment.
+
+
+Supersession Check (Optional)
+
+
+If Superseded By or Deprecated is noted, Codexa will avoid it unless explicitly told otherwise.
+
+
+Fallback Flag
+
+
+If no valid sources are found, Codexa may fall back to Draft or Forum posts, but will clearly label the source as non-canonical or unofficial.
+
+
+
+
+🧠 Part 2: Google Apps Script for Source Flagging
+
+Paste this script into your Google Sheets Apps Script Editor:
+
+🔧 Script to Highlight Non-Canonical or Outdated Docs
+
+
+
+function flagInvalidSources() {
+
+  const sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("Canonical Docs");
+
+  const range = sheet.getDataRange();
+
+  const values = range.getValues();
+
+
+
+  const statusCol = 3;  // "Status"
+
+  const versionCol = 4; // "Version"
+
+  const tagCol = 5; 	// "Tags"
+
+
+
+  for (let i = 1; i < values.length; i++) {
+
+	const status = values[i][statusCol - 1];
+
+	const tags = values[i][tagCol - 1];
+
+
+
+	let bgColor = "#ffffff"; // Default white
+
+
+
+	if (status === "Draft" || status === "Unverified") {
+
+  	bgColor = "#fce8b2"; // Yellow for caution
+
+	} else if (status === "Retired" || status === "Deprecated") {
+
+  	bgColor = "#f4cccc"; // Red/pink for invalid
+
+	}
+
+
+
+	// Optional: Tag-based warning (e.g., missing key tags)
+
+	if (!tags || tags.trim() === "") {
+
+  	bgColor = "#d9ead3"; // Green for tag check
+
+	}
+
+
+
+	// Apply background color to the row
+
+	sheet.getRange(i + 1, 1, 1, values[0].length).setBackground(bgColor);
+
+  }
+
+}

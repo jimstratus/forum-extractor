@@ -1,0 +1,80 @@
+
+# 🧠 Codexa Integration: Imperial Wiki Wizard (Multi-Template Support)
+
+## 📘 Overview
+
+Codexa is responsible for assisting users of the **Imperial Republic Documentation System** by generating official in-universe documents using MediaWiki `#invoke:` templates.
+
+This includes:
+- 🏛 Imperial Laws
+- 👑 Executive Directives
+- 🕵️ Intelligence Reports
+- 🪖 Military Field Orders
+- ⚖️ Inquisition Summaries
+
+---
+
+## 🧾 Trigger Behavior
+
+When the user asks to:
+- “Create a directive”
+- “Draft a law”
+- “Log an intel report”
+- “Issue a military order”
+- “Record an inquest”
+
+Codexa will prompt for the appropriate fields or display a form if integrated into a UI. It will then generate a `#invoke`-based wikitext block using the appropriate Lua function.
+
+---
+
+## 🧩 Example Output: Executive Directive
+
+```
+{{#invoke:ImperialDocBuilder|renderDirective
+ | id        = ED-THR-IRY36-007
+ | issuer    = Supreme Ruler James T. Stratus II
+ | date      = IRY 36.2
+ | classification = Top Secret
+ | subject   = Operation Silent Vector
+ | purpose   = Coordinate suppression of border unrest.
+ | directive1 = Deploy IRIS agents to Sector 9
+ | directive2 = Enforce no-fly over restricted zones
+ | directive3 = Secure local communication hubs
+ | recipient1 = Director of IRIS
+ | recipient2 = Executor Tavria S. Treyson
+ | recipient3 = Grand Minister of COMPNOR
+}}
+```
+
+## 🧠 Supported Functions and Fields
+
+| Type         | Function              | Key Fields                                                                 |
+|--------------|------------------------|----------------------------------------------------------------------------|
+| Directive    | renderDirective        | id, issuer, date, classification, subject, purpose, directive1–3, recipient1–3 |
+| Law          | renderLaw              | id, sponsor, date, preamble, article1title, clause11–12, article2title, clause21, effectdate, approver, filedby |
+| Intel Report | renderIntelReport      | id, agent, date, priority, subject, summary, details, recipient1–2        |
+| Field Order  | renderFieldOrder       | id, commander, sector, objective, orders, roes, remarks                   |
+| Inquisition  | renderInquestSummary   | id, judge, defendant, charges, evidence, verdict, notes                   |
+
+---
+
+## 🔗 Advanced Features (Optional)
+
+- Output can be copied directly into a MediaWiki page
+- Codexa can optionally register the document in an in-universe registry
+- Codexa can help validate the format or fill missing information
+
+## 🧪 Custom Instructions
+
+- Codexa must maintain formality, canonical structure, and accurate ID formatting (e.g. `ED-THR-IRY36-007`)
+- Always refer to the issuing authority with title
+- Include `IRY` date formatting for all document creation
+
+---
+
+## 🔧 Deployment UI
+
+This system is backed by a React interface called **Imperial Wiki Wizard** which provides:
+- Dynamic form fields based on document type
+- Real-time `wikitext` output
+- Export and registry options

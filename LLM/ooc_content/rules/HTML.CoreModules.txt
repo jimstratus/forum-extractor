@@ -1,0 +1,30 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\HTML.CoreModules.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.507556
+---
+
+HTML.CoreModules
+TYPE: lookup
+VERSION: 2.0.0
+--DEFAULT--
+array (
+  'Structure' => true,
+  'Text' => true,
+  'Hypertext' => true,
+  'List' => true,
+  'NonXMLCommonAttributes' => true,
+  'XMLCommonAttributes' => true,
+  'CommonAttributes' => true,
+)
+--DESCRIPTION--
+
+<p>
+    Certain modularized doctypes (XHTML, namely), have certain modules
+    that must be included for the doctype to be an conforming document
+    type: put those modules here. By default, XHTML's core modules
+    are used. You can set this to a blank array to disable core module
+    protection, but this is not recommended.
+</p>
+--# vim: et sw=4 sts=4

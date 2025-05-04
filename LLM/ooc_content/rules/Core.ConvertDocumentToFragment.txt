@@ -1,0 +1,21 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\Core.ConvertDocumentToFragment.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.411533
+---
+
+Core.ConvertDocumentToFragment
+TYPE: bool
+DEFAULT: true
+--DESCRIPTION--
+
+This parameter determines whether or not the filter should convert
+input that is a full document with html and body tags to a fragment
+of just the contents of a body tag. This parameter is simply something
+HTML Purifier can do during an edge-case: for most inputs, this
+processing is not necessary.
+
+--ALIASES--
+Core.AcceptFullDocuments
+--# vim: et sw=4 sts=4

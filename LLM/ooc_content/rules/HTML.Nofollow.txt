@@ -1,0 +1,14 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\HTML.Nofollow.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.530518
+---
+
+HTML.Nofollow
+TYPE: bool
+VERSION: 4.3.0
+DEFAULT: FALSE
+--DESCRIPTION--
+If enabled, nofollow rel attributes are added to all outgoing links.
+--# vim: et sw=4 sts=4

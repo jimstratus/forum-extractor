@@ -1,0 +1,12 @@
+# Character Profile: character names txt
+
+**Generated:** 2025-05-03 16:42:39
+**Source Files:** 1
+
+
+## Source: character_names_txt_local_character_profiles.txt
+
+Character Names:
+
+--------------------------------------------------
+

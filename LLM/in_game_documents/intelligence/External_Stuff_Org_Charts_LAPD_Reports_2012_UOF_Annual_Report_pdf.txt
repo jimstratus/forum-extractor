@@ -1,0 +1,799 @@
+LOS ANGELES POLICE DEPARTMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2012  
+Use of Force Report 
+with 2013 Statistical Overview 
+  
+2 
+ Table of Contents 
+CATEGORICAL USE OF FORCE REVIEW BOARD PROCESS ..... .......................................... 3 
+CATEGORICAL USE OF FORCE ADJUDICATION POLICY ...... ............................................... 3 
+NON-CATEGORICAL USE OF FORCE INCIDENT ADJUDICATION PROCEDURE ................. 5 
+NON-CATEGORICAL USE OF FORCE REPORTING LEVELS ..... ........................................... 6 
+2012 USE OF FORCE INCIDENT STATISTICS ............. ................................................... ........ 7 
+CATEGORICAL USE OF FORCE INCIDENTS ADJUDICATED IN 2 012 STATISTICS ..............10 
+CATEGORICAL USE OF FORCE AVERAGE TIME FRAME  .................................................. ...11 
+ADJUDICATED CUOF INCIDENT SUMMARY  .................................................. ........................12 
+CATEGORICAL USE OF FORCE ADJUDICATION FINDINGS  .................................................1 3 
+HIT AND NO HIT OFFICER INVOLVED SHOOTING INCIDENTS .............................................15 
+HIT AND NO HIT OIS BUREAU AND DIVISION OF OCCURRENC E  ........................................16 
+HIT AND NO HIT OIS INCIDENT BY MONTH, DAY AND HOUR OF OCCURRENCE  ..............17 
+HIT AND NO HIT OIS CLASSIFCATION TYPE ............. ................................................... ........18 
+OIS HIT AND NO HIT BY RANK AND ASSIGNMENT ......... ................................................... ..19 
+HIT AND NO HIT INCIDENT SUSPECT INFORMATION........ ..................................................2 1 
+ANIMAL SHOOTING INCIDENTS  .................................................. ...........................................22 
+UNINTENTIONAL DISCHARGE INCIDENTS  .................................................. ..........................23 
+IN CUSTODY DEATH INCIDENT  .................................................. ............................................24 
+NON-CATEGORICAL USE OF FORCE INCIDENTS  .................................................. ...............25 
+NON-CATEGORICAL USE OF FORCE INCIDENT SUMMARY ..... ..........................................26 
+NON-CATEGORICAL USE OF FORCE INCIDENT OCCURRENCES . ....................................29 
+NON-CATEGORICAL USE OF FORCE SOURCE OF ACTIVITY ... ..........................................30 
+FORCE OPTIONS USED DURING NON-CATEGORICAL USE OF FO RCE INCIDENTS ........30 
+INJURIES TO OFFICERS AND SUBJECTS DURING NCUOF INCI DENTS ............................31 
+RACE OF SUBJECTS INVOLVED IN A NCUOF INCIDENTS .... ..............................................31 
+ADJUDICATION OF NON-CATEGORICAL USE OF FORCE INCIDE NTS ...............................32 
+STOPS BY ETHNICITY AND GENDER ..................... ................................................... ............34 
+ACRONYMS .......................................... ................................................... ................................37 
+USE OF FORCE REVIEW DIVISION…………….…… ……………………………………………..38 
+  
+3 
+ CATEGORICAL USE CATEGORICAL USE CATEGORICAL USE CATEGORICAL USE    OF FORCE REVIEW BOARD PROCESS OF FORCE REVIEW BOARD PROCESS OF FORCE REVIEW BOARD PROCESS OF FORCE REVIEW BOARD PROCESS    
+(2013 LAPD Manual 3/792.10, 3/792.15) 
+After Use of Force Review Division (UOFRD) reviews the Categorical Use of Force (CUOF) 
+incident, the Use of Force Review Board (UOFRB) is convened. The UOFRB consists of a 
+representative from the following: Office of Admini strative Services (Chair), Office of Operations, 
+Personnel and Training Bureau, Geographic Bureau, a nd a Peer (similar rank of the 
+substantially involved personnel).  The Office of t he Inspector General is present at the Board in 
+an oversight capacity. 
+CATEGORICAL USE CATEGORICAL USE CATEGORICAL USE CATEGORICAL USE    OF FORCE ADJUDICATIO OF FORCE ADJUDICATIO OF FORCE ADJUDICATIO OF FORCE ADJUDICATION POLICY N POLICY N POLICY N POLICY    
+ 
+Tactics, drawing and exhibiting a firearm and use o f force shall be evaluated during the CUOF 
+adjudication process.  The Use of Force Review Boar d shall convene and evaluate the CUOF 
+incident.  The Use of Force Review Board shall make  recommendations to the Chief of Police 
+(COP).  The COP shall evaluate the CUOF incident an d report his/her recommendations to the 
+Board of Police Commissioners (BOPC).  The Board of  Police Commissioners will evaluate the 
+CUOF incident and make findings consistent with the  following: 
+ 
+ 
+  AREA FINDINGS OUTCOME 
+Tactical Debrief Tactical Debrief 
+Administrative Disapproval Tactical Debrief plus (on e or more): 
+     • Extensive Retraining 
+     • Notice to Correct 
+     • Personnel Complaint 
+In Policy - No Further Action Tactical Debrief 
+Administrative Disapproval - Out of Policy Tactical Debrief plus (one or more): 
+     • Extensive Retraining 
+     • Notice to Correct 
+     • Personnel Complaint Tactics 
+D/E 
+AREA FINDINGS OUTCOME 
+Tactical Debrief Tactical Debrief 
+Administrative Disapproval - Out of Policy Tactical Debrief plus (one or more): 
+     • Extensive Retraining 
+     • Notice to Correct 
+     • Personnel Complaint UOF 
+4 
+ During the adjudication process, the UOFRB, COP, an d BOPC may identify areas of conduct 
+that should be included during the Tactical Debrief  (TD).  After the adjudication, Use of Force 
+Review Division (UOFRD) shall compile the list of i ssues to be debriefed and provide it to the 
+CUOF Debrief Facilitator. 
+The CUOF Debrief Facilitator shall conduct the Tact ical Debrief with the personnel involved in 
+the CUOF incident.  The CUOF Debrief Facilitator sh all be responsible for presenting the fact 
+pattern of the case and leading a facilitated discu ssion on the training, tactics, force, and 
+leadership issues applicable to the incident.  The CUOF Debrief Facilitator will present those 
+tactical practices identified by the adjudication p rocess as “strengths” and “lessons learned” so 
+that future practices, policies, or procedures can be enhanced.  The Tactical Debrief shall 
+provide training in the areas of drawing and exhibi ting a firearm and use of force.  Note: The 
+Commanding Officer, UOFRD, shall coordinate the Tac tical Debrief Facilitation process. 
+The Tactical Debrief analysis will be summarized on  an Intradepartmental Correspondence, 
+Form 15.02.00 and forwarded within 21 days to UOFRD , Training Division, and Force 
+Investigation Division to collect and analyze the r esults to further enhance adjudication, training, 
+and critical incident investigations.  Note: The intent of the Tactical Debrief analysis is to r eview 
+and analyze Department-wide training, practices, po licies and procedures.  The Tactical Debrief 
+analysis shall not focus on or document findings, r ecommendations, or analysis of individual 
+employees or the incident. 
+  
+5 
+ NON NON NON NON----CATEGORICAL USE OF FORCE INCIDENT ADJUDICATION PROCEDU RE CATEGORICAL USE OF FORCE INCIDENT ADJUDICATION PROCEDUR E CATEGORICAL USE OF FORCE INCIDENT ADJUDICATION PROCEDUR E CATEGORICAL USE OF FORCE INCIDENT ADJUDICATION PROCEDUR E    
+(2013 LAPD Manual 3/793.05 - 3/793.15) 
+COMMANDING COMMANDING COMMANDING COMMANDING     OFFICER’S OFFICER’S OFFICER’S OFFICER’S     RESPONSIBILITY RESPONSIBILITY RESPONSIBILITY RESPONSIBILITY    
+Upon receipt of a Non-Categorical use of force inve stigation, the commanding officer shall: 
+Utilize the Area/Division Training Coordinator to e valuate the incident; contact subject matter 
+experts (e.g. Training Division) to obtain addition al information, as needed; review all reports and 
+make a recommendation on the disposition; sign the Use of Force Internal Process Report, 
+Form 01.67.04; and notify the employee of Use of Fo rce Review Division’s final disposition as 
+soon as practicable. 
+Non-Categorical Use of Force investigations shall b e reviewed by Area/division commanding 
+officers or the acting commanding officer within 14  calendar days of the incident.  Investigations 
+not reviewed within the 14-day time frame require a  written explanation on the Non-Categorical 
+Use of Force Internal Process Report (IPR).  Upon A rea/Division commanding officer approval, 
+the IPR shall be forwarded to the bureau immediatel y. 
+BUREAU BUREAU BUREAU BUREAU     COMMANDING COMMANDING COMMANDING COMMANDING     OFFICER’S OFFICER’S OFFICER’S OFFICER’S     RESPONSIBILITY RESPONSIBILITY RESPONSIBILITY RESPONSIBILITY    
+Upon receipt of a Non-Categorical Use of Force inve stigation, the bureau commanding officer 
+shall: Cross-staff with Internal Affairs Group (IAG ) to determine if a related complaint 
+investigation has been initiated regarding the use of force incident and, if so, take that 
+information into consideration; review all reports and make a recommendation on the 
+disposition; sign the IPR; forward the IPR, with al l related reports attached, to the Commanding 
+Officer, Use of Force Review Division, within seven  calendar days of receipt; and upon receipt of 
+the disposition from Use of Force Review Division, notify the employee's commanding officer of 
+that disposition. 
+COMMANDING COMMANDING COMMANDING COMMANDING     OFFICER,OFFICER,OFFICER,OFFICER,    USE USE USE USE     OF OF OF OF     FORCE FORCE FORCE FORCE     REVIEW REVIEW REVIEW REVIEW     DIVISION,DIVISION,DIVISION,DIVISION,    RESPONSIBILITY RESPONSIBILITY RESPONSIBILITY RESPONSIBILITY    
+The Director, Office of Administrative Services is the Department’s review authority for the 
+administrative review of all use of force incidents .  For Non-Categorical Uses of Force, that 
+authority is generally exercised through the Comman ding Officer, Use of Force Review Division, 
+who shall: Review the Non-Categorical Use of Force investigation and all related reports to 
+ensure compliance with Department policy and proced ure; approve or disapprove the 
+recommended disposition and provide a written ratio nale for any finding that differs from that of 
+the bureau commanding officer; retain the original Non-Categorical Use of Force Internal 
+Process Report and copies of all related reports; a nd forward a copy of the completed Internal 
+Process Report to the bureau commanding officer.  I f the Commanding Officer, Use of Force 
+Review Division, requires further information prior  to adjudication, such a request shall be 
+submitted to the employee's bureau commanding offic er. 
+ 
+6 
+ NON NON NON NON----CA CA CA CATEGORICAL USE OF FORCE REPORTING LEVELS TEGORICAL USE OF FORCE REPORTING LEVELS TEGORICAL USE OF FORCE REPORTING LEVELS TEGORICAL USE OF FORCE REPORTING LEVELS    
+(2013 LAPD Manual 3/245.11) 
+All Non-Categorical Use of Force incidents shall be  initially classified by the investigating 
+supervisor as either a Level I or Level II incident . 
+LEVEL LEVEL LEVEL LEVEL     IIII    INCIDENTINCIDENTINCIDENTINCIDENT    
+A NCUOF shall be reported as a Level I incident und er the following circumstances: An 
+allegation of unauthorized force is made regarding the force used by a Department employee(s); 
+or the force used results in a serious injury, such  as a broken bone, dislocation, an injury 
+requiring sutures, etc., that does not rise to the level of a CUOF incident; 
+Note: If the investigating supervisor is unable to verify  the seriousness of an injury or 
+complained of injury, it shall be reported as a Lev el I incident.  If the injury requires 
+admission to a hospital, the incident becomes a CUO F and will be investigated by Force 
+Investigation Division. 
+or, the injuries to the person upon whom force was used are inconsistent with the amount or 
+type of force reported by involved Department emplo yee(s); or accounts of the incident provided 
+by witnesses and/or the subject of the use of force  substantially conflict with the involved 
+employee(s) account. 
+LEVEL LEVEL LEVEL LEVEL     IIIIIIII    INCIDENTINCIDENTINCIDENTINCIDENT    
+All other reportable NCUOF that do not meet Level I  criteria shall be reported as Level II 
+incidents.  This will include the use of an impact device or less-lethal munitions with  hits (Refer to 
+Manual Section 4/245.13 for Level II reporting guid elines). 
+Note: If the use of an impact device or less-lethal munit ions causes a serious injury such 
+as a broken bone, dislocation, or an injury requiri ng sutures, etc., and does not rise to the 
+level of a CUOF, it shall be reported as a Level I incident. Department employees are 
+reminded that any person struck with a baton shall be transported to a Department 
+approved medical facility for medical treatment pri or to booking. 
+  
+7 
+ 2012 USE OF FORCE INCIDENT STATISTICS 
+In 2012 there were a total of 1,854 reportable uses  of force incidents which reflects a one 
+percent increase from 2011. 
+ 
+ 
+ 
+ UOF 2012 2011 2010 2009 2008 Average 
+Categorical 84 112 85 85 103 93.8 
+NCUOF 1,770 1,725 1,575 1,676 1,557 1,660.60  
+TOTAL 1,854 1,837 1,660 1,761 1,660 1,754.40  
+
+8 
+  
+ 
+The percentage of use of force incidents per arrest  decreased 0.01 percent from 2011 to 2012.  
+The percentage of use of force incidents per contac t also decreased 0.01 percent from 2011 to 
+2012. 
+ 
+ 
+ 
+*Contact is defined as a “consensual encounter,” a “detention,” or an “arrest.”   
+
+9 
+ Reportable uses of force are adjudicated within one  year of occurrence.  Categorical uses of 
+force decreased twenty five percent from 2011 to 20 12. 
+ 
+ANNUAL ANNUAL ANNUAL ANNUAL     AVERAGE AVERAGE AVERAGE AVERAGE     COMPARISON COMPARISON COMPARISON COMPARISON         
+ 
+  2012 2011 2010 2009 2008 
+CRCH 1 0 1 0 2
+Headstrike 2 2 3 5 7
+ICD 5 8 7 1 9
+K9 Contact 1 1 1 5 3
+LERII 4 5 9 10 9
+OIS - Animal (Dog) 22 24 13 16 16 
+OIS - Animal (Other) 1 1 4 2 1
+OIS - HIT 29 47 26 27 31 
+OIS - No Hit 8 16 14 9 11 
+OIS - UD 11 7 7 9 13 
+Use of Lethal Force 0 1 0 1 1Annual CUOF Comparison 
+Categorical Use of Force 2012 2011 2010 2009 2008 Average 
+(2008 - 2011) 
+CRCH 1 0 1 0 2 1
+Headstrike 2 2 3 5 7 4
+ICD 5 8 7 1 9 6
+K9 Contact 1 1 1 5 3 3
+LERII 4 5 9 10 9 8
+OIS - Animal (Dog) 22 24 13 16 16 17 
+OIS - Animal (Other) 1 1 4 2 1 2
+OIS - HIT 29 47 26 27 31 33 
+OIS - No Hit 8 16 14 9 11 13 
+OIS - UD 11 7 7 9 13 9
+Use of Lethal Force 0 1 0 1 1 1
+TOTAL 84 112 85 85 103 96 
+10 
+  
+ 
+ 
+ 
+ 
+ 
+CATEGORICAL USE OF FORCE CATEGORICAL USE OF FORCE CATEGORICAL USE OF FORCE CATEGORICAL USE OF FORCE    
+INCIDENTS ADJUDICATED IN INCIDENTS ADJUDICATED IN INCIDENTS ADJUDICATED IN INCIDENTS ADJUDICATED IN 2012 2012 2012 2012    
+STATISTICS STATISTICS STATISTICS STATISTICS     
+     
+11 
+ CATEGORICAL USE OF FORCE AVERAGE TIME FRAME CATEGORICAL USE OF FORCE AVERAGE TIME FRAME CATEGORICAL USE OF FORCE AVERAGE TIME FRAME CATEGORICAL USE OF FORCE AVERAGE TIME FRAME    
+CUOF incidents are investigated and adjudicated wit hin one year of occurrence.  In 2012, 
+CUOF incidents were adjudicated in 298 days on aver age. 
+ 
+After a CUOF incident, the substantially involved p ersonnel receive a mandated General 
+Training Update (GTU).  The GTUs must be completed within 90 days of the incident. 
+Upon the completion of the adjudication process, a Tactical Debrief is convened with the 
+substantially involved personnel.  The Tactical Deb rief shall be provided within 90 days of the 
+adjudication of the CUOF incident. 
+ 
+
+12 
+ ADJUDICATED CUOF INCIDENT SUMMARY ADJUDICATED CUOF INCIDENT SUMMARY ADJUDICATED CUOF INCIDENT SUMMARY ADJUDICATED CUOF INCIDENT SUMMARY    
+The chart below breaks down all 2012 categorical us e of force incidents by type. 
+ 
+ 
+ 
+  
+
+13 
+ CATEGORICAL USE OF FORCE ADJUDICATION FINDINGS CATEGORICAL USE OF FORCE ADJUDICATION FINDINGS CATEGORICAL USE OF FORCE ADJUDICATION FINDINGS CATEGORICAL USE OF FORCE ADJUDICATION FINDINGS    
+ 
+ 
+ 
+ 
+ 
+ 
+  2012 202 87.07% 30 12.93% 
+2011 317 91.35% 30 8.65% 
+2010 237 92.58% 19 7.42% 
+2009 234 91.05% 23 8.95% 
+2008 397 93.63% 27 6.37% No Further Action/Tactical Debrief Administrative Disapproval TACTICS 
+2012 163 99.39% 1 0.61% 
+2011 243 100.00% 0 0.00% 
+2010 163 99.39% 1 0.61% 
+2009 170 98.84% 2 1.16% 
+2008 280 99.64% 1 0.36% DRAWING/EXHIBITING 
+In Policy Out of Policy 
+2012 65 98.48% 1 1.52% 
+2011 76 97.44% 2 2.56% 
+2010 72 100.00% 0 0.00% 
+2009 75 98.68% 1 1.32% 
+2008 76 100.00% 0 0.00% NON LETHAL 
+In Policy Out of Policy 
+14 
+  
+ 
+ 
+  2012 14 100.00% 0 0.00% 
+2011 29 100.00% 0 0.00% 
+2010 13 100.00% 0 0.00% 
+2009 19 100.00% 0 0.00% 
+2008 14 100.00% 0 0.00% LESS LETHAL 
+In Policy Out of Policy 
+2012 123 97.62% 3 2.38% 
+2011 147 97.35% 4 2.65% 
+2010 95 95.00% 5 5.00% 
+2009 81 94.19% 5 5.81% 
+2008 112 97.39% 3 2.61% LETHAL 
+In Policy Out of Policy 
+15 
+ HIT AND NO HIT OFFICER INVOLVED SHOOTING INCIDENTS HIT AND NO HIT OFFICER INVOLVED SHOOTING INCIDENTS HIT AND NO HIT OFFICER INVOLVED SHOOTING INCIDENTS HIT AND NO HIT OFFICER INVOLVED SHOOTING INCIDENTS    
+ 
+  
+ 
+ 
+ 2012 29 78.38% 8 21.62% 
+2011 47 74.60% 16 25.40% 
+2010 26 65.00% 14 35.00% 
+2009 27 75.00% 9 25.00% 
+2008 31 73.81% 11 26.19% HIT AND NO HIT OFFICER INVOLVED SHOOTING INCIDENTS 
+Hit No Hit 
+
+16 
+ HIT AND NO HIT HIT AND NO HIT HIT AND NO HIT HIT AND NO HIT    OIS BUREAU AND DIVISION OF OCCURRENCE OIS BUREAU AND DIVISION OF OCCURRENCE OIS BUREAU AND DIVISION OF OCCURRENCE OIS BUREAU AND DIVISION OF OCCURRENCE    
+ 
+ 
+*Not necessarily division that where involved offic er assigned  
+ 
+  
+
+17 
+ HIT AND NO HIT OIS INCIDENT BY MONTH, DAY AND HOUR OF OCCURRENCE HIT AND NO HIT OIS INCIDENT BY MONTH, DAY AND HOUR OF OCCURRENCE HIT AND NO HIT OIS INCIDENT BY MONTH, DAY AND HOUR OF OCCURRENCE HIT AND NO HIT OIS INCIDENT BY MONTH, DAY AND HOUR OF OCCURRENCE    
+ 
+ 
+ 
+  
+
+18 
+ HIT AND NO HIT OIS CLASSIFCATION TYPE HIT AND NO HIT OIS CLASSIFCATION TYPE HIT AND NO HIT OIS CLASSIFCATION TYPE HIT AND NO HIT OIS CLASSIFCATION TYPE    
+ 
+TYPE DESCRIPTION 
+I Suspect verified with firearm – fired at officer or 3rd party 
+II Suspect verified with firearm – firearm in hand or position to fire, but did not fire 
+III Perception shooting – firearm present but not drawn  
+IV Perception shooting – no firearm found 
+V Shooting of person armed with weapon other than fir earm 
+VI Shooting of person with no weapon - (SBI) -Serious Bodily injury to self/others  
+VII Tactical Discharge 
+ 
+ 
+ 
+
+19 
+ OIS OIS OIS OIS HIT AND NO HIT HIT AND NO HIT HIT AND NO HIT HIT AND NO HIT BY RANK AND ASSIGNMENT BY RANK AND ASSIGNMENT BY RANK AND ASSIGNMENT BY RANK AND ASSIGNMENT    
+From the 37 Hit and No Hit incidents, 102 officers fired one or more rounds. 
+ 
+ 
+  
+
+20 
+  
+ 
+ 
+
+21 
+ HIT AND NO HIT INCIDENT SUSPECT INFORMATION HIT AND NO HIT INCIDENT SUSPECT INFORMATION HIT AND NO HIT INCIDENT SUSPECT INFORMATION HIT AND NO HIT INCIDENT SUSPECT INFORMATION    
+ 
+ 
+ 
+ 
+* Some suspect(s) have multiple weapons. The figure  in this graph does not represent  
+   the total number of OIS incidents in a given yea r.  
+
+22 
+ ANIMAL ANIMAL ANIMAL ANIMAL SHOOTING INCIDENTS SHOOTING INCIDENTS SHOOTING INCIDENTS SHOOTING INCIDENTS    
+ 
+ 
+ 
+ 
+
+23 
+ UNINTENTIONAL DISCHARGE INCIDENTS UNINTENTIONAL DISCHARGE INCIDENTS UNINTENTIONAL DISCHARGE INCIDENTS UNINTENTIONAL DISCHARGE INCIDENTS    
+ 
+ 
+ 
+ 
+4
+1 1 1 1 1 1 1
+Glock 22, 
+.40 cal Glock 21, 
+.45 cal Winchester 
+Rifle, .22 
+cal Springfield 
+Armory 
+1911,  .45 
+cal Rossi 62 
+SA, .22 cal Colt M- 
+16A1, 5.56 
+mm S&W 
+M&P-15X, 
+5.56 mm Other Firearm 
+
+24 
+ IN CUSTODY DEATH INCIDENT IN CUSTODY DEATH INCIDENT IN CUSTODY DEATH INCIDENT IN CUSTODY DEATH INCIDENT    
+There were (5) ICD incidents in 2012 that occurred in Devonshire, Rampart, Southeast, West 
+Valley and Wilshire. 
+ 
+  
+
+25 
+  
+ 
+ 
+ 
+ 
+ 
+NON NON NON NON----CATEGORICAL CATEGORICAL CATEGORICAL CATEGORICAL    
+USE OF FORCE INCIDENTS USE OF FORCE INCIDENTS USE OF FORCE INCIDENTS USE OF FORCE INCIDENTS    
+  
+26 
+ NON NON NON NON----CATEGORICAL USE OF FORCE INCIDENT SUMMARY CATEGORICAL USE OF FORCE INCIDENT SUMMARY CATEGORICAL USE OF FORCE INCIDENT SUMMARY CATEGORICAL USE OF FORCE INCIDENT SUMMARY    
+Overall, NCUOF incidents increased 2.61% department  wide from 2011 to 2012.  Level I 
+incidents decreased 3.64% and Level II incidents in creased 3.27%. 
+ 
+ 
+ 
+  YEAR NCUOF INCIDENTS LEVEL I LEVEL II 
+2012 1770 159 1611 
+2011 1725 165 1560 
+2010 1575 113 1462 
+2009 1676 113 1563 
+2008 1557 148 1409 
+
+27 
+  
+ 
+ 
+ 
+
+28 
+  
+ 
+ 
+  
+
+29 
+ NON NON NON NON----CATEGORICAL USE OF FORCE INCIDENT CATEGORICAL USE OF FORCE INCIDENT CATEGORICAL USE OF FORCE INCIDENT CATEGORICAL USE OF FORCE INCIDENT    OCCURRENCES OCCURRENCES OCCURRENCES OCCURRENCES    
+60 percent of NCUOF incidents occurred from Thursda y to Sunday. 
+ 
+ 
+49 percent of NCUOF incidents occurred from 16:00 h ours to 23:59 hours. 
+ 
+ 
+
+30 
+ NON NON NON NON----CATEGORICAL USE OF FORCE SOURCE OF ACTIVITY CATEGORICAL USE OF FORCE SOURCE OF ACTIVITY CATEGORICAL USE OF FORCE SOURCE OF ACTIVITY CATEGORICAL USE OF FORCE SOURCE OF ACTIVITY    
+ 
+ 
+FORCE OPTIONS USED DURING NON FORCE OPTIONS USED DURING NON FORCE OPTIONS USED DURING NON FORCE OPTIONS USED DURING NON- ---CATEGORICAL USE OF CATEGORICAL USE OF CATEGORICAL USE OF CATEGORICAL USE OF FORCE INCIDENTS FORCE INCIDENTS FORCE INCIDENTS FORCE INCIDENTS    
+ 
+ 
+  
+
+31 
+ INJURIES TO OFFICERS AND SUBJECTS DURING NCUOF INCI DENTS INJURIES TO OFFICERS AND SUBJECTS DURING NCUOF INCI DENTS INJURIES TO OFFICERS AND SUBJECTS DURING NCUOF INCI DENTS INJURIES TO OFFICERS AND SUBJECTS DURING NCUOF INCI DENTS    
+ 
+ 
+ 
+ 
+ 
+RACE OF SUBJECTS INVOLVED IN A NCUOF INCIDENTS RACE OF SUBJECTS INVOLVED IN A NCUOF INCIDENTS RACE OF SUBJECTS INVOLVED IN A NCUOF INCIDENTS RACE OF SUBJECTS INVOLVED IN A NCUOF INCIDENTS    
+ 
+  Type of Injury Count Percent Count Percent Count Percent 
+Visible Injury 601 24.75% 557 23.46% 518 24.21% 
+No Injury 1708 70.35% 1707 71.90% 1518 70.93% 
+Complained of Pain 109 4.49% 89 3.75% 87 4.07% 
+Fractures/Dislocation 10 0.41% 21 0.88% 17 0.79% 
+Total 2428 100.00% 2374 100.00% 2140 100.00% 2012 2011 2010 OFFICER INJURY 
+Type of Injury Count Percent Count Percent Count Percent 
+Visible Injury 2022 66.87% 1681 63.08% 1473 59.23% 
+No Injury 497 16.44% 571 21.43% 489 19.66% 
+Complained of Pain 475 15.71% 387 14.52% 500 20.10% 
+Fractures/Dislocation 30 0.99% 26 0.98% 25 1.01% 
+Total 3024 100.00% 2665 100.00% 2487 100.00% SUSPECT INJURY 
+2012 2011 2010 
+Ethnicity Count Percent Count Percent Count Percent 
+Asian 32 1.11% 25 1.51% 17 1.12% 
+Black 909 31.43% 589 35.55% 576 38.07% 
+Hispanic 1382 47.79% 775 46.77% 680 44.94% 
+White 569 19.67% 268 16.17% 240 15.86% 
+Total 2892 100.00% 1657 100.00% 1513 100.00% 2012 2011 2010 
+32 
+ ADJUDICATION OF NON ADJUDICATION OF NON ADJUDICATION OF NON ADJUDICATION OF NON- ---CATEGORICAL USE OF FORCE INCIDENTS CATEGORICAL USE OF FORCE INCIDENTS CATEGORICAL USE OF FORCE INCIDENTS CATEGORICAL USE OF FORCE INCIDENTS    
+ 
+ 
+ 
+ 
+*The total number of adjudications as opposed to Of ficers Involved differs dramatically because 
+some officers were adjudicated for multiple Tactics  and Force Used. 
+ 
+    
+ 
+ 
+    
+    
+ 
+ 
+ 2012 2011 2010 2009 2008 Average 
+Officers Involved 2189 2701 2522 2557 2338 2461.4 
+Total 2189 2701 2522 2557 2338 2461.4 Non-Categorical Use of Force Incidents 
+Tactics 2012 2011 2010 2009 2008 Average 
+In Policy/No Action 5144 4043 3586 3704 3540 4003.4 
+In Policy/Non-Disciplinary Action 403 627 644 702 610 597 .2 
+Out of Policy (AD) 25 13 16 9 4 13.4 
+Total 5572 4683 4246 4415 4154 4614 Non Categorical Use of Force Adjudications 
+Force Used 2012 2011 2010 2009 2008 Average 
+In Policy/No Action 5405 4365 4046 4123 3878 4363.4 
+In Policy/Non-Disciplinary Action 123 146 158 223 168 163 .6 
+Out of Policy (AD) 7 12 14 15 7 11 
+Total 5535 4523 4218 4361 4053 4538 Non Categorical Use of Force Adjudications 
+33 
+ 2013 CATEGORICAL USE OF FORCE INCIDENT STATISTICS 2013 CATEGORICAL USE OF FORCE INCIDENT STATISTICS 2013 CATEGORICAL USE OF FORCE INCIDENT STATISTICS 2013 CATEGORICAL USE OF FORCE INCIDENT STATISTICS* * **            
+ 
+Categorical Use 
+of Force 2013  2012  2011  2010  2009  Average 
+(2009-2013) 
+CRCH 2 1 0 1 0 1 
+Headstrike 1 2 2 3 5 3 
+ICD 6 5 8 7 1 6 
+K9 Contact 3 1 1 1 5 2 
+LERII 11 4 5 9 10 8 
+OIS-Animal (Dog) 17 22 24 13 16 18 
+OIS-Animal (Other) 0 1 1 4 2 2 
+OIS-Hit 34 29 47 26 27 33 
+OIS-No Hit 12 8 16 14 9 12 
+OIS-UD 13 11 7 7 9 9 
+Use of Lethal Force 0 0 1 0 1 0.4 
+TOTAL 99 84 112 85 85 93 
+2013 NON 2013 NON 2013 NON 2013 NON- ---CATEGORICAL USE OF FORCE INCIDENT STATISTICS CATEGORICAL USE OF FORCE INCIDENT STATISTICS CATEGORICAL USE OF FORCE INCIDENT STATISTICS CATEGORICAL USE OF FORCE INCIDENT STATISTICS* * **        
+ 
+Non -Categorical 
+use of Force 2013  2012  2011  2010  2009  Average 
+(2009-2013) 
+Level I 144 159 165 113 113 138.8 
+Level II 1651 1611 1560 1462 1563 1569.4 
+TOTAL 1795* 1770 1725 1575 1676 1708.2 
+ 
+Note:*2013 numbers are included-some of which have not been adjudicated. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+34 
+ 2008 STOPS BY ETHNICITY*  
+    
+ 
+      Race Pedestrian Ped  % Vehicle Veh  % Total Total  % 
+Asian 4,930 1.99% 47,740 7.52% 52,670 5.97% 
+Black 84,426 34.12% 120,500 18.97% 204,926 23.22% 
+Hispanic 119,973 48.48% 254,852 40.13% 374,825 42.4 7% 
+Other 1,449 0.59% 9,420 1.48% 10,869 1.23% 
+White 36,690 14.83% 202,631 31.90% 239,321 27.12% 
+Totals 247,468 100.00% 635,143 100.00% 882,611 100.00% 
+ 
+*STOP DATA INFORMATION: Based on the Field Data Rep ort (FDR) from Information 
+Technology Bureau (ITB) (2008 through 2012). 
+ 
+2009 STOPS BY ETHNICITY   
+ 
+Race Pedestrian  Ped % Vehicle Veh % Total Total % 
+Asian 2,847 1.76% 30,779 6.43% 33,626 5.25% 
+Black 55,281 34.11% 89,319 18.67% 144,600 22.58% 
+Hispanic 79,058 48.78% 186,207 38.92% 265,265 41.41 % 
+Other 1,990 1.23% 20,570 4.30% 22,560 3.52% 
+White 22,895 14.13% 151,579 31.68% 174,474 27.24% 
+Total 162,071 100.00% 478,454 100.00% 640,525 100.00% 
+ 
+2010 STOPS BY ETHNICITY   
+ 
+Race Pedestrian  Ped % Vehicle Veh % Total Total % 
+Asian 1,813 1.44% 23,074 5.54% 24,887 4.59% 
+Black 40,182 31.95% 69,713 16.75% 109,895 20.28% 
+Hispanic 59,985 47.70% 160,868 38.65% 220,853 40.75 % 
+Other 2,453 1.95% 28,565 6.86% 31,018 5.72% 
+White 21,334 16.96% 133,990 32.19% 155,324 28.66% 
+Total 125,767 100.00% 416,210 100.00% 541,977 100.00% 
+ 
+35 
+ 2011 STOPS BY ETHNICITY   
+ 
+Race Pedestrian  Ped % Vehicle Veh % Total Total % 
+Asian 2,787 1.23% 33,851 4.71% 36,638 3.88% 
+Black 79,850 35.30% 148,223 20.64% 228,073 24.15% 
+Hispanic 103,898 45.93% 302,129 42.08% 406,027 43.0 0% 
+Other 4,407 1.95% 46,032 6.41% 50,439 5.34% 
+White 35,271 15.59% 187,831 26.16% 223,102 23.63% 
+Total 226,213 100.00% 718,066 100.00% 944,279 100.00% 
+ 
+ 
+2012 STOPS BY ETHNICITY   
+ 
+Race Pedestrian  Ped % Vehicle Veh % Total Total % 
+Asian 3,366 1.35% 33,038 4.86% 36,404 3.92% 
+Black 84,287 33.76% 140,646 20.68% 224,933 24.19% 
+Hispanic 113,008 45.26% 287,373 42.25% 400,381 43.0 6% 
+Other 5,204 2.08% 46,218 6.80% 51,422 5.53% 
+White 43,818 17.55% 172,838 25.41% 216,656 23.30% 
+Totals 249,683 100.00% 680,113 100.00% 929,796 100.00% 
+ 
+ 
+CUMULATIVE COMPARISON BY ETHNICITY (2008-2012) 
+ 
+ 
+ Race Pedestrian Ped% Vehicle Vehicle% Total Total% 
+Asian 15,743 2% 168,482 6% 184,225 5% 
+Black 344,026 34% 568,401 19% 912,427 23% 
+Hispanic 475,922 47% 1,191,429 41% 1,667,351 42% 
+Other 15,503 2% 150,805 5% 166,308 4% 
+White 160,008 16% 848,869 29% 1,008,877 26% 
+Totals 1,011,202 100% 2,927,986 100% 3,939,188 100% 
+36 
+ POLICE STOPS (2008-2012) BY GENDER 
+   
+ 
+ 
+TOTALNUMBER OF STOPS BY YEAR (2008-2012) 
+    
+ 
+ 
+        
+ 
+  YEAR 
+TYPE PED VEHICLE PED VEHICLE PED VEHICLE PED VEHICLE PED VEHI CLE 
+MALE 207,489  445,453  136,921  326,818  104,735  278,495  191,176  496,790  209,342  468,907  
+FEMALE 39,979    189,690  25,150    151,636  21,032    137,715  35,037    221,276  40,341    211,206  
+TOTAL 247,468  635,143  162,071  478,454  125,767  416,210  226,213  718,066  249,683  680,113  
+GRAND TOTAL 2008 2009 2010 2011 2012 
+882,611                   640,525                    541,977                   944,279                    929,796                   
+YEAR 2008 2009 2010 2011 2012 Average 
+GRAND TOTAL 882,611       640,525      541,977      944,279     929,796      787,838     
+37 
+ AA AACRONYM CRONYM CRONYM CRONYMSS SS    
+  
+AD  
+Administrative Disapproval 
+ 
+BJS  
+Bureau of Justice Statistics 
+ 
+BOPC  
+Los Angeles Board of Police Commissioners 
+ 
+COP  
+Chief of Police 
+ 
+COS  
+Chief of Staff 
+ 
+CRCH  
+Carotid Restraint Control Hold 
+ 
+CUOF  
+Categorical Use of Force Incident 
+ 
+D/E  
+Drawing or Exhibiting 
+ 
+FID  
+Force Investigation Division 
+ 
+GED  
+Gang Enforcement Detail 
+ 
+GIT  
+Gang Impact Team 
+ 
+GTU  
+General Training Update 
+ 
+HS  
+Head Strike 
+ 
+ICD  
+In-Custody Death 
+ 
+ITD  
+Information Technology Division 
+ 
+LAPD  
+Los Angeles Police Department 
+ 
+LERI  
+Law Enforcement Related Injury 
+ 
+MEU  
+Mental Evaluation Unit 
+ 
+NCUOF  
+Non-Categorical Use of Force Incident 
+ 
+OCB  
+Operations Central Bureau 
+ 
+OIS  
+Officer Involved Shooting 
+ 
+OAS  
+Office of Administrative Services 
+ 
+OSB  
+Operations South Bureau 
+ 
+OVB  
+Operations Valley Bureau 
+ 
+OWB  
+Operations West Bureau 
+ 
+PO  
+Police Officer 
+ 
+SOB  
+Special Operations Bureau 
+ 
+TEAMS II  
+Training Evaluation and Management System II 
+ 
+UD  
+Unintentional Discharge 
+ 
+UOF  
+Use of Force 
+ 
+UOFRB  
+Use of Force Review Board 
+ 
+UOFRD  
+Use of Force Review Division 
+38 
+ USE OF FORCE REVIEW DIVISION USE OF FORCE REVIEW DIVISION USE OF FORCE REVIEW DIVISION USE OF FORCE REVIEW DIVISION    
+ 
+ 
+ 
+CONTACT INFORMATION 
+ 
+Office of Administrative Services 
+Sandy Jo MacArthur, Assistant Chief 
+100 West First Street, Suite 1030 
+Los Angeles, CA 90012 
+(213) 486-6790 
+ 
+Use of Force Review Division 
+Captain Scott Sargent 
+100 West First  Street, Suite 268, 
+Los Angeles, CA 90012 
+(213) 486-5950 
+ 
+Administrative Section  
+     Sergeant Michael Odle 
+     Sergeant David Stambaugh 
+     (213) 486-5950 
+ 
+Categorical Review Section 
+     Lieutenant Larry Barr 
+     (213) 486-5960 
+ 
+Non-Categorical Review Section 
+     Lieutenant Manuel Santoyo 
+     (213) 486-5970 
+ 
+Tactics Review Section 
+     Sergeant Robert von Voigt 
+     (213) 486-5980 ABOUT THE DIVISION 
+ 
+Use of Force Review Division is 
+comprised of the following sections:  
+Administration Section, Categorical 
+Review Section, Non-Categorical 
+Review Section and Tactics Review 
+Section.  Use of Force Review 
+Division reports directly to the Office 
+of Administrative Services and 
+facilitates the review and adjudication 
+of all Categorical and Non-Categorical 
+Use of Force incidents on behalf of 
+the COP. 
+ 
+Use of Force Review Division 
+coordinates and schedules the Use of 
+Force Review Boards for Categorical Use 
+of Force incidents and provides staff 
+support to the Board members. Use of 
+Force Review Division maintains and 
+updates Categorical and Non-Categorical 
+Use of Force databases and prepares 
+statistical information pertaining to use of 
+force incidents. 
+ 
+Additionally, the Tactics Review Section 
+provides Department-wide use of force 
+training, oversees the Department’s 
+General Training Update and Tactical 
+Debrief process, as well as, publishes the 
+quarterly Tac Ops newsletter and maintains 
+the UOFRD website (LAN).  
+ 
+Ver 3.0 

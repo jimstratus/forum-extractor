@@ -1,0 +1,361 @@
+Royal Guard Reorganization
+
+Approved 12 January 2009
+
+Revised 26 July 2011 &
+
+Revised 3 March 2014
+
+
+
+Chain of Command
+
+
+
+Lord of the Guard
+
+Commandant
+
+Authoritative Protectee or Protectee
+
+Attachment Leader or Captain of the Guard
+
+
+
+Attachments
+
+
+
+TYPE
+
+SIZE
+
+DCI
+
+SID
+
+Division
+
+1,000
+
+40
+
+20
+
+Legion
+
+800
+
+32
+
+16
+
+Brigade
+
+500
+
+20
+
+10
+
+Battalion
+
+250
+
+10
+
+5
+
+Company
+
+125
+
+5
+
+3
+
+Platoon
+
+75
+
+3
+
+2
+
+Squad
+
+50
+
+2
+
+1
+
+Patrol
+
+25
+
+1
+
+1
+
+
+
+Use: Army Ranks
+
+
+
+Undercover units per attachment:
+
+DCI = IRIS/Directorate of Counterintelligence
+
+SID = IRSB/Internal Security Investigations Division
+
+
+
+DCI/ID Loyalty Priority order:
+
+1) Protectee
+
+2) Dept Head
+
+3) RG Commandant
+
+4) Attachment Leader
+
+
+
+Individuals (for lack of better term – suggestions welcome)
+
+
+
+Supreme Ruler = Lord of the Guard.
+
+- Appoints Commandant.
+
+- Designates protectees and titles and attachment types.
+
+
+
+Commandant – Appointed by Supreme Ruler.
+
+- Oversees personnel and coordinates multi-branch affairs.
+
+- Assigns attachments to protectees
+
+- Coordinates with Chief Lord of the Guard in designation of protectees and attachment types but can independently do so if situation requires
+
+- Is protected by the same guard attachment of Supreme Ruler or independent depending on assignment
+
+- Reports directly to the Supreme Ruler
+
+
+
+Authoritative Protectee – A designated protectee with direct authority over attachment assigned and can issue orders including arrest and mission assignments. Answers to the Supreme Ruler. Assigned own attachment.
+
+
+
+Protectee – A person designated under protection of the Royal Guard. May be assigned own attachment or share with another protectee as determined by commandant and Supreme Ruler.
+
+
+
+Attachment Leader – Reports directly to the commandant and the Authoritative Protectee if protectee is designated such. Appointed by Commandant in coordination with the Authoritative Protectee if applicable. Can be changed by Authoritative Protectee with Commandant approval.
+
+
+
+Types of Protectees
+
+
+
+Individual by Title
+
+Attachment Type
+
+Guard Authority
+
+Supreme Ruler
+
+Division
+
+Lord of the Guard
+
+First Executor
+
+Legion
+
+Authoritative Protectee
+
+Second Executor
+
+Legion
+
+Authoritative Protectee
+
+Supreme Chancellor
+
+Brigade
+
+Authoritative Protectee
+
+Grand Minister of COMPNOR
+
+Battalion
+
+Authoritative Protectee
+
+Minister of Defense
+
+Company
+
+Authoritative Protectee
+
+High Councilors*
+
+Platoon, Squad, Patrol
+
+Protectee
+
+Royal First Family
+
+Platoon, Squad
+
+Authoritative Protectee
+
+Royal Family
+
+Squad, Patrol, Lance
+
+Varies
+
+High Minister of COMPHISLI*
+
+Patrol
+
+Protectee
+
+Commandant of RG
+
+Team/Patrol I
+
+Commandant
+
+Director of R & D
+
+Squad I
+
+Protectee
+
+Praetor
+
+Team/Patrol I
+
+Authoritative Protectee
+
+Grand Admiralty
+
+Team
+
+Protectee
+
+
+
+* Undecided if guard will be assigned to protect
+
+Protectees
+
+
+
+Protectee Actual Name
+
+Protectee Codename
+
+High Prince James Stratus
+
+Phoenix Alpha Prime Apollo
+
+Executor Tavria Treyson
+
+Angel
+
+Supreme Chancellor (emeritus) Joesefus Quick
+
+Arion
+
+Lord Praetor Revan Centurion
+
+Griffin
+
+Lord Praetor OVERMIND
+
+Chimaera
+
+Praetor Alexia Preston
+
+Paladin
+
+Praetor Bryan Dugaan
+
+Father Time
+
+Praetor-General  Kaidlen Shan
+
+Mother Nature Medusa
+
+Supreme Chancellor  Dene Vye Cognatus
+
+Bigfoot
+
+Prince Marc Stratus
+
+Pegasus
+
+Princess Ashlee Gourdine
+
+Bysen
+
+Princess Nicole McFayden
+
+Capricorn
+
+Princess Aurielle Stratus
+
+Mermaid
+
+Director Drexel Oren
+
+Cyclops
+
+High Councilor Ieyena Cohean
+
+Bahamut
+
+Grand Admiral Locke Firecam
+
+Python
+
+Grand Admiral Jared Quinn
+
+Minotaur
+
+Queen Phoenix Katarn
+
+Dragon
+
+Fleet Admiral John Tinkell
+
+Sandman
+
+
+
+
+
+Inspired from http://www.mythicalcreaturesguide.com/page/List+of+Mythical+Creatures
+
+
+
+http://www.gods-and-monsters.com/list-of-greek-gods-goddesses.html
+
+http://en.wikipedia.org/wiki/List_of_Greek_mythological_figures
+
+http://www.godchecker.com/pantheon/greek-mythology.php?list-gods-names
+
+https://www.goodreads.com/topic/show/381958-major-minor-gods-and-goddesses-titans-and-those-before

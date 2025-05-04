@@ -1,0 +1,69 @@
+2025-05-03 16:40:31,270 - INFO - Scanning directory: EOTIR RPG\Character Profiles
+2025-05-03 16:40:31,272 - INFO - Processing file: EOTIR RPG\Character Profiles\Char Profile - Ashlee Gourdine.docx
+2025-05-03 16:40:31,292 - INFO - Saved character profile to LLM\character_profiles\Ashlee_Gourdine_local_character_profiles.txt
+2025-05-03 16:40:31,293 - INFO - Processing file: EOTIR RPG\Character Profiles\Char Profile - Ieyena Cohean (Historical).docx
+2025-05-03 16:40:31,346 - INFO - Saved character profile to LLM\character_profiles\Ieyena_Cohean_Historical_local_character_profiles.txt
+2025-05-03 16:40:31,348 - INFO - Processing file: EOTIR RPG\Character Profiles\Char Profile - James Stratus.docx
+2025-05-03 16:40:31,376 - INFO - Saved character profile to LLM\character_profiles\James_Stratus_local_character_profiles.txt
+2025-05-03 16:40:31,376 - INFO - Processing file: EOTIR RPG\Character Profiles\Char Profile - Joesefus Alastar Quick.docx
+2025-05-03 16:40:31,401 - INFO - Saved character profile to LLM\character_profiles\Joesefus_Alastar_Quick_local_character_profiles.txt
+2025-05-03 16:40:31,401 - INFO - Processing file: EOTIR RPG\Character Profiles\Char Profile - Marc Stratus (1).docx
+2025-05-03 16:40:31,421 - INFO - Saved character profile to LLM\character_profiles\Marc_Stratus_1_local_character_profiles.txt
+2025-05-03 16:40:31,424 - INFO - Processing file: EOTIR RPG\Character Profiles\Char Profile - Marc Stratus (OLD).docx
+2025-05-03 16:40:31,462 - INFO - Saved character profile to LLM\character_profiles\Marc_Stratus_OLD_local_character_profiles.txt
+2025-05-03 16:40:31,465 - INFO - Processing file: EOTIR RPG\Character Profiles\Char Profile - Marc Stratus.docx
+2025-05-03 16:40:31,491 - INFO - Saved character profile to LLM\character_profiles\Marc_Stratus_local_character_profiles.txt
+2025-05-03 16:40:31,491 - INFO - Processing file: EOTIR RPG\Character Profiles\Char Profile - Nicole Mcfayden.docx
+2025-05-03 16:40:31,521 - INFO - Saved character profile to LLM\character_profiles\Nicole_Mcfayden_local_character_profiles.txt
+2025-05-03 16:40:31,522 - INFO - Processing file: EOTIR RPG\Character Profiles\Char Profile - Tavria Treyson.docx
+2025-05-03 16:40:31,547 - INFO - Saved character profile to LLM\character_profiles\Tavria_Treyson_local_character_profiles.txt
+2025-05-03 16:40:31,547 - INFO - Processing file: EOTIR RPG\Character Profiles\character names.txt
+2025-05-03 16:40:31,550 - INFO - Saved character profile to LLM\character_profiles\character_names_local_character_profiles.txt
+2025-05-03 16:40:31,550 - INFO - Processing file: EOTIR RPG\Character Profiles\character names.txt.docx
+2025-05-03 16:40:31,582 - INFO - Saved character profile to LLM\character_profiles\character_names_txt_local_character_profiles.txt
+2025-05-03 16:40:31,582 - INFO - Processing file: EOTIR RPG\Character Profiles\Grand admiral profiles.docx
+2025-05-03 16:40:31,590 - INFO - Saved character profile to LLM\character_profiles\Grand_admiral_profiles_local_character_profiles.txt
+2025-05-03 16:40:31,590 - INFO - Processing file: EOTIR RPG\Character Profiles\Working Copy of character names.txt
+2025-05-03 16:40:31,594 - INFO - Saved character profile to LLM\character_profiles\Working_Copy_of_character_names_local_character_profiles.txt
+2025-05-03 16:40:31,595 - INFO - Processing file: EOTIR RPG\Character Profiles\Working Copy of Working Copy of character names.txt
+2025-05-03 16:40:31,598 - INFO - Saved character profile to LLM\character_profiles\Working_Copy_of_Working_Copy_of_character_names_local_character_profiles.txt
+2025-05-03 16:40:31,599 - INFO - Found 14 character profiles in EOTIR RPG\Character Profiles
+2025-05-03 16:40:31,600 - INFO - Scanning directory: EOTIR Novels\Chronicles
+2025-05-03 16:40:31,601 - INFO - Processing file: EOTIR Novels\Chronicles\CharProf-Dana Lance.docx
+2025-05-03 16:40:31,618 - INFO - Saved character profile to LLM\character_profiles\Dana_Lance_local_chronicles.txt
+2025-05-03 16:40:31,620 - INFO - Processing file: EOTIR Novels\Chronicles\initial profile of james.pdf
+2025-05-03 16:40:31,625 - WARNING - Failed to extract content from EOTIR Novels\Chronicles\initial profile of james.pdf
+2025-05-03 16:40:31,630 - INFO - Found 1 character profiles in EOTIR Novels\Chronicles
+2025-05-03 16:40:31,630 - INFO - Scanning directory: EOTIR Novels\People
+2025-05-03 16:40:31,633 - INFO - Processing file: EOTIR Novels\People\LADAOJ\CharProfile-Daniella Organa-Jackson(1).docx
+2025-05-03 16:40:31,657 - INFO - Saved character profile to LLM\character_profiles\CharProfileDaniella_OrganaJackson1_local_ladaoj.txt
+2025-05-03 16:40:31,658 - INFO - Processing file: EOTIR Novels\People\LADAOJ\CharProfile-Daniella Organa-Jackson-Megatron.docx
+2025-05-03 16:40:31,671 - INFO - Saved character profile to LLM\character_profiles\CharProfileDaniella_OrganaJacksonMegatron_local_ladaoj.txt
+2025-05-03 16:40:31,671 - INFO - Processing file: EOTIR Novels\People\LADAOJ\CharProfile-Daniella Organa-Jackson.docx
+2025-05-03 16:40:31,683 - INFO - Saved character profile to LLM\character_profiles\CharProfileDaniella_OrganaJackson_local_ladaoj.txt
+2025-05-03 16:40:31,684 - INFO - Processing file: EOTIR Novels\People\LAIMAKC\CharProfile-IeyenaCoheanHistorical.docx
+2025-05-03 16:40:31,707 - INFO - Saved character profile to LLM\character_profiles\CharProfileIeyenaCoheanHistorical_local_laimakc.txt
+2025-05-03 16:40:31,707 - INFO - Processing file: EOTIR Novels\People\LAIMAKC\CharProfile-IeyenaCoheanHistorical.pdf
+2025-05-03 16:40:31,860 - INFO - Saved character profile to LLM\character_profiles\CharProfileIeyenaCoheanHistorical_local_laimakc_20250503_164031.txt
+2025-05-03 16:40:31,860 - INFO - Processing file: EOTIR Novels\People\LAIMAKC\CharProfile-IeyenaCoheanHistorical.pdf(1).docx
+2025-05-03 16:40:31,890 - INFO - Saved character profile to LLM\character_profiles\CharProfileIeyenaCoheanHistorical_pdf1_local_laimakc.txt
+2025-05-03 16:40:31,891 - INFO - Processing file: EOTIR Novels\People\LAIMAKC\CharProfile-IeyenaCoheanHistorical.pdf.docx
+2025-05-03 16:40:31,960 - INFO - Saved character profile to LLM\character_profiles\CharProfileIeyenaCoheanHistorical_pdf_local_laimakc.txt
+2025-05-03 16:40:31,960 - INFO - Processing file: EOTIR Novels\People\LAJAQ\joesefus quick original profile early edition.pdf
+2025-05-03 16:40:31,964 - WARNING - Failed to extract content from EOTIR Novels\People\LAJAQ\joesefus quick original profile early edition.pdf
+2025-05-03 16:40:31,966 - INFO - Processing file: EOTIR Novels\People\LAJTS\CharProf-Dana Lance(1).docx
+2025-05-03 16:40:31,983 - INFO - Saved character profile to LLM\character_profiles\Dana_Lance1_local_lajts.txt
+2025-05-03 16:40:31,984 - INFO - Processing file: EOTIR Novels\People\LAJTS\CharProf-Dana Lance-Megatron.docx
+2025-05-03 16:40:31,995 - INFO - Saved character profile to LLM\character_profiles\Dana_LanceMegatron_local_lajts.txt
+2025-05-03 16:40:31,995 - INFO - Processing file: EOTIR Novels\People\LAJTS\CharProf-Dana Lance.docx
+2025-05-03 16:40:32,004 - INFO - Saved character profile to LLM\character_profiles\Dana_Lance_local_lajts.txt
+2025-05-03 16:40:32,005 - INFO - Processing file: EOTIR Novels\People\LAJTS\initial profile of james.pdf
+2025-05-03 16:40:32,010 - WARNING - Failed to extract content from EOTIR Novels\People\LAJTS\initial profile of james.pdf
+2025-05-03 16:40:32,012 - INFO - Processing file: EOTIR Novels\People\LALJSKC\CharProf-Layha(1).docx
+2025-05-03 16:40:32,023 - INFO - Saved character profile to LLM\character_profiles\Layha1_local_laljskc.txt
+2025-05-03 16:40:32,024 - INFO - Processing file: EOTIR Novels\People\LALJSKC\CharProf-Layha.docx
+2025-05-03 16:40:32,054 - INFO - Saved character profile to LLM\character_profiles\Layha_local_laljskc.txt
+2025-05-03 16:40:32,055 - INFO - Found 12 character profiles in EOTIR Novels\People
+2025-05-03 16:40:32,058 - INFO - Extraction complete. Extracted 27 character profiles from 3 directories.
+2025-05-03 16:40:32,058 - INFO - Results saved to LLM\character_profiles
+2025-05-03 16:40:32,059 - INFO - Summary report saved to LLM\metadata\local_extraction_report.md

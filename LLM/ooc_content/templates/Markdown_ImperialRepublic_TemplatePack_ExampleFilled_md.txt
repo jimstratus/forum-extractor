@@ -1,0 +1,143 @@
+
+# 📦 Imperial Republic Template Pack (Example-Filled Version)
+
+## 🧾 In-Universe Templates
+
+### 1. 📄 Document Summary Sheet
+
+```markdown
+# 📄 Imperial Republic Document Summary Sheet
+
+**Document Title:** Directive on Outer Rim Stabilization  
+**Document ID:** ED-THR-IRY36-019  
+**Issuing Authority:** Supreme Ruler James T. Stratus II  
+**Date (IRY):** IRY 36  
+**Classification Level:** Secret  
+**Document Type:** Directive  
+**Status:** Active
+
+## 🔍 Summary
+This directive establishes immediate stabilization and control procedures in contested Outer Rim sectors following the collapse of local governance on Eos Prime and surrounding systems.
+
+## 🗂️ Key Provisions
+- Deploy COMPNOR agents to local sectors with authority override.
+- Authorize temporary martial law in Eos, Dendarii, and Polor systems.
+- Institute provisional military governors approved by the Throne.
+
+## 🖋️ Signatures
+- Supreme Ruler James T. Stratus II
+- Executor Tavria S. Treyson
+```
+
+---
+
+### 2. 🏛 Imperial Bill or Law Template
+
+```markdown
+# 🏛 Imperial Republic Senate Bill
+
+**Bill Title:** The Anti-Corruption Enforcement Act  
+**Bill ID:** LA-HC-IRY35-027  
+**Date Introduced:** IRY 35.4  
+**Sponsor:** Senator Delos Varn, Obroa-Skai  
+**Co-Sponsors:** Senator Xian Fel, Corellia; Senator Maelis Daro, Chandrila
+
+## 📝 Preamble
+To establish a unified framework for investigating and prosecuting corruption within the administrative and military branches of the Imperial Republic.
+
+## 📜 Articles
+### Article I – Establishment of Oversight Authority
+- Clause 1.1 – COMPNOR shall create an Internal Affairs Bureau (IAB).
+- Clause 1.2 – The IAB shall have investigative rights across all departments.
+
+### Article II – Penalties and Procedures
+- Clause 2.1 – High-level corruption cases will be tried in the High Inquisition.
+
+## ✅ Enactment
+This bill shall take effect on IRY 35.6 if passed by the Senate and signed by the Supreme Ruler.
+
+**Filed by:**  
+*Senator Delos Varn, Representative of Obroa-Skai*
+```
+
+---
+
+### 3. 👑 Imperial Executive Directive Template
+
+```markdown
+# 👑 Imperial Executive Directive
+
+**Directive ID:** ED-THR-IRY36-020  
+**Issued by:** Supreme Ruler James T. Stratus II  
+**Date of Issue:** IRY 36.2  
+**Classification:** Top Secret  
+**Subject:** Operation Silent Vector
+
+## 📘 Purpose
+To coordinate intelligence and security actions regarding the re-emergence of dissident factions in the Lortan Spur.
+
+## 🔧 Directives
+- IRIS is to initiate counterintelligence sweeps on all border-worlds in Sector 9.
+- IRSB is authorized to conduct preemptive raids on known dissident enclaves.
+
+## 🔐 Distribution
+- IRIS Director
+- IRSB Deputy Chief of Security
+- Grand Minister of COMPNOR
+```
+
+---
+
+### 4. 🔒 Classified File Template
+
+```markdown
+# 🔒 CLASSIFIED DOSSIER
+
+**Document ID:** CF-IRSB-IRY36-104  
+**Clearance Level:** Supreme Secret  
+**Filed by:** Director Kaelen Morrix, IRSB  
+**Recipients:** Supreme Chancellor, Grand Minister of COMPNOR, Throne Circle
+
+## 🔻 REDACTED CONTENT BELOW
+[ ██████████████████████████████████████ ]
+
+## 🧾 Incident Summary
+- Date: IRY 36.3
+- Location: Trantar system, Delta region
+- Involved Parties: [REDACTED]
+- Description: High-value target sighting confirmed. OPERATION SABLE LIGHT initiated.
+
+## ⚠️ Security Handling Instructions
+Only distribute via secure COMPNET IV-X relay. Any breach of chain of custody is punishable by death.
+```
+
+---
+
+## 🛠️ OOC Templates (Example-Filled)
+
+### 1. 📐 Design Document Template
+
+```markdown
+# 📐 Project Design Document
+
+**Title:** Dynamic Senate Voting System  
+**Author:** Jim Stratus  
+**Date:** 2025-04-10  
+**Related Files/Docs:** CHAT-GPT-20250410, PLAN-JS-20250409-v1  
+
+## 🎯 Objective
+Design and implement a simulation-ready voting mechanic for the Imperial Senate system, usable in storytelling and gameplay environments.
+
+## 🧱 Components
+- Weighted voting based on planetary class and population
+- Dynamic influence shifts based on events
+- Secret vetoes from Royal Family and Throne
+
+## 🔍 References & Inspirations
+- Star Wars: Galactic Senate structure
+- The Expanse’s Interplanetary Council
+
+## 📌 Development Notes
+- Build early test in TTRPG toolkit
+- Connect with faction influence tracker
+```

@@ -1,0 +1,86 @@
+The Imperial Republic Charter is the supreme legal and foundational document of the Era of the Imperial Republic (EOTIR) universe. Its significance cannot be overstated—it is the highest authority in canon, and everything else in the setting (laws, roles, governments, factions, even the Throne) derives legitimacy from it. Here's a breakdown of what that means in-universe and for gameplay/lorecraft:
+
+
+
+🛡️ IN-UNIVERSE SIGNIFICANCE
+
+1. Supreme Law of the Imperial Republic
+
+The Charter:
+
+Establishes the structure of government, including the High Council, Throne, Judicate, and Sector Governments (like Moffs).
+
+
+Defines Charter Authority — the highest level of legal power, which even the Throne must obey unless superseded by a formal Charter Amendment.
+
+
+Specifies citizen rights, powers of each branch, interstellar jurisdiction, and checks and balances.
+
+
+🧠 In EOTIR terms, this isn’t a "constitution" — that word is deliberately not used. The correct term is always “Charter,” and it holds more sacred, almost mythic authority.
+
+
+
+2. Limits on the Throne’s Power
+
+Even though the Throne is a supreme executive institution, it is not above the Charter. It derives its legitimacy from the Charter itself, and certain actions (like dissolving the High Council or overriding the Judicate) require Charter-defined procedures.
+
+This is what allows the Imperial Republic to present itself as both a monarchy and a rule-of-law polity. The balance is intentional.
+
+
+
+3. Judicate Interpretation
+
+The Judicate (Republic judiciary) interprets the Charter and resolves disputes over its meaning, similar to a constitutional court. Their rulings on Charter law are binding, unless overturned by:
+
+A Charter Amendment
+
+
+An act of the High Council within permitted bounds
+
+
+Rare, high-authority Throne interventions (within limits)
+
+
+
+
+🧭 FOR LOREBUILDING AND POLICY WRITING
+
+🥇 It Has Canonical Primacy
+
+The Charter overrides:
+
+All in-universe laws, policies, codes, or directives
+
+
+Anything not explicitly harmonized with it
+
+
+Even other canon documents, unless those documents are marked as formal Charter Amendments
+
+
+📚 Source Hierarchy (From Registry)
+
+In the EOTIR Source Registry, the Charter is:
+
+Priority Level 1 — Canon Supreme
+ “No source, document, forum post, or creative work may override, contradict, or reinterpret the Charter without formal amendment.”
+
+If there's ever a contradiction between a policy and the Charter, the Charter wins.
+
+
+
+⚙️ PRACTICAL TAKEAWAYS FOR YOU
+
+When crafting:
+
+Laws → must cite or align with Charter authority.
+
+
+Offices/titles → must reflect Charter-defined powers or limitations (e.g., Moffs must be subordinate to Sector governance laws derived from Charter provisions).
+
+
+Judicial decisions → must trace back to Charter interpretation unless using lower law.
+
+
+Political factions → may challenge the Charter, but you must explicitly state they are oppositional or seeking amendment, not operating under its authority.

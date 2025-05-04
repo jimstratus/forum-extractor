@@ -1,0 +1,8 @@
+---
+source: c:\EOTIR\EOTIR Novels\People\LAJTS\written sequence of events.pdf
+category: narratives/completed_scenarios
+/producer: Lionel Li PDF Library
+source_type: EOTIR Novels
+extraction_date: 2025-05-03T15:30:31.018231
+---
+

@@ -1,0 +1,25 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\URI.AllowedSchemes.txt
+category: narratives/completed_scenarios
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.584340
+---
+
+URI.AllowedSchemes
+TYPE: lookup
+--DEFAULT--
+array (
+  'http' => true,
+  'https' => true,
+  'mailto' => true,
+  'ftp' => true,
+  'nntp' => true,
+  'news' => true,
+  'tel' => true,
+)
+--DESCRIPTION--
+Whitelist that defines the schemes that a URI is allowed to have.  This
+prevents XSS attacks from using pseudo-schemes like javascript or mocha.
+There is also support for the <code>data</code> and <code>file</code>
+URI schemes, but they are not enabled by default.
+--# vim: et sw=4 sts=4

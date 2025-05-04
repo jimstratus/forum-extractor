@@ -1,0 +1,13 @@
+---
+source: c:\EOTIR\EOTIR RPG\Forms\Imperial Republic Award Nomination (Responses).xlsx
+category: narratives/completed_scenarios
+sheets: ['Form Responses 1']
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:28.384080
+---
+
+--- Sheet: Form Responses 1 ---
+
+Empty DataFrame
+Columns: [Timestamp, Name of Nominee, Your Name, Nomination for Award, Award Eligibility and Reason, Earth Date of Nomination, Scenario URL, Scenario Title, Year of the IR]
+Index: []

@@ -1,0 +1,11 @@
+Board Staff Positions
+
+ACP = Admin Control Panel Access SM = Super Moderator LM = Limited Moderator
+
+
+
+Current ACP Usergroups: Throne, L’Agent du Trone, Admins
+
+Current SM Usergroups:
+
+Most ACP users will have limited/restricted ACP access.

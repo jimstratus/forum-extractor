@@ -1,0 +1,17 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\Attr.DefaultTextDir.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.348572
+---
+
+Attr.DefaultTextDir
+TYPE: string
+DEFAULT: 'ltr'
+--DESCRIPTION--
+Defines the default text direction (ltr or rtl) of the document being
+parsed.  This generally is the same as the value of the dir attribute in
+HTML, or ltr if that is not specified.
+--ALLOWED--
+'ltr', 'rtl'
+--# vim: et sw=4 sts=4

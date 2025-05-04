@@ -1,0 +1,15 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Themes\StarWars-Forcev42x\copy.txt
+category: character_profiles
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:41.199987
+---
+
+[Copyright Notice]
+
+You are allowed to use this skin free of charge.
+You are not allowed to sell the skin or make profit directly from the skin.
+You are not allowed to remove the copyright notice at the footer of the page or edit it in any way. You do have the right to edit any logo files and profile images.
+You do not have the right to redistribute this skin set in any way.
+
+Please respect my wishes by simply keeping the copyright intact and I will continue to release my skins. 

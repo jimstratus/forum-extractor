@@ -1,0 +1,1969 @@
+●     N76 organization chart
+●     Surface warfare — what we do
+●     Today's surface force
+●     The future of surface warfare
+●     Surface Warfare magazine 
+●     Links to surface warfare-affiliated organizations
+●     Frequently-asked surface warfare questions (FAQs)
+●     Contact N76 public affairs
+●     Contact Surface Warfare magazine
+●     Surface Warfare Officers Network (SWONET)
+Effective date: 15 August 2003
+
+
+Effective date: 15 May 2003
+The Surface Force is composed of the following capabilities:
+●     Aegis Combat System 
+●     Cooperative Engagement Capability (CEC)
+●     Harpoon 
+●     MK 45 5 inch/54 caliber lightweight guns 
+●     MK 46 Torpedoes 
+●     MK 75 Gun 
+●     Phalanx Close-in Weapons Systems 
+●     Rolling Airframe Missile (RAM) 
+●     Sea Sparrow 
+●     SH-60 Seahawk LAMPS MK III 
+●     Standard Missile 
+●     Vertical Launch ASROC (VLA) Missile 
+. . . and the following types of surface combatants:
+●     Guided Missile Cruisers (CG) 
+●     Destroyers (DD) and Guided Missile Destroyers (DDG) 
+●     Guided Missile Frigates (FFG) 
+●     USS Constitution
+Other types of surface ships are part of the Amphibious Force (N75) and Supply (N4). Aircraft 
+Carriers are considered assets of N78.
+All surface ships are under the command of the two Type commanders: 
+●     Commander, Naval Surface Force, U.S. Pacific Fleet
+●     Commander, Naval Surface Force, U.S. Atlantic Fleet
+Effective date: 15 May 2003
+Return to the N76 top page. 
+Cooperative Engagement Capability (CEC) enables battle group ships and aircraft to share sensor data at speeds never 
+seen before providing the entire battle group with a single integrated air picture. This revolutionary capability doesn't require additional radars or weapons but instead shares information with existing systems. CEC brings significant improvements in several areas: 
+●     Air contact tracking accuracy. 
+●     Continuity of Track. 
+●     Air contact identification consistency. 
+These pieces of information, collected and shared by assets throughout the battle group, increase the size of battle space protection. They enable the battle group to more accurately identify air contacts before they can threaten the battle group. Once CEC is installed on all the battle groups, every ship and Hawkeye 2000 in the battle group will be capable of seeing the same target many miles away. This could not happen using only the ship's own organic sensors. 
+CEC extracts data from sensors aboard surface ships and aircraft throughout the battle group operating region and 
+displays fire control quality data, within microseconds, to every asset in the battle group. Having a fire control quality track on a target as it approaches the battle group enables all ships to engage at their maximum intercept range, taking into account the performance characteristics of each of the missiles. CEC gives the battle group commander an umbrella to protect all the ships and aircraft in the battle group and extends that umbrella of protection well beyond the outermost sensors of the battle group. Only the USS John F. Kennedy (CV 67) and USS Nimitz (CVN 68) Carrier Strike Groups currently have CEC. Our goal is to install CEC in all the carrier strike groups by FY07. 
+Effective date: 15 May 2003
+Return to the N76 top page. 
+OPNAV N76 plays a critical role in developing the future of Surface Warfare. Future systems and 
+platforms will include the following:
+●     Advanced Gun System (AGS)
+●     Ballistic Missile Defense 
+●     CIWS 1B 
+●     Extended Range Active Missile 
+●     Extended Range Guided Munition 
+●     Hellfire
+●     MH-60R 
+●     Remote Minehunting System
+●     Tactical Tomahawk 
+To extend the life of current ships, Surface Warfare is investing in Cruiser Conversion. 
+To get new capabilities to sea, the future surface combatant force will likely consist of the following ships:  
+●     Aegis fleet
+❍     Guided Missile Cruisers (CG) 
+❍     Destroyers (DD) and Guided Missile Destroyers (DDG) 
+●     LCS 
+●     DD(X) 
+●     CG(X) 
+Effective date: 30 May 2003
+Return to the N76 top page. 
+Advanced Gun System (AGS)
+The United States Navy's future destroyer, DD(X), will feature a revolutionary gun, called the Advanced Gun System 
+(AGS), which will hurl shells up to 100 nautical miles with pinpoint accuracy. 
+The highly automated 155mm (6.1-inch) DD(X) gun, really a "trainable rocket launcher," will answer the Marine 
+Corps' and other joint forces' "call for fire" as they move further inland faster. Essentially, this will fire GPS (Global Positioning System)-guided, rocket-assisted Long Range Land Attack Projectiles (LRLAP), among other munitions, at targets up to 100 nautical miles away, with a sustained firing rate of up to 12 rounds per minute. The fully automated 
+gun and magazine will use a water-cooled barrel to enable a high and sustainable rate of fire. 
+Ballistic Missile Defense 
+Our Navy is poised to contribute significantly in fielding initial sea based missile defense capabilities to meet the near-
+term ballistic missile threat to our homeland, our deployed forces, and our friends and allies, and we are working 
+closely with the Missile Defense Agency (MDA) to that end. USS Lake Erie will be assigned to MDA to facilitate a 
+more robust testing program for missile defense. In turn, MDA plans to fund upgrades to fifteen Aegis guided missile destroyers and three Aegis cruisers for ICBM surveillance and tracking duties and procurement of up to 20 SM-3 interceptors to help us provide a limited at sea capability to engage short and medium range ballistic missiles in the midcourse and ascent phases of flight. 
+CIWS 1B
+Upgrades to the Close-In Weapon System (CIWS) will enhance the system's ability to defend against low slow or 
+hovering aircraft, surface craft, and the rising threat from cruise missiles. The Block 1B surface mode upgrade includes the addition of a thermal imager, an automatic acquisition video tracker and a stabilization system for the tracker to provide threat detection both day and night. The thermal imager also improves the accuracy of angle tracking information to the firing computer, enhancing the system's ability to engage cruise missiles. CIWS Block 1B uses the Navy's first fused radio frequency/electro-optical (RF/EO) sensor system to improve its AAW capability. The RF/EO system increases the number of hits, extends the initial hit range, eliminates radar glint, and eliminates the effects of multi-path propagation. This system has great potential to solve our challenging short-range surface gunnery problem. 
+Extended Range Active Missile
+A robust extended range (ER) anti-air missile with engage-on-remote capability is key to providing flexible firepower throughout the battle space using a variety of targeting platforms. To that end, we are developing the Extended Range 
+Active Missile (ERAM), which uses an SM-2 Block IV propulsion stack with an active Advanced Medium Range Air-
+to-Air Missile (AMRAAM) seeker to provide enhanced capabilities. ERAM is an active missile that can use the full kinematic capability of the missile to greatly expand the battlespace. ERAM will leverage the significant investment made by the Defense Department in the AMRAAM seeker. 
+Extended Range Guided Munition (ERGM)
+A key element of U.S. Naval forces' power projection capability, the 5-inch, rocket-assisted ERGM will provide surface combatants the ability to support forces ashore with responsive, sustained, accurate firepower. ERGM's increased range and precision guidance provide a revolutionary capability in support of the U.S. Marines and other joint ground forces ashore. ERGM uses a high energy propelling charge and rocket motor to achieve maximum projectile range and will be fired by the 5-inch, 62-Caliber gun now being installed on new Arleigh Burke-class 
+destroyers starting with USS Winston S. Churchill (DDG 81). 
+MH-60R
+The MH-60R, which performs undersea warfare and anti-surface warfare, will replace the existing fleet of SH-60B 
+and SH-60F helicopters. The MH-60R brings tremendous war-fighting capability to the fleet, including the Multi-
+Mode Radar, AQS-22 airborne low frequency dipping sonar, Electronic Support Measures, Forward Looking Infrared 
+Radar, data link, acoustics, Integrated Self Defense package and much more. Today there are six MH-60R aircraft in testing; three test aircraft are at Naval Air Warfare Center Aircraft Division Patuxent River, Md., for development and operational tests (includes the 2 NMH-60R prototypes), and three test aircraft are at Lockheed Martin Systems Integration in Owego, N.Y. for integration and test. 
+Remote Mine-hunting System (RMS)
+To sustain operations in the littorals, naval forces must possess an organic capability to assess the extent of the naval mine threat. As part of the advanced forces, surface ships will employ off-board systems to meet the demand for mine reconnaissance of anticipated operating areas. The Remote Mine-hunting System (RMS) is being developed to meet these requirements. RMS will be an organic, off-board system employing advanced mine reconnaissance sensors that will be launched, operated, and recovered from a host surface ship. RMS development will continue to follow an evolutionary acquisition process in which upgraded systems are delivered to the fleet as the technology matures. RMS will be installed on the 
+Littoral Combat Ships (LCS). 
+Tactical Tomahawk
+Tactical Tomahawk (TACTOM) the next generation Tomahawk cruise missile adds the capability to reprogram the 
+missile while in-flight to strike any of 15 pre-programmed alternate targets or redirect the missile to any Global Positioning System (GPS) target coordinates. It also will be able to loiter over a target area, and with its on-board camera, will allow the warfighting commanders to assess battle damage. Launched from the Navy's forward-deployed 
+ships and submarines, Tactical Tomahawk, will provide a greater flexibility to the on-scene commander. Tactical 
+Tomahawk is projected to enter service in 2004. Improvements with TACTOM: 
+●     TACTOM cuts the cost of a Tomahawk missile nearly in half while improving responsiveness, survivability and flexibility. TACTOM provides the warrior with:
+❍     Improved anti-jam GPS 
+❍     A two-way satellite data link 
+❍     Increased accuracy and improved reliability
+❍     The capacity to loiter and then engage time critical targets on demand
+❍     The ability to flex via the data link to a preplanned alternate target, or to a real-time emerging target
+❍     A flexible design that can carry alternate payloads in the future. 
+Cruiser Modernization Program
+In 2006, cruisers will begin the process of being upgraded through the Cruiser Modernization program. Cruiser Modernization is a cost effective means to sustain or increase force structure and deploy new vital capabilities sooner. 
+All cruisers in the fleet with the exception of CGs 47-51, will eventually go through modernization. Cruiser 
+Modernization will improve warfighting capability by providing systems upgrades including Cooperative Engagement Capability and the AN/SQQ-89A(V)15 with Multi-Function Towed Array. Cruiser Modernization also provides a viable platform for future Ballistic Missile Defense missions. A comprehensive service life extension work package, which includes the All-Electric Modification, SMARTSHIP upgrades, hull, mechanical, and electrical system upgrades, and a Type Commanders maintenance work-package, is included in modernization. 
+Littoral Combat Ship (LCS)
+The Littoral Combat Ship will be the first Navy ship to separate capability from hull form and provide a robust, 
+affordable, focused-mission warship designed to provide assured access for our joint forces. LCS will have the size, 
+speed, endurance, and connectivity to deploy as a member of Carrier Strike Groups and Expeditionary Strike Groups, 
+or in smaller groups of surface combatants. 
+To overcome access denial threats in the littoral, the Navy needs an improved mine warfare capability; an effective 
+counter to small, fast highly armed boats; and a better capability against quiet diesel submarines as soon as possible. These capabilities need to be provided on a shallow draft, persistent and fast platform, specifically designed to operate in the littoral against asymmetric threats. LCS' three focused missions: Mine Warfare (MIW), Surface Warfare 
+(SUW), and Littoral Anti-Submarine Warfare (ASW) will address those gaps. 
+LCS will carry some core capabilities, such as self-defense and command and control, but its true war fighting 
+capability will come from the tailored mission modules. LCS will be configured for one mission package at a time, consisting of modules, manned aircraft, unmanned vehicles, off-board sensors, and mission manning detachments all in an open-systems architecture. 
+Mission module development will focus on identifying and integrating systems with technical maturity that will 
+provide proven war fighting capability. These may include off board systems to increase LCS sensor and weapons reach such as Vertical Takeoff Unmanned Aerial Vehicles (UAV), Remote Minehunting System, Spartan Scout Advanced Capability Technology Demonstration (ACTD), and Advanced Deployable System (ADS). Through the spiral development process, we will combine improved legacy systems and next generation systems to provide ever-increasing capability for follow on LCS Flights. 
+When equipped with the appropriate ASW Mission Package, LCS will conduct multi-sensor ASW detection, 
+classification, localization, tracking and engagement of submarines throughout the water column in the littoral operating environment. LCS will have the capability to embark ASW/multi-mission helicopters and unmanned vehicles, and will employ Undersea Surveillance Systems, environmental models and databases. In all mission configurations, LCS shall have core systems that provide the capability to detect threat torpedoes at sufficient range to 
+permit initiation of effective countermeasures and/or maneuver action to defeat the threat. 
+Additionally, LCS will become the focal point of our efforts to transform mine warfare. When equipped with the 
+appropriate Mission Package, LCS will conduct mine warfare missions in operational areas with on-board and off-board systems from deep water through the beach. The potential for modernization through its modular, multi-mission design will allow LCS to incorporate new unmanned vehicle technologies as they mature. 
+CG(X)
+Development of CG(X), the next generation cruiser, will begin in the future. As a descendant of the DD(X) program, it will share with DD(X) a common propulsion architecture and a stealthier hull form. This hull form will contain an 
+integrated all-electric power system that is more efficient and survivable than today's propulsion systems, and provides 
+more power capacity for future weapons. CG(X) will also use many of the same transformational technologies used in DD(X) to reduce crew size and operating and support costs. CG(X) will maintain air superiority over the total force. Larger, faster, and longer-range missiles will allow CG(X) to counter state-of-the-art air threats hundreds of miles inland and to perform other missions well in the littoral. A generation of air defense radars is currently under development to counter low-radar cross section (RCS) threats at extended ranges; CG(X) will not only provide sustained air superiority, but will also detect, track and engage ballistic missiles outside of the atmosphere. 
+Effective date: 23 March 2004
+Return to the N76 top page. 
+●     Commander, Naval Surface Force, U.S. Pacific Fleet
+●     Commander, Naval Surface Force, U.S. Atlantic Fleet
+●     Surface Warfare Officers Network (SWONET)
+●     Navy NewsStand — N76 page
+●     Chief of Naval Operations
+●     CNO Warfare Requirements and Programs (N6/N7) directorate
+●     Naval Sea Systems Command
+●     Surface Warfare Development Group
+●     Naval Surface Warfare Centers
+❍     Naval Surface Warfare Center, Carderock, Md.
+❍     Naval Surface Warfare Center, Corona, Calif.
+❍     Naval Surface Warfare Center, Crane, Ind.
+❍     Naval Surface Warfare Center, Dahlgren, Va.
+❍     Naval Surface Warfare Center, Indian Head, Md.
+❍     Naval Surface Warfare Center, Port Hueneme, Calif.
+●     Navy Surface Spouses
+●     Surface Navy Association
+●     Navy League of the United States
+Effective date: 15 May 2003
+Return to the N76 top page. 
+Q. How do I become a Surface Warfare Officer (SWO)? 
+If you are already a Naval Officer and would like to change your designator, information is available 
+from your chain of command. Decisions are made on a case-by-case basis. If you are not yet in the Navy, you can enter the SWO community through the Naval Academy or NROTC.
+Q. How do I earn an Enlisted Surface Warfare Specialist (ESWS) pin? 
+To earn an ESWS pin follow the Personnel Qualifications Standards (PQS) aboard your ship. For more information, talk to your ship's ESWS Coordinator or your Command Master Chief.
+Q. How do I find a specific ship in the fleet? 
+There are a number of ways to find a specific ship. If you have the ship's name you can do a search on the 
+Navy's official site or through a search engine on the web. Surface ships in the Pacific fleet are listed 
+at the Commander, Naval Surface Force, U.S. Pacific Fleet Web site; surface ships in the Atlantic fleet 
+are listed on the Commander, Naval Surface Force, U.S. Atlantic Fleet Web site. If you want to look at 
+specific surface ships by type, visit the Navy Fact File for that ship type: cruisers, destroyers, or frigates. 
+Q. How do I find a decommissioned surface ship? 
+Information about decommissioned ships can be found via the Naval Vessel Register . Also, a number 
+of Web sites established by private organizations, veterans groups and military enthusiasts are available via the internet. This information can be found via internet search engines. A search on the desired ship name will likely yield a number of Web sites dedicated to the ship of your interest.
+Q. Where can I find photos of surface ships? 
+You can find photos of current ships in the Navy's photo database. If you are looking for photos of 
+decommissioned ships, try the Web site of the Naval Historical Center. 
+Q. How can I access the Surface Warfare Officers Network (SWONET)? 
+SWONET is an interactive Web site targeted to Surface Warfare Officers (SWOs). If you are a SWO, 
+you can register at www.swonet.com. Some parts of the site are accessible to the public. 
+Effective date: 30 May 2003
+Return to the N76 top page. 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+Aegis Weapons System
+ DescriptionThe Aegis system was designed as a total weapon system, from detection to kill. The heart of the system is an advanced, automatic detect and track, multi-function phased-array radar, the AN/SPY-1. This high powered (four megawatt) radar is able to perform search, track and missile guidance functions simultaneously with a track capacity of over 100 targets. The first Engineering Development Model (EDM-1) was installed in the test ship, USS Norton Sound (AVM 1) in 1973.
+The computer-based command and decision element is the core of the Aegis combat system. This interface makes 
+the Aegis combat system capable of simultaneous operation against a multi-mission threat: anti-air, anti-surface 
+and anti-submarine warfare.
+The Navy built the first Aegis cruisers using the hull and machinery designs of Spruance class destroyers. The 
+commissioning of USS Bunker Hill (CG 52) opened a new era in surface warfare as the first Aegis ship outfitted with the Vertical Launching System (VLS), allowing greater missile selection, firepower and survivability. The improved AN/SPY-1B radar went to sea in USS Princeton (CG 59), ushering in another advance in Aegis capabilities. USS Chosin (CG 65) introduced the AN/UYK-43/44 computers, which provide increased processing capabilities.
+In 1980, a smaller ship was designed using an improved sea-keeping hull form, reduced infra-red and radar cross 
+section and upgrades to the Aegis Combat System. The first ship of the DDG 51 class, Arleigh Burke, was commissioned on the Fourth of July, 1991. The DDG 51 class was named after a living person, the legendary Adm. Arleigh Burke, the most famous destroyerman of World War II.
+DDG 51s were constructed in flights, allowing technological advances during construction. Flight II, introduced in 
+FY 1992, incorporates improvements to the SPY radar and the Standard missile, active electronic 
+countermeasures and communications. Flight IIA, introduced in fiscal year 1994, added a helicopter hangar with 
+one anti-submarine helicopter and one armed attack helicopter. The Aegis program has also projected reducing the 
+cost of each Flight IIA ship by at least $30 million. 
+   
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ Point Of Contact
+Public Affairs OfficeNaval Sea Systems Command (OOD)Washington, DC 20362 Last Update: 29 March 2006 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+Harpoon Missile
+ DescriptionThe A/U/RGM-84 Harpoon is an all- weather, over-the-horizon, anti-ship missile system. FeaturesThe Harpoon’s active radar guidance, warhead design, low-level cruise trajectory, and terminal mode sea-skim or pop-up maneuvers assure high survivability and effectiveness. The missile is capable of being launched from surface ships, submarines, shore batteries, or aircraft (without the booster). BackgroundOriginally developed for the Navy to serve as its basic anti-ship missile for fleet-wide use. The A/R/UGM-84 was first introduced in 1977, and in 1979 the air-launched version was deployed on the Navy's P-3C Orion aircraft. The Harpoon was also adapted for use on USAF B-52H bombers, which can carry from 8 to 12 of the missiles. The Harpoon missile has been integrated on foreign F-16 aircraft and is presently being integrated on foreign F-15 aircraft. Under a 1998 agreement between Boeing and the Navy, an advanced upgrade to Harpoon missile was developed. This Harpoon Block II missile incorporated Global Positioning System-assisted inertial navigation, which enables the system to have both an anti-ship and a land attack capability. ServiceNavy and Air Force, and 27 foreign nations. Point Of ContactProgram Executive Office, Strike Weapons and Unmanned Aviation [PEO (W)]Public Affairs Department 47123 Buse Road, Unit IPT Bldg. 2272, Suite 245 Patuxent River, MD 20670-5440 (301) 757-5289 General CharacteristicsPrimary Function: Air, ship, and foreign submarine and land-based coastal defense battery launched anti-ship cruise missile.Contractor: The Boeing Company.Date Deployed: 1977.
+   
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ Unit Cost: $1,200,000 for Harpoon Block II.
+Propulsion: Teledyne Turbojet / solid propellant booster for surface and submarine launch. Thrust: greater than 600 pounds (greater than 272.2 kg).Length: Air launched: 12 feet, 7 inches (3.8 meters); Surface and submarine launched: 15 feet (4.6 meters)Diameter: 13.5 inches (34.3 cm).Wingspan: 3 feet (91.4 cm) with booster fins and wings.Weight: 1,523 pounds (690.8 kg) with booster.Speed: High subsonic.Range: Over-the-horizon, in excess of 67 nautical miles (124 km).Guidance System: Sea-skimming cruise monitored by radar altimeter / active radar terminal homing.Warhead: Penetration / high-explosive blast (488 pounds/224 kg). Last Update: 7 August 2003 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+5-inch Mark 45 54-caliber lightweight gun
+ DescriptionThe 54-caliber (Mk 45) lightweight gun provides surface combatants accurate naval gunfire against fast, highly maneuverable surface targets, air threats and shore targets during amphibious operations. BackgroundThis lightweight gun system offers significant improvements in reliability and maintainability over the 54-caliber Mk 42 gun systems. The Mk 45 is controlled by either the Mk 86 Gun Fire Control System or the Mk 160 Gun Computing System. Point Of ContactPublic Affairs OfficeNaval Sea Systems Command (OOD)Washington, DC 20360 General CharacteristicsPrimary Function: Fully-automatic, lightweight gun mount.Date Deployed: 1971 (Mark 45)Range: 13 nautical miles (14.9 statute miles)Type Fire: 16-20 rounds per minute automaticMagazine Capacity: 475-500 rounds per magazine.Caliber: 5 inch (12.7 cm) Last Update: 23 March 2005 
+ 
+ 
+Click on photo to view larger or to download
+  
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+Torpedo - Mark 46
+ DescriptionSince its introduction in 1965 as the replacement for the Mk44 torpedo, the Mk46 torpedo has been the mainstay of the Navy’s lightweight ASW torpedo inventory, and its upgraded versions will be in service world-wide well into the 21st century. FeaturesThe Mk46 torpedo—designed to attack high-performance submarines—is identified as the NATO standard and acquired by more than 25 countries. Various modifications—including improved acoustics, guidance and control upgrades, countermeasure-detection capability, and a countermeasure of anechoic coatings—were introduced into the weapon. In the early 1990s a major system upgrade was developed to improve weapon performance in shallow water. The resultant Mk46 Mod 5A(S) torpedo—an active or passive/active, dual-speed torpedo—is the ASW weapon for surface ships and ASW fixed-wing and rotary-wing aircraft; it also serves as the payload for the CAPTOR mine, ASROC, and the vertical-launch ASROC (VLA). U.S. Navy procurement of the Mk46 ended in 1991. Another performance improvement program was undertaken and the Mk46 Mod 5A(SW) (Service Life Extension Program (SLEP)) torpedo was introduced to the fleet in September 1996. The Mk46 SLEP upgrade does not impact deep-water performance and has improved counter-countermeasure performance and enhanced target acquisition. The Mk46 Mod 5A(SW) also has improved maintainability and reliability. No other improvement programs are planned for this weapon and it is being removed from active service as torpedoes become due for maintenance. Point Of ContactPublic Affairs OfficeNaval Sea Systems Command (OOD)Washington, DC 20362 General Characteristics, MK-48, MK-48 (ADCAP)Primary Function: Heavyweight torpedo for submarines.Contractor: Gould.Date Deployed: 1972.Propulsion: Piston engine; pump jet.Length: 19 feet (5.79 meters).Diameter: 21 inches (53.34 centimeters).Weight: 3,434 lbs (1545.3 kg) (MK-48); 3,695 lbs (1662.75 kg) (MK-48 ADCAP).
+ 
+ 
+Click on photo to view larger or to download
+  
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ Speed: Greater than 28 knots (32.2 mph, 51.52 kph).
+Range: Greater than 5 miles (8 km).Depth: Greater than 1,200 ft (365.76 meters).Guidance System: Wire guided and passive/active acoustic homing.Warhead: 650 lbs (292.5 kg) high explosive. General CharacteristicsPrimary Function: Antiship weaponContractor: RaytheonDate Deployed: 1965Propulsion: piston engine (solid propellant) or cam engine (liquid propellant)Length: 8.5 feet; 14.75 feet with ASROC boosterDiameter: 12.8 inchesWeight: 508 pounds; 1,073 pounds with ASROC boosterSpeed: Greater than 28 knots (32.2 mph, 51.52 kph).Range: more than 10,000 yards at optimum depthDepth: Greater than 1,200 ft (365.76 meters).Warhead: 96.8 pounds, high-explosive General Characteristics, MK-50Primary Function: Air and ship-launched lightweight torpedo.Contractor: Alliant Techsystems, Westinghouse.Propulsion: Stored Chemical Energy Propulsion System.Length: 112 inches.Diameter: 12.75 inches.Weight: 750 pounds.Speed: 40+ knots.Guidance System: Active/passive acoustic homing.Warhead: Approximately 100 pounds high explosive (shaped charge). Last Update: 16 August 2006 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+Mark 75 - 76mm/62 caliber 3" gun
+ DescriptionA lightweight, rapid-fire three-inch gun mounted on small combat vessels. BackgroundBecause of performance, lightweight and low manning requirements, the MK 75 is suited for installation on small combat vessels. Current usage includes one gun mount each for some Navy frigates and hydrofoils, and for one gun mount each for the larger Coast Guard cutters. The Mark 75 was provisionally approved for service use in September 1975.
+The Naval Systems Division (NSD) of FMC Corporation and General Electric Co. (Ordnance Systems Division) 
+were both licensed by the gun's designer, OTO Melara of La Spezia, Italy, and competed for the right to manufacture the MK-75 in the United States. In 1975, FMC/NSD won the competition. Since 1981, however, all MK 75 buys have been competed for by FMC/NSD and OTO Melara.
+The first United States produced gun mount was delivered in August 1978.
+ Point Of ContactPublic Affairs OfficeNaval Sea Systems CommandWashington, DC 20360 General CharacteristicsPrimary Function: Single barrel, lightweight, water-cooled, rapid fire, remote controlled, dual purpose automatic enclosed naval gun.Contractor: Designed by OTO Melara, ItalyManufactured by FMC Naval Systems Division and OTO Melara.Date Deployed: 1978 (USS Oliver Hazard Perry).Range: 10 nautical miles (11.5 statue miles, 18.4 km).Type Fire: 80 rounds per minute automatic.Caliber: 76 mm (3 inch).Guidance System: Remotely controlled. Last Update: 30 March 2005
+ 
+ 
+Click on photo to view larger or to download
+  
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+  
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+Phalanx Close-In Weapons System
+ DescriptionFast-reaction, rapid-fire 20-millimeter gun system. FeaturesPhalanx provides ships of the U.S. Navy with a "last-chance" defense against anti-ship missiles and littoral warfare threats that have penetrated other fleet defenses. Phalanx automatically detects, tracks and engages anti-air warfare threats such as anti-ship missiles and aircraft, while the Block 1B's man-in-the-loop system counters the emerging littoral warfare threat. This new threat includes small,high-speed surface craft, small terrorist aircraft, helicopters and surface mines. Phalanx accomplishes these engagements via an advanced search and track radar system integrated with a stabilized, forward looking infra-red (FLIR) detector. This integrated FLIR provides Phalanx with an unique multi-spectral detect and track capability for littoral warfare threats and dramatically improves the existing anti-air warfare capability. Block 1B also incorporates new Optimized Gun Barrels which provide improved barrel life, improved round dispersion and increased engagement ranges.
+Phalanx is the only deployed close-in weapon system capable of autonomously performing its own search, detect, 
+evaluation, track, engage and kill assessment functions. Phalanx also can be integrated into existing Combat Systems to provide additonal sensor and fire-control capability. BackgroundThe Phalanx Close-In Weapons System (CIWS) underwent operational tests and evaluation onboard USS Bigelow in 1977, and exceeded maintenance and reliability specifications. Phalanx production started in 1978 with orders for 23 USN and 14 Foreign Military Sales (FMS) systems. Point Of ContactPublic Affairs OfficeNaval Sea Systems Command (OOD)Washington, DC 20360 General CharacteristicsPrimary Function: Anti-ship missile defense.Contractor: Raytheon Systems Company (formerly Hughes Missile Systems Company and purchased from General Dynamics Pomona Division in 1992)
+ 
+ 
+Click on photo to view larger or to download
+  
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ Date Deployed: 1980 (aboard USS Coral Sea)
+Block 1: 1988 (aboard USS Wisconsin)Block 1B: 1999 (aboard USS Underwood)Weight: 12,500 pounds (5,625 kg) - Later models: 13,600 pounds (6,120 kg).Range: Classified.Type Fire: 3,000 rounds per minute - Later models: 4,500 rounds/min (starting 1988 production, Pneumatic Gun Drive).Magazine Capacity: 989 rounds - Later models: 1,550 rounds.Caliber: 20mm.Ammunition: Armor Piercing Discarding Sabot, depleted uranium sub-caliber penetrator. Penetrator changed to tungsten 1988. Block 1B will incorporate the new Enhanced Lethality Cartridge with heavier penetrator.Type: M-61A1 Gatling Gun. Last Update: 27 March 2006 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+RIM-116 Rolling Airframe Missile (RAM)
+ DescriptionThe RIM-116 Rolling Airframe Missile (RAM) is a lightweight quick-reaction, fire-and-forget missile designed to destroy anti-ship missiles and asymmetric air and surface threats. The RIM-116 RAM was developed as a joint program between the U.S. and German governments, and continues to be cooperatively produced and supported. Currently there are two RIM-116 configurations: Block 0 (RIM-116A) and Block 1 (RIM-116B). Block 1 is the current production configuration. FeaturesThe RIM-116 RAM is designed as an all-weather, high-firepower, low-cost, self-defense system against anti-ship cruise missiles and other asymmetric threats. Its original Block 0 design was based on the infrared seeker of the Stinger missile, and the warhead, rocket motor, and fuse from the Sidewinder missile. The Block 0 configuration uses Radio Frequency (RF) for midcourse guidance and transitions to Infrared (IR) guidance for terminal engagement. There is no shipboard support required (i.e. no illuminators) after missile launch. While retaining Block 0 guidance modes, Block 1 incorporates the added capability of autonomous IR-all-the-way guidance, thus countering advanced anti-ship missiles that do not employ onboard radar seekers. RIM-116 has been installed or is planned on the following ship classes: CV/CVN, DD-963, FFG, LHA, LHD, LSD, and LPD-17. The Navy expects to procure approximately 2,000 Block 1 missiles. BackgroundThe RIM-116 RAM is a joint venture between the U.S. and German governments. It is currently installed, or planned for installation, on 78 U.S. Navy and 30 German Navy ships. Point Of ContactPublic Affairs OfficeNaval Sea Systems CommandWashington, D.C.20362703-602-6920 General CharacteristicsPrimary Function: Surface-to-air or surface-to-surface missile.Contractor: Raytheon.Date Deployed: Mid-1993.Unit Cost: Block 1: $444,000.
+   
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ Propulsion: Solid-propellant rocket.
+Length: 9.2 feet (2.80 meters).Diameter: 5 inches (12.70 centimeters).Wingspan: 1.4 feet (42.67 centimeters).Weight: 162 pounds (73.48 kilograms).Speed: Supersonic.Platforms: Amphibious Assault Ships (LHA/LHD)Carriers (CV/CVN)Dock Landing Ships (LSD)Frigates (FFG)Destroyers (DD/DDG)Warhead: 25 pounds (11.36 kilograms), conventional. Last Update: 2 April 2004 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+Sea Sparrow Missile
+ DescriptionA highly maneuverable air-to-air missile with surface-to-air capability. FeaturesThe Navy's RIM-7M Sea Sparrow surface-to-air missile and the Navy, Marine Corps, and Air Force's AIM-7 Sparrow air-to-air missile are radar-guided missiles with high explosive warheads. They have a cylindrical body with four wings at mid-body and four tail fins. The Navy uses the Sea Sparrow version aboard ships as a surface-to-air anti-missile defense. 
+The versatile Sparrow has all-weather, all-altitude operational capability and can attack high-performance aircraft 
+and missiles from any direction. It is widely deployed by U.S., NATO and other FMS forces. The Sea Sparrow is found aboard many U.S., NATO, and other FMS surface warships. BackgroundOriginally developed as an air-to-air missile by Sperry and the U.S. Navy, Sparrow's later versions were developed and produced by Raytheon Company, General Dynamics, and Hughes Missile Systems. Subsequent versions were dubbed the "dog-fight modification" because its increased maneuverability at short range made it better suited for close-in visual engagements. The surface-to-air capability was then added to provide point defense capability for surface combatants. It is utilized in the Trainable Launch configuration by the Navy and in both the Trainable Launch and Vertical Launch configurations by NATO and other FMS customers. 
+The first production Evolved Sea Sparrow Missile (ESSM), an international cooperative upgrade of the RIM-7 
+NATO Sea Sparrow missile, was delivered in late 2002 to the U.S. Navy by Raytheon. The new missile provides the primary air defense for capital ships of the 10 participating NATO navies. The program is managed by the NATO Sea Sparrow Consortium, a 32-year-old organization described as NATO’s largest and most successful cooperative weapons project. 
+ESSM has the speed, agility and accuracy to engage threats at maximum range and under the most challenging 
+conditions.The final phase of the missile’s flight test program is scheduled for early spring 2003, when performance with the Aegis Fire Control System of the U.S. Navy’s Arleigh Burke-class guided missile destroyers will be verified. ServiceNavy, Marine Corps, and Air Force 
+ 
+Click on photo to view larger or to download
+  
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ 
+ 
+Point Of ContactNavy:Naval Air Systems CommandPEO-T Public Affairs Officer47123 Buse Road, Bldg 2272, Rm 454Patuxent River, MD 20670-1547(301) 481-6263 
+Marine Corps:
+Headquarters, U.S. Marine CorpsPublic Affairs DivisionWashington, DC 20380-1775(703) 614-1492
+Air Force:
+Air Combat CommandPublic Affairs Office115 Thompson St., Suite 211Langley AFB, VA 23665-2191(757) 764-5014 General CharacteristicsPrimary Function: Air-to-air and surface-to-air radar-guided missile.Contractor: Raytheon Co., General Dynamics, and Hughes Missile Systems.Date Deployed: 1976.Unit Cost: $165,400.Propulsion: Alliant TechSystems (Hercules) MK-58 solid-propellant rocket motor.Length: 12 feet (3.64 meters).Diameter: 8 inches (20.3 cm).Wingspan: 3 feet 4 inches (one meter).Weight: Launch weight is approximately 500 pounds (225 kg)Speed: Classified.Range: Classified.Guidance System: Raytheon semi-active on continuous wave or pulsed Doppler radar energy.Platforms: Navy Aircraft: F-14 and F/A-18;Navy Surface Platforms: CVs, LHAs, DD-963s, AOEs;Air Force Aircraft: F-4, F-15, and F-16;Marine Corps Aircraft: F-4 and F/A-18Warhead: Annular blast fragmentation warhead, 90 pounds (40.5 kg). Last Update: 8 August 2003 
+
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+SH-60 Seahawk helicopter
+ DescriptionA twin-engine, medium lift, utility or assault helicopter. FeaturesThe Seahawk is a twin-engine helicopter. It is used for anti-submarine warfare, search and rescue, drug interdiction, anti-ship warfare, cargo lift, and special operations. The Navy's SH-60B Seahawk is an airborne platform based aboard cruisers, destroyers, and frigates and deploys sonobuoys (sonic detectors) and torpedoes in an anti-submarine role. They also extend the range of the ship's radar capabilities. The Navy's SH-60F is carrier-based. The HH-60H, also aboard carriers and ashore, is used for search and rescue (SAR) missions. By 2015, the only models of Seahawk in the Navy will be the MH-60S and the MH-60R. Some versions, such as the Air Force's MH-60 G Pave Hawk and the Coast Guard's HH-60J Jayhawk, are equipped with a rescue hoist with a 250 foot (75 meter) cable that has a 600 pound (270 kg) lift capability, and a retractable in-flight refueling probe. The Army's UH-60L Black Hawk can carry 11 soldiers or 2,600 pounds (1,170 kg) of cargo or sling load 9,000 pounds (4,050 kg) of cargo. BackgroundThe UH-60 Black Hawk was fielded by the Army in 1979. The Navy received the SH- 60B Seahawk in 1983 and the SH-60F in 1988. The first MH-60S operational squadron was Helicopter Combat Support Squadron Five (HC 5), homeported in Guam. The Air Force received the MH-60G Pave Hawk in 1982 while the Coast Guard received the HH-60J Jayhawk in 1992. The unit cost varies with the version. For example, the unit cost of the Army's UH-60L Black Hawk is $5.9 million while the unit cost of the Air Force MH-60G Pave Hawk is $10.2 million. ServiceNavy, Army, Air Force, Coast Guard 
+ 
+ 
+Click on photo to view larger or to download
+  
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ Point Of Contact
+Navy: Naval Air Systems Command Public Affairs Department 47123 Buse Road, Unit IPT Bldg. 2272, Suite 075 Patuxent River, MD 20670-5440 (301)757-1487 
+Army:
+Army Public Affairs(703) 697-7589
+Air Force:
+AF Special Operations Command Public Affairs Office(904) 884-5515
+Coast Guard: 
+CommandantU.S. Coast GuardATTN: G-CP (202) 267-1933 General CharacteristicsPrimary Function: Varies with the particular military service.Contractor: Sikorsky Aircraft Corporation (airframe); General Electric Company (engines); IBM Corporation (avionics components).Propulsion: Two General Electric T700-GE-700 or T700-GE-701C engines; thrust: up to 1,940 shaft horsepower.Length: 64 feet 10 inches (19.6 meters).Height: Varies with the version; from 13 to 17 feet (3.9 to 5.1 meters).Rotor Diameter: 53 feet 8 inches (16.4 meters).Weight: Varies; 21,000 to 23,000 pounds (9,450 to 10,350 kg).Airspeed: 180 knots maximum.Range: Generally about 380 nautical miles (600 km); range becomes unlimited with air refueling capability.Crew: Three to four. Last Update: 27 September 2006 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+Standard Missile
+ DescriptionMedium-long range shipboard surface-to-air missile. BackgroundStandard Missile 2 (SM-2) is the world's premier surface-to-air air defense weapon. As an integral part of the Aegis Weapon System (AWS) aboard Ticonderoga-class cruisers and Arleigh Burke-class destroyers, SM-2 can be launched from the MK 41 Vertical Launcher System (VLS) or MK 26 Guided Missile Launcher System. Its primary mission is fleet area air defense and ship self defense, but it also has demonstrated an extended area air defense projection capability and it has a secondary anti-surface ship mission. SM-2s use tail controls and a solid fuel rocket motor for propulsion and maneuverability and, in addition, extended range missiles have a booster with thrust vector controls. All are guided by inertial navigation and mid-course commands from AWS, and semi-active radar or an IR sensor for terminal homing.
+SM-2 succeeds Terrier and Tartar, which were developed in the 1950s and 60s, and SM-1, which will be phased 
+out of U.S. service in 2003. Both medium and extended range versions have been developed. SM-2 Blocks III, IIIA, IIIB, and IV are in service with the U.S. Navy; these and other variants of Standard Missile are also in service with thirteen allied navies.
+In more than a thousand firings over the past two decades, SM-2 consistently has demonstrated effective 
+performance against targets from surface ships to helicopters, manned aircraft, and cruise missiles, from very low to very high altitudes and from stationary to supersonic speeds, under a variety of weather conditions, and across a spectrum of stressing electronic countermeasures environments. On January 24, 1997, the Navy successfully demonstrated a Theater Ballistic Missile Defense (TBMD) capability when a ballistic missile target was shot from the sky for the first time using a new version of the Standard missile family. Although the Navy Area TBMD program has since been canceled, the Aegis Ballistic Missile Defense program (formerly Navy Theater Wide) currently under test uses the same extended range propulsion stack as the basis for the SM-3. The SM-3 has successfully intercepted a ballistic missile targets twice. Point Of ContactPublic Affairs OfficeNaval Sea Systems Command (OOD) Washington, D.C. 20362(202) 692-6920
+ 
+ 
+Click on photo to view larger or to download
+  
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+  
+General Characteristics, SM-2 Block III/IIIA/IIIB Medium RangePrimary Function: Surface to air missile.Contractor: Raytheon and others.Date Deployed: 1981 (SM-2 MR).Propulsion: Dual thrust, solid fuel rocket.Length: 15 feet, 6 inches (4.72 meters).Diameter: 13.5 inches (34.3 cm).Wingspan: 3 feet 6 inches (1.08 meters).Weight: SM-2: 1,558 pounds (708 kg).Range: 40-90 nautical miles (46-104 statute miles).Guidance System: Semi-active radar homing (IR in Block IIIB).Warhead: Radar and contact fuse, blast-fragment warhead. General Characteristics, SM-2 Block IV Extended RangePrimary Function: Fleet and extended area air defense.Contractor: Raytheon and others.Date Deployed: 1998.Propulsion: Two-stage solid fuel rockets.Length: 21 feet 6 inches with booster (6.55 meters).Diameter: 21 inches (booster) (34.3 cm).Wingspan: 3 feet 6 inches (1.08 meters).Weight: 3,225 pounds (1466 kg).Range: 100-200 nautical miles (115-230 statute miles).Guidance System: Semi-active radar homing.Warhead: Radar and contact fuse, blast-fragment warhead. Last Update: 27 September 2006 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+Vertical Launch ASROC (VLA) Missile
+ DescriptionQuick reaction, all weather, intermediate range, Anti-Submarine Warfare (ASW) weapon launched from surface ships. BackgroundThe VLA Missile is a rocket propelled, three stage, Anti-Submarine Warfare (ASW) weapon designed for deployment on CG47, DDG51, and DD963 Class ships equipped with the MK41 Vertical Launching System (VLS) and MK 116 Mod 4A/6/7/8 Fire Control System (ASWCS subsystem of the AN/SQQ-89 (V)). The VLA Missile provides the fleet with the capability for rapid response, all weather delivery of a MK 46 MOD 5 Torpedo against threat submarines in any direction at intermediate ranges. VLA Missiles were introduced into the fleet in 1993 as a baseline weapon for the Ticonderoga-class AEGIS cruisers and Arleigh Burke-class AEGIS destroyers and as a replacement for the ASROC weapon on Spruance-class destroyers when the original ASROC launchers were replaced by the MK 41 VLS. VLA missiles were first introduced with the MK 46 MOD 5A(S) torpedo as its payload (RUM139A). In 1996 an upgrade was implemented to allow the enhanced shallow water capable MK 46 MOD 5A(SW) to be incorporated as the VLA Missile payload (RUM139B). This upgrade is being retrofitted into the entire VLA stockpile and is scheduled for completion in FY-01. VLA Missiles are delivered to the fleet as All-Up-Rounds (AURs) which consist of the VLA Missile installed inside of a MK15 MOD 0 VLS Canister. VLA Missiles have two basic fleet configurations, Warshot and Exercise. VLA Warshot missiles contain a MK46 MOD 5A(S) (or MOD 5A(SW) Warshot Torpedo. VLA Exercise missiles contain an Exercise vice Warshot Torpedo, and are used for fleet exercise firings. Point Of ContactPublic Affairs OfficeNaval Sea Systems Command (OOD) Washington, DC 20362(202) 692-6920 General Characteristics, VLA MissilePrimary Function: Surface Launched Missile, Anti-Submarine Warfare Weapon.Contractor: Lockheed Martin, Naval Electronics & Surveillance Systems - Akron, Ohio (formerly Loral Defense Systems, formerly Goodyear Aerospace).Date Deployed: 1993 (RUM139A); 1996 (RUM139B).Unit Cost: Approximately $350,000 (less torpedo payload).
+   
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ Propulsion: Solid propellant rocket motor.
+Length: Warshot: 16 feet, 0.6 inches (4.85 meters) / Exercise: 16 feet, 8 inches (5.04 meters).Diameter: 16.6 inches (42.2 cm).Wingspan: 26.87 inches (68.3 cm).Weight: Warshot: 1407 pounds (633.15 kg) / Exercise: 1377 pounds (619.65 kg).Range: ASW Intermediate range.Guidance System: Inertial Guidance.Warhead: MK 46 MOD5 Torpedo (98 lbs. of PBXN-103 high explosive (bulk charge). Last Update: 3 April 2005 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+Cruisers - CG
+ DescriptionLarge combat vessel with multiple target response capability. FeaturesModern U.S. Navy guided missile cruisers perform primarily in a Battle Force role. These ships are multi-mission [Air Warfare (AW), Undersea Warfare (USW), and Surface Warfare (SUW)] surface combatants capable of supporting carrier battle groups, amphibious forces, or of operating independently and as flagships of surface action groups. Cruisers are equipped with Tomahawk cruise missiles giving them additional long range strike mission capability. BackgroundTechnological advances in the Standard Missile coupled with the AEGIS combat system in the Ticonderoga class cruisers have increased the AAW capability of surface combatants to pinpoint accuracy from wave-top to zenith. The addition of Tomahawk in the CG-47 has vastly complicated unit target planning for any potential enemy and returned an offensive strike role to the surface forces that seemed to have been lost to air power at Pearl Harbor.
+The lead ship of the class, USS Ticonderoga (CG 47) through CG-51 have been decommissioned.
+ Point Of ContactDepartment of the Navy (OP-03PA)Washington, D.C. 20350-2000  General Characteristics, Ticonderoga ClassBuilder: Ingalls Shipbuilding: CG 47-50, CG 52-57, 59, 62, 65-66, 68-69, 71-73Bath Iron Works: CG 51, 58, 60-61, 63-64, 67, 70.Date Deployed: 22 January 1983 (USS Ticonderoga)Unit Cost: About $1 billion each.Propulsion: 4 General Electric LM 2500 gas turbine engines; 2 shafts, 80,000 shaft horsepower total.Length: 567 feet.Beam: 55 feet.Displacement: 9,600 tons (9,754.06 metric tons) full load.Speed: 30 plus knots.Crew: 24 Officers, 340 Enlisted.
+   
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ Armament: MK41 vertical launching system Standard Missile (MR); Vertical Launch ASROC (VLA) Missile; 
+Tomahawk Cruise Missile; Six MK-46 torpedoes (from two triple mounts); Two MK 45 5-inch/54 caliber lightweight guns; Two Phalanx close-in-weapons systems.Aircraft: Two SH-60 Seahawk (LAMPS III).Ships:
+USS Bunker Hill (CG 52), San Diego, CA
+USS Mobile Bay (CG 53), San Diego, CA
+USS Antietam (CG 54), San Diego, CA
+USS Leyte Gulf (CG 55), Norfolk, VA
+USS San Jacinto (CG 56), Norfolk, VA
+USS Lake Champlain (CG 57), San Diego, CA
+USS Philippine Sea (CG 58), Mayport, FL
+USS Princeton (CG 59), San Diego, CA
+USS Normandy (CG 60), Norfolk, VA
+USS Monterey (CG 61), Norfolk, VA
+USS Chancellorsville (CG 62), San Diego, California 
+USS Cowpens (CG 63), Yokosuka, Japan
+USS Gettysburg (CG 64), Mayport, FL
+USS Chosin (CG 65), Pearl Harbor, HI
+USS Hue City (CG 66), Mayport, FL
+USS Shiloh (CG 67), Yokosuka, Japan 
+USS Anzio (CG 68), Norfolk, VA
+USS Vicksburg (CG 69), Mayport, FL
+USS Lake Erie (CG 70), Pearl Harbor, HI
+USS Cape St. George (CG 71), Norfolk, VA
+USS Vella Gulf (CG 72), Norfolk, VA
+USS Port Royal (CG 73), Pearl Harbor, HI
+ 
+Last Update: 10 January 2007 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+Destroyers - DDG
+ DescriptionThese fast warships provide multi-mission offensive and defensive capabilities, and can operate independently or as part of carrier battle groups, surface action groups, amphibious ready groups, and underway replenishment groups. FeaturesDestroyers and guided missile destroyers operate in support of carrier battle groups, surface action groups, amphibious groups and replenishment groups. Destroyers primarily perform anti-submarine warfare duty while guided missile destroyers are multi-mission [Anti-Air Warfare (AAW), Anti-Submarine Warfare (ASW), and Anti-Surface Warfare (ASUW)] surface combatants. The addition of the Mk-41 Vertical Launch System or Tomahawk Armored Box Launchers (ABLs) to many Spruance-class destroyers has greatly expanded the role of the destroyer in strike warfare. BackgroundTechnological advances have improved the capability of modern destroyers culminating in the Arleigh Burke (DDG 51) class. Named for the Navy's most famous destroyer squadron combat commander and three-time Chief of Naval Operations, the Arleigh Burke was commissioned July 4, 1991, and was the most powerful surface combatant ever put to sea. Like the larger Ticonderoga-class cruisers, DDG 51's combat systems center around the Aegis combat system and the SPY-lD, multi-function phased array radar. The combination of Aegis, the Vertical Launching System, an advanced anti-submarine warfare system, advanced anti-aircraft missiles and Tomahawk, the Burke-class continues the revolution at sea. 
+The DDG 51 class incorporates all-steel construction. In 1975, the cruiser USS Belknap (CG 26) collided with USS 
+John F. Kennedy (CV 67). Belknap suffered severe damage and casualties because of her aluminum superstructure. On the basis of that event, the decision was made that all future surface combatants would return to a steel superstructure. And, like most modern U.S. surface combatants, DDG 51 utilizes gas turbine propulsion. These ships replaced the older Charles F. Adams and Farragut-class guided missile destroyers.
+ 
+Point Of ContactPublic Affairs OfficeNaval Sea Systems Command (OOD)Washington, DC 20362   
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ 
+ 
+General Characteristics, Arleigh Burke classBuilder: Bath Iron Works, Ingalls Shipbuilding.SPY-1 Radar and Combat System Integrator: Lockheed Martin Date Deployed: July 4, 1991 (USS Arleigh Burke)Propulsion: Four General Electric LM 2500-30 gas turbines; two shafts, 100,000 total shaft horsepower.Length: Flights I and II (DDG 51-78): 505 feet (153.92 meters)Flight IIA (DDG 79-98): 509½ feet (155.29 meters).Beam: 59 feet (18 meters).Displacement: Hulls 51 through 71: 8,315 tons (8,448.04 metric tons) full loadHulls 72 through 78: 8,400 tons (8,534.4 metric tons) full loadHulls 79 and on: 9,200 tons (9,347.2 metric tons) full load.Speed: in excess of 30 knots.Crew: 23 officers, 300 enlisted.Armament: Standard missile; Harpoon; Vertical Launch ASROC (VLA) missiles; Tomahawk®; six Mk-46 torpedoes (from two triple tube mounts); one 5Aircraft: LAMPS III electronics installed on landing deck for coordinated DDG 51/helo ASW operations (DDG 51-78). Two SH-60 Seahawk LAMPS III helicopters (DDG 79-105) Ships:
+USS Arleigh Burke (DDG 51), Norfolk, VA
+USS Barry (DDG 52), Norfolk, VA
+USS John Paul Jones (DDG 53), San Diego, CA
+USS Curtis Wilbur (DDG 54), Yokosuka, Japan
+USS Stout (DDG 55), Norfolk, VA
+USS John S. McCain (DDG 56), Yokosuka, Japan
+USS Mitscher (DDG 57), Norfolk, VA
+USS Laboon (DDG 58), Norfolk, VA
+USS Russell (DDG 59), Pearl Harbor, HI
+USS Paul Hamilton (DDG 60), Pearl Harbor, HI
+USS Ramage (DDG 61), Norfolk, VA
+USS Fitzgerald (DDG 62), Yokosuka, Japan
+USS Stethem (DDG 63), Yokosuka, Japan
+USS Carney (DDG 64), Mayport, FL
+USS Benfold (DDG 65), San Diego, CA
+USS Gonzalez (DDG 66), Norfolk, VA
+USS Cole (DDG 67), Norfolk, VA
+USS The Sullivans (DDG 68), Mayport, FL
+USS Milius (DDG 69), San Diego, CA
+USS Hopper (DDG 70), Pearl Harbor, HI
+USS Ross (DDG 71), Norfolk, VA
+USS Mahan (DDG 72), Norfolk, VA
+USS Decatur (DDG 73), San Diego, CA
+USS McFaul (DDG 74), Norfolk, VA
+USS Donald Cook (DDG 75), Norfolk, VA
+USS Higgins (DDG 76), San Diego, CA
+
+USS O'Kane (DDG 77), Pearl Harbor, HI
+USS Porter (DDG 78), Norfolk, VA
+USS Oscar Austin (DDG 79), Norfolk, VA
+USS Roosevelt (DDG 80), Mayport, FL
+USS Winston S. Churchill (DDG 81), Norfolk, VA
+USS Lassen (DDG 82), Yokosuka, Japan
+USS Howard (DDG 83), San Diego, CA
+USS Bulkeley (DDG 84), Norfolk, VA
+USS McCampbell (DDG 85), San Diego, CA
+USS Shoup (DDG 86), Everett, WA
+USS Mason (DDG 87), Norfolk, VA
+USS Preble (DDG 88), San Diego, CA
+USS Mustin (DDG 89), San Diego, CA
+USS Chafee (DDG 90), Pearl Harbor, HI
+USS Pinckney (DDG 91), San Diego, CA
+USS Momsen (DDG 92), San Diego, CA
+USS Chung-Hoon (DDG 93), San Diego, CA
+USS Nitze (DDG 94), Norfolk, VA
+USS James E. Williams (DDG 95), Norfolk, VA
+USS Bainbridge (DDG 96), Norfolk, VA
+USS Halsey (DDG 97), San Diego, Calif.
+USS Forrest Sherman (DDG 98), Norfolk, VA
+USS Farragut (DDG 99), Mayport, FLKidd (DDG 100)
+USS Gridley (DDG 101), San Diego, CA.Sampson (DDG 102)Truxtun (DDG 103)Sterett (DDG 104)Dewey (DDG 105)Wayne E. Meyer (DDG 108 ) 
+Last Update: 12 September 2006
+ 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+Frigates - FFG
+ DescriptionFrigates fulfill a Protection of Shipping (POS) mission as Anti-Submarine Warfare (ASW) combatants for amphibious expeditionary forces, underway replenishment groups and merchant convoys. BackgroundThe guided missile frigates (FFG) bring an anti-air warfare (AAW) capability to the frigate mission, but they have some limitations. Designed as cost efficient surface combatants, they lack the multi-mission capability necessary for modern surface combatants faced with multiple, high-technology threats. They also offer limited capacity for growth. Despite this, the FFG 7 class is a robust platform, capable of withstanding considerable damage. This "toughness" was aptly demonstrated when USS Samuel B. Roberts struck a mine and USS Stark was hit by two Exocet cruise missiles. In both cases the ships survived, were repaired and returned to the fleet. USS Stark was decommissioned in May 1999.
+The Surface Combatant Force Requirement Study does not define any need for a single mission ship such as the 
+frigate and there are no frigates planned in the Navy's five-year shipbuilding plan. Point Of ContactPublic Affairs OfficeNaval Sea Systems CommandWashington, D.C. 20362 General Characteristics, Oliver Hazard Perry Class Builder: Bath Iron Works: FFG 8, 11, 13, 15, 29, 32, 36, 39, 42, 45, 47, 49, 50, 53, 55, 56, 58, 59Todd Shipyards, Seattle: FFG 28, 31, 37, 40, 48, 52Todd Shipyards, San Pedro, Calif.: FFG 9, 12, 14, 19, 23, 30, 33, 38, 41, 43, 46, 51, 54, 57, 60, 61.Date Deployed: 17 December 1977 (Oliver Hazard Perry)Propulsion: Two General Electric LM 2500 gas turbine engines; 1 shaft, 41,000 shaft horsepower total.Length: 445 feet (133.5 meters); 453 feet (135.9 meters) with LAMPS III modification.Beam: 45 feet (13.5 meters).Displacement: 4,100 tons (4,165.80 metric tons) full load.Speed: 29 plus knots (33.4+ miles per hour).Crew: 17 Officers, 198 Enlisted.   
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ 
+Armament: Standard Missile (MR); Harpoon (from Standard Missile Launcher); Six MK-46 torpedoes(from two 
+triple mounts); One 76 mm (3-inch)/62 caliber MK 75 rapid fire gun; One Phalanx close-in-weapons system.Aircraft: Two SH-60 (LAMPS III) in FFG 8, 28, 29, 32, 33, 36-61One SH-2 (Lamps Mk-I) in FFG 9-19, 30, 31.Ships:
+USS McInerney (FFG 8), Mayport, FL
+USS Boone (FFG 28), Mayport, FL
+USS Stephen W. Groves (FFG 29), Pascagoula, MS
+USS John L. Hall (FFG 32), Pascagoula, MS
+USS Jarrett (FFG 33), San Diego, CA
+USS Underwood (FFG 36), Mayport, FL
+USS Crommelin (FFG 37), Pearl Harbor, HI
+USS Curts (FFG 38), San Diego, CA
+USS Doyle (FFG 39), Mayport, FL
+USS Halyburton (FFG 40), Mayport, FL
+USS McClusky (FFG 41), San Diego, CA
+USS Klakring (FFG 42), Norfolk, VA
+USS Thach (FFG 43), San Diego, CA
+USS De Wert (FFG 45), Mayport, FL
+USS Rentz (FFG 46), San Diego, CA
+USS Nicholas (FFG 47), Norfolk, VA
+USS Vandegrift (FFG 48), Yokosuka, Japan
+USS Robert G. Bradley (FFG 49), Mayport, FL
+USS Taylor (FFG 50), Mayport, FL
+USS Gary (FFG 51), Yokosuka, Japan
+USS Carr (FFG 52), Norfolk, VA
+USS Hawes (FFG 53), Norfolk, VA
+USS Ford (FFG 54), Everett, WA
+USS Elrod (FFG 55), Norfolk, VA
+USS Simpson (FFG 56), Norfolk, VA
+USS Reuben James (FFG 57), Pearl Harbor, HI
+USS Samuel B. Roberts (FFG 58), Mayport, FL
+USS Kauffman (FFG 59), Norfolk, VA
+USS Rodney M. Davis (FFG 60), Everett, WA
+USS Ingraham (FFG 61), Everett, WA
+ 
+Last Update: 6 April 2006 
+
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+USS Constitution - 
+ DescriptionWooden hull, three-masted frigate. The oldest commissioned ship in the U.S. Navy. One of six frigates authorized to form the United States Navy for use against the Barbary pirates. More information can be found on the following pages: 
+History of the USS Constitution 
+Sail200 — USS Constitution under sail for the first time in 116 years 
+ 
+FeaturesBuilt to be powerful enough to defeat an enemy of equivalent strength and fast enough to outsail a stronger opponent. Point Of ContactPublic Affairs Officer
+USS Constitution
+Charlestown, MA 02129-1797
+Navy Historical Center
+Curator's Office901 M Street SEWashington, DC 20374-5060 General CharacteristicsBuilder: Col. George Claghorn, Edmond Harrt's Shipyard, Boston, MA.Date Deployed: October 21, 1797.Unit Cost: $302,718 (1797 dollars).Propulsion: 42,710 sq. ft. of sail on three masts.Length: 204 feet (62.16 meters) (billet head to taffrail); 175 feet at waterline (53.32 meters).Height: Mast height: foremast, 198 feet (60.33 meters); mainmast, 220 feet (67.03 meters); mizzenmast, 172.5 feet (52.56 meters).Beam: 43.5 feet (13.25 meters).Displacement: 2,200 tons.Speed: 13+ knots (approx. 14.95 miles per hour, 24 km. per hour).
+ 
+ 
+Click on photo to view larger or to download
+  
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ Crew: 450 including 55 Marines and 30 boys (1797).
+Armament: 32 24-pounder long guns; 20 32-pounder carronades; and, two 24-pounder bow chasers.Landing/Attack Craft: One 36-ft. long boat; two 30-ft. cutters, two 28-ft. whaleboats; one 28-ft. gig; one 22-ft. jolly boat; and one 14-ft. punt.Anchors: Two main bowers (5300 lbs.); one sheet anchor (5400 lbs.); one stream anchor (1100 lbs.); and two kedge anchors (400 to 700 lbs).Homeport: Charlestown Navy Yard, Boston, MA. Last Update: 10 May 2006 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+News
+Navy News Stand
+Career
+Stay Navy
+E-LearningUSMC.mil 
+Links
+Surface Warfare EnterpriseCOMNAVSURFLANTFreedom of Information ActNavy Fact FileHome | Inside SURFOR | Ships | Commands | News/Archives | Leaders to Sea | FAQs
+Commander, Naval Surface Forces
+  
+ 
+ 
+  
+ 
+This is an official U.S. Navy website.
+Please read our Privacy Policy.
+Content approved by COMNAVSURFOR Public Affairs Office.Navy-Marine 
+Corps Relief 
+Society
+The 2007 Navy-Marine 
+Corps Relief Society Fund Drive kicks off March 1st and runs through April 30th!
+Get involved!! 
+Click here to contact 
+the CNSF coordinator 
+and find out who your command representative is.
+Click here to learn 
+more about the great 
+things the Navy-Marine 
+Corps Relief Society does for Sailors, Marines and their families!
+070503-N-0066L-026 - SAN DIEGO (May 3, 2007) 
+– The Navy’s newest surface ship, USS New 
+Orleans (LPD 18), arrives in its new homeport of 
+San Diego. The San Antonio-class amphibious 
+transport dock, commissioned in the Cresent City, is 
+the first of the new ships to be homeported on the 
+West Coast. U.S. Navy photo by Mass 
+Communication Specialist 1st Class George G. 
+Labidou .
+ More 
+Surface News
+CNO, 
+MCPON Visit USS Wasp
+Partnership 
+of the Americas Arrives 
+in 
+Puerto Belgrano
+Fleet 
+Forces Honors 2007 Sea, Shore Sailors of the Year
+CNSF 
+Announces 2006 Unit Tactics 
+Award 
+Winners
+Kearsarge 
+Visits 
+Inspector General
+More Links
+E-mail Public Affairs
+E-mail Webmaster
+COMNAVSURFOR
+2841 Rendova RoadSan Diego, CA 92155Tel: (619) 437-3262
+  Fort 
+Lauderdale for Fleet Week
+Foreign 
+Press Embark 
+on 
+U.
+S. 
+Ship for Training Course
+Destroyer 
+Squadron 22 Visits German Ship
+USS 
+Lassen Departs Sydney
+ESG 
+7/CTF 76 Commander 
+Expresses 
+Confidence in Guardian Sailors
+ESG 
+7 Completes Fleet Synthetic Training
+Home | SURFOR Web
+1430 Mitscher Avenue
+Norfolk, VA 23551-2494
+ 
+ 
+ Commands
+Inside CNSLShipsWebmaster InfoAdditional LinksFAQ
+   
+Contacts
+  Quarterdeck
+ SDO Desk
+ Webmaster
+ 
+ 
+  Links    
+CNSL News
+    
+ 
+Decommissioning Ends USS 
+Saipanâ€™s 29 Years of Service
+The Navy bid farewell to the 
+amphibious assault ship USS Saipan (LHA 2), April 20 in a decommissioning ceremony at Naval Station Norfolk.
+During its 29 year career, the shipâ
+€™s primary mission was to 
+transport Marine Corps forces. However, Saipan was also involved in providin ...
+[View Story] | [View Image]
+USS Robert G. Bradley Sailors Perform COMREL Project in Panama 
+ 
+    ATG Toolbox
+ CNSL Press 
+Releases
+ Marines.com
+ Navy.com
+ U.S. Fleet Forces Command
+ U.S. Marine Corps
+ U.S. Navy
+ USFFC FOIA
+   A group of 14 Sailors from USS 
+Robert G. Bradley (FFG 49) performed a community relations (COMREL) project during a port visit to Panama on March 25.
+The COMREL was held at a house 
+for at-risk children from abusive and extremely impoverished homes. Founded in 1998 and located outside of Panama City, the home can provide for 10 to 15 children at a time...
+[View Story] | [View Image]
+USS Bataan Holds Marriage Seminar
+Sailors and Marines aboard the 
+multipurpose amphibious assault 
+ship USS Bataan (LHD 5) got the 
+opportunity to participate in a Mid-
+Deployment Marriage Seminar, April 16, while underway in the Persian Gulf. Chaplain (Lt. Cmdr.) David Brown gives the seminar, which focuses is on understanding how deployment changes communication in marriages, each week for a month during the mid-point of the deployment to any married Sailor or Marine who wishes to attend.  
+[View Story] | [View Image]
+ More CNSL News  
+  Bataan ESG Exercises ERSS Concept
+Patriot Hosts Fun Day for Families
+  
+ Other News  
+  Emergency Preparedness Materials 
+Available Online
+Hampton Roads FFSC Offers Taste of 
+TAP Class
+U.S. Fleet Forces Prepares for 
+HURREX â€˜07
+  
+This is an official U.S. Navy web site. Please read our Privacy Policy
+Site approved and released by COMNAVSURFLANT's Public Affairs Office.
+The appearance of hyperlinks does not constitute endorsement by the U.S. Navy of this Web site or the information, 
+products or services contained therein. For other than authorized activities such as military exchanges and Morale, 
+Welfare and Recreation sites, the U.S. Navy does not exercise any editorial control over the information you may find at 
+these locations. Such links are provided consistent with the stated purpose of this DoD Web site.
+ 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+ 
+AGM-114B/K/M Hellfire Missile
+ DescriptionHellfire is an air-to-ground, laser guided, subsonic missile with significant antitank capacity. It can also be used as an air-to-air weapon against helicopters or slow-moving fixed-wing aircraft. FeaturesHellfire can be used as an air-to-air or an air-to-ground missile. The Air-to-Ground (AGM)-114 provides precision striking power against tanks, structures, bunkers and helicopters. The Hellfire missile is capable of defeating any known tank in the world today. It can be guided to the target either from inside the aircraft or by lasers outside the aircraft. BackgroundIn FY98, Congress added $20M for the procurement of 100 AGM -114M blast fragmentation warhead missiles and 100 each Captive Air Training Missile (CATM)-114K training missiles. The CATM-114K training missiles were delivered in April 2000, and the AGM-114M was delivered in December 2000. In FY00, an $20M was added to provide for the procurement of additional AGM-114K missiles to meet shortages in the inventory.
+The Advanced Prototype Engineering and Experimentation (APEX) lab at Redstone Arsenal, Huntsville, Ala., in 
+partnership with PMA-242, demonstrated the latest Modernized Hellfire technologies for use in close air support and urban missions. The APEX lab provides modeling and simulation support for all Services. ServiceNavy, Army, Marine Corps Point Of ContactPublic Affairs OfficeProgram Executive Office, Strike Weapons and Unmanned AviationPatuxent, Maryland 20670-1547 General CharacteristicsPrimary Function: Point target/anti-armor weapon, Semi-active laser seeker. Three variants: AGM-114B/K/M.Contractor: Boeing, Lockheed Martin.Propulsion: Solid propellant rocket.Length: 5.33 feet (1.6246 meters).
+   
+ Printer Friendly View
+of Fact SheetCareers
+ Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge  Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps  Relief 
+ BRAC 2005 
+ Diameter: 7 inches (17.78 centimeters).
+Wingspan: 28 inches (0.71 meter).Weight: 98 to 107 pounds (44.45 to 48.54 kilograms).Speed: Subsonic.Platforms: Navy: SH-60B/HH-60H SeahawkArmy: AH-64 ApacheMarine: AH-1W Super CobraWarhead: Shaped charge and blast fragmentation. Last Update: 3 April 2005 
+Home New Construction Fleet Support Bios News FAQ Links Contact Us Friday, May 04, 2007  
+●     DDG 1000 
+●     LCS 1
+●     DDG 51
+●     CG 47 
+●     FFG 7
+●     LHD 1
+●     LHA(R)
+●     LPD-17
+●     T-AKE 1
+●     MPF(F)
+●     JHSV
+●     Other Amphibious 
+Ships
+●     Other Auxilary Ships
+●     Mine Warfare
+●     Support Ships
+●     Small Boats  
+Navy Designates Next-Generation Zumwalt Destroyer
+Secretary of the Navy Donald Winter has announced that the lead guided 
+missile destroyer in the ZUMWALT class will carry the designation and hull number DDG 1000. The lead ship and class are named in honor of former Chief of Naval Operations Admiral Elmo R. "Bud" Zumwalt Jr.
+Developed under the DD(X) destroyer program, ZUMWALT is the lead ship 
+of a class of next-generation multi-mission surface combatants tailored for 
+land attack and littoral dominance with capabilities that defeat current and 
+projected threats and improve battle force defense. 
+Read more
+DDG 1000 Transformational Systems
+  ●     What is DDG 1000?
+DDG 1000 Design
+Program Status
+- Cost Reduction
+- Acquisition
+- Phase IV Schedule
+DDG 1000 History 
+- Program History
+- Requirements History
+Capabilities and 
+Technologies
+- Critical Technologies
+●     Ship Transfer
+●     Inactive Ships
+●     Donation
+●     Artificial Reefing
+ 
+Quick Links  
+●     
+Chief of Naval 
+OperationsMWRBureau of Naval PersonnelNaval SafetySite Map
+  
+ 
+ 
+This is an official U.S. Navy Website
+Last Updated: 17-Apr-2007 
+Privacy Policy Freedom of Information Act External Links Disclaimer Accessibility
+This is an official U.S.Navy Web Site  
+Welcome 
+Welcome to SWONET! The Community Site For Naval Surface Warfare Officers.
+SWOs Login Here: 
+UserID:
+Password:
+ 
+Need A SWONET Account?   Sign up 
+here. 
+Forgot Your ID/Password?   Get it here.
+Need Help Logging In?   Click here.
+US DEPARTMENT OF DEFENSE WARNING
+This is a Department of Defense Computer System. This computer system, including all related equipment, networks, and network devices (specifically 
+including Internet access) are provided only for authorized U.S. Government use. DoD computer systems may be monitored for all lawful purposes, including to ensure that their use is authorized, for management of the system, to facilitate protection against unauthorized access, and to verify security procedures, survivability, and operational security. Monitoring includes active attacks by authorized DoD entities to test or verify the security of this system. During monitoring, information may be examined, recorded, copied and used for authorized purposes. All information, including personal information, placed or sent over this system may be monitored. Use of this DoD computer system, authorized or unauthorized, constitutes consent to monitoring of this system. Unauthorized use may subject you to criminal prosecution. Evidence of unauthorized use collected during monitoring may be used for administrative, 
+criminal, or other adverse action. Use of this system constitutes consent to monitoring for these purposes. 
+Sponsored by the Chief of Naval Operations, Surface Warfare Division
+Privacy and Security Policy | Contact Us | Navy Home | Navy Jobs | Surface Warfare Home
+Subscribe NavNews
+Contact Surface Warfare (N76) 
+Privacy & Security
+About This Site
+Tools
+  Focus on Surface Warfare (N76)    
+ Top Stories 
+CNO Holds All Hands Call at 
+Naval Station Norfolk 
+Chief of Naval Operations (CNO) 
+Adm. Mike Mullen visited Naval Station Norfolk on May 1 to speak with Mid-Atlantic Sailors about 
+the future of the Navy.
+“I’m blessed to be in a command 
+positi
+...Thursday, May 03, 2007
+News From Around the Fleet
+Sea Service Leaders Engage Public in 'Conversation 
+with the Country' 
+  
+ 
+CHICAGO (NNS) -- In 1938, Winston Churchill addressed 
+members of the Union League Club of Chicago, warning 
+Americans of the gathering storm that would become World 
+War II. 
+Leaders of the Sea Services met with civic leaders from 
+throughout the greater Chicag...
+MCPON Announces Creation of CMC Management 
+Office 
+  
+ 
+WASHINGTON (NNS) -- The master chief petty officer of the 
+Navy (MCPON) announced on April 23 the creation of the Command Master Chief (CMC) Management Office and 
+selected Fleet Master Chief Jacqueline DiRosa to oversee its 
+operation. 
+The office, which will be...Search
+ 
+  
+All Any Exact 
+ Eye on Surface 
+Warfare (N76)  
+ 
+CNO, MCPON Visit USS 
+Wasp
+Chief of Naval Operations (CNO) 
+Adm. Mike Mullen and Master 
+Chief Petty Officer of the Navy 
+(MCPON)(SW/FMF) Joe R. Campa Jr. visited the crew of the multipurpose amphibious assault 
+ship USS Wasp (LHD 
+...
+Safety Crucial During Critical 
+Days of Summer
+Every year, motor-vehicle 
+accidents claim the lives of Sailors, especially during the 
+Critical Days of Summer, 
+Memorial Day through Labor Day. Bonhomme Richard Expeditionary Strike Group Enters 
+7th Fleet 
+  
+PACIFIC OCEAN (NNS) -- The Bonhomme Richard 
+Expeditionary Strike Group (BHRESG) entered the U.S. 7th Fleet area of responsibility (AOR) April 23, while enroute to 
+the Persian Gulf in support of the global war on terrorism.
+BHRESG is a rapid response strike group a...
+Blue Angel Pilot Killed in Air Show Crash Identified 
+ 
+ 
+PENSACOLA, Fla. (NNS) -- The identity of an F/A-18A Hornet 
+pilot who crashed during an April 21 Navy flight 
+demonstration at Marine Corps Air Station, Beaufort, S.C. 
+has been released. 
+Blue Angel No. 6 was flown by Lt. Cmdr. Kevin J. Davis, 32, 
+of Pittsfield, Mass....
+U.S. Fleet Forces Prepares for HURREX ‘07 
+  
+NORFOLK (NNS) -- As the Hampton Roads area prepares for 
+the upcoming hurricane season, which runs from June 1 until Nov. 30, U.S. Fleet Forces Command (FFC) is taking a 
+proactive approach to ensuring the safety of Sailors and 
+their families by participating in Hurric...
+Decommissioning Ends USS Saipan’s 29 Years of 
+Service 
+ 
+ 
+NORFOLK (NNS) -- The Navy bid farewell to the amphibious 
+assault ship USS Saipan (LHA 2), April 20 in a decommissioning ceremony at Naval Station Norfolk.
+During its 29 year career, the ship’s primary mission was to 
+transport Marine Corps forces. However, S...030716-N-8273J-018 
+Central Command Area of Responsibility (Jul. 16, 
+2003) -- Crewmembers of 
+the guided missile cruiser USS Prince...
+ Daily News Update 
+Daily News Update for 
+Thursday, May 3, 2007
+ Captain's Call Kit 
+According to the Naval Safety 
+Center, as the vo ...
+First Navy Cargo Handlers 
+Earn EXW Pin in Kuwait
+The first Expeditionary Warfare 
+(EXW) pinning ceremony for Navy 
+Expeditionary Logistics Support 
+Group (NAVELSG) was conducted April 24 at Camp Patriot where the first 17 Navy cargo handlers 
+were award
+...
+Successful Sea-Based Missile 
+Defense 'Hit to Kill' 
+Intercept
+Air Force Lt. Gen. Henry “Trey” 
+Obering, Missile Defense Agency (MDA) director, announced the
+successful completion April 26 of 
+the latest Aegis Ballistic Missile 
+Defense “hit to kill” intercept f
+...
+Global Fleet Station 
+Deployment Begins
+The pilot Global Fleet Station 
+(GFS) deployment began April 25, with the departure of High Speed 
+Vessel (HSV) 2 Swift and the 
+embarked Task Group (TG) 40.9, from Naval Station Mayport.
+“After
+...
+HSL-45 Celebrates 110,000 Ronald Reagan Strike Group Returns Following 
+Deployment 
+  
+CORONADO, Calif. (NNS) -- Thousands of family members 
+and friends crowded the pier at Naval Air Station North 
+Island on April 20 to welcome home the Ronald Reagan 
+Carrier Strike Group (CSG) following a three-month deployment in support of operations in the Western Pacific.
+NASCAR Drivers Downshift to Navy Life 
+ 
+NAS NORTH ISLAND, Calif. (NNS) -- National Association for 
+Stock Car Auto Racing (NASCAR) icon Dale Earnhardt Jr. and 
+fellow speed enthusiast Shane Huffman, driver of the No. 88 
+Navy Accelerate Your Life Chevrolet Monte Carlo, downshifted from their typical day on the race track to “...
+Navy Announces Christening of Submarine North 
+Carolina 
+ 
+WASHINGTON (NNS) -- The Navy’s newest attack 
+submarine, North Carolina, will be christened Saturday, April 
+21, during an 11 a.m. EDT ceremony at Northrop Grumman 
+Newport News Shipyard, Newport News, Va.
+The fourth submarine of the Virginia class, SSN 777 will ...
+ROMEO Sailors Return Home After Completing 
+Customs Mission 
+  
+NORFOLK (NNS) -- Sailors from Navy Expeditionary Logistics 
+Support Group (NAVELSG) Navy Customs Battalion ROMEO returned home April 17 and 18 after completing a seven-
+month deployment in the Middle East in support of 
+Operation Iraqi Freedom. 
+The 450 member...
+Important Navy 
+information prepared in an easy to distribute 
+format
+ Navy/Marine Corps 
+News  
+Navy/Marine Corps 
+News Highlights for the 
+Week of April 28 - May 
+5, 2007
+ All Hands  
+Mishap-Free Flight Hours
+Helicopter Anti-Submarine 
+Squadron Light (HSL) 45 
+celebrated 110,000 mishap-free 
+hours of flight time April 24. 
+No overnight success story, HSL-
+45 reached this milestone after 
+17 years of n ...
+Emergency Preparedness 
+Materials Available Online
+Individuals and families can now 
+go online to get simple, ready-to-use fact sheets, checklists, and 
+forms on how to prepare for a 
+variety of natural and man-made disasters -- part of Operation 
+Prepare
+...
+MCPON Stresses Support of 
+Navy Family at EFMP Conference
+Master Chief Petty Officer of the 
+Navy (MCPON)(SW/FMF) Joe R. 
+Campa Jr. spoke to more than 
+100 Exceptional Family Member Program (EFMP) coordinators April 24 at their annual conference here. 
+...
+Hampton Roads FFSC Offers 
+Taste of TAP Class
+The regional Fleet and Family 
+Support Center (FFSC) of Expeditionary Strike Group 3 Established 
+  
+ 
+SAN DIEGO (NNS) -- After months of detailed preparation, 
+the Commander Amphibious Group (CPG) 3 staff completed their transition to Expeditionary Strike Group (ESG) 3 on 
+April 17. 
+This finalized a change from an administrative staff 
+supporting operational un...
+Risk and Change Key Topics at Helicopter Symposium 
+ 
+ 
+Norfolk (NNS) -- The deputy commander for the Naval 
+Safety Center addressed a large crowd of people at the 2007 
+Naval Helicopter Association (NHA) Symposium held at the 
+Town and Country Convention Center in San Diego on April 
+10-13.
+“Change is the mother of ...
+First-Term Sailors Learn to Prepare for the Future 
+  
+NORFOLK (NNS) -- Should I stay in or get out? This is one 
+question that will cross the minds of most Sailors during their enlistments. Even though the question is plain and 
+simple, coming up with that life-altering answer may not be.
+The Career Options and N...
+John C. Stennis Completes Operations with French 
+Carrier Charles de Gaulle 
+ 
+ 
+USS JOHN C. STENNIS, At Sea (NNS) -- USS John C. Stennis 
+(CVN 74) completed month-long operations with the French nuclear powered aircraft carrier Charles de Gaulle (R 91) in 
+the North Arabian Sea on April 16. 
+ Find an Issue:
+ 
+ 
+Magazine of the
+U.S. Navy 
+ 
+Hampton Roads hosted Taste of 
+TAP (Transition Assistance Program) on April 20 for 
+command senior leadership in the 
+Mid-Atlantic Region.
+...Since Charles de Gaulle’s arrival in the region March 16, the 
+two nu...
+NECC Establishes Expeditionary Training Command 
+  
+VIRGINIA BEACH, Va. (NNS) -- Navy Expeditionary Combat 
+Command (NECC) established Expeditionary Training Command (ETC) in a ceremony held at Drexler Manor on 
+Naval Amphibious Base Little Creek April 13.
+The new ETC’s main function will be to deploy teams to 
+foreign coun...
+Navy NewsStand - The Source for Navy News
+ 
+ Search NAVY.MIL
+Advanced search  
+ Status of the Navy  
+ Navy NewsStand  
+ Navy Web Sites  
+ Today in History  
+ Navy Organization  
+ Our Ships  
+ Fact File  
+ Got a Question?  
+ Secretary  
+ CNO 
+ MCPON 
+ Biographies  
+ Leadership Tools  
+ Testimony  
+ Speeches  
+ Defense Link  
+ Marine Corps  
+ Army 
+ Air Force  
+ Coast Guard  
+ Pentagon Channel  
+ Navy Office of 
+ Community 
+ Outreach
+Admiral Michael G. Mullen
+Chief of Naval Operations
+2000 Navy PentagonWashington, D.C. 20350-2000
+"I believe in the power and in the genius of industry in this country. We need good ideas. We need to stretch our imaginations. We need to be able to stay on top. But we can't afford every new gadget, we can't afford the "Star Wars" version of every new idea. We need to be selective and efficient. " 
+Current Testimony
+Statement of Adm. Michael G. Mullen, Chief of Naval Operations, Before the Senate Armed Services 
+Committee, 29 March 2007 
+Statement of ADM. Michael G. Mullen, Chief of Naval Operations Before the Senate Committee on 
+Appropriations Subcommittee on Defense, 28 March 2007 
+Opening Statement of Admiral Mike Mullen before the House Subcommittee on Military Construction, Veterans’ 
+Affairs and Related Agencies, 13 March 2007 
+More Testimony >>
+Speeches 
+ 
+ 
+ 
+Biography 
+Responsibilities Press Releases 
+Photo Gallery 
+Official Photo (uncovered) Sample Introduction of the 
+Chief of Naval Operations 
+What I Believe: Eight 
+Tenets That Guide My Vision for the 21st Century 
+Navy, Proceedings, January 
+2006 Careers
+Info Index
+ About Us
+ Contact Us
+ Home
+
+ Navy Personnel 
+ Command
+ Navy Reserve 
+ Navy Knowledge 
+ Online 
+ Affected Navy  Family Assistance 
+ Military OneSource 
+ Lifelines 
+ Navy/Marine Corps 
+ Relief 
+ BRAC 2005 
+ 
+Opening Statement of Adm. Mike Mullen, Chief of Navy Operations, before the Senate Armed Services 
+Committee (As delivered). , 29 March 2007 
+Remarks as delivered by Chief of Naval Operations Adm. Mike Mullen during the 104th U.S. Navy League New 
+York Council Anniversary Dinner, 14 March 2007 
+Opening Statement of Admiral Mike Mullen before the House Subcommittee on Military Construction, Veterans’ 
+Affairs and Related Agencies, 13 March 2007 
+More Speeches >>
+Messages
+CNO Talks About Readiness: Employability/Deployability, 24 April 2007  
+  
+A Message From Chief of Naval Operations Adm. Mike Mullen Regarding the Passing of Mr. Lloyd Brown, 2 
+April 2007 
+CNO Seabee Birthday Message 2007, 1 March 2007 
+More Messages >>
+Published Articles and Media Interviews
+COMMENTARY: Tom Philpott Blogs About CNO Trip to CENTCOM , 31 January 2007 
+CNO Interview with Surface SITREP, 1 January 2007 COMMENTARY: We Can't Do It Alone, an article published in the Honolulu Advertiser, 29 October 2006 
+More Interviews >>
+All Hands Call
+Click here to see categorized questions from around the fleet with answers from the CNO
+Quotations
+Click here to see categorized quotes taken from remarks given by the CNO at speaking engagements and other 
+forums 
+ 
+
+ ABOUT US  OUR CAPABILITIES  DEPARTMENTS  PRODUCTS AND SERVICES  WORKING WITH US  NEWS  EMPLOYMENT
+ 
+
+ 
+Provides the facilites and expertise for 
+developing the concepts, technologies, equipment, systems, and procedures necessary to enable current Navy ships ...
+ 
+Carderock Division is the world leader in 
+developing superior stealth technologies 
+through signature control and silencing, 
+greatly reducing the vulnerability of Navy 
+vessels ...
+ 
+The Navy's only technical capability for surface and undersea vehicle hull forms and propulsors is resident in the carderock Division. We support all naval vehicles ...
+ 
+The Carderock Division is the only 
+substantive organization in the United States 
+performing research, development, testing & 
+evaluation (RDT&E) on marine materials and 
+structures ...
+ 
+Ship Design and Integration Technology efforts at Carderock focus on integrating mulitdisciplinary technologies and systems into total ship designs and support analyses ...
+Weather Closings? 
+Check the operating status of our various sites. 
+Philadelphia: Call: 215-897-7669West Bethesda: Call: 1-877-679-2231
+Last Updated: February 22, 2007 
+Print This Page
+Carderock Division, Naval Surface Warfare Center, 9500 MacArthur Blvd., West Bethesda, MD 20817-5700
+This is an official U.S. Navy web site (GILS Registration Number: 47816).
+The Carderock Division is a field activity of the Naval Sea Systems Command.
+See our Privacy Policy, Disclaimers and Accessibility Statement.
+Contact us through our Feedback Form or send email to the Webmaster.
+Navy Information: Navy Jobs | Freedom of Information Act (FOIA)
+
+This an official U.S. Navy Website. GILS Registration Number: 1903. This information resides on a DOD interest computer.
+Please visit the Navy Freedom of Information Website and read our Privacy and Security Notice and Privacy Advisory. Click here 
+to contact our Webmaster. 
+Visit the U.S. Navy's Website.
+Visit the NSWC Command Website.
+Visit the Navy Recruiting Site.
+This is an Official U.S. Navy Web site. 
+Who We Are  
+What We Do  
+Doing Business
+With Us 
+News and
+Community  
+Careers 
+Links 
+Search 
+Contact Us  
+Visitor Info  
+Suggestions or comments: Corporate Communications  FOIA             Privacy Policy             No Fear Act Web Server issues :  Webmaster  The Crane Division, Naval Surface Warfare Center (NSWC Crane), located in Crane, Indiana 
+is a shore command of the United States Navy under the Naval Sea Systems 
+Command headquartered in Washington D.C.  
+The focus of NSWC Crane is harnessing the power of technology for the Warfighter. We 
+specialize in the Acquisition and Fleet support of Electronics, Ordnance and Electronic Warfare products and systems. Our main facility is located in south-central Indiana with a 
+detachment in Fallbrook, California. 
+  
+We have employees deployed around the world with the Fleet, major sponsors and industry 
+partners and we are virtually at the Sailor’s side with our Distance Support technology.  
+ 
+ 
+●     Home
+●     About Us
+●     Careers
+●     Business Opportunities
+●     Press Room
+●     Community Notes
+●     
+   Search!  
+Welcome
+Biography  
+Captain Joseph L. McGettigan, USN
+NSWCDD Video
+Showcased Programs & Technologies
+NSWC Dahlgren is on the forefront of leading edge technologies. While limited in offering the full scope of our capabilities, our website is updated regularly. Please visit us often. 
+For more information on our programs and technologies, please contact:
+Corporate Communications . 
+ Railgun
+ HSI
+Links
+ Base Status
+ Bringing Technology to the Warfighter
+ Environmental Policy
+ External Links
+ Public Affairs
+ Range Schedule
+ Internal Links
+ Visitor Information
+ Warfare Center Small Business Tool 
+ 
+News & Information
+ CNO joins Warfare Center recruiters to encourage students’ pursuit of Navy civilian 
+and military careers
+COLUMBUS, Ohio - Chief of Naval Operations Adm. Mike Mullen joined Warfare Center 
+recruiters at the 33rd annual National Society of Black Engineers (NSBE) National Convention to kick off the March 28-31 event with an inspirational keynote address to about 5,000 science and engineering students. more 
+ Trish Hamburger selected Deputy Commander for NAVSEA Human Systems Integration Directorate
+WASHINGTON D.C. - Patricia S. Hamburger has been selected to the Senior Executive 
+Service position of Deputy Commander, Human Systems Integration (HSI) Directorate, Naval Sea Systems Command (NAVSEA), effective 29 April 2007. more 
+ Visit to USS Leyte Gulf and the Submarine Learning Center impacts NSWC Dahlgren employees 
+Fifty-four Naval Surface Warfare Center (NSWC) Dahlgren employees participating in a new 
+command program called 'Employees to Ships' toured the USS Leyte Gulf (CG-55) and the Submarine Learning Center on Feb. 23, 2007. more 
+ NSWC Dahlgren Engineer Awarded Navy Distinguished Civilian Service Medal
+Dr. David C. Stoudt was honored with the Navy Distinguished Civilian Service Award at a 
+ceremony held recently at Naval Surface Warfare Center (NSWC) Dahlgren Division. more 
+ New Railgun Electromagnetic Launch Facility Dedicated at NSWC Dahlgren
+Home  | Site Map  | Accessibility  | Contact Us  | Privacy Policy  | EEO | No Fear Act  | External Links  
+This is an Official U.S. Navy Web Site for NSWCDD, Dahlgren Laboratory, Dahlgren Va. 
+Approved for Public Release; Distribution is Unlimited. 
+About Us
+Our 
+Capabilities 
+ Organization
+  Working with Us
+  News
+  Employment
+  Index
+  Links
+Welcome
+Indian Head Division, Naval Surface 
+Warfare Center
+As a Department of Defense (DoD) Energetics Center, the Indian Head Division, Naval Surface Warfare Center (IHDIV/NSWC) is a leader in the Navy’s Energetics Enterprise—it is our job to research and provide energetics and energetic systems for our fighting forces around the globe. 
+“Energetic systems” refers to explosives, propellants, 
+pyrotechnics and their immediately related components. Complimenting our energetic materials formulation work, we research, develop, test and engineer the range of technologies 
+necessary to deliver ordnance to the military. 
+In short, the U.S. Navy and other DoD agencies and allied 
+nations come to IHDIV/NSWC for energetic systems solutions—we support the warfighter of today, anticipate their future needs, and make discoveries for the next generation. 
+Last updated: undefined
+Print This Page
+Indian Head Division, Naval Surface Warfare Center, 101 Strauss Avenue, Indian Head, MD 20640
+This is an official U.S. Navy web site
+The Indian Head Division is a field activity of the Naval Sea Systems Command.
+Please read this Privacy and Security Notice and the External Links Disclamer  
+Contact Webmaster for questions or additional information  
+IHDIV, NSWC FOIA 
+Navy Information: Navy Jobs | Freedom of Information Act (FOIA)
+Click here to visit the 
+Naval Base Ventura 
+County website:
+www.nbvc.navy.mil
+Harbor Depth 
+Calendar
+HOME PHONE LIST  SITE MAP  FEEDBACK  
+"This is an Official U.S. Navy Web Site." 
+Naval Surface Warfare Center, Port Hueneme Division, 4363 Missile Way, Port Hueneme, 
+CA 93043-4307 
+This is an official U.S. Navy web site (GILS Registration Number: 2647).
+This information resides on a DOD interest computer.
+Please visit the Navy Freedom of Information Website and read our Privacy Policy 
+and Privacy Advisory.
+Contact us through our Feedback Form or send email to the Webmaster 
+What's New at SNA
+About SNA 
+Awards 
+Program
+Stephen 
+Decatur 
+Award
+SNA 
+Chapters, 
+POC & 
+Events 
+Corporate 
+Sponsors/
+Sponsorship 
+(Last Update 
+2/2007)
+National 
+Officers & 
+BOD 
+(Last Update 1/2007)
+Membership 
+ 
+        
+Membership 
+Application
+Chapter Events Calendar
+(Updated 5/2/07)
+ 
+VADM Joseph Metcalf, III Scholarship Donation Information and 
+Eulogies delivered by the CNO & RADM Philip J. Coady, USN(Ret)
+  
+    
+Members 
+Only
+CPO 
+Selectees Join 
+Here!
+National 
+Symposium
+West Coast 
+Symposium 
+Monterey 
+Symposium
+          
+SNA Ship 
+Store
+Reunions
+Riders of the 
+Storm Book 
+Related Web 
+Sites 
+ 
+2550 Huntington Avenue, Suite 202 
+  Alexandria, Virginia 22303 
+  (800) NAVY-SNA
+The SNA Website is under the management of the SNA Webmaster  
+ 
+Seapower's Digital Edition 
+Seapower Archives
+   
+ Navy League  Web
+CNO Reading Program
+Military Spouse Career Network
+Operation Homefront  
+America Supports You  
+Navy Museum Cold War Gallery
+Naval Order of the U.S.  
+Navy League National Tribute 
+ 
+Media  | Presentations  | Awards
+
+NLUS History Book on Sale
+Navy League selects 
+Senator John McCain, 
+Representative Gene 
+Taylor for Legislative 
+Stewardship Awards
+Mackie Awards: Website Category 
+added; submission deadline is 
+extended to June 30, 2007. Click the link for details. 
+Navy Leaguer goes 
+DIGITAL! 
+Starting in May, the Navy 
+Leaguer will be posted 
+online in a new digital 
+format. More info to 
+come. 
+Member Database Conversion 
+nears completion. We will link the 
+data to the OLC over the next several 
+days so that new members may join the community and council officers can access up-to-date rosters. Thank 
+you very much for your patience.Atlanta Council Briefs Rep. Gingrey 
+Juneau Council, MEBA, and the 
+Officers and Crew of the USS Bunker 
+Hill (CG 52) host onboard reception 
+on May 17... 
+Massachusetts Bay Council sponsors 
+a Navy Nite at Boston Pops on June 9
+National President Elect J. Michael 
+(Mike) McGrath installs Atlanta 
+Metropolitan Council officers and 
+directors... Global Fleet Station Deployment 
+Begins The pilot Global Fleet Station 
+(GFS) 
+ deployment beganwith the 
+departure of High 
+Speed Vessel 
+(HSV) 2 Swift and the 
+embarked Task 
+Group (TG) 40.9, from Naval Station Mayport.
+Seabees help 8th ESB in spearhead 
+effort The 30th Naval Construction 
+Regiment conducted a mission 
+supporting the effort to drive insurgents out of the Amariyah-Ferris 
+area with the construction of combat 
+outposts here.
+Coast Guard to conduct test of 
+pollution response capability in the 
+Port of Long Beach on May 3, 2007.
+Sea Services Reunions: Click the link 
+to view the current list of Sea 
+Services ship and unit reunions. 
+The Navy League of the United States is a 501(c)(3) organization of more than 65,000
+members dedicated to nonpartisan, enhanced public understanding of the missions and
+challenges facing today’s Navy, Marine Corps, Coast Guard, and Merchant Marine, as
+well as advocating for the well-being of the men and women of each service.
+ 
+Copyright 2007. Navy League of the United States. All Rights Reserved.

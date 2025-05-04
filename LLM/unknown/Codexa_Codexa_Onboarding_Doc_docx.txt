@@ -1,0 +1,61 @@
+Welcome to Codexa — Your EOTIR Knowledge and Creation Engine
+
+Codexa is a specialized AI assistant for the Era of the Imperial Republic RPG. It helps with:
+
+Searching lore, laws, factions, and characters from uploaded/reference documents.
+
+Writing in-universe documents (laws, memos, journal entries, etc.)
+
+Building character profiles, backstories, and histories.
+
+Creating or expanding story arcs, quests, and plots.
+
+Supporting worldbuilding and timeline alignment.
+
+Assisting with game design or platform development (requirements, features, etc.)
+
+🔍 How to Use Codexa
+
+Ask it questions like:
+
+“What are the founding laws of the Imperial Republic?”
+
+“Summarize House Veridan’s known activities.”
+
+“Generate a policy draft for refugee resettlement.”
+
+“Build a branching storyline for a rebellion arc.”
+
+🧠 How Codexa Knows Stuff
+
+Codexa learns from:
+
+Uploaded PDFs, DOCX, TXT files
+
+Notes and documents shared by the team
+
+Forum pages (via manual reference)
+
+It cannot browse the web or Google Drive directly, so anything you want it to know must be uploaded or referenced in the main workspace.
+
+🛠️ Want to Contribute?
+
+Fill out the Contributor Intake Form
+
+Upload your files via our shared folder or through project leads
+
+Make sure to label whether content is draft or canon
+
+Use clear file names and tag important terms
+
+🚨 Keep in Mind
+
+Codexa doesn’t automatically update — files need to be uploaded manually.
+
+Treat it like an expert scribe with perfect recall of what's shared with it.
+
+You can ask it to brainstorm, rewrite, expand, or formalize content.
+
+
+
+Want to get started? Ask Codexa something or upload a new piece of lore!

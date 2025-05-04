@@ -1,0 +1,11 @@
+---
+source: c:\EOTIR\EOTIR RPG\Music\Sam Tsui\Digital Booklet - Make It Up 1.pdf
+category: narratives/completed_scenarios
+/creator: PDF Presentation Adobe Photoshop CS
+/creationdate: D:20130503125036-07'00'
+/moddate: D:20130503125036-07'00'
+/producer: Adobe Photoshop for Macintosh -- Image Conversion Plug-in
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:28.876773
+---
+

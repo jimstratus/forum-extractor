@@ -1,0 +1,8 @@
+---
+source: c:\EOTIR\EOTIR Novels\Mission to Earth\characters of MTE.pdf
+category: character_profiles
+/producer: Lionel Li PDF Library
+source_type: EOTIR Novels
+extraction_date: 2025-05-03T15:30:29.783708
+---
+

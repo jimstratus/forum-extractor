@@ -1,0 +1,41 @@
+Developer's Work Log
+
+PCR-1 - Design IRIN Logo based on current color theme (fancy text? IR image? Shapes around text?)Assigned to Planewalker - Completed - 6/21/11
+
+PCR-2 - Change logon IDs from generated numbers to usernames and allow admin to set username upon "new user" function. Assigned to Keshaun - Completed - 6/21/11
+
+PCR-3 - Add/Modify "Documents" features and design. PRIORITY Assigned to Keshaun - Completed - 7/3/11
+
+PCR-4 - Cleanup & Beef Up Individual Document Display (organize html code/format). PRIORITY Assigned to Keshaun - Completed - 7/3/11
+
+PCR-5 - Associate Users with Divisions (see new divisions table) PRIORITY Assigned to Keshaun -Completed - 7/5/11
+
+PCR-6 - Re-design IRIN website/format to Template Assigned to Ryan - Completed - 6/21/11
+
+PCR-7 - Edit the "Edit User" feature to allow administrators to edit login IDs Assigned to Keshaun -Completed - 6/29/11
+
+PCR-8 - Change Security Clearance page to import from Google Docs spreadsheet Assigned to Ryan - In Progress   Edit   Cancel   Completed 
+
+PCR-9 - Creation of Divisions/units to sort messages and prevent users from directly listing other division's documents/orders. Note: Any document is viewable still with the search function IF the security clearance is valid enough (but they have to know the exact ID#). This will be for "verifying orders" in IC situations.Assigned to Planewalker - In Progress   Edit   Cancel 
+
+PCR-10 - Integrate/Merge Merit Database/System into IRIN - recode from fleets to "units" - http://dev.eotir.net/meritdb/ PRIORITY Assigned to Keshaun - Completed - 7/4/11
+
+PCR-11 - Add a changelog file that reflects each PCR as they are applied and add a version number to the bottom of all pages that queries from a file or db value. Version numbers starting at 1.1 with PCR-1. PCR-10 will mark Version 2.0. Assigned to Keshaun - Completed - 7/4/11
+
+PCR-12 - Use template for logon page (index.php) for the lost password page and edit where logon errors display so they are readable in the center bottom or top (below form entry) area. Assigned to Ryan - In Progress   Edit   Cancel   Completed 
+
+PCR-13 - Manage Ranks page = ability to edit ranks table on scripted page for admins. Assigned to Keshaun - Completed - 7/5/11
+
+PCR-14 - Modify logout.php to have the same html template as the login page (index.php). Assigned to Ryan - In Progress   Edit   Cancel   Completed 
+
+PCR-15 - Add Senator Registration and Senate Registry to IRIN Assigned to Ryan - Completed - 6/28/11
+
+PCR-16 - Add Unit Leader's security clearance request form Assigned to Ryan - Completed - 6/28/11
+
+PCR-17 - Maintain a Work Log of completed, planned, and in progress changes to IRIN maintained by Developers. Assigned to Keshaun - Completed - 6/27/11
+
+PCR-18 - Security Clearance Viewing Restrictions Assigned to Ryan - Completed - 6/28/2011
+
+PCR-19 - Create an Admin Editor for editing admin status and what teams admins are on. Assigned to Keshaun - Completed - 9/22/15
+
+PCR-20 - Add a setting for divleader and subdivleader in Manage User only when editing a user. Assigned to Keshaun - Completed - 9/22/15

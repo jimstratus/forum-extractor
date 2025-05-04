@@ -1,0 +1,1487 @@
+---
+source: c:\EOTIR\EOTIR RPG\Directories\IR Fleet Configuration Templates.xlsx
+category: in_game_documents/intelligence
+sheets: ['Royal Command', 'IRAF Command', 'Heavy Assault', 'Assault', 'Heavy Sector', 'Reinforced Sector', 'Sector', 'Transport', 'Strike', 'Line Makeups']
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:11.803756
+---
+
+--- Sheet: Royal Command ---
+
+                 Fleet                 Royal Command Fleet    Fleet Type Base of Operations  Special Reports to Remarks              Unnamed: 6
+              Fleet CO                                 NaN Royal Command                NaN High Prince Stratus     NaN                     NaT
+              Fleet XO                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                  Line                        Type of Ship     Ship Name          Commander            Position Remarks                     NaT
+    Royal Command Line                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN   Monarch-class Super Battlecruiser       Phoenix                NaN                 NaN     NaN 2015-05-30 01:23:02.650
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN       OVERMIND-class Battle Cruiser           NaN                NaN                 NaN     NaN                     NaT
+                   NaN  Nightingale-class Hospital Cruiser           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Curandero-class Medical Frigate           NaN                NaN                 NaN     NaN                     NaT
+                   NaN                                HCTC           NaN                NaN                 NaN     NaN                     NaT
+                   NaN                                PCTC           NaN                NaN                 NaN     NaN                     NaT
+                   NaN                                DCTC           NaN                NaN                 NaN     NaN                     NaT
+                   NaN                               OCSx4           NaN                NaN                 NaN     NaN                     NaT
+                   NaN                               LCSx4           NaN                NaN                 NaN     NaN                     NaT
+    Heavy Assault Line                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+    Heavy Assault Line                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+    Heavy Assault Line                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+    Heavy Assault Line                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+    Heavy Assault Line                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+     Assault Line (AL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+     Assault Line (AL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+     Assault Line (AL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+     Assault Line (AL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+     Assault Line (AL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+     Assault Line (AL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+      Strike Line (SL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+      Strike Line (SL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+      Strike Line (SL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+      Strike Line (SL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+      Strike Line (SL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+      Strike Line (SL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+Interdiction Line (IL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN   Sovereign-class Interdictor (SCI)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN   Sovereign-class Interdictor (SCI)           NaN                NaN                 NaN     NaN                     NaT
+Interdiction Line (IL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN   Sovereign-class Interdictor (SCI)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN   Sovereign-class Interdictor (SCI)           NaN                NaN                 NaN     NaN                     NaT
+       Recon Line (RL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN Ambusher-ckass Royal Frigate (ACRF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN Ambusher-ckass Royal Frigate (ACRF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+       Recon Line (RL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN Ambusher-ckass Royal Frigate (ACRF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN Ambusher-ckass Royal Frigate (ACRF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+       Recon Line (RL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN Ambusher-ckass Royal Frigate (ACRF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN Ambusher-ckass Royal Frigate (ACRF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+       Recon Line (RL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN Ambusher-ckass Royal Frigate (ACRF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN Ambusher-ckass Royal Frigate (ACRF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                 NaN     NaN                     NaT
+     Medical Line (ML)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+     Utility Line (UL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+     Utility Line (UL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+     Utility Line (UL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+     Utility Line (UL)                                 NaN           NaN                NaN                 NaN     NaN                     NaT
+
+--- Sheet: IRAF Command ---
+
+                 Fleet          Armed Forces Command Fleet   Fleet Type Base of Operations Special Reports to Remarks
+              Fleet CO                                 NaN IRAF Command                NaN                NaN     NaN
+              Fleet XO                                 NaN          NaN                NaN                NaN     NaN
+                  Line                        Type of Ship    Ship Name          Commander           Position Remarks
+       AF Command Line                                 NaN          NaN                NaN                NaN     NaN
+                   NaN        Overmind-class Battlecruiser          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN  Nightingale-class Hospital Cruiser          NaN                NaN                NaN     NaN
+                   NaN     Curandero-class Medical Frigate          NaN                NaN                NaN     NaN
+                   NaN                                HCTC          NaN                NaN                NaN     NaN
+                   NaN                                PCTC          NaN                NaN                NaN     NaN
+                   NaN                                DCTC          NaN                NaN                NaN     NaN
+                   NaN                               OCSx4          NaN                NaN                NaN     NaN
+                   NaN                               LCSx4          NaN                NaN                NaN     NaN
+    Heavy Assault Line                                 NaN          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+    Heavy Assault Line                                 NaN          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+    Heavy Assault Line                                 NaN          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+    Heavy Assault Line                                 NaN          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+    Heavy Assault Line                                 NaN          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+Interdiction Line (IL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)          NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)          NaN                NaN                NaN     NaN
+Interdiction Line (IL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)          NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)          NaN                NaN                NaN     NaN
+       Recon Line (RL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)          NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+       Recon Line (RL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)          NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+     Medical Line (ML)                                 NaN          NaN                NaN                NaN     NaN
+     Utility Line (UL)                                 NaN          NaN                NaN                NaN     NaN
+     Utility Line (UL)                                 NaN          NaN                NaN                NaN     NaN
+
+--- Sheet: Heavy Assault ---
+
+                 Fleet                 Heavy Assault Fleet    Fleet Type Base of Operations Special Reports to Remarks
+              Fleet CO                                 NaN Heavy Assault                NaN                NaN     NaN
+              Fleet XO                                 NaN           NaN                NaN                NaN     NaN
+                  Line                        Type of Ship     Ship Name          Commander           Position Remarks
+    Heavy Assault Line                                 NaN           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+    Heavy Assault Line                                 NaN           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+    Heavy Assault Line                                 NaN           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+    Heavy Assault Line                                 NaN           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+    Heavy Assault Line                                 NaN           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN           NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN           NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+Interdiction Line (IL)                                 NaN           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)           NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)           NaN                NaN                NaN     NaN
+Interdiction Line (IL)                                 NaN           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)           NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)           NaN                NaN                NaN     NaN
+       Recon Line (RL)                                 NaN           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)           NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+       Recon Line (RL)                                 NaN           NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)           NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)           NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)           NaN                NaN                NaN     NaN
+     Medical Line (ML)                                 NaN           NaN                NaN                NaN     NaN
+     Utility Line (UL)                                 NaN           NaN                NaN                NaN     NaN
+     Utility Line (UL)                                 NaN           NaN                NaN                NaN     NaN
+
+--- Sheet: Assault ---
+
+                 Fleet                       Assault Fleet Fleet Type Base of Operations Special Reports to Remarks
+              Fleet CO                                 NaN    Assault                NaN                NaN     NaN
+              Fleet XO                                 NaN        NaN                NaN                NaN     NaN
+                  Line                        Type of Ship  Ship Name          Commander           Position Remarks
+    Heavy Assault Line                                 NaN        NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)        NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)        NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)        NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+    Heavy Assault Line                                 NaN        NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)        NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)        NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)        NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+Interdiction Line (IL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)        NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)        NaN                NaN                NaN     NaN
+       Recon Line (RL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)        NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+       Recon Line (RL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)        NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+     Medical Line (ML)                                 NaN        NaN                NaN                NaN     NaN
+     Utility Line (UL)                                 NaN        NaN                NaN                NaN     NaN
+
+--- Sheet: Heavy Sector ---
+
+                 Fleet                  Heavy Sector Fleet   Fleet Type Base of Operations Special Reports to Remarks
+              Fleet CO                                 NaN Heavy Sector                NaN                NaN     NaN
+              Fleet XO                                 NaN          NaN                NaN                NaN     NaN
+                  Line                        Type of Ship    Ship Name          Commander           Position Remarks
+    Heavy Assault Line                                 NaN          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+    Heavy Assault Line                                 NaN          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+Interdiction Line (IL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)          NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)          NaN                NaN                NaN     NaN
+       Recon Line (RL)                                 NaN          NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)          NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)          NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)          NaN                NaN                NaN     NaN
+     Medical Line (ML)                                 NaN          NaN                NaN                NaN     NaN
+     Utility Line (UL)                                 NaN          NaN                NaN                NaN     NaN
+
+--- Sheet: Reinforced Sector ---
+
+                 Fleet             Reinforced Sector Fleet        Fleet Type Base of Operations Special Reports to Remarks
+              Fleet CO                                 NaN Reinforced Sector                NaN                NaN     NaN
+              Fleet XO                                 NaN               NaN                NaN                NaN     NaN
+                  Line                        Type of Ship         Ship Name          Commander           Position Remarks
+    Heavy Assault Line                                 NaN               NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)               NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)               NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)               NaN                NaN                NaN     NaN
+                   NaN     Defender-class Battleship (DCB)               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+Interdiction Line (IL)                                 NaN               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)               NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)               NaN                NaN                NaN     NaN
+       Recon Line (RL)                                 NaN               NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)               NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)               NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)               NaN                NaN                NaN     NaN
+     Utility Line (UL)                                 NaN               NaN                NaN                NaN     NaN
+
+--- Sheet: Sector ---
+
+             Fleet                        Sector Fleet Fleet Type Base of Operations Special Reports to Remarks
+          Fleet CO                                 NaN     Sector                NaN                NaN     NaN
+          Fleet XO                                 NaN        NaN                NaN                NaN     NaN
+              Line                        Type of Ship  Ship Name          Commander           Position Remarks
+Heavy Assault Line                                 NaN        NaN                NaN                NaN     NaN
+               NaN     Defender-class Battleship (DCB)        NaN                NaN                NaN     NaN
+               NaN     Defender-class Battleship (DCB)        NaN                NaN                NaN     NaN
+               NaN     Defender-class Battleship (DCB)        NaN                NaN                NaN     NaN
+               NaN     Defender-class Battleship (DCB)        NaN                NaN                NaN     NaN
+               NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+               NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+               NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+               NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+ Assault Line (AL)                                 NaN        NaN                NaN                NaN     NaN
+               NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+               NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+               NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+               NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+ Assault Line (AL)                                 NaN        NaN                NaN                NaN     NaN
+               NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+               NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+               NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+               NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+  Strike Line (SL)                                 NaN        NaN                NaN                NaN     NaN
+               NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+               NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+               NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+  Strike Line (SL)                                 NaN        NaN                NaN                NaN     NaN
+               NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+               NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+               NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+  Strike Line (SL)                                 NaN        NaN                NaN                NaN     NaN
+               NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+               NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+               NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+   Recon Line (RL)                                 NaN        NaN                NaN                NaN     NaN
+               NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+               NaN Ambusher-ckass Royal Frigate (ACRF)        NaN                NaN                NaN     NaN
+               NaN Ambusher-ckass Royal Frigate (ACRF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+               NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+ Utility Line (UL)                                 NaN        NaN                NaN                NaN     NaN
+
+--- Sheet: Transport ---
+
+            Fleet              Transport Fleet Fleet Type Base of Operations Special Reports to Remarks
+         Fleet CO                          NaN  Transport                NaN                NaN     NaN
+         Fleet XO                          NaN        NaN                NaN                NaN     NaN
+             Line                 Type of Ship  Ship Name          Commander           Position Remarks
+ Strike Line (SL)                          NaN        NaN                NaN                NaN     NaN
+              NaN    Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+              NaN    Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+              NaN    Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+              NaN    Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+              NaN    Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+              NaN Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+ Strike Line (SL)                          NaN        NaN                NaN                NaN     NaN
+              NaN    Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+              NaN    Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+              NaN    Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+              NaN    Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+              NaN    Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+              NaN Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+ Strike Line (SL)                          NaN        NaN                NaN                NaN     NaN
+              NaN    Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+              NaN    Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+              NaN    Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+              NaN    Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+              NaN    Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+              NaN Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+ Strike Line (SL)                          NaN        NaN                NaN                NaN     NaN
+              NaN    Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+              NaN    Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+              NaN    Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+              NaN    Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+              NaN    Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN   Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+              NaN Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+              NaN Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+Utility Line (UL)                          NaN        NaN                NaN                NaN     NaN
+Utility Line (UL)                          NaN        NaN                NaN                NaN     NaN
+Utility Line (UL)                          NaN        NaN                NaN                NaN     NaN
+Utility Line (UL)                          NaN        NaN                NaN                NaN     NaN
+Utility Line (UL)                          NaN        NaN                NaN                NaN     NaN
+Utility Line (UL)                          NaN        NaN                NaN                NaN     NaN
+
+--- Sheet: Strike ---
+
+                 Fleet                        Strike Fleet Fleet Type Base of Operations Special Reports to Remarks
+              Fleet CO                                 NaN     Strike                NaN                NaN     NaN
+              Fleet XO                                 NaN        NaN                NaN                NaN     NaN
+                  Line                        Type of Ship  Ship Name          Commander           Position Remarks
+     Assault Line (AL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+     Assault Line (AL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN    Protector-class Battleship (PCB)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+      Strike Line (SL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+Interdiction Line (IL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Omega-class Cruiser (OCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)        NaN                NaN                NaN     NaN
+                   NaN   Sovereign-class Interdictor (SCI)        NaN                NaN                NaN     NaN
+       Recon Line (RL)                                 NaN        NaN                NaN                NaN     NaN
+                   NaN           Gamma-class Cruiser (GCC)        NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)        NaN                NaN                NaN     NaN
+                   NaN Ambusher-ckass Royal Frigate (ACRF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN          Amauta-class Frigate (ACF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+                   NaN        Intruder-class Frigate (ICF)        NaN                NaN                NaN     NaN
+     Utility Line (UL)                                 NaN        NaN                NaN                NaN     NaN
+
+--- Sheet: Line Makeups ---
+
+Heavy Assault Line (HAL)                          Unnamed: 1
+                     NaN     Defender-class Battleship (DCB)
+                     NaN     Defender-class Battleship (DCB)
+                     NaN     Defender-class Battleship (DCB)
+                     NaN     Defender-class Battleship (DCB)
+                     NaN           Omega-class Cruiser (OCC)
+                     NaN           Omega-class Cruiser (OCC)
+                     NaN           Omega-class Cruiser (OCC)
+                     NaN           Omega-class Cruiser (OCC)
+                     NaN          Amauta-class Frigate (ACF)
+                     NaN          Amauta-class Frigate (ACF)
+                     NaN          Amauta-class Frigate (ACF)
+                     NaN          Amauta-class Frigate (ACF)
+       Assault Line (AL)                                 NaN
+                     NaN    Protector-class Battleship (PCB)
+                     NaN    Protector-class Battleship (PCB)
+                     NaN    Protector-class Battleship (PCB)
+                     NaN    Protector-class Battleship (PCB)
+                     NaN           Gamma-class Cruiser (GCC)
+                     NaN           Gamma-class Cruiser (GCC)
+                     NaN           Gamma-class Cruiser (GCC)
+                     NaN           Gamma-class Cruiser (GCC)
+                     NaN        Intruder-class Frigate (ICF)
+                     NaN        Intruder-class Frigate (ICF)
+                     NaN        Intruder-class Frigate (ICF)
+                     NaN        Intruder-class Frigate (ICF)
+                     NaN                                 NaN
+        Strike Line (SL)                                 NaN
+                     NaN           Omega-class Cruiser (OCC)
+                     NaN           Omega-class Cruiser (OCC)
+                     NaN           Omega-class Cruiser (OCC)
+                     NaN           Gamma-class Cruiser (GCC)
+                     NaN           Gamma-class Cruiser (GCC)
+                     NaN          Amauta-class Frigate (ACF)
+                     NaN          Amauta-class Frigate (ACF)
+                     NaN          Amauta-class Frigate (ACF)
+                     NaN          Amauta-class Frigate (ACF)
+                     NaN        Intruder-class Frigate (ICF)
+                     NaN        Intruder-class Frigate (ICF)
+                     NaN                                 NaN
+  Interdiction Line (IL)                                 NaN
+                     NaN           Omega-class Cruiser (OCC)
+                     NaN           Omega-class Cruiser (OCC)
+                     NaN           Gamma-class Cruiser (GCC)
+                     NaN           Gamma-class Cruiser (GCC)
+                     NaN        Intruder-class Frigate (ICF)
+                     NaN        Intruder-class Frigate (ICF)
+                     NaN   Sovereign-class Interdictor (SCI)
+                     NaN   Sovereign-class Interdictor (SCI)
+                     NaN                                 NaN
+         Recon Line (RL)                                 NaN
+                     NaN           Gamma-class Cruiser (GCC)
+                     NaN Ambusher-class Royal Frigate (ACRF)
+                     NaN Ambusher-class Royal Frigate (ACRF)
+                     NaN          Amauta-class Frigate (ACF)
+                     NaN          Amauta-class Frigate (ACF)
+                     NaN          Amauta-class Frigate (ACF)
+                     NaN        Intruder-class Frigate (ICF)
+                     NaN        Intruder-class Frigate (ICF)
+       Medical Line (ML)                                 NaN
+                     NaN                                 NaN
+       Utility Line (UL)                                 NaN

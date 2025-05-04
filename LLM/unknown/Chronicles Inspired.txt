@@ -1,0 +1,9 @@
+---
+source: c:\EOTIR\EOTIR Novels\Chronicles\Chronicles Inspired.docx
+category: unknown
+title: Word Document
+modified: 2025-05-03 22:30:29+00:00
+source_type: EOTIR Novels
+extraction_date: 2025-05-03T15:30:29.467866
+---
+

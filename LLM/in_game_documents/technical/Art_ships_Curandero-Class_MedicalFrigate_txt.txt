@@ -1,0 +1,123 @@
+
+# 🛡️ Curandero-Class Medical Frigate (CCMF) Overview
+
+The Curandero-class (designation CCMF) is the Imperial Republic’s front-line rapid-response medical frigate. Designed for operations in unstable sectors, it brings critical trauma care and medical support to hot zones where the larger Nightingale-class cruisers cannot operate.
+
+At 400 meters long, the Curandero features full orbital medevac and triage capabilities, compact surgical bays, and quarantine compartments, allowing it to stabilize and evacuate wounded under fire.
+
+Unlike its unarmed civilian counterparts, the Curandero boasts a respectable point-defense and anti-boarding suite: 10 laser cannons, 10 heavy lasers, and 5 turbolasers, with redundant ion weaponry and tractor beams for controlled docking or rescue capture.
+
+Equipped with 4 sensors, 4 jammers, a hangar bay, and atmospheric landing ability, the Curandero is equally at home in deep space or planetside triage deployment.
+
+Curanderos often serve in detachments known as “Field Mercy Flotillas,” and are crewed by highly trained medical personnel supported by combat logistics staff. While not a warship, its endurance and flexibility make it a critical asset in the Republic’s interstellar humanitarian doctrine.
+
+# 🎨 Curandero-Class Color Schemes
+
+| Livery Name         | Color Scheme Description                          | Role                               |
+|---------------------|----------------------------------------------------|------------------------------------|
+| Crimson Veil        | Matte white body with deep crimson striping        | Combat zone deployment              |
+| Halcyon White       | Gloss white with blue medical insignia             | Peacetime and high-visibility ops   |
+| Ashen Bloom         | Pale gray hull with muted violet hull patterns     | Frontier humanitarian patrol        |
+| Blue Lotus          | White and navy blue alternating sections           | Long-term orbital treatment station |
+| Celestial Mercy     | White with gold accents and illuminated hull glyphs| Royal fleet humanitarian missions   |
+
+# 🛡️ Curandero-Class Medical Frigate (CCMF) Stat Sheet (Markdown)
+
+| Attribute            | Value |
+|----------------------|-------|
+| **Length**           | 400 meters |
+| **Cargo Capacity**   | 100,000 tons |
+| **Cargo Volume**     | 80,000 cubic meters |
+| **Hull Strength**    | 5,000 |
+| **Deflector Shields**| 5,000 (Recharge 250 per turn) |
+| **Ionic Capacitance**| 2,000 |
+| **Hyperspeed Multiplier** | 1.25x |
+| **Sublight Speed**   | 70 MGLT |
+| **Manoeuvrability**  | 6 |
+| **Crew**             | 1,200 |
+| **Troopers**         | 200 |
+| **Passengers**       | 400 |
+| **Squadrons**        | 1 |
+| **Shuttles**         | 6 |
+| **Ground Vehicles**  | 1 |
+| **Heavy Ground Vehicles** | 0 |
+| **Planetary Landing**| Yes |
+| **Docking Bay**      | Yes |
+| **Cloaking Device**  | No |
+| **Laser Cannons**    | 10 |
+| **Heavy Lasers**     | 10 |
+| **Turbolasers**      | 5 |
+| **Missile Launchers**| 0 |
+| **Ion Cannons**      | 5 |
+| **Ion Batteries**    | 5 |
+| **Sensors**          | 4 |
+| **Jammers**          | 4 |
+| **Tractor Beams**    | 2 |
+| **Gravity Well Generator** | 0 |
+
+================================================================================
+
+== 🛡️ Curandero-Class Medical Frigate (CCMF) Stat Sheet (Wikitext) ==
+
+{| class="wikitable sortable"
+! Attribute !! Value
+|-
+| Length || 400 meters
+|-
+| Cargo Capacity || 100,000 tons
+|-
+| Cargo Volume || 80,000 cubic meters
+|-
+| Hull Strength || 5,000
+|-
+| Deflector Shields || 5,000 (Recharge 250 per turn)
+|-
+| Ionic Capacitance || 2,000
+|-
+| Hyperspeed Multiplier || 1.25x
+|-
+| Sublight Speed || 70 MGLT
+|-
+| Manoeuvrability || 6
+|-
+| Crew || 1,200
+|-
+| Troopers || 200
+|-
+| Passengers || 400
+|-
+| Squadrons || 1
+|-
+| Shuttles || 6
+|-
+| Ground Vehicles || 1
+|-
+| Heavy Ground Vehicles || 0
+|-
+| Planetary Landing || Yes
+|-
+| Docking Bay || Yes
+|-
+| Cloaking Device || No
+|-
+| Laser Cannons || 10
+|-
+| Heavy Lasers || 10
+|-
+| Turbolasers || 5
+|-
+| Missile Launchers || 0
+|-
+| Ion Cannons || 5
+|-
+| Ion Batteries || 5
+|-
+| Sensors || 4
+|-
+| Jammers || 4
+|-
+| Tractor Beams || 2
+|-
+| Gravity Well Generator || 0
+|}
+================================================================================

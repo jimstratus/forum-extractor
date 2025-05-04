@@ -1,0 +1,20 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\HTML.SafeEmbed.txt
+category: in_game_documents/intelligence
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.537245
+---
+
+HTML.SafeEmbed
+TYPE: bool
+VERSION: 3.1.1
+DEFAULT: false
+--DESCRIPTION--
+<p>
+    Whether or not to permit embed tags in documents, with a number of extra
+    security features added to prevent script execution. This is similar to
+    what websites like MySpace do to embed tags. Embed is a proprietary
+    element and will cause your website to stop validating; you should
+    see if you can use %Output.FlashCompat with %HTML.SafeObject instead
+    first.</p>
+--# vim: et sw=4 sts=4

@@ -1,0 +1,124 @@
+End User License Agreement  (Rev. 133C774)  1 / 3 
+ State of  Arizona  Rev. 133C774  
+END USER LICENSE  AGREEMENT  
+   
+This End -User License Agreement (this “EULA”) is a legal agreement between you  (“Licensee”) and Era 
+of the Imperial Republic RPG (“Licensor”), the author of Imperial Republic Information Network , including 
+all HTML files, XML files, Java files, graphics files, animation files, data files, technology, development 
+tools, scripts and programs, both in object code and source code (the “Software”), the deliverables 
+provided pursuant to this EULA, whic h may include associated media, printed materials, and “online” or 
+electronic documentation.  
+  
+By installing, copying, or otherwise using the Software, Licensee agrees to be bound by the terms and 
+conditions set forth in this EULA. If Licensee does not agr ee to the terms and conditions set forth in this 
+EULA, then Licensee may not download, install, or use the Software.   
+ 
+1. Grant of License  
+ 
+A)  Scope of License.   Subject to the terms of this EULA, Licensor hereby grants to Licensee a 
+royalty -free, non -exclusive license to possess and to use a copy of the Software. The Software is 
+being distributed by:  Keshaun – Operations Admin/Lead Developer. 
+  
+B)   Installation and Use.  Licensee may install and use  an unlimited number of  copies of the 
+Software  and make multiple back -up copies of the Software,  solely for Licensee's personal use.    
+ 
+2. Description of Rights and Limitations  
+ 
+A)   Limitations.   Licensee and third parties may not reverse engineer, decompile, or disassemble the 
+Software, except and only to the extent that su ch activity is expressly permitted by applicable law 
+notwithstanding the limitation.  
+B)   Update and Maintenance.   Licensor  shall provide updates and maintenance on the Software  on 
+an as needed basis.  
+C)   Separation of Components. The Software is licensed  as a single product. Its components may 
+not be separated for use on more than one computer.   
+ 
+3. Title to Software. Licensor represents and warrants that it has the legal right to enter into and perform 
+its obligations under this EULA, and that use by the  Licensee of the Software, in accordance with the 
+terms of this EULA, will not infringe upon the intellectual property rights of any third parties.  
+ 
+4. Intellectual Property.  All now known or hereafter known tangible and intangible rights, title, interest , 
+copyrights and moral rights in and to the Software, including but not limited to all images, photographs, 
+animations, video, audio, music, text, data, computer code, algorithms, and information, are owned 
+by Licensor. The Software is protected by all app licable copyright laws and international treaties.   
+ 
+5. Support.  Licensor  will provide phone  support, available during normal business hours  for a time 
+period of Perpetually.  
+ 
+6. Duration. This EULA is effective for   ____________ or until:  revoked or updated. 
+End User License Agreement  (Rev. 133C774)  2 / 3 
+ A)    Automaticall y terminated or suspended if Licensee fails to comply with any of the terms and 
+conditions set forth in this EULA; or  
+B)    Terminated or suspended by  Licensor, with or without cause.  
+ 
+In the event this EULA is terminated, you must cease use of the Softwar e and destroy all copies of the 
+Software.  
+ 
+7. Jurisdiction.   This EULA shall be deemed to have been made in, and shall be construed pursuant to 
+the laws of the State of  Arizona, without regard to conflicts of laws provisions thereof. Any legal action or 
+proceeding relating to this EULA shall be brought exclusively in courts located in Phoenix , AZ, and each 
+party consents to the jurisdiction thereof. The prevailing party in any action to enforce this EULA shall be 
+entitled to recover costs and expenses inclu ding, without limitation, attorneys’ fees. This EULA is made 
+within the exclusive jurisdiction of the United States, and its jurisdiction shall supersede any other 
+jurisdiction of either party’s election.  
+ 
+8. Non-Transferable.   This EULA is not assignable or transferable by Licensee, and any attempt to do so 
+would be void.  
+ 
+9. Severability.   No failure to exercise, and no delay in exercising, on the part of either party, any 
+privilege, any power or any rights hereunder will operate as a waiver thereof, nor will any single or partial 
+exercise of any right or power hereunder preclude further exercise of any other right hereunder. If any 
+provision of this EULA shall be adjudged by any court of competent jurisdiction to be unenforceable or 
+invalid, that provisio n shall be limited or eliminated to the minimum extent necessary so that this EULA 
+shall otherwise remain in full force and effect and enforceable.  
+ 
+10. WARRANTY DISCLAIMER .  LICENSOR, AND AUTHOR  OF THE SOFTWARE, HE REBY 
+EXPRESSLY DISCLAIM A NY WARRANTY FOR THE SOFTWARE. THE SO FTWARE AND ANY 
+RELATED DOCUMENTATIO N IS PROVIDED “AS IS ” WITHOUT WARRANTY O F ANY KIND, EITHER 
+EXPRESS OR IMPLIED, INCLUDING, WITHOUT L IMITATION, THE IMPLI ED WARRANTIES OF 
+MERCHANTABILITY, FIT NESS FOR A PARTICULA R PURPOSE, OR NON -INFRING EMENT. 
+LICENSEE ACCEPTS ANY  AND ALL RISK ARISIN G OUT OF USE OR PERF ORMANCE OF THE 
+SOFTWARE.  
+ 
+11. LIMITATION OF LIAB ILITY.   LICENSOR SHALL NOT B E LIABLE TO LICENSEE , OR ANY OTHER 
+PERSON OR ENTITY CLA IMING THROUGH LICENS EE ANY LOSS OF PROFI TS, INCOME, 
+SAVING S, OR ANY OTHER CONS EQUENTIAL, INCIDENTA L, SPECIAL, PUNITIVE , DIRECT OR 
+INDIRECT DAMAGE, WHE THER ARISING IN CONT RACT, TORT, WARRANTY , OR OTHERWISE. 
+THESE LIMITATIONS SH ALL APPLY REGARDLESS  OF THE ESSENTIAL PU RPOSE OF ANY 
+LIMITED REMEDY. UNDE R NO CIRCUMSTAN CES SHALL LICENSOR’S  AGGREGATE LIABILITY  TO 
+LICENSEE, OR ANY OTH ER PERSON OR ENTITY CLAIMING THROUGH LIC ENSEE, EXCEED THE 
+FINANCIAL AMOUNT ACT UALLY PAID BY LICENS EE TO LICENSOR FOR T HE SOFTWARE.  
+ 
+12. Entire Agreement.   This EULA constitutes the entire agre ement between  Licensor  and Licensee and 
+supersedes all prior understandings of  Licensor  and Licensee, including any prior representation, 
+statement, condition, or warranty with respect to the subject matter of this EULA.    
+ 
+End User License Agreement  (Rev. 133C774)  3 / 3 
+ 13. Additional Provisions and/or  Disclosures.   Use of IRIN is for players/members of the Era of the 
+Imperial Republic RPG. Access will only be granted to EOTIR RPG players by the IRIN admin. Support 
+for IRIN is available by e -mail, chat, or Help Desk. IRIN is a web -based product only.   
+ 
+End User License Agreement  (Rev. 133C774)  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank. 

@@ -1,0 +1,51 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\applications\core\data\defaults\extensions\Build.txt
+category: in_game_documents/intelligence
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:39.268170
+---
+
+<?php
+/**
+ * @brief		Build process plugin
+ * @author		<a href='https://www.invisioncommunity.com'>Invision Power Services, Inc.</a>
+ * @copyright	(c) Invision Power Services, Inc.
+ * @license		https://www.invisioncommunity.com/legal/standards/
+ * @package		Invision Community
+{subpackage}
+ * @since		{date}
+ */
+
+namespace IPS\{app}\extensions\core\Build;
+
+/* To prevent PHP errors (extending class does not exist) revealing path */
+if ( !defined( '\IPS\SUITE_UNIQUE_KEY' ) )
+{
+	header( ( isset( $_SERVER['SERVER_PROTOCOL'] ) ? $_SERVER['SERVER_PROTOCOL'] : 'HTTP/1.0' ) . ' 403 Forbidden' );
+	exit;
+}
+
+/**
+ * Build process plugin
+ */
+class _{class}
+{
+	/**
+	 * Build
+	 *
+	 * @return	void
+	 * @throws	\RuntimeException
+	 */
+	public function build()
+	{
+	}
+	
+	/**
+	 * Finish Build
+	 *
+	 * @return	void
+	 */
+	protected function finish()
+	{
+	}
+}

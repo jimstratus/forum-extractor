@@ -1,0 +1,18 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\AutoFormat.DisplayLinkURI.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.371494
+---
+
+AutoFormat.DisplayLinkURI
+TYPE: bool
+VERSION: 3.2.0
+DEFAULT: false
+--DESCRIPTION--
+<p>
+  This directive turns on the in-text display of URIs in &lt;a&gt; tags, and disables
+  those links. For example, <a href="http://example.com">example</a> becomes
+  example (<a>http://example.com</a>).
+</p>
+--# vim: et sw=4 sts=4

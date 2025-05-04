@@ -1,0 +1,87 @@
+---
+source: c:\EOTIR\EOTIR RPG\Character Profiles\character names.txt.docx
+category: character_profiles
+title: Word Document
+modified: 2025-05-03 22:30:58+00:00
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:30:58.191881
+---
+
+Character Names: 
+Name Generator: http://eotir.link/SWNameGen / http://www.dimfuture.net/starwars/random/index.php 
+ Ben Finn
+ Zdenka Terra	 Irizon Penin	  Grenz Dronos
+ Shir Ravenlocke	 Prellon Skobra	 Roxis Lectrac	 Duke Taurendil
+ Michael Jiktar	 Lothor Mugaba	 Gale Morin	 Rannek Starlight
+ 		 Juun Lasoo	 Menka Calfan
+		 Kaarl Surrel	 Joi Talon
+	 Durron	 Lerona Rahn	 Yvanos Svung
+ Nils Eberle	 Sumi Klakk	 	 
+ Telera Tahlee	 Trance Burgan	 Daylana Dio Nourdi	 Kellin  Eisahn
+	 Cheriss Octhar	 Niuk Terallo	 Rogmi Natas
+ Cess Pau-no-rego	 Macz Obath		 Anson Dolomar
+ Noki Calway	 Noah Lauderslag	 Natan  Hagui	 Zoserab Keiko-sho
+ Bernarda Isod	 Edson Bendix	 Kendall Ferral	 Trec Sodervall
+ Andyr Dubreas	 		  Wolam Ekwash	 Arix Zaniah	 Ra'Effan Nightshade	 Valkryie Alateen
+ Bren Garoon	 Kellis Dremine	 Thon Tynblade	 Obri Kelrian
+	 Sarria Zainab	 Riczo Slarga	 Marneg Dala  Caster Barakis
+	 Calle Caballa	 Padm Farthen	 Kash Tarven
+	 Vyrr Coven	 Sei Rhade	 Neiki Narson
+ Jorg Tarven	 Padme Starkos	 Goran Shmo	 Ralgadorr Chavez
+ Marcos Airhart	 Durian Vrei	 Dalla Burkan	 Obsqu Kre'fey
+ Dietrich Suutrar	 Kalei Anarth	 Vrei Ghyron	 
+ Giles D'jek	 Pamaf Terrik		 Osto Dravvad
+ Darth Garr	 Rubuta Skyblade		 Alanna Fotzekotze
+ Valo Hart		 Nathan Kilstar
+Versita Walker
+	 Vyrr Min 	 Cror Da Res 	 Barret Lectrac
+ Helrun Stargazer 	 Lara Menuk 	 Viqi Tala 	 Mel Athzaria
+ 	 	 Zyyacah Nhagy 	 Tyron-Hu Ka`Taramas
+ Hojal Dirpa 	 Barak Torpoli 	 Miwa Retzloff 	 Kiergan Hollinger
+ Naiad Mallix 	 Barad Remex 	 
+ Mako Mereel 	 Zyyacah Getchell 	 Di  Novan 	 Jem Ke'Sahndhran
+ Innoruuk Najoqui 	 Warryk Gregory 	 Govon Plmary 	 Cric Gorgiou
+ Salvor Araluu 	 Marz Finn 	 Jorgen Vrei 	 Kellin  Selanne
+ Jason Crazell 	 Carja ?toka 	 Anakin Organ 	 Laertes Niktono
+ Ryn Covell 	  Vrei Korrado 	 
+ Zyrias Shmo 	 Udo Sett 	 Josiah Kavos 	 Xhal Ijaaz
+ Qef Navaro 	 Brent Derrosk 	 Carena Diruno 	 Audice Tharandon
+ Deena Dremine 	 Marclonus Jetberg 	 Siiwook Hunt 	 Oberon Killdarn
+ Noah Jonos 	 Mebba Signas 	 Lan Tinto 	 Jared  Yidrath
+ 	 Bolen Ivalice 	 	 
+ 	 	 Talia Tolod 	 Moradin  Starwind
+ Vislor Yoan 	 Gerd Yidrath 	 Dala Ellison 	 Nacene Malo
+ 	 Una Traln 	 Vidown Fleetfire 	 Jix Dain
+ 	 Dak Anor 	 	 Kiber Halo
+ Varias Gantu 	 Loysia Vercet 	 Alysha Sayall 	 
+ Zeven Revan 	 Hala Tolen 	 Carga Hyde 	 Kellin Nabeshin
+ 	 	 Essaj Ryscandor 	 Laryn Duval
+ 	 Lannik Drayven 	 Indiglo Kang 	 Valkryie Armande
+ Duran Reese 	 Merton Branusz 	 Varon Burgan 	 Nelia Karrim
+ Rob Valen 	 Kaida Cyn 	 Justin Spunns
+
+ Allada Fayar	 Jake Ukarme	 Lien Liagri	 Sherveen Gantu
+ Ban Maru		 Xuenti Shinte	 Jan Seer
+ Roshell Valhoun	 Sarli Lopez	 Zirias Plmary	 Deell Maru
+ Ingo LeKit	 Katalana Ryra	 Dalharil Elrad	 Jospi Cvetkovic
+ Kelko Torwyn	 Zara Kynnovan	 Ysanne Devin	 Bek Saretti
+ Jorya Maymier	 Cypher Yeh		 Jorda  Amadis
+	 Rafi Mendes	 Harloth Alavai	 Sharon Thorn
+ Thena Cal-Delmont	 Shaka Varga	 Dela Highwind	 Nuuti Cath
+	 Garik Dettun	 Alsia Drakar	 Gael Ravenlocke
+ Sarangati Bendix		 Shesa Komad	 Nash Klusto
+ Lersen Erelen	 Koro Finwej	 Esseg Vercet	 Tumnar Gosular
+ Gavyn Aboleth	 Mantisa Parry	 Ravened Hunt	 Marneg Gal
+ Tyron-Hu Sunrider		 Kane Hans	
+ Alen Juall	 Reine Bahr	 Carga Tolen	 Tonnil Rigel
+ Tare Tai		 Lesher Kessler	 Bortr Brandt
+ Kir Sloan	 Huff Valen	 Wynt  Cabaril	 Catri Ruellis
+ Dejkaz Shae	 Stefan Diruno	 Hari Sesslyn	 Iocasta Silthen
+ Valek Verza	 Kiyfi Praxon	 Relm Cleeze	 Jomasom Sage
+ Keilara Speigel	 Charleena R?v		 Kaz Lartag
+ Vergere Thanewulf	 Telon Myndraav	 Jake Eronoss	 Brith Umezaki
+ Lyon Rakshesh	 Gentti Basout	 Keth Passik	 Abano Lo
+ Gregory Corliss	 Kana Kronn	 Varn Burgan	 Kaida Terrix
+ Milo Nise	 Randal Spero	 Bando Passik	 Tover Mariell
+ Jessica Crazell	 Duustal Pele	 Raena Riou	 Veskasa Edo
+ Revanche Abogado	 Barret Ta'em	 Cuhan Grumb

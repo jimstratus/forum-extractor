@@ -1,0 +1,50 @@
+---
+source: c:\EOTIR\EOTIR RPG\Forms\COMPNOR Employment Application.docx
+category: in_game_documents/intelligence
+title: Word Document
+modified: 2025-05-03 22:31:28+00:00
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:28.354638
+---
+
+First Name: 	                                       
+Last Name: 	                                       
+Title:                                                    
+Date of Birth: 	                                    
+IR Statutory Identification Number: 	                      
+Address: 	                                          
+Birth Planet: 	                                     
+Are you eligible to work in the Imperial Republic?
+Yes: 	       No: 	     
+Have you been a citizen of the Imperial Republic for at least 10 years?
+Yes:  	      No:  	     
+Do you have any outstanding warrants out for your arrest?
+Yes:  	      No:  	     
+If yes, please explain:                                                                                    
+Have you been convicted of or pleaded no contest to a felony?
+Yes:        No:       
+If yes, please explain:                                                     
+POSITION/AVAILABILITY:
+Position Applied For:                                           
+Division:                                                                                   
+Branch:                                                                                    
+What date are you available to start work?                                     
+Current Security Level:                                                               
+EDUCATION:
+Name and Planet Of School    - Degree/Diploma  - Graduation Date
+ 	                       -  	                          - 	                  
+ 	                       -  	                          - 	                  
+ 	                       -  	                          - 	                  
+Skills and Qualifications: Licenses, Skills, Training, Awards:
+EMPLOYMENT HISTORY:
+Previous Position:                                                         
+Supervisor:                                                                 
+Employer:                                                                    
+From:                              To:                                  
+Responsibilities:                                                           
+Salary:                                                                      
+Reason for Leaving:                                                     
+I certify that information contained in this application is true and complete. I understand that false information may be grounds for not hiring me or for immediate termination of employment at any point in the future if I am hired. I authorize the verification of any or all information listed above.
+Signature:                                                  
+Title/Position:                                           
+Date: 	                                                     

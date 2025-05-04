@@ -1,0 +1,23 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\Cache.SerializerPermissions.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.397196
+---
+
+Cache.SerializerPermissions
+TYPE: int/null
+VERSION: 4.3.0
+DEFAULT: 0755
+--DESCRIPTION--
+
+<p>
+    Directory permissions of the files and directories created inside
+    the DefinitionCache/Serializer or other custom serializer path.
+</p>
+<p>
+    In HTML Purifier 4.8.0, this also supports <code>NULL</code>,
+    which means that no chmod'ing or directory creation shall
+    occur.
+</p>
+--# vim: et sw=4 sts=4

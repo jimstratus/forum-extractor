@@ -1,0 +1,123 @@
+
+# 🛡️ Omega-Class Shuttle Overview
+
+The Omega-class Shuttle is an enhanced-capacity evolution of the classic Lambda-class workhorse, designed for missions requiring heavier passenger or cargo loads without sacrificing maneuverability or protection.
+
+Maintaining the iconic tri-wing silhouette — central stabilizer and folding lateral wings — the Omega-class improves upon internal volume and transport capabilities, allowing 14 tons of cargo, 60 cubic meters of storage, and up to 20 passengers.
+
+It sports the same rugged build but incorporates a stronger impulse drive (hyperspeed 1.00x, 80 MGLT sublight) and a slightly expanded missile payload.
+
+Armed with twin laser cannons, four heavy lasers, and dual missile launchers, it can protect itself effectively during planetary landings or boarding actions.
+
+Omega shuttles are often deployed for VIP convoys, rapid troop insertion teams, forward reconnaissance parties, and priority equipment drops — anywhere greater mass needs moving swiftly and safely.
+
+# 🎨 Omega-Class Shuttle Color Schemes
+
+| Livery Name          | Color Scheme Description                          | Role                             |
+|-----------------------|----------------------------------------------------|----------------------------------|
+| Sovereign Iron        | Gunmetal gray body with navy-blue wing stripes     | High-priority military transport |
+| Halo Runner           | White hull with golden orange accents              | VIP and diplomatic assignments   |
+| Stormclad Variant     | Charcoal-gray body with faint silver markings      | Special forces or tactical ops   |
+| Azure Swift           | Bright silver with bold cobalt patterns            | Fast battlefield medevac         |
+| Nightwarden           | Matte black hull with dark violet glow lines       | Covert operations and extractions |
+
+# 🛡️ Omega-Class Shuttle Stat Sheet (Markdown)
+
+| Attribute            | Value |
+|----------------------|-------|
+| **Length**           | 20 meters |
+| **Cargo Capacity**   | 14 tons |
+| **Cargo Volume**     | 60 cubic meters |
+| **Hull Strength**    | 250 |
+| **Deflector Shields**| 250 (Recharge 20 per turn) |
+| **Ionic Capacitance**| 180 |
+| **Hyperspeed Multiplier** | 1.00x |
+| **Sublight Speed**   | 80 MGLT |
+| **Manoeuvrability**  | 7 |
+| **Crew**             | 3 |
+| **Troopers**         | 0 |
+| **Passengers**       | 20 |
+| **Squadrons**        | 0 |
+| **Shuttles**         | 0 |
+| **Ground Vehicles**  | 0 |
+| **Heavy Ground Vehicles** | 0 |
+| **Planetary Landing**| Yes |
+| **Docking Bay**      | No |
+| **Cloaking Device**  | No |
+| **Laser Cannons**    | 2 |
+| **Heavy Lasers**     | 4 |
+| **Turbolasers**      | 0 |
+| **Missile Launchers**| 2 (20 missiles) |
+| **Ion Cannons**      | 0 |
+| **Ion Batteries**    | 0 |
+| **Sensors**          | 2 |
+| **Jammers**          | 2 |
+| **Tractor Beams**    | 1 |
+| **Gravity Well Generator** | 0 |
+
+================================================================================
+
+== 🛡️ Omega-Class Shuttle Stat Sheet (Wikitext) ==
+
+{| class="wikitable sortable"
+! Attribute !! Value
+|-
+| Length || 20 meters
+|-
+| Cargo Capacity || 14 tons
+|-
+| Cargo Volume || 60 cubic meters
+|-
+| Hull Strength || 250
+|-
+| Deflector Shields || 250 (Recharge 20 per turn)
+|-
+| Ionic Capacitance || 180
+|-
+| Hyperspeed Multiplier || 1.00x
+|-
+| Sublight Speed || 80 MGLT
+|-
+| Manoeuvrability || 7
+|-
+| Crew || 3
+|-
+| Troopers || 0
+|-
+| Passengers || 20
+|-
+| Squadrons || 0 |
+|-
+| Shuttles || 0
+|-
+| Ground Vehicles || 0
+|-
+| Heavy Ground Vehicles || 0
+|-
+| Planetary Landing || Yes
+|-
+| Docking Bay || No
+|-
+| Cloaking Device || No
+|-
+| Laser Cannons || 2
+|-
+| Heavy Lasers || 4
+|-
+| Turbolasers || 0
+|-
+| Missile Launchers || 2 (20 missiles)
+|-
+| Ion Cannons || 0
+|-
+| Ion Batteries || 0
+|-
+| Sensors || 2
+|-
+| Jammers || 2
+|-
+| Tractor Beams || 1
+|-
+| Gravity Well Generator || 0
+|}
+================================================================================

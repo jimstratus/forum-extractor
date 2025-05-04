@@ -1,0 +1,123 @@
+
+# 🛡️ Horus-Class Transport Cruiser (HCTC) Overview
+
+The Horus-class is the largest standardized transport cruiser in the Imperial Republic Navy's logistics fleet. Designed to carry massive cargo loads across interstellar distances, the HCTC serves as a strategic hauler, forward supply vessel, and planetary reinforcement ship.
+
+With a staggering 700,000-ton cargo capacity and 280,000 cubic meters of internal volume, the Horus is capable of resupplying entire sectors, delivering vital ground vehicles, and transporting troops and critical infrastructure between warzones.
+
+Though primarily a logistics vessel, the Horus-class is not without teeth. Its layered hull is reinforced, and it boasts 20 laser cannons, 10 heavy lasers, 10 turbolasers, and 5 missile launchers for anti-pirate and convoy defense.
+
+Equipped with 7 jammers and 7 sensor suites, it maintains a strong electronic defense posture. However, its low sublight speed and lack of planetary landing capability make it reliant on escort fleets and orbital shuttles for operation.
+
+Horus-class vessels are often organized into logistical strike groups, dubbed “Stone Wings,” that follow behind major fleet deployments to reestablish infrastructure, supply forward command bases, or evacuate key assets under fire.
+
+# 🎨 Horus-Class Color Schemes
+
+| Livery Name        | Color Scheme Description                         | Role                               |
+|---------------------|---------------------------------------------------|------------------------------------|
+| Granite Mantle      | Matte gray body with black and bronze accents     | Standard Navy logistics color      |
+| Desert Vessel       | Sandstone-tan hull with green ID markings         | Frontier and dry-world operations  |
+| Pillar of Iron      | Dark silver hull with crimson command striping    | High-priority command cargo        |
+| Shadow Hauler       | Gunmetal black with electric blue engine glow     | Convoy night operations            |
+| Royal Amberwing     | Metallic copper-gray with gold trim               | Ceremonial or diplomatic courier   |
+
+# 🛡️ Horus-Class Transport Cruiser (HCTC) Stat Sheet (Markdown)
+
+| Attribute            | Value |
+|----------------------|-------|
+| **Length**           | 900 meters |
+| **Cargo Capacity**   | 700,000 tons |
+| **Cargo Volume**     | 280,000 cubic meters |
+| **Hull Strength**    | 11,250 |
+| **Deflector Shields**| 6,000 (Recharge 200 per turn) |
+| **Ionic Capacitance**| 4,500 |
+| **Hyperspeed Multiplier** | 2.00x |
+| **Sublight Speed**   | 50 MGLT |
+| **Manoeuvrability**  | 3 |
+| **Crew**             | 1,500 |
+| **Troopers**         | 300 |
+| **Passengers**       | 90 |
+| **Squadrons**        | 0 |
+| **Shuttles**         | 8 |
+| **Ground Vehicles**  | 2 |
+| **Heavy Ground Vehicles** | 0 |
+| **Planetary Landing**| No |
+| **Docking Bay**      | Yes |
+| **Cloaking Device**  | No |
+| **Laser Cannons**    | 20 |
+| **Heavy Lasers**     | 10 |
+| **Turbolasers**      | 10 |
+| **Missile Launchers**| 5 (80 missiles) |
+| **Ion Cannons**      | 0 |
+| **Ion Batteries**    | 0 |
+| **Sensors**          | 7 |
+| **Jammers**          | 7 |
+| **Tractor Beams**    | 4 |
+| **Gravity Well Generator** | 0 |
+
+================================================================================
+
+== 🛡️ Horus-Class Transport Cruiser (HCTC) Stat Sheet (Wikitext) ==
+
+{| class="wikitable sortable"
+! Attribute !! Value
+|-
+| Length || 900 meters
+|-
+| Cargo Capacity || 700,000 tons
+|-
+| Cargo Volume || 280,000 cubic meters
+|-
+| Hull Strength || 11,250
+|-
+| Deflector Shields || 6,000 (Recharge 200 per turn)
+|-
+| Ionic Capacitance || 4,500
+|-
+| Hyperspeed Multiplier || 2.00x
+|-
+| Sublight Speed || 50 MGLT
+|-
+| Manoeuvrability || 3
+|-
+| Crew || 1,500
+|-
+| Troopers || 300
+|-
+| Passengers || 90
+|-
+| Squadrons || 0
+|-
+| Shuttles || 8
+|-
+| Ground Vehicles || 2
+|-
+| Heavy Ground Vehicles || 0
+|-
+| Planetary Landing || No
+|-
+| Docking Bay || Yes
+|-
+| Cloaking Device || No
+|-
+| Laser Cannons || 20
+|-
+| Heavy Lasers || 10
+|-
+| Turbolasers || 10
+|-
+| Missile Launchers || 5 (80 missiles)
+|-
+| Ion Cannons || 0
+|-
+| Ion Batteries || 0
+|-
+| Sensors || 7
+|-
+| Jammers || 7
+|-
+| Tractor Beams || 4
+|-
+| Gravity Well Generator || 0
+|}
+================================================================================

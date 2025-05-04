@@ -1,0 +1,17 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\HTML.AllowedComments.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.492501
+---
+
+HTML.AllowedComments
+TYPE: lookup
+VERSION: 4.4.0
+DEFAULT: array()
+--DESCRIPTION--
+A whitelist which indicates what explicit comment bodies should be
+allowed, modulo leading and trailing whitespace.  See also %HTML.AllowedCommentsRegexp
+(these directives are union'ed together, so a comment is considered
+valid if any directive deems it valid.)
+--# vim: et sw=4 sts=4

@@ -1,0 +1,19 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\Core.RemoveScriptContents.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.447646
+---
+
+Core.RemoveScriptContents
+TYPE: bool/null
+DEFAULT: NULL
+VERSION: 2.0.0
+DEPRECATED-VERSION: 2.1.0
+DEPRECATED-USE: Core.HiddenElements
+--DESCRIPTION--
+<p>
+  This directive enables HTML Purifier to remove not only script tags
+  but all of their contents.
+</p>
+--# vim: et sw=4 sts=4

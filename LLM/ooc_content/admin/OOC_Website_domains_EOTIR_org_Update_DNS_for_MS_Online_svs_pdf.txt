@@ -1,0 +1,34 @@
+Updat e DNS settings
+In this step, you 'll activate ser vices for your domain, like email and instant messaging, by adding DNS r ecords for
+eotir.org at your r egistrar or DNS hosting pr ovider . your DNS host.
+Nameser vers used: ns1.dnsowl.com, ns2.dnsowl.com, ns3.dnsowl.com
+MX records
+Please add these r ecords at your DNS hosting pr ovider . step-by-step instructions
+(https://go.micr osoft.com/f wlink/?LinkId=824365)
+îžº Impor tant:  if you alr eady have an MX r ecord for this domain at your DNS host, changing your MX
+records to the values below will r edirect new incoming email to your new email addr esses, and email will
+no longer be deliv ered to your pr evious email ser vice.
+After you change the MX r ecords, if you want to access your old email thr ough your new email account,
+you must migrate the old email messages.
+Priority Host name Points to address or value TTL
+0 @ eotir-org.mail.protection.outlook.com 3600
+CNAME r ecords
+Please add these r ecords at your DNS hosting pr ovider . step-by-step instructions
+(https://go.micr osoft.com/f wlink/?LinkId=824373)
+Host name Points to address or value TTL
+autodiscover autodiscover.outlook.com 3600
+sip sipdir.online.lync.com 3600
+lyncdiscover webdir.online.lync.com 3600
+enterpriseregistration enterpriseregistration.windows.net 3600
+enterpriseenrollment enterpriseenrollment.manage.microsoft.com 3600
+TXT records
+Please add these r ecords at your DNS hosting pr ovider . step-by-step instructions
+(https://go.micr osoft.com/f wlink/?LinkId=824382)
+TXT name TXT value TTL
+@ v=spf1 include:spf.protection.outlook.com -all 3600
+SRV r ecords
+Please add these r ecords at your DNS hosting pr ovider . step-by-step instructions
+(https://go.micr osoft.com/f wlink/?LinkId=824389)
+Service Protocol Port Weight Priority TTL Name Target Service Protocol Port Weight Priority TTL Name Target
+_sip _tls 443 1 100 3600 @ sipdir.online.lync.com
+_sipfederationtls _tcp 5061 1 100 3600 @ sipfed.online.lync.com

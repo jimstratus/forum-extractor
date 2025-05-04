@@ -1,0 +1,121 @@
+
+# 🛡️ Monarch-Class Dreadnought (Phoenix) Overview
+
+The Phoenix, a one-of-a-kind Monarch-Class Dreadnought, is the personal flagship of the Supreme Ruler of the Imperial Republic. Designed to succeed the destroyed Prince’s Pride Super Star Destroyer, the Phoenix is a vessel of legend — unrivaled in scale, firepower, and symbolic presence.
+
+At 6,000 meters, the Monarch-class eclipses all standard warships, its towering superstructure bristling with weapon arrays, ion batteries, and launch systems. Unlike other command vessels, the Phoenix is built not only to dominate but to lead — it is a political symbol, a mobile throne, and a strategic fortress capable of deploying massive invasion forces, maintaining battlefield control, and commanding entire sectors.
+
+Outfitted with open-lit hangar bays along its sides, it can deploy 36 fighter squadrons, heavy shuttles, and full ground armies. Its powerful deflector shield system (45,000 rating, 1,000 recharge/turn) and 35,000 ion capacitance make it nearly indestructible under conventional assault. Its enhanced passenger capacity supports dignitaries, high command staff, and the Imperial court.
+
+The Phoenix doesn’t merely hold the line — it defines the line.
+
+# 🎨 Monarch-Class Dreadnought Liveries
+
+| Livery Name       | Description                                         | Role                                  |
+|-------------------|-----------------------------------------------------|---------------------------------------|
+| Crownfire         | Steel-blue with radiant golden bridge plating      | Royal command flagship                |
+| Ash Imperium      | Matte obsidian with red sensor nodes               | Battlefield dominance                 |
+| Sovereign Sun     | Polished white hull with black and gold inlays     | Parade and ceremonial variant         |
+| Infernal Majesty  | Deep crimson with glowing ventral engine veins     | Psychological warfare strike leader   |
+| Heir of Fire      | Burnished brass armor with glowing blue drives     | Mythical heirloom dreadnought styling |
+
+# 🛡️ Monarch-Class Dreadnought (Phoenix) Stat Sheet (Markdown)
+
+| Attribute            | Value |
+|----------------------|-------|
+| **Length**           | 6,000 meters |
+| **Cargo Capacity**   | 3,600,000 tons |
+| **Cargo Volume**     | 1,350,000 cubic meters |
+| **Hull Strength**    | 40,000 |
+| **Deflector Shields**| 45,000 (Recharge 1,000 per turn) |
+| **Ionic Capacitance**| 35,000 |
+| **Hyperspeed Multiplier** | 1.75x |
+| **Sublight Speed**   | 40 MGLT |
+| **Manoeuvrability**  | 2 |
+| **Crew**             | 15,000 |
+| **Troopers**         | 40,000 |
+| **Passengers**       | 1,000 |
+| **Squadrons**        | 36 |
+| **Shuttles**         | 40 |
+| **Ground Vehicles**  | 36 |
+| **Heavy Ground Vehicles** | 24 |
+| **Planetary Landing**| No |
+| **Docking Bay**      | Yes (Open Hangar Bays on Both Sides) |
+| **Cloaking Device**  | No |
+| **Laser Cannons**    | 100 |
+| **Heavy Lasers**     | 50 |
+| **Turbolasers**      | 200 |
+| **Missile Launchers**| 40 (1,200 missiles) |
+| **Ion Cannons**      | 0 |
+| **Ion Batteries**    | 120 |
+| **Sensors**          | 20 |
+| **Jammers**          | 20 |
+| **Tractor Beams**    | 20 |
+| **Gravity Well Generator** | 0 |
+
+================================================================================
+
+== 🛡️ Monarch-Class Dreadnought (Phoenix) Stat Sheet (Wikitext) ==
+
+{| class="wikitable sortable"
+! Attribute !! Value
+|-
+| Length || 6,000 meters
+|-
+| Cargo Capacity || 3,600,000 tons
+|-
+| Cargo Volume || 1,350,000 cubic meters
+|-
+| Hull Strength || 40,000
+|-
+| Deflector Shields || 45,000 (Recharge 1,000 per turn)
+|-
+| Ionic Capacitance || 35,000
+|-
+| Hyperspeed Multiplier || 1.75x
+|-
+| Sublight Speed || 40 MGLT
+|-
+| Manoeuvrability || 2
+|-
+| Crew || 15,000
+|-
+| Troopers || 40,000
+|-
+| Passengers || 1,000
+|-
+| Squadrons || 36
+|-
+| Shuttles || 40
+|-
+| Ground Vehicles || 36
+|-
+| Heavy Ground Vehicles || 24
+|-
+| Planetary Landing || No
+|-
+| Docking Bay || Yes (Open Hangar Bays on Both Sides)
+|-
+| Cloaking Device || No
+|-
+| Laser Cannons || 100
+|-
+| Heavy Lasers || 50
+|-
+| Turbolasers || 200
+|-
+| Missile Launchers || 40 (1,200 missiles)
+|-
+| Ion Cannons || 0
+|-
+| Ion Batteries || 120
+|-
+| Sensors || 20
+|-
+| Jammers || 20
+|-
+| Tractor Beams || 20
+|-
+| Gravity Well Generator || 0
+|}
+================================================================================

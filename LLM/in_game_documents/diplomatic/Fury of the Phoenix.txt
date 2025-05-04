@@ -1,0 +1,12 @@
+---
+source: c:\EOTIR\EOTIR RPG\Protocols\Fury of the Phoenix.docx
+category: in_game_documents/diplomatic
+title: Word Document
+modified: 2025-05-03 22:31:43+00:00
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:43.724987
+---
+
+The Fury of the Phoenix
+Defense Protocol D517434
+In the event that His Royal Highness the Supreme Ruler of the Imperial Republic, Supreme Commander of the Imperial Republic Armed Forces, while aboard the Monarch-class Sovereign BattleCruiser Phoenix. should order that the Critical Radiance superweapon onboard by Supreme Command, fire upon any target, an encoded message shall be sent as an alert to all commands “The Fury of the Phoenix”, upon receipt which the commanding officers of all fleets, task forces or battlegroups, shall respond with their full name and rank in similar encoded messages back to the Phoenix acknowledging. However, should the Supreme Ruler exercise Executive Privilege and waive (or in effect, cancel) the alert to all commands, no such protocol shall be followed. The command and control computer aboard the Phoenix shall verify the Supreme Ruler’s orders by verifying his physical identity and ultimate authorization codes, all of which are hard-coded and cannot be changed. 

@@ -1,0 +1,16 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\HTML.CustomDoctype.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.509979
+---
+
+HTML.CustomDoctype
+TYPE: string/null
+VERSION: 2.0.1
+DEFAULT: NULL
+--DESCRIPTION--
+
+A custom doctype for power-users who defined their own document
+type. This directive only applies when %HTML.Doctype is blank.
+--# vim: et sw=4 sts=4

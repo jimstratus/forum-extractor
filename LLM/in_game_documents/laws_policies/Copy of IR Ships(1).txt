@@ -1,0 +1,315 @@
+---
+source: c:\EOTIR\EOTIR Novels\Reference\Copy of IR Ships(1).xlsx
+category: in_game_documents/laws_policies
+sheets: ['Capital', 'Special', 'Utility', 'Fighters', 'Maneuverability', 'Complements', 'Lines', 'Fleets', 'Fleet List', 'Weapons Damage', 'HS']
+source_type: EOTIR Novels
+extraction_date: 2025-05-03T15:30:32.033728
+---
+
+--- Sheet: Capital ---
+
+                      Unnamed: 0       Battleships        Unnamed: 2          Cruisers        Unnamed: 4          Frigates        Unnamed: 6        Unnamed: 7      Interdictors
+                             NaN               DCB               PCB               OCC               GCC              ACRF               ACF               ICF               SCI
+                         General               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                      Class Name          Defender         Protector             Omega             Gamma          Ambusher            Amauta          Intruder         Sovereign
+                    Length (m):               2000              1200               900               750               600               600               400               600
+         Cargo capacity (tons):            1800000           1000000            500000            375000            200000            200000            100000            100000
+             Cargo volume (m3):             675000            400000            200000            150000            120000            120000             80000             80000
+                          Hull:              25000             15000             11250              9000              7500              7500              5000              7500
+             Deflector Shields:              22000             12500              9500              8000              7500              6250              4000              9000
+Shields Recharge Rate (per turn)               700               400               350               325               325               250               200               325
+               Ionic Capacitance             17000             10000              4500              3750              3000              3000              2000              3000
+        Hyperspeed (mutiplier):                1.5               1.5               1.5               1.5              1.25              1.25              1.25              1.25
+         Sublight Speed (MGLT):                 50                50                60                60                70                70                70                70
+               Manoeuvrability:                  3                 4                 4                 5                 5                 5                 6                 5
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                         Weapons               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                 Laser cannons:                 50                20                30                30                20                30                20                30
+                  Heavy Lasers:                  0                20                20                20                20                30                20                 0
+                   Turbolasers:                100                50                30                20                10                15                10                20
+                     Launchers:                 20                20                15                10                 5                 5                 5                10
+                    Ammunition:                600               400               300               200               100               100                80               150
+                Ammunition type:          Missiles          Missiles          Missiles          Missiles          Missiles          Missiles          Missiles          Missiles
+                   Ion Cannons:                  0                 0                 0                 0                10                10                 5                 5
+                 Ion Batteries:                 60                30                20                15                10                10                 5                10
+                 Tractor Beams:                 15                10                 8                 8                 3                 4                 4                 4
+         Gravity well generators                 0                 0                 0                 0                 0                 0                 0                 6
+                       Sensors:                 10                 8                 7                 6                 6                 5                 4                 5
+                       Jammers:                 10                 8                 7                 6                 6                 5                 4                 5
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                         Special               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                   Docking bay:                Yes               Yes               Yes               Yes               Yes               Yes               Yes               Yes
+                Cloaking device:                No                No                No                No                No                No                No                No
+              Planetary landing:                No                No                No               Yes               Yes               Yes               Yes                No
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+              Typical Complement               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                           Crew:              5600              4000              2500              2000              1200              1200               800              1300
+                      Squadrons:                18                10                 8                 6                 5                 5                 3                 3
+                       Shuttles:                20                10                 8                 6                 4                 4                 3                 3
+                Ground Vehicles:                18                 8                 6                 4                 3                 3                 2                 0
+          Heavy Ground Vehicles:                12                 6                 4                 3                 1                 1                 0                 0
+                       Troopers:             20000             10000              5000              3500              1500              1500               500               100
+                     Passengers:               200               100                50                35                15                15                10                15
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                   Affiliation:  Imperial Republic Imperial Republic Imperial Republic Imperial Republic Imperial Republic Imperial Republic Imperial Republic Imperial Republic
+
+--- Sheet: Special ---
+
+                      Unnamed: 0        Unnamed: 1        Unnamed: 2       Battleships        Unnamed: 4          Cruisers        Unnamed: 6          Frigates        Unnamed: 8
+                             NaN              MCSB               NaN               OCB               NaN               NaN               NaN               NaN               NaN
+                         General               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                      Class Name           Monarch               NaN          OVERMIND               NaN               NaN               NaN               NaN               NaN
+                    Length (m):               6000               NaN              2200               NaN               NaN               NaN               NaN               NaN
+         Cargo capacity (tons):            3600000               NaN           2000000               NaN               NaN               NaN               NaN               NaN
+             Cargo volume (m3):            1350000               NaN            800000               NaN               NaN               NaN               NaN               NaN
+                          Hull:              40000               NaN             30000               NaN               NaN               NaN               NaN               NaN
+             Deflector Shields:              45000               NaN             28000               NaN               NaN               NaN               NaN               NaN
+Shields Recharge Rate (per turn)              1000               NaN               850               NaN               NaN               NaN               NaN               NaN
+               Ionic Capacitance             35000               NaN             20000               NaN               NaN               NaN               NaN               NaN
+        Hyperspeed (mutiplier):               1.75               NaN               1.5               NaN               NaN               NaN               NaN               NaN
+         Sublight Speed (MGLT):                 40               NaN                50               NaN               NaN               NaN               NaN               NaN
+               Manoeuvrability:                  2               NaN               3.5               NaN               NaN               NaN               NaN               NaN
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                         Weapons               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                 Laser cannons:                100               NaN                50               NaN               NaN               NaN               NaN               NaN
+                  Heavy Lasers:                 50               NaN                50               NaN               NaN               NaN               NaN               NaN
+                   Turbolasers:                200               NaN               150               NaN               NaN               NaN               NaN               NaN
+                     Launchers:                 40               NaN                30               NaN               NaN               NaN               NaN               NaN
+                    Ammunition:               1200               NaN               800               NaN               NaN               NaN               NaN               NaN
+                Ammunition type:          Missiles          Missiles          Missiles          Missiles          Missiles          Missiles          Missiles          Missiles
+                   Ion Cannons:                  0               NaN                 0               NaN               NaN               NaN               NaN               NaN
+                 Ion Batteries:                120               NaN                80               NaN               NaN               NaN               NaN               NaN
+                 Tractor Beams:                 20               NaN                16               NaN               NaN               NaN               NaN               NaN
+         Gravity well generators                 0               NaN                 0               NaN               NaN               NaN               NaN               NaN
+                       Sensors:                 20               NaN                15               NaN               NaN               NaN               NaN               NaN
+                       Jammers:                 20               NaN                15               NaN               NaN               NaN               NaN               NaN
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                         Special               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                   Docking bay:                Yes               NaN               Yes               NaN               NaN               NaN               NaN               NaN
+                Cloaking device:                No               NaN                No               NaN               NaN               NaN               NaN               NaN
+              Planetary landing:                No               NaN                No               NaN               NaN               NaN               NaN               NaN
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+              Typical Complement               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                           Crew:             15000               NaN              6000               NaN               NaN               NaN               NaN               NaN
+                      Squadrons:                36               NaN                25               NaN               NaN               NaN               NaN               NaN
+                       Shuttles:                40               NaN                25               NaN               NaN               NaN               NaN               NaN
+                Ground Vehicles:                36               NaN                22               NaN               NaN               NaN               NaN               NaN
+          Heavy Ground Vehicles:                24               NaN                15               NaN               NaN               NaN               NaN               NaN
+                       Troopers:             40000               NaN             25000               NaN               NaN               NaN               NaN               NaN
+                     Passengers:               500               NaN               300               NaN               NaN               NaN               NaN               NaN
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN
+                   Affiliation:  Imperial Republic Imperial Republic Imperial Republic Imperial Republic Imperial Republic Imperial Republic Imperial Republic Imperial Republic
+
+--- Sheet: Utility ---
+
+                      Unnamed: 0           Medical        Unnamed: 2          Tranport        Unnamed: 4        Unnamed: 5          Shuttles        Unnamed: 7        Army ships        Unnamed: 9        Unnamed: 10       Unnamed: 11  Unnamed: 12  Unnamed: 13  Unnamed: 14  Unnamed: 15
+                             NaN              NCHC              CCMF              HCBC              PCBC              DCBC               OCS               LCS              ECTC              DCDS               MCLS              SCAS          NaN          NaN          NaN          NaN
+                         General               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN                NaN               NaN          NaN          NaN          NaN          NaN
+                      Class Name       Nightingale         Curandero             Horus           Phoenix         Dragonfly             Omega            Lambda           Epsilon           Descent            Morinda             Sigma          NaN          NaN          NaN          NaN
+                    Length (m):                750               400               900               750               400                20                20               NaN               NaN                 60                30          NaN Speeder bike          NaN        2.400
+         Cargo capacity (tons):             375000            100000            700000            450000            120000                14                 8               NaN               NaN                NaN                25          NaN        20 SB          NaN       48.000
+             Cargo volume (m3):             150000             80000            280000            180000             96000                60                50               NaN               NaN                350               120          NaN          NaN          NaN          NaN
+                          Hull:               9000              5000             11250              9000              5000               250               250               NaN               NaN                NaN               450          NaN      Soldier          NaN        1.536
+             Deflector Shields:               8000              5000              6000              5000              3000               250               400               NaN               NaN                NaN               600          NaN  40 Soldiers          NaN       61.440
+Shields Recharge Rate (per turn)               350               250               200               200               125                20                20               NaN               NaN                NaN                30          NaN 160 Soldiers          NaN      245.760
+               Ionic Capacitance              3750              2000              4500              3750              2000               180               180               NaN               NaN                NaN               250          NaN          NaN          NaN          NaN
+        Hyperspeed (mutiplier):                1.5              1.25                 2                 2                 2                 1              0.75               NaN               NaN                NaN               1.5          NaN          NaN          NaN          NaN
+         Sublight Speed (MGLT):                 60                70                50                50                60                80                90               NaN               NaN                NaN                90          NaN          NaN          NaN          NaN
+               Manoeuvrability:                  5                 6                 3                 4                 5                 7                 8               NaN               NaN                NaN                 7          NaN          NaN          NaN          NaN
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN                NaN               NaN          NaN          NaN          NaN          NaN
+                         Weapons               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN                NaN               NaN          NaN          NaN          NaN          NaN
+                 Laser cannons:                 20                10                20                10                10                 2                 2               NaN               NaN                NaN                 4          NaN          NaN          NaN          NaN
+                  Heavy Lasers:                 10                10                10                10                 0                 4                 4               NaN               NaN                NaN                 6          NaN          NaN          NaN          NaN
+                   Turbolasers:                 10                 5                10                 5                 5                 0                 0               NaN               NaN                NaN                 0          NaN          NaN          NaN          NaN
+                     Launchers:                  5                 0                 5                 5                 5                 2                 2               NaN               NaN                NaN                 0          NaN          NaN          NaN          NaN
+                    Ammunition:                100                 0                80                60                40                20                10               NaN               NaN                NaN                 0          NaN          NaN          NaN          NaN
+                Ammunition type:          Missiles               NaN          Missiles          Missiles          Missiles          Missiles          Missiles               NaN               NaN                NaN                 0          NaN          NaN          NaN          NaN
+                   Ion Cannons:                  0                 5                 0                 0                 0                 0                 0               NaN               NaN                NaN                 0          NaN          NaN          NaN          NaN
+                 Ion Batteries:                  5                 5                 0                 0                 0                 0                 0               NaN               NaN                NaN                 0          NaN          NaN          NaN          NaN
+                 Tractor Beams:                  4                 2                 4                 3                 2                 1                 1               NaN               NaN                NaN                 1          NaN          NaN          NaN          NaN
+         Gravity well generators                 0                 0                 0                 0                 0                 0                 0               NaN               NaN                NaN                 0          NaN          NaN          NaN          NaN
+                       Sensors:                  6                 4                 7                 6                 4                 2                 3               NaN               NaN                NaN                 2          NaN          NaN          NaN          NaN
+                       Jammers:                  6                 4                 7                 6                 4                 2                 3               NaN               NaN                NaN                 2          NaN          NaN          NaN          NaN
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN                NaN               NaN          NaN          NaN          NaN          NaN
+                         Special               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN                NaN               NaN          NaN          NaN          NaN          NaN
+                   Docking bay:                Yes               Yes               Yes               Yes               Yes                No                No                No                No                 No                No          NaN          NaN          NaN          NaN
+                Cloaking device:                No                No                No                No                No                No                No                No                No                 No                No          NaN          NaN          NaN          NaN
+              Planetary landing:               Yes               Yes                No               Yes               Yes               Yes               Yes               Yes               Yes                Yes               Yes          NaN          NaN          NaN          NaN
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN                NaN               NaN          NaN          NaN          NaN          NaN
+              Typical Complement               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN                NaN               NaN          NaN          NaN          NaN          NaN
+                           Crew:              3000              1200              1500              1200               700                 3                 3               NaN               NaN                 12                 4          NaN          NaN          NaN          NaN
+                      Squadrons:                 2                 1                 0                 0                 0                 0                 0               NaN               NaN                NaN                 0          NaN          NaN          NaN          NaN
+                       Shuttles:                12                 6                 8                 6                 3                 0                 0               NaN               NaN                NaN                 0          NaN          NaN          NaN          NaN
+                Ground Vehicles:                 2                 1                 2                 2                 1                 0                 0               NaN               NaN                NaN                 0          NaN          NaN          NaN          NaN
+          Heavy Ground Vehicles:                 0                 0                 0                 0                 0                 0                 0               NaN               NaN                NaN                 0          NaN          NaN          NaN          NaN
+                       Troopers:               500               200               300               200               100                 0                 0               NaN               NaN                NaN                 0          NaN          NaN          NaN          NaN
+                     Passengers:               750               400                90                75                40                20                10             10000               NaN                160                80          NaN          NaN          NaN          NaN
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN                NaN               NaN          NaN          NaN          NaN          NaN
+                   Affiliation:  Imperial Republic Imperial Republic Imperial Republic Imperial Republic Imperial Republic Imperial Republic Imperial Republic Imperial Republic Imperial Republic  Imperial Republic Imperial Republic          NaN          NaN          NaN          NaN
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN                NaN               NaN          NaN          NaN          NaN          NaN
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN                NaN               NaN          NaN          NaN          NaN          NaN
+                             NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN               NaN Plus Speeder bikes               NaN          NaN          NaN          NaN          NaN
+
+--- Sheet: Fighters ---
+
+ Enhanced Impulse Drive - Series             Fighters        Unnamed: 2              Bombers           Unnamed: 4            Scouts        Unnamed: 6        Unnamed: 7
+                             NaN            EID-Eagle        EID-Falcon           EID-Hammer         EID-Scimitar       EID-Tracker         EID-Ghost        EID-Seeker
+                         General                  NaN               NaN                  NaN                  NaN               NaN               NaN               NaN
+                      Class Name                Eagle            Falcon               Hammer             Scimitar           Tracker             Ghost            Seeker
+                    Length (m):                    16                12                   17                   12                15                15                12
+         Cargo capacity (tons):                     8                 5                   10                    8                 6                 6                 4
+             Cargo volume (m3):                     5                 4                    5                    4                 5                 5                 4
+                          Hull:                   160               120                  170                  120               150               150               120
+             Deflector Shields:                   200               150                  200                  150               200               200               150
+Shields Recharge Rate (per turn)                   20                15                   20                   15                20                20                15
+               Ionic Capacitance                  120                90                  130                   90               110               110                90
+        Hyperspeed (mutiplier):                     1                 1                    1                    1                 1                 1                 1
+         Sublight Speed (MGLT):                   130               120                  120                  110               120               120               130
+               Manoeuvrability:                    11                12                    8                    9                 9                 9                10
+                             NaN                  NaN               NaN                  NaN                  NaN               NaN               NaN               NaN
+                         Weapons                  NaN               NaN                  NaN                  NaN               NaN               NaN               NaN
+                 Laser cannons:                     4                 2                    2                    2                 2                 2                 2
+                  Heavy Lasers:                     2                 2                    4                    4                 2                 0                 0
+                   Turbolasers:                     0                 0                    0                    0                 0                 0                 0
+                     Launchers:                     2                 2                    4                    2                 2                 2                 2
+                    Ammunition:                    30                20                   40                   30                20                10                10
+               Ammunition type:  Missiles / Torpedoes          Missiles Missiles / Torpedoes Missiles / Torpedoes          Missiles          Missiles          Missiles
+                   Ion Cannons:                     4                 2                    4                    2                 2                 2                 2
+                 Ion Batteries:                     0                 0                    0                    0                 0                 0                 0
+                 Tractor Beams:                     1                 0                    1                    0                 0                 0                 0
+         Gravity well generators                    0                 0                    0                    0                 0                 0                 0
+                       Sensors:                     1                 1                    1                    1                 3                 3                 2
+                       Jammers:                     1                 1                    1                    1                 3                 3                 2
+                             NaN                  NaN               NaN                  NaN                  NaN               NaN               NaN               NaN
+                         Special                  NaN               NaN                  NaN                  NaN               NaN               NaN               NaN
+                   Docking bay:                    No                No                   No                   No                No                No                No
+                Cloaking device:                   No                No                   No                   No                No               Yes                No
+              Planetary landing:                  Yes               Yes                  Yes                  Yes               Yes               Yes               Yes
+                             NaN                  NaN               NaN                  NaN                  NaN               NaN               NaN               NaN
+              Typical Complement                  NaN               NaN                  NaN                  NaN               NaN               NaN               NaN
+                           Crew:                    2                 1                    2                    1                 2                 2                 1
+                      Squadrons:                    0                 0                    0                    0                 0                 0                 0
+                       Shuttles:                    0                 0                    0                    0                 0                 0                 0
+                Ground Vehicles:                    0                 0                    0                    0                 0                 0                 0
+          Heavy Ground Vehicles:                    0                 0                    0                    0                 0                 0                 0
+                       Troopers:                    0                 0                    0                    0                 0                 0                 0
+                     Passengers:                    0                 0                    0                    0                 0                 0                 0
+                             NaN                  NaN               NaN                  NaN                  NaN               NaN               NaN               NaN
+                   Affiliation:     Imperial Republic Imperial Republic    Imperial Republic    Imperial Republic Imperial Republic Imperial Republic Imperial Republic
+
+--- Sheet: Maneuverability ---
+
+ Unnamed: 0      Unnamed: 1  Unnamed: 2
+        NaN             NaN         NaN
+        NaN             NaN         NaN
+        NaN Maneuverability Radius (km)
+        NaN               1        1000
+        NaN               2         250
+        NaN               3  111.111111
+        NaN               4        62.5
+        NaN               5          40
+        NaN               6   27.777778
+        NaN               7   20.408163
+        NaN               8      15.625
+        NaN               9   12.345679
+        NaN              10          10
+        NaN              11    8.264463
+        NaN              12    6.944444
+        NaN              13     5.91716
+        NaN              14    5.102041
+        NaN              15    4.444444
+        NaN              16     3.90625
+        NaN              17    3.460208
+        NaN              18     3.08642
+        NaN              19    2.770083
+        NaN              20         2.5
+
+--- Sheet: Complements ---
+
+      Unnamed: 0 Battleships Unnamed: 2 Cruisers Unnamed: 4 Frigates Unnamed: 6 Unnamed: 7 Interdictors Medical Unnamed: 10
+             NaN         DCB        PCB      OCC        GCC     ACRF        ACF        ICF          SCI    NCHC        CCMF
+Total Complement          18         10        8          6        5          5          3            3       2           1
+       EID-Eagle           4          2        1          1        1          1          1            1     NaN         NaN
+      EID-Falcon           6          3        3          2        1          2          2            2       2           1
+      EID-Hammer           3          2        1          1      NaN        NaN        NaN          NaN     NaN         NaN
+    EID-Scimitar           2          1        1          1      NaN          1        NaN          NaN     NaN         NaN
+     EID-Tracker           1        NaN        1        NaN        1        NaN        NaN          NaN     NaN         NaN
+       EID-Ghost           1          1      NaN        NaN        1        NaN        NaN          NaN     NaN         NaN
+      EID-Seeker           1          1        1          1        1          1        NaN          NaN     NaN         NaN
+             NaN         NaN        NaN      NaN        NaN      NaN        NaN        NaN          NaN     NaN         NaN
+             NaN          18         10        8          6        5        NaN          3            3     NaN         NaN
+             NaN          OK         OK       OK         OK       OK        NaN         OK           OK     NaN         NaN
+
+--- Sheet: Lines ---
+
+              Unnamed: 0 Battleships Unnamed: 2 Cruisers Unnamed: 4 Frigates Unnamed: 6 Unnamed: 7 Interdictors Medical Unnamed: 10
+                     NaN         DCB        PCB      OCC        GCC     ACRF        ACF        ICF          SCI    NCHC        CCMF
+Heavy Assault Line (HAL)           4        NaN        4        NaN      NaN          4        NaN          NaN     NaN         NaN
+       Assault Line (AL)         NaN          4      NaN          4      NaN        NaN          4          NaN     NaN         NaN
+        Strike Line (SL)         NaN        NaN        4          2      NaN          4          2          NaN     NaN         NaN
+  Interdiction Line (IL)         NaN        NaN        2          2      NaN        NaN          2            2     NaN         NaN
+         Recon Line (RL)         NaN        NaN      NaN          1        2          3          2          NaN     NaN         NaN
+       Medical Line (ML)         NaN        NaN      NaN        NaN      NaN        NaN        NaN          NaN     NaN         NaN
+       Utility Line (UL)         NaN        NaN      NaN        NaN      NaN        NaN        NaN          NaN     NaN         NaN
+                     NaN         NaN        NaN      NaN        NaN      NaN        NaN        NaN          NaN     NaN         NaN
+                     NaN           4          4       10          9        2        NaN         10            2     NaN         NaN
+                     NaN       #REF!      #REF!    #REF!      #REF!    #REF!        NaN      #REF!        #REF!     NaN         NaN
+
+--- Sheet: Fleets ---
+
+              Unnamed: 0 Royal Command         Heavy Assault      Heavy.1   Reinforced Sector Strike Recon Transport
+                     NaN Fleet   Fleet Assault Fleet   Fleet Sector Fleet Sector Fleet  Fleet  Fleet Fleet     Fleet
+Heavy Assault Line (HAL)     6       6             4       2            2            1      1    NaN   NaN       NaN
+       Assault Line (AL)     6       4             2       4            4            3      2      2   NaN       NaN
+        Strike Line (SL)     6       4             4       4            3            3      3      5     4         4
+  Interdiction Line (IL)     2       2             2       1            1            1    NaN      1   NaN       NaN
+         Recon Line (RL)     4       2             2       2            1            1      1      1     4       NaN
+       Medical Line (ML)   NaN     NaN           NaN     NaN          NaN          NaN    NaN    NaN   NaN       NaN
+       Utility Line (UL)     4       2             2       1            1            1      1      1     1         6
+                     NaN   NaN     NaN           NaN     NaN          NaN          NaN    NaN    NaN   NaN       NaN
+                     NaN    28      20           NaN     NaN           12          NaN      8     10     9        10
+                     NaN #REF!   #REF!           NaN     NaN        #REF!          NaN  #REF!  #REF! #REF!     #REF!
+             Total Lines    28      20            16      14           12           10      8     10     9        10
+
+--- Sheet: Fleet List ---
+
+Empty DataFrame
+Columns: []
+Index: []
+
+--- Sheet: Weapons Damage ---
+
+         Unnamed: 0 Hull/Shield  Ionic
+                NaN      Damage Damage
+    Laser cannons:           30      6
+     Heavy Lasers:           60     12
+      Turbolasers:          200     40
+   Proton Torpedoes         250     50
+Concussion Missiles         150     30
+                NaN         NaN    NaN
+      Ion Cannons:            6     30
+    Ion Batteries:           36    180
+
+--- Sheet: HS ---
+
+ Unnamed: 0                            Unnamed: 1  Unnamed: 2        Unnamed: 3  Unnamed: 4    Unnamed: 5
+        NaN                                   NaN         NaN               NaN         NaN           NaN
+        NaN Distance to be traveled (light-years)         NaN               NaN         NaN 100000.000000
+        NaN                 Hyperdrive multiplier         NaN               NaN         NaN      1.500000
+        NaN                                   NaN         NaN               NaN         NaN           NaN
+        NaN          Speed (light-years per hour)         NaN               NaN         NaN    184.237500
+        NaN      Time to reach destination (days)         NaN               NaN         NaN     22.615736
+        NaN                                   NaN         NaN               NaN         NaN           NaN
+        NaN                                   NaN         NaN               NaN         NaN           NaN
+        NaN                            Hyperdrive       Speed     Time to cross         NaN           NaN
+        NaN                            Multiplier        LYPH the Galaxy (days)         NaN           NaN
+        NaN                                  0.25  278.057813         14.984893         NaN           NaN
+        NaN                                   0.5    257.2125         16.199316         NaN           NaN
+        NaN                                  0.75  237.435937         17.548593         NaN           NaN
+        NaN                                     1       218.7         19.051974         NaN           NaN
+        NaN                                  1.25  200.976562         20.732102         NaN           NaN
+        NaN                                   1.5    184.2375         22.615736         NaN           NaN
+        NaN                                  1.75  168.454688         24.734644         NaN           NaN
+        NaN                                     2       153.6         27.126736         NaN           NaN
+        NaN                                     3       102.9         40.492387         NaN           NaN
+        NaN                                     4        64.8         64.300412         NaN           NaN

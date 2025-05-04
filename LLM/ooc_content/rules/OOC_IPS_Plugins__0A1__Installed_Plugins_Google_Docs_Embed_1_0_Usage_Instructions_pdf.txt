@@ -1,0 +1,26 @@
+ 
+Google Docs Embed 1.0 for IPS4 
+Usage instructions 
+ 
+In order to embed a document it’s very important that you don’t use the URL from the address bar. Nothing at all will happen if you 
+try to use that. Instead you’ll have to publish the document by following the steps below. These steps are the same for 
+spreadsheets, documents and presentations. 
+ 
+1. 
+ 
+ 
+2. 
+ 
+ 
+   
+ 
+ 
+ 
+3. 
+ 
+ 
+The link you get inside the red box is the one you want to paste in the editor. 
+ 
+The result will look like this: 
+ 
+

@@ -1,0 +1,13 @@
+---
+source: c:\EOTIR\EOTIR RPG\Scenarios\Scenario Directory.xlsx
+category: narratives/completed_scenarios
+sheets: ['Sheet1']
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:45.332661
+---
+
+--- Sheet: Sheet1 ---
+
+Empty DataFrame
+Columns: [Name of Scenario, Scenario Number, Beginning Year , Scenario Type, Primary Author, Moderator, Location 1, Forum URL, Key Contributors, Additional Contributors]
+Index: []

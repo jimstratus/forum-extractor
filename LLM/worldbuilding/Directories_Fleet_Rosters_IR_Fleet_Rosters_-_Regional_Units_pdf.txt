@@ -1,0 +1,15 @@
+#OVERSECTOR Sector/Location Name Fleet Size Commanding Officer Flagship Reports To Regional Shipyard Unit Alert Status
+8CORUSCANT Coruscant Capital Defense Fleet HSF Admiral Iverson Diligent Bessimir Shipyards (IR built)
+9CORUSCANT Anaxes Azure 1st Fleet RSF Vice Admiral Kateely Amber Moff of Coruscant Bessimir Shipyards (IR built)
+10KUAT Kuat (12th) Kuat Naval Guard RSF Commodore Sympson Greatest Knight HRH Prince Regent of Kuat KDY Shipyards
+11BRIGHT JEWEL Contrumm (7th) Jewel Protection Fleet SF Rear Admiral Cecil Obrian Prince's Jewel Contrumm Shipyard/Mon Calamari
+12OUTER Sluis Van 2nd Patrol Fleet SF Commodore Halcyon Concordia Sluis Van/Sullust Shipyards
+13MID RIM Bothawui (3rd) Rim Patrol Fleet SF Rear Admiral Cropper Marcetavria Grand Admiral Quinn Bothawui Shipyards
+14DEEP CORE Byss (4th) Core Patrol Fleet RSF Vice Admiral Deaton Core Defender Grand Admiral Quinn Byss Shipyards
+15CORE WORLDS Fondor (11th) Fondor Task Force HSF Grand Admiral Quinn Tiger Claw Grand Admiral Quinn [1] Fondor/Tallaani Shipyards
+16QUELLI/BRAXANT Bastion (5th) Tingel Arm Patrol Fleet RSF Admiral Epperson Protector HRH Princess Ashlee Yaga Minor Shipyards
+17CORELLIA Corellia (6th) Corellian Sector Fleet SF Vice Admiral Barton Last Chance HG Grand Duke CEC/Rendili Shipyards
+18OUTLAW Kashyyk (9th) Kashyyk Battle Group HSF Rear Admiral Atherton Hrrtayyk Grand Admiral Taftican Mid Rim Deep Space (IR Built)/Mon Calamari
+19UNKNOWN Bilbringi 8th Patrol Fleet RSF Commodore Gourdine Manticore Grand Admiral Lightstar Bilbringi Shipyards
+20HAPES CLUSTER Hapes Cluster (10th) Royal Hapan Fleet HSF Admiral LeMarre Majestic HM Queen of Hapes Lorell/Hapes Prime Shipyards
+[1] LOA - current commander Marshall Quinn

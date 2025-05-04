@@ -1,0 +1,13 @@
+2025-05-03 19:05:51,711 - INFO - Scraping forum: https://nexus.eotir.com/forum/59-red-scenario/
+2025-05-03 19:05:51,712 - INFO - This is a placeholder. The actual implementation would scrape the forum and extract scenarios.
+2025-05-03 19:05:51,722 - INFO - Saved scenario to Scenarios\Red_Scenario\34_IRY\Sample_Scenario_[34_IRY].md
+2025-05-03 19:05:51,723 - INFO - Scraping forum: https://nexus.eotir.com/forum/6-palace-situation-room/
+2025-05-03 19:05:51,723 - INFO - This is a placeholder. The actual implementation would scrape the forum and extract scenarios.
+2025-05-03 19:05:51,725 - INFO - Saved scenario to Scenarios\Red_Scenario\34_IRY\Sample_Scenario_[34_IRY].md
+2025-05-03 19:05:51,735 - INFO - Scraping forum: https://nexus.eotir.com/forum/69-blue-scenario/
+2025-05-03 19:05:51,736 - INFO - This is a placeholder. The actual implementation would scrape the forum and extract scenarios.
+2025-05-03 19:05:51,738 - INFO - Saved scenario to Scenarios\Red_Scenario\34_IRY\Sample_Scenario_[34_IRY].md
+2025-05-03 19:05:51,738 - INFO - Extraction complete
+2025-05-03 19:05:51,738 - INFO - https://nexus.eotir.com/forum/59-red-scenario/: Success
+2025-05-03 19:05:51,738 - INFO - https://nexus.eotir.com/forum/6-palace-situation-room/: Success
+2025-05-03 19:05:51,739 - INFO - https://nexus.eotir.com/forum/69-blue-scenario/: Success

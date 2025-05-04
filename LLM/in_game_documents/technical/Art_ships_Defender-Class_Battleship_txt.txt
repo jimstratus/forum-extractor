@@ -1,0 +1,123 @@
+
+# 🛡️ Defender-Class Battleship (DCB) Overview
+
+The Defender-class Battleship (designation DCB) is the Imperial Republic’s primary line battleship and strategic command platform — a direct rival to the infamous Imperial-class Star Destroyer in both scale and capability.
+
+Measuring a staggering 2,000 meters in length, the Defender is built around overwhelming firepower, long-term battlefield endurance, and force projection. Its sleek dagger-shaped hull houses over 100 turbolasers, 50 laser cannons, 60 ion batteries, and 20 missile launchers, providing devastating long-range and anti-capital ship capabilities.
+
+Its carrying capacity is equally formidable: capable of housing 20,000 troopers, 18 squadrons of starfighters, 20 shuttles, and an armored division’s worth of ground vehicles. This makes it ideal for both fleet command and planetary occupation operations.
+
+The Defender’s powerful shield grid and hardened hull allow it to hold the line during major fleet actions, while its complement of 10 jammers, 10 sensors, and 15 tractor beams provide a robust electronic warfare and capture suite.
+
+Defenders are often the centerpiece of Republic battlegroups — known as Iron Triads — and serve as command ships, planetary blockade enforcers, and symbols of Imperial strength and stability across the stars.
+
+# 🎨 Defender-Class Battleship Color Schemes
+
+| Livery Name          | Color Scheme Description                        | Role                                |
+|-----------------------|--------------------------------------------------|-------------------------------------|
+| Iron Mantle           | Steel-gray hull with black undercarriage plating | Standard fleet warship              |
+| Royal Aegis           | Polished silver with deep blue dorsal highlights | Honor guard and ceremonial flagship |
+| Bloodline             | Matte charcoal with dark crimson panel etching   | Veteran campaigner class             |
+| Storm Sovereign       | White-grey hull with blue engine clusters        | Capital blockade and interdiction   |
+| Eclipse Vanguard      | Midnight black with amber exhaust trails         | Elite assault command formation      |
+
+# 🛡️ Defender-Class Battleship (DCB) Stat Sheet (Markdown)
+
+| Attribute            | Value |
+|----------------------|-------|
+| **Length**           | 2,000 meters |
+| **Cargo Capacity**   | 1,800,000 tons |
+| **Cargo Volume**     | 675,000 cubic meters |
+| **Hull Strength**    | 25,000 |
+| **Deflector Shields**| 22,000 (Recharge 700 per turn) |
+| **Ionic Capacitance**| 17,000 |
+| **Hyperspeed Multiplier** | 1.50x |
+| **Sublight Speed**   | 50 MGLT |
+| **Manoeuvrability**  | 3 |
+| **Crew**             | 5,600 |
+| **Troopers**         | 20,000 |
+| **Passengers**       | 200 |
+| **Squadrons**        | 18 |
+| **Shuttles**         | 20 |
+| **Ground Vehicles**  | 18 |
+| **Heavy Ground Vehicles** | 12 |
+| **Planetary Landing**| No |
+| **Docking Bay**      | Yes |
+| **Cloaking Device**  | No |
+| **Laser Cannons**    | 50 |
+| **Heavy Lasers**     | 0 |
+| **Turbolasers**      | 100 |
+| **Missile Launchers**| 20 (600 missiles) |
+| **Ion Cannons**      | 0 |
+| **Ion Batteries**    | 60 |
+| **Sensors**          | 10 |
+| **Jammers**          | 10 |
+| **Tractor Beams**    | 15 |
+| **Gravity Well Generator** | 0 |
+
+================================================================================
+
+== 🛡️ Defender-Class Battleship (DCB) Stat Sheet (Wikitext) ==
+
+{| class="wikitable sortable"
+! Attribute !! Value
+|-
+| Length || 2,000 meters
+|-
+| Cargo Capacity || 1,800,000 tons
+|-
+| Cargo Volume || 675,000 cubic meters
+|-
+| Hull Strength || 25,000
+|-
+| Deflector Shields || 22,000 (Recharge 700 per turn)
+|-
+| Ionic Capacitance || 17,000
+|-
+| Hyperspeed Multiplier || 1.50x
+|-
+| Sublight Speed || 50 MGLT
+|-
+| Manoeuvrability || 3
+|-
+| Crew || 5,600
+|-
+| Troopers || 20,000
+|-
+| Passengers || 200
+|-
+| Squadrons || 18
+|-
+| Shuttles || 20
+|-
+| Ground Vehicles || 18
+|-
+| Heavy Ground Vehicles || 12
+|-
+| Planetary Landing || No
+|-
+| Docking Bay || Yes
+|-
+| Cloaking Device || No
+|-
+| Laser Cannons || 50
+|-
+| Heavy Lasers || 0
+|-
+| Turbolasers || 100
+|-
+| Missile Launchers || 20 (600 missiles)
+|-
+| Ion Cannons || 0
+|-
+| Ion Batteries || 60
+|-
+| Sensors || 10
+|-
+| Jammers || 10
+|-
+| Tractor Beams || 15
+|-
+| Gravity Well Generator || 0
+|}
+================================================================================

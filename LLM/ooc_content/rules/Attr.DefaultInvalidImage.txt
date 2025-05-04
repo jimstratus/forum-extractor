@@ -1,0 +1,16 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\Attr.DefaultInvalidImage.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.343572
+---
+
+Attr.DefaultInvalidImage
+TYPE: string
+DEFAULT: ''
+--DESCRIPTION--
+This is the default image an img tag will be pointed to if it does not have
+a valid src attribute.  In future versions, we may allow the image tag to
+be removed completely, but due to design issues, this is not possible right
+now.
+--# vim: et sw=4 sts=4

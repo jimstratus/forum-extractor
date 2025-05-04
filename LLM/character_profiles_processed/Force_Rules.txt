@@ -1,0 +1,59 @@
+# Character Profile: Force Rules
+
+**Generated:** 2025-05-03 16:42:40
+**Source Files:** 1
+
+
+## Source: Force Rules.txt
+
+---
+source: c:\EOTIR\EOTIR RPG\Rules\Force Rules.docx
+category: character_profiles
+title: Word Document
+modified: 2025-05-03 22:31:44+00:00
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:44.758022
+---
+
+Era of the Imperial Republic RPG | Force Rules
+FATE = Force Administration & Training Enforcement
+Force Rules Index
+FATE-001 - Force Sensitivity & Discovery
+FATE-002 - Force User Profiles
+FATE-003 - Force Training
+FATE-004 - Force Skills
+FATE-005 - Force Levels
+The Force Level system defines the ranks and progression of Force-sensitive individuals within the universe of the Imperial Republic. This structure provides clarity and consistency for roleplay, training, advancement, and classification of characters.
+🔮 Force Level Hierarchy
+🧠 Notes
+None: Cannot become Force-sensitive; biologically or spiritually inert to the Force.
+Potential: Often identified through testing or visions; eligibility for initiation.
+Novice: Beginning of formal training.
+Padawan: Paired with a mentor; often sent on supervised missions.
+Knight: Represents mastery of foundational Force techniques and combat readiness.
+Senior Knight: Optional honorific distinction for long-serving or decorated Knights.
+Master: May train others; holds leadership or advisory roles.
+Senior Master: Reserved for the most senior figures of the Order. This level is optional.
+Grand Master: Symbolic head of the Order. Typically, only one exists at a time.
+This system is faction-neutral but can be reskinned per tradition (e.g., Jedi/Sith variations).
+FATE-006 - Force Organized Traditions
+Rule # | Category | Description | URL | Approved
+FATE-001 | FATE | Force Sensitivity & Discovery
+FATE-002 | FATE | Force User Profiles
+FATE-003 | FATE | Force Training
+FATE-004 | FATE | Force Skills
+FATE-005 | FATE | Force Levels | https://nexus.eotir.com/topic/2771-force-levels-fate-005/
+FATE-006 | FATE | Force (Organized Traditions)
+Level | Title | Narrative Role
+0 | None | No Force sensitivity or affinity; cannot be trained
+1 | Potential | Latent Force affinity; eligible for testing or observation
+2 | Novice | Basic training; inducted into an Order but not yet apprenticed
+3 | Padawan | Direct tutelage under a Knight or Master
+4 | Knight | Fully trained; capable of acting independently
+5 | Senior Knight | Seasoned field agent; optional distinction for lore/records
+6 | Master | Mentor, councilor, or commander within the Order
+7 | Senior Master | Reserved for the elite few—optional if not in use
+8 | Grand Master | Symbolic and administrative leader of the entire Order
+
+--------------------------------------------------
+

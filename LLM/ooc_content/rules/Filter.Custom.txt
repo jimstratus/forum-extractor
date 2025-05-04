@@ -1,0 +1,18 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\Filter.Custom.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.473854
+---
+
+Filter.Custom
+TYPE: list
+VERSION: 3.1.0
+DEFAULT: array()
+--DESCRIPTION--
+<p>
+  This directive can be used to add custom filters; it is nearly the
+  equivalent of the now deprecated <code>HTMLPurifier-&gt;addFilter()</code>
+  method. Specify an array of concrete implementations.
+</p>
+--# vim: et sw=4 sts=4

@@ -1,0 +1,19 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\HTML.Parent.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.532674
+---
+
+HTML.Parent
+TYPE: string
+VERSION: 1.3.0
+DEFAULT: 'div'
+--DESCRIPTION--
+
+<p>
+    String name of element that HTML fragment passed to library will be
+    inserted in.  An interesting variation would be using span as the
+    parent element, meaning that only inline tags would be allowed.
+</p>
+--# vim: et sw=4 sts=4

@@ -1,0 +1,145 @@
+Imperial Republic Information Network (IRIN)
+
+
+
+Improvements and Change Drawing Board &
+
+ Thinking Center
+
+
+
+This page for ideas not yet implemented or assigned a PCR #
+
+Spreadsheet: http://bit.ly/IRINPCRs  and this page: http://bit.ly/IRINPCRNotepad 
+
+Concept TItle
+
+Concept details
+
+more details
+
+
+
+Awards Tracker https://docs.google.com/spreadsheets/d/1Db7PBZPn8uxjZo3EMuK1x1iokKYbK8GKd082ej59Ccc/edit 
+
+http://imperialrepublic.org/awards/ ← most awards are listed here (not all)
+
+Nominated by (Nomination for certain access level or award nominator=Y)
+
+Security Screened by [dept abbrev.]
+
+IRSB
+
+MCIS
+
+IRIS
+
+HMRG
+
+SSC
+
+Authorized by (user with admin level or award approver=Y)
+
+Issued by (anyone with nomination access once authorized)
+
+Issued date
+
+award ribbon image (if available)
+
+award medal image (if available)
+
+Awards Manager for admin level 2 and higher (add/remove awards to database table)
+
+
+
+IC Signature template
+
+rank name
+
+title1
+
+title2
+
+subdivision
+
+division
+
+award row 1
+
+award row 2
+
+award row 3
+
+
+
+Read-only Table integration from forum user data for display only on login for user (Forum info page)
+
+post count
+
+Force Sensitive (Y/N)
+
+Force Skill Level (see table)
+
+CYOB (IRY/UFY)
+
+E-mail used on form
+
+Primary Group?
+
+Credits/Money Total
+
+
+
+High Council voting system
+
+details to come
+
+
+
+Senate voting system
+
+details to come
+
+voting based on senator tied to character/player
+
+committee votes
+
+senate wide votes
+
+maybe iframe with a poll app like limesurvey or use own code
+
+
+
+
+
+
+
+Employee Record Files 
+
+to track missions etc for IRSB/IRIS/Military peeps; \
+
+track captaincy of ships
+
+or submitting employees for promotion consideration? 
+
+
+
+Civilian Spacecraft Registry
+
+list of registered personal spacecraft registered to the user
+
+
+
+We’ll keep a fleet roster outside of IRIN for IR ships and probably company ships too (Stratus Industries, Kuat Drive Yards, Corellian Shipyards, Katarn Industries, Koranchs Enterprises, etc.)
+
+
+
+Would be nice to have a main character profile and then secondary character profiles linked to it. For example a Lan Klone login profile with an Alexander Marcov and Terrisa Klone sub-profiles
+
+
+
+Not sure if it is possible, but a cipher/encryption type element to orders through IRIN might be fun/neat/cool
+
+
+
+Have mission/order authenticity codes with validation/dual validation codes to prove mission orders are legitimate

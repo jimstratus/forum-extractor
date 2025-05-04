@@ -1,0 +1,27 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\applications\core\data\defaults\Application.txt
+category: in_game_documents/intelligence
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:39.249152
+---
+
+<?php
+/**
+ * @brief		{subpackage} Application Class
+ * @author		<a href='{website}'>{author}</a>
+ * @copyright	(c) {year} {author}
+ * @package		Invision Community
+ * @subpackage	{subpackage}
+ * @since		{date}
+ * @version		
+ */
+ 
+namespace IPS\{app};
+
+/**
+ * {subpackage} Application Class
+ */
+class _Application extends \IPS\Application
+{
+	
+}

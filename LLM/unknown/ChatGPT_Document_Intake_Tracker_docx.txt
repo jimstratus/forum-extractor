@@ -1,0 +1,115 @@
+Document Intake Tracker (EOTIR)
+
+
+
+This tracker is designed to log and manage documents submitted for inclusion in the Era of the Imperial Republic (EOTIR) universe. It supports metadata tagging, categorization, review status, and integration readiness.
+
+
+
+---
+
+
+
+Document Metadata
+
+
+
+- **Title**: [Document Title]
+
+- **Submitted by**: [Author or User]
+
+- **Date Submitted**: [YYYY-MM-DD]
+
+- **Related Factions/Regions**: [Optional, e.g., "Terran Mandate", "Outer Colonies"]
+
+- **Document Type**: [e.g., Law, Journal Entry, Lore, Game Mechanic, NPC, Planet Profile]
+
+
+
+---
+
+
+
+Content Summary
+
+
+
+[Short summary of the document’s content and relevance]
+
+
+
+---
+
+
+
+Status Tracking
+
+
+
+| Field                      | Value                     |
+
+|---------------------------|---------------------------|
+
+| Canon Status              | Draft / Proposed / Canon  |
+
+| Reviewed By Loremasters   | Yes / No / In Progress    |
+
+| Editing Required          | Yes / No / Minor / Major  |
+
+| Linked in Nexus           | Yes / No                  |
+
+| Associated ClickUp Task   | [Task ID or Link]         |
+
+| Integration Notes         | [Internal notes on integration] |
+
+
+
+---
+
+
+
+Tags
+
+
+
+[List of searchable tags or keywords]
+
+
+
+---
+
+
+
+Comments & Discussion
+
+
+
+[Use this section for internal feedback or links to Nexus threads]
+
+
+
+---
+
+
+
+Revision History
+
+
+
+| Date       | Author        | Change Notes             |
+
+|------------|---------------|--------------------------|
+
+| YYYY-MM-DD | [Name]        | Initial submission       |
+
+
+
+---
+
+
+
+Attachments
+
+
+
+- [Link or embed reference files, images, or source material]

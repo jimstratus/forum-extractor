@@ -1,0 +1,125 @@
+
+# 🛡️ Peregrine-Class Frigate (PCF) Overview
+
+The Peregrine-Class Frigate (designation PCF) is the most agile and compact of the Republic’s frontline frigates, designed for rapid troop delivery, reconnaissance, and precision planetary insertions.
+
+At 400 meters, it is significantly smaller than the Vindicator and Hellfire classes, but its speed and flexibility make it invaluable for tactical operations requiring swift response.
+
+With a modest weapons suite — 20 laser cannons, 20 heavy lasers, and 10 turbolasers — the Peregrine is not intended to dominate in direct combat, but it is more than capable of protecting itself during hit-and-run missions or strike force deployments.
+
+Its high maneuverability, planetary landing capability, and internal capacity for troopers and vehicles allow it to deploy infiltration teams or secure beachheads for larger invasion forces.
+
+Peregrine-class vessels are commonly used by Marine Rapid Response Divisions and Special Operations Command, often deployed from capital ships to strike enemy holdings before main fleets arrive.
+
+Quiet, fast, and precise — the Peregrine is a scalpel where battleships are hammers.
+
+# 🎨 Peregrine-Class Frigate Liveries
+
+| Livery Name         | Color Scheme Description                       | Role                               |
+|----------------------|-------------------------------------------------|------------------------------------|
+| Ghost Talon          | Matte black hull with cobalt blue accents       | Stealth deployment variant         |
+| Silver Wing          | Bright silver with golden trim                 | Special operations honor escort    |
+| Ashblade             | Steel gray with crimson lines and flaring blue engines | Marine strike unit delivery        |
+| Dawn Striker         | Warm white with rust-orange vent glow          | Surface response and landing ship  |
+| Nightchaser          | Dark gray camo pattern with violet lights      | Rapid extraction and exfiltration  |
+
+# 🛡️ Peregrine-Class Frigate (PCF) Stat Sheet (Markdown)
+
+| Attribute            | Value |
+|----------------------|-------|
+| **Length**           | 400 meters |
+| **Cargo Capacity**   | 100,000 tons |
+| **Cargo Volume**     | 80,000 cubic meters |
+| **Hull Strength**    | 5,000 |
+| **Deflector Shields**| 4,000 (Recharge 200 per turn) |
+| **Ionic Capacitance**| 2,000 |
+| **Hyperspeed Multiplier** | 1.25x |
+| **Sublight Speed**   | 70 MGLT |
+| **Manoeuvrability**  | 6 |
+| **Crew**             | 800 |
+| **Troopers**         | 500 |
+| **Passengers**       | 10 |
+| **Squadrons**        | 3 |
+| **Shuttles**         | 3 |
+| **Ground Vehicles**  | 2 |
+| **Heavy Ground Vehicles** | 0 |
+| **Planetary Landing**| Yes |
+| **Docking Bay**      | Yes |
+| **Cloaking Device**  | No |
+| **Laser Cannons**    | 20 |
+| **Heavy Lasers**     | 20 |
+| **Turbolasers**      | 10 |
+| **Missile Launchers**| 5 (80 missiles) |
+| **Ion Cannons**      | 5 |
+| **Ion Batteries**    | 5 |
+| **Sensors**          | 4 |
+| **Jammers**          | 4 |
+| **Tractor Beams**    | 4 |
+| **Gravity Well Generator** | 0 |
+
+================================================================================
+
+== 🛡️ Peregrine-Class Frigate (PCF) Stat Sheet (Wikitext) ==
+
+{| class="wikitable sortable"
+! Attribute !! Value
+|-
+| Length || 400 meters
+|-
+| Cargo Capacity || 100,000 tons
+|-
+| Cargo Volume || 80,000 cubic meters
+|-
+| Hull Strength || 5,000
+|-
+| Deflector Shields || 4,000 (Recharge 200 per turn)
+|-
+| Ionic Capacitance || 2,000
+|-
+| Hyperspeed Multiplier || 1.25x
+|-
+| Sublight Speed || 70 MGLT
+|-
+| Manoeuvrability || 6
+|-
+| Crew || 800
+|-
+| Troopers || 500
+|-
+| Passengers || 10
+|-
+| Squadrons || 3
+|-
+| Shuttles || 3
+|-
+| Ground Vehicles || 2
+|-
+| Heavy Ground Vehicles || 0
+|-
+| Planetary Landing || Yes
+|-
+| Docking Bay || Yes
+|-
+| Cloaking Device || No
+|-
+| Laser Cannons || 20
+|-
+| Heavy Lasers || 20
+|-
+| Turbolasers || 10
+|-
+| Missile Launchers || 5 (80 missiles)
+|-
+| Ion Cannons || 5
+|-
+| Ion Batteries || 5
+|-
+| Sensors || 4
+|-
+| Jammers || 4
+|-
+| Tractor Beams || 4
+|-
+| Gravity Well Generator || 0
+|}
+================================================================================

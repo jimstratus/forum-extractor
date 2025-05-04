@@ -1,0 +1,18 @@
+# Core requirements
+pathlib
+argparse
+
+# Document processing (install at least one of these for handling Word documents)
+python-docx>=0.8.10
+docx2txt>=0.8
+
+# PDF processing (optional, for handling PDF files)
+PyPDF2>=2.0.0
+
+# Data processing and visualization (for dataset_stats.py)
+matplotlib>=3.5.0
+
+# Web scraping requirements (for forum_scraper.py)
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+html2text>=2020.1.16

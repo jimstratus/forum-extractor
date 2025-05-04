@@ -1,0 +1,24 @@
+{
+  "generated_date": "2025-05-03T19:06:00.763532",
+  "total_scenarios": 3,
+  "scenarios_by_forum": {
+    "Red_Scenario": 1,
+    "Unknown": 2
+  },
+  "scenarios_by_status": {
+    "In Progress": 2,
+    "Incomplete": 1
+  },
+  "forums": {
+    "Red_Scenario": [
+      {
+        "title": "Sample Scenario [34 IRY]",
+        "forum": "Red_Scenario",
+        "year": "34 IRY",
+        "year_suggestion": "",
+        "numeric_year": 34.0,
+        "status": "In Progress",
+        "completion_status": "Incomplete",
+        "character_count": 2,
+        "timeline_event_count": 2,
+        "extraction_date": 

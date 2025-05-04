@@ -1,0 +1,38 @@
+
+# 📜 Imperial Republic Document Registry Template
+
+## Markdown Version
+
+```markdown
+# 📜 Imperial Republic Document Registry
+
+| Document ID           | Title/Description                     | Issuing Body | IRY Date | Status     | Notes                        |
+|-----------------------|----------------------------------------|--------------|----------|------------|------------------------------|
+| CH-THR-IRY0-001       | Imperial Republic Charter              | Throne       | IRY 0    | Active     | Foundational Document        |
+| LA-HC-IRY27-005       | Citizen Rights Protection Act          | High Council | IRY 27   | Active     | Passed with 72% majority     |
+| MO-MOD-IRY35-REV2     | Armed Forces Mobilization Order        | Defense Min. | IRY 35   | Superseded | Replaced by MO-MOD-IRY36-001 |
+| TR-MOS-IRY21-007      | Treaty with Hapes Consortium           | State Min.   | IRY 21   | Ratified   | Witnessed by Royal Family    |
+| ED-THR-IRY12-A01      | Directive on Imperial Expansion Zones  | Throne       | IRY 12   | Archived   | Obsolete under new policy    |
+```
+
+---
+
+## Wikitext Version (for MediaWiki)
+
+```wikitext
+== 📜 Imperial Republic Document Registry ==
+
+{| class="wikitable sortable"
+! Document ID !! Title/Description !! Issuing Body !! IRY Date !! Status !! Notes
+|-
+| CH-THR-IRY0-001 || Imperial Republic Charter || Throne || IRY 0 || Active || Foundational Document
+|-
+| LA-HC-IRY27-005 || Citizen Rights Protection Act || High Council || IRY 27 || Active || Passed with 72% majority
+|-
+| MO-MOD-IRY35-REV2 || Armed Forces Mobilization Order || Ministry of Defense || IRY 35 || Superseded || Replaced by MO-MOD-IRY36-001
+|-
+| TR-MOS-IRY21-007 || Treaty with Hapes Consortium || Ministry of State || IRY 21 || Ratified || Witnessed by Royal Family
+|-
+| ED-THR-IRY12-A01 || Directive on Imperial Expansion Zones || Throne || IRY 12 || Archived || Obsolete under new policy
+|}
+```

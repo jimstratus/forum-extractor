@@ -1,0 +1,121 @@
+
+# 🛡️ Protector-Class Battleship (PCB) Overview
+
+The Protector-class Battleship (designation PCB) is the Imperial Republic Navy’s primary fast-attack capital warship. Designed to lead rapid-response strike groups, provide deep-space firepower, and offer flexible deployment across conflict zones, the Protector balances battlefield endurance with agility.
+
+At 1,200 meters in length, it is significantly smaller than the Defender-class, but no less formidable. It carries 20 heavy lasers, 20 laser cannons, 50 turbolasers, and 30 ion batteries, giving it potent multi-role capabilities for fleet support, planetary bombardment, or ship-to-ship combat.
+
+With a troop complement of 10,000, 10 squadrons, and a payload of vehicles and shuttles, it excels in supporting both space and surface operations. Its design emphasizes versatility: swift hyperspace insertion, strong shield endurance, and a robust sensor/jammer suite make it ideal for contested systems and perimeter security.
+
+Often deployed in "Spear Vanguard" flotillas, Protector-class ships operate at the tip of the spear — clearing lanes for larger vessels, escorting convoys, and punishing pirate or insurgent fleets with speed and precision.
+
+# 🎨 Protector-Class Battleship Color Schemes
+
+| Livery Name         | Color Scheme Description                         | Role                              |
+|----------------------|---------------------------------------------------|-----------------------------------|
+| Stormfang            | Matte dark-gray with angular electric blue trim   | Rapid strike group deployments    |
+| Silver Avenger       | Metallic silver with red underbelly armor         | Republic ceremonial strike fleet  |
+| Nightguard           | Deep black with red-orange hull glow ports        | Covert operations flagship        |
+| Vigilant Flame       | Iron-red with gold dorsal lines                   | High-risk forward operations      |
+| Silent Judicator     | Steel gray with white dorsal accents              | Border patrol and security zones  |
+
+# 🛡️ Protector-Class Battleship (PCB) Stat Sheet (Markdown)
+
+| Attribute            | Value |
+|----------------------|-------|
+| **Length**           | 1,200 meters |
+| **Cargo Capacity**   | 1,000,000 tons |
+| **Cargo Volume**     | 400,000 cubic meters |
+| **Hull Strength**    | 15,000 |
+| **Deflector Shields**| 12,500 (Recharge 400 per turn) |
+| **Ionic Capacitance**| 10,000 |
+| **Hyperspeed Multiplier** | 1.50x |
+| **Sublight Speed**   | 50 MGLT |
+| **Manoeuvrability**  | 4 |
+| **Crew**             | 4,000 |
+| **Troopers**         | 10,000 |
+| **Passengers**       | 100 |
+| **Squadrons**        | 10 |
+| **Shuttles**         | 10 |
+| **Ground Vehicles**  | 8 |
+| **Heavy Ground Vehicles** | 6 |
+| **Planetary Landing**| No |
+| **Docking Bay**      | Yes |
+| **Cloaking Device**  | No |
+| **Laser Cannons**    | 20 |
+| **Heavy Lasers**     | 20 |
+| **Turbolasers**      | 50 |
+| **Missile Launchers**| 20 (400 missiles) |
+| **Ion Cannons**      | 0 |
+| **Ion Batteries**    | 30 |
+| **Sensors**          | 8 |
+| **Jammers**          | 8 |
+| **Tractor Beams**    | 10 |
+| **Gravity Well Generator** | 0 |
+
+================================================================================
+
+== 🛡️ Protector-Class Battleship (PCB) Stat Sheet (Wikitext) ==
+
+{| class="wikitable sortable"
+! Attribute !! Value
+|-
+| Length || 1,200 meters
+|-
+| Cargo Capacity || 1,000,000 tons
+|-
+| Cargo Volume || 400,000 cubic meters
+|-
+| Hull Strength || 15,000
+|-
+| Deflector Shields || 12,500 (Recharge 400 per turn)
+|-
+| Ionic Capacitance || 10,000
+|-
+| Hyperspeed Multiplier || 1.50x
+|-
+| Sublight Speed || 50 MGLT
+|-
+| Manoeuvrability || 4
+|-
+| Crew || 4,000
+|-
+| Troopers || 10,000
+|-
+| Passengers || 100
+|-
+| Squadrons || 10
+|-
+| Shuttles || 10
+|-
+| Ground Vehicles || 8
+|-
+| Heavy Ground Vehicles || 6
+|-
+| Planetary Landing || No
+|-
+| Docking Bay || Yes
+|-
+| Cloaking Device || No
+|-
+| Laser Cannons || 20
+|-
+| Heavy Lasers || 20
+|-
+| Turbolasers || 50
+|-
+| Missile Launchers || 20 (400 missiles)
+|-
+| Ion Cannons || 0
+|-
+| Ion Batteries || 30
+|-
+| Sensors || 8
+|-
+| Jammers || 8
+|-
+| Tractor Beams || 10
+|-
+| Gravity Well Generator || 0
+|}
+================================================================================

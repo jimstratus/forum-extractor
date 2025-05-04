@@ -1,0 +1,22 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\AutoFormat.RemoveEmpty.RemoveNbsp.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.385639
+---
+
+AutoFormat.RemoveEmpty.RemoveNbsp
+TYPE: bool
+VERSION: 4.0.0
+DEFAULT: false
+--DESCRIPTION--
+<p>
+  When enabled, HTML Purifier will treat any elements that contain only
+  non-breaking spaces as well as regular whitespace as empty, and remove
+  them when %AutoForamt.RemoveEmpty is enabled.
+</p>
+<p>
+  See %AutoFormat.RemoveEmpty.RemoveNbsp.Exceptions for a list of elements
+  that don't have this behavior applied to them.
+</p>
+--# vim: et sw=4 sts=4

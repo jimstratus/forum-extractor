@@ -1,0 +1,99 @@
+
+# 🛡️ EID-Tracker Long-Range Recon Starfighter Overview
+
+The EID-Tracker is the workhorse of the Imperial Republic's deep-space reconnaissance fleet, purpose-built for tracking enemy fleets, mapping unknown regions, and coordinating strike operations across vast distances.
+
+Equipped with multiple advanced sensor arrays and jamming systems, the Tracker can detect, analyze, and evade threats across a wide operational theater.
+
+While not a dedicated heavy fighter, it retains modest weaponry to defend itself if necessary, including lasers, ion cannons, and a pair of missile launchers.
+
+Its dual-crew configuration allows for split duties: piloting and sensor/communication management, ensuring maximum operational efficiency on extended missions.
+
+With strong shielding and reliable impulse drives, the Tracker is capable of operating alone for extended periods or leading smaller recon groups deep into contested space.
+
+# 🎨 EID-Tracker Squadron Color Schemes
+
+| Squadron Name           | Color Scheme Description                      | Notes                               |
+|--------------------------|------------------------------------------------|-------------------------------------|
+| Pathfinder Squadron      | Silver-gray hull with teal markings            | Long-range exploration missions     |
+| Specter Scouts           | Charcoal-gray body with light blue trim        | Covert tracking operations          |
+| Horizon Wing             | Pale silver body with golden-yellow stripes    | Stellar cartography and mapping     |
+| Silent Watch Division    | Matte black with faint green pulse highlights  | Silent monitoring and patrol units  |
+| Solar Ranger Flight      | White body with navy blue accents              | Planetary system reconnaissance     |
+
+# 🛡️ Imperial Republic Recon Starfighter Data Sheet: EID-Tracker (Markdown Version)
+
+| Attribute            | Value |
+|----------------------|-------|
+| **Length**           | 15 meters |
+| **Cargo Capacity**   | 6 tons |
+| **Cargo Volume**     | 5 cubic meters |
+| **Hull Strength**    | 150 |
+| **Deflector Shields**| 200 (Recharge 20 per turn) |
+| **Ionic Capacitance**| 110 |
+| **Hyperspeed Multiplier** | 1.00x |
+| **Sublight Speed**   | 120 MGLT |
+| **Manoeuvrability**  | 9 |
+| **Crew**             | 2 |
+| **Planetary Landing**| Yes |
+| **Docking Bay**      | No |
+| **Cloaking Device**  | No |
+| **Laser Cannons**    | 2 |
+| **Heavy Lasers**     | 2 |
+| **Ion Cannons**      | 2 |
+| **Missile Launchers**| 2 (20 missiles) |
+| **Sensors**          | 3 (advanced arrays) |
+| **Jammers**          | 3 (advanced ECM suites) |
+| **Tractor Beam**     | 0 |
+| **Gravity Well Generator** | 0 |
+
+================================================================================
+
+== 🛡️ Imperial Republic Recon Starfighter Data Sheet: EID-Tracker (Wikitext Version) ==
+
+{| class="wikitable sortable"
+! Attribute !! Value
+|-
+| Length || 15 meters
+|-
+| Cargo Capacity || 6 tons
+|-
+| Cargo Volume || 5 cubic meters
+|-
+| Hull Strength || 150
+|-
+| Deflector Shields || 200 (Recharge 20 per turn)
+|-
+| Ionic Capacitance || 110
+|-
+| Hyperspeed Multiplier || 1.00x
+|-
+| Sublight Speed || 120 MGLT
+|-
+| Manoeuvrability || 9
+|-
+| Crew || 2
+|-
+| Planetary Landing || Yes
+|-
+| Docking Bay || No
+|-
+| Cloaking Device || No
+|-
+| Laser Cannons || 2
+|-
+| Heavy Lasers || 2
+|-
+| Ion Cannons || 2
+|-
+| Missile Launchers || 2 (20 missiles)
+|-
+| Sensors || 3 (advanced arrays)
+|-
+| Jammers || 3 (advanced ECM suites)
+|-
+| Tractor Beam || 0
+|-
+| Gravity Well Generator || 0
+|}
+================================================================================

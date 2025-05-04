@@ -1,0 +1,709 @@
+{
+  "total_forums": 3,
+  "total_topics": 139,
+  "total_profiles": 135,
+  "forums": [
+    {
+      "forum_url": "https://nexus.eotir.com/forum/62-character-profiles/",
+      "forum_name": "62-character-profiles",
+      "total_topics": 80,
+      "processed_topics": 80,
+      "saved_profiles": 76,
+      "profiles": [
+        {
+          "character_name": "_",
+          "topic_url": "https://nexus.eotir.com/topic/2213-new-character-profile-format/",
+          "output_path": "LLM\\character_profiles\\__profiles.txt"
+        },
+        {
+          "character_name": "James T",
+          "topic_url": "https://nexus.eotir.com/topic/204-james-t-stratus-ii/",
+          "output_path": "LLM\\character_profiles\\James_T_profiles.txt"
+        },
+        {
+          "character_name": "Lan Klone**",
+          "topic_url": "https://nexus.eotir.com/topic/2141-lan-klone/",
+          "output_path": "LLM\\character_profiles\\Lan_Klone___profiles.txt"
+        },
+        {
+          "character_name": "**Which Sections you'll be Changing**",
+          "topic_url": "https://nexus.eotir.com/topic/1628-request-to-update-your-character-profile/",
+          "output_path": "LLM\\character_profiles\\__Which_Sections_you_ll_be_Changing___profiles.txt"
+        },
+        {
+          "character_name": "[**Tavria Treyson**](https://nexus.eotir.com/profile/223-tavria-treyson/ \"Go to Tavria Treyson's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/1825-character-creation-notice/",
+          "output_path": "LLM\\character_profiles\\___Tavria_Treyson____https___nexus_eotir_com_profile_223-tavria-treyson___Go_to_Tavria_Treyson_s_profile___profiles.txt"
+        },
+        {
+          "character_name": "Tavria Treyson",
+          "topic_url": "https://nexus.eotir.com/topic/961-tavria-treyson/",
+          "output_path": "LLM\\character_profiles\\Tavria_Treyson_profiles.txt"
+        },
+        {
+          "character_name": "Kaidlen Shan",
+          "topic_url": "https://nexus.eotir.com/topic/371-kaidlen-shan/",
+          "output_path": "LLM\\character_profiles\\Kaidlen_Shan_profiles.txt"
+        },
+        {
+          "character_name": "[**James Stratus**](https://nexus.eotir.com/profile/1-james-stratus/ \"Go to James Stratus's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/378-thoughts-on-age/",
+          "output_path": "LLM\\character_profiles\\___James_Stratus____https___nexus_eotir_com_profile_1-james-stratus___Go_to_James_Stratus_s_profile___profiles.txt"
+        },
+        {
+          "character_name": "Drexel Oren",
+          "topic_url": "https://nexus.eotir.com/topic/972-drexel-oren/",
+          "output_path": "LLM\\character_profiles\\Drexel_Oren_profiles.txt"
+        },
+        {
+          "character_name": "Selina Vadcasta",
+          "topic_url": "https://nexus.eotir.com/topic/1435-selina-vadcasta/",
+          "output_path": "LLM\\character_profiles\\Selina_Vadcasta_profiles.txt"
+        },
+        {
+          "character_name": "Alun Tringad",
+          "topic_url": "https://nexus.eotir.com/topic/2494-alun-tringad/",
+          "output_path": "LLM\\character_profiles\\Alun_Tringad_profiles.txt"
+        },
+        {
+          "character_name": "Locke Firecam",
+          "topic_url": "https://nexus.eotir.com/topic/970-locke-firecam/",
+          "output_path": "LLM\\character_profiles\\Locke_Firecam_profiles.txt"
+        },
+        {
+          "character_name": "Saika Alberoz",
+          "topic_url": "https://nexus.eotir.com/topic/2422-saika-alberoz/",
+          "output_path": "LLM\\character_profiles\\Saika_Alberoz_profiles.txt"
+        },
+        {
+          "character_name": "s:**",
+          "topic_url": "https://nexus.eotir.com/topic/1725-dene-vye-cognatus/",
+          "output_path": "LLM\\character_profiles\\s____profiles.txt"
+        },
+        {
+          "character_name": "Alexander Marcov",
+          "topic_url": "https://nexus.eotir.com/topic/2358-alexander-marcov/",
+          "output_path": "LLM\\character_profiles\\Alexander_Marcov_profiles.txt"
+        },
+        {
+          "character_name": "[Athrun Zala](https://nexus.eotir.com/profile/633-athrun-zala/ \"Go to Athrun Zala's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/2355-athrun-zala/",
+          "output_path": "LLM\\character_profiles\\_Athrun_Zala__https___nexus_eotir_com_profile_633-athrun-zala___Go_to_Athrun_Zala_s_profile___profiles.txt"
+        },
+        {
+          "character_name": "with a slight selfish desire to see his ancestors\u2019\u2019 homeworld of Kashyyyk",
+          "topic_url": "https://nexus.eotir.com/topic/2353-tchanka-chuthra/",
+          "output_path": "LLM\\character_profiles\\with_a_slight_selfish_desire_to_see_his_ancestors___homeworld_of_Kashyyyk_profiles.txt"
+        },
+        {
+          "character_name": "Derek James Angel",
+          "topic_url": "https://nexus.eotir.com/topic/2320-derek-angel/",
+          "output_path": "LLM\\character_profiles\\Derek_James_Angel_profiles.txt"
+        },
+        {
+          "character_name": "Terrisa Klone",
+          "topic_url": "https://nexus.eotir.com/topic/2284-terrisa-klone/",
+          "output_path": "LLM\\character_profiles\\Terrisa_Klone_profiles.txt"
+        },
+        {
+          "character_name": "Liudahl Oura",
+          "topic_url": "https://nexus.eotir.com/topic/2266-liudahl-oura/",
+          "output_path": "LLM\\character_profiles\\Liudahl_Oura_profiles.txt"
+        },
+        {
+          "character_name": "[**Alexia Preston**](https://nexus.eotir.com/profile/593-alexia-preston/ \"Go to Alexia Preston's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/2268-alexia-preston-work-in-progress/",
+          "output_path": "LLM\\character_profiles\\___Alexia_Preston____https___nexus_eotir_com_profile_593-alexia-preston___Go_to_Alexia_Preston_s_profile___profiles.txt"
+        },
+        {
+          "character_name": "Vanessa Mikhaila**",
+          "topic_url": "https://nexus.eotir.com/topic/2247-vanessa-mikhaila/",
+          "output_path": "LLM\\character_profiles\\Vanessa_Mikhaila___profiles.txt"
+        },
+        {
+          "character_name": "Alice Criya Croft",
+          "topic_url": "https://nexus.eotir.com/topic/2240-alice-croft/",
+          "output_path": "LLM\\character_profiles\\Alice_Criya_Croft_profiles.txt"
+        },
+        {
+          "character_name": "[Icar I'ora](https://nexus.eotir.com/profile/598-icar-iora/ \"Go to Icar I'ora's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/2222-icariora/",
+          "output_path": "LLM\\character_profiles\\_Icar_I_ora__https___nexus_eotir_com_profile_598-icar-iora___Go_to_Icar_I_ora_s_profile___profiles.txt"
+        },
+        {
+          "character_name": "**Main Character Format**",
+          "topic_url": "https://nexus.eotir.com/topic/1604-old-character-profile-format/",
+          "output_path": "LLM\\character_profiles\\__Main_Character_Format___profiles.txt"
+        },
+        {
+          "character_name": "[Midur`an`dalor](https://nexus.eotir.com/profile/597-midurandalor/ \"Go to Midur`an`dalor's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/2198-midurandalor/",
+          "output_path": "LLM\\character_profiles\\_Midur_an_dalor__https___nexus_eotir_com_profile_597-midurandalor___Go_to_Midur_an_dalor_s_profile___profiles.txt"
+        },
+        {
+          "character_name": "Tamoth Marend",
+          "topic_url": "https://nexus.eotir.com/topic/2170-tamoth-marend/",
+          "output_path": "LLM\\character_profiles\\Tamoth_Marend_profiles.txt"
+        },
+        {
+          "character_name": "s",
+          "topic_url": "https://nexus.eotir.com/topic/2165-chazrawr-rawnerr/",
+          "output_path": "LLM\\character_profiles\\s_profiles.txt"
+        },
+        {
+          "character_name": "s :",
+          "topic_url": "https://nexus.eotir.com/topic/2160-joshua-wallace/",
+          "output_path": "LLM\\character_profiles\\s___profiles.txt"
+        },
+        {
+          "character_name": "s : Combat Knives",
+          "topic_url": "https://nexus.eotir.com/topic/2147-simon-moris/",
+          "output_path": "LLM\\character_profiles\\s___Combat_Knives_profiles.txt"
+        },
+        {
+          "character_name": "s : DC-17---The Reaper Combat Knife---Grim",
+          "topic_url": "https://nexus.eotir.com/topic/2139-zacol-blackrain/",
+          "output_path": "LLM\\character_profiles\\s___DC-17---The_Reaper_Combat_Knife---Grim_profiles.txt"
+        },
+        {
+          "character_name": "s  L-44 X-45 Sniper Rifle",
+          "topic_url": "https://nexus.eotir.com/topic/2140-xaiver-blackrain/",
+          "output_path": "LLM\\character_profiles\\s_L-44_X-45_Sniper_Rifle_profiles.txt"
+        },
+        {
+          "character_name": "s :",
+          "topic_url": "https://nexus.eotir.com/topic/2137-johnny-sasaki/",
+          "output_path": "LLM\\character_profiles\\s___profiles_20250503_163300.txt"
+        },
+        {
+          "character_name": "Quinnic Kaitrel",
+          "topic_url": "https://nexus.eotir.com/topic/2117-quinnic-kaitrel/",
+          "output_path": "LLM\\character_profiles\\Quinnic_Kaitrel_profiles.txt"
+        },
+        {
+          "character_name": "Rhian \"Sky\" Trahkehmeer",
+          "topic_url": "https://nexus.eotir.com/topic/2108-rhian-sky-trahkehmeer/",
+          "output_path": "LLM\\character_profiles\\Rhian__Sky__Trahkehmeer_profiles.txt"
+        },
+        {
+          "character_name": "s :",
+          "topic_url": "https://nexus.eotir.com/topic/2110-merc-archyrr/",
+          "output_path": "LLM\\character_profiles\\s___profiles_20250503_163302.txt"
+        },
+        {
+          "character_name": "Vexander Smith",
+          "topic_url": "https://nexus.eotir.com/topic/2096-vexander-smith/",
+          "output_path": "LLM\\character_profiles\\Vexander_Smith_profiles.txt"
+        },
+        {
+          "character_name": "Ryden Stone",
+          "topic_url": "https://nexus.eotir.com/topic/2031-ryden-stone/",
+          "output_path": "LLM\\character_profiles\\Ryden_Stone_profiles.txt"
+        },
+        {
+          "character_name": "s :",
+          "topic_url": "https://nexus.eotir.com/topic/2030-nathgul-ofoem/",
+          "output_path": "LLM\\character_profiles\\s___profiles_20250503_163304.txt"
+        },
+        {
+          "character_name": "Kyliann Watson",
+          "topic_url": "https://nexus.eotir.com/topic/2015-kyliann-watson/",
+          "output_path": "LLM\\character_profiles\\Kyliann_Watson_profiles.txt"
+        },
+        {
+          "character_name": "Terrence Thorne / \"Terry\" amongst friends",
+          "topic_url": "https://nexus.eotir.com/topic/1961-terrence-thorne/",
+          "output_path": "LLM\\character_profiles\\Terrence_Thorne____Terry__amongst_friends_profiles.txt"
+        },
+        {
+          "character_name": "Jerry",
+          "topic_url": "https://nexus.eotir.com/topic/1953-jarius-hatcher/",
+          "output_path": "LLM\\character_profiles\\Jerry_profiles.txt"
+        },
+        {
+          "character_name": "of \"Tsuinakumu\" (Twin Nightmare)",
+          "topic_url": "https://nexus.eotir.com/topic/1923-zechs-kel-isen/",
+          "output_path": "LLM\\character_profiles\\of__Tsuinakumu___Twin_Nightmare__profiles.txt"
+        },
+        {
+          "character_name": "Doom Juscus",
+          "topic_url": "https://nexus.eotir.com/topic/1827-doom-juscus/",
+          "output_path": "LLM\\character_profiles\\Doom_Juscus_profiles.txt"
+        },
+        {
+          "character_name": "Diandra Devin (known as Dia amongst friends)",
+          "topic_url": "https://nexus.eotir.com/topic/1888-diandra-devin/",
+          "output_path": "LLM\\character_profiles\\Diandra_Devin__known_as_Dia_amongst_friends__profiles.txt"
+        },
+        {
+          "character_name": "Dana Lance prefers to be called \"Dee\"",
+          "topic_url": "https://nexus.eotir.com/topic/1637-dana-lance/",
+          "output_path": "LLM\\character_profiles\\Dana_Lance_prefers_to_be_called__Dee__profiles.txt"
+        },
+        {
+          "character_name": "s : E-11/s (Knock Knock)",
+          "topic_url": "https://nexus.eotir.com/topic/1879-jared-quinn/",
+          "output_path": "LLM\\character_profiles\\s___E-11_s__Knock_Knock__profiles.txt"
+        },
+        {
+          "character_name": "s : \u201cDragon\u2019s Teeth\u201d",
+          "topic_url": "https://nexus.eotir.com/topic/1037-general-krayt/",
+          "output_path": "LLM\\character_profiles\\s____Dragon_s_Teeth__profiles.txt"
+        },
+        {
+          "character_name": "s:** His pearl handled DE-10",
+          "topic_url": "https://nexus.eotir.com/topic/1857-ibram-c-chamberlain/",
+          "output_path": "LLM\\character_profiles\\s____His_pearl_handled_DE-10_profiles.txt"
+        },
+        {
+          "character_name": "d \u201cAurielle Organa-Jackson\u201d by her own choice",
+          "topic_url": "https://nexus.eotir.com/topic/1798-aurielle-jackson-stratus/",
+          "output_path": "LLM\\character_profiles\\d__Aurielle_Organa-Jackson__by_her_own_choice_profiles.txt"
+        },
+        {
+          "character_name": "s :",
+          "topic_url": "https://nexus.eotir.com/topic/1707-komrk/",
+          "output_path": "LLM\\character_profiles\\s___profiles_20250503_163311.txt"
+        },
+        {
+          "character_name": "Kiunus Kaitrel",
+          "topic_url": "https://nexus.eotir.com/topic/1824-kailen-ciunus/",
+          "output_path": "LLM\\character_profiles\\Kiunus_Kaitrel_profiles.txt"
+        },
+        {
+          "character_name": "Timothy McVale**",
+          "topic_url": "https://nexus.eotir.com/topic/1791-timothy-mcvale/",
+          "output_path": "LLM\\character_profiles\\Timothy_McVale___profiles.txt"
+        },
+        {
+          "character_name": "Jaylen Myst",
+          "topic_url": "https://nexus.eotir.com/topic/1779-jaylen-myst/",
+          "output_path": "LLM\\character_profiles\\Jaylen_Myst_profiles.txt"
+        },
+        {
+          "character_name": "s : N/A",
+          "topic_url": "https://nexus.eotir.com/topic/1734-trent-holt/",
+          "output_path": "LLM\\character_profiles\\s___N_A_profiles.txt"
+        },
+        {
+          "character_name": "nts",
+          "topic_url": "https://nexus.eotir.com/topic/1690-koru-tav/",
+          "output_path": "LLM\\character_profiles\\nts_profiles.txt"
+        },
+        {
+          "character_name": "[Jacen Fel](https://nexus.eotir.com/profile/419-jacen-fel/ \"Go to Jacen Fel's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/1496-jacen-fel/",
+          "output_path": "LLM\\character_profiles\\_Jacen_Fel__https___nexus_eotir_com_profile_419-jacen-fel___Go_to_Jacen_Fel_s_profile___profiles.txt"
+        },
+        {
+          "character_name": "s : Unknown",
+          "topic_url": "https://nexus.eotir.com/topic/1653-talak-kasra/",
+          "output_path": "LLM\\character_profiles\\s___Unknown_profiles.txt"
+        },
+        {
+          "character_name": "[Raithos Bodost](https://nexus.eotir.com/profile/493-raithos-bodost/ \"Go to Raithos Bodost's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/1675-raithos-bodost/",
+          "output_path": "LLM\\character_profiles\\_Raithos_Bodost__https___nexus_eotir_com_profile_493-raithos-bodost___Go_to_Raithos_Bodost_s_profile___profiles.txt"
+        },
+        {
+          "character_name": "Ieyena Cohean",
+          "topic_url": "https://nexus.eotir.com/topic/867-ieyena-cohean/",
+          "output_path": "LLM\\character_profiles\\Ieyena_Cohean_profiles.txt"
+        },
+        {
+          "character_name": "s : alpha is the name of one sword",
+          "topic_url": "https://nexus.eotir.com/topic/1627-ike-mirsha/",
+          "output_path": "LLM\\character_profiles\\s___alpha_is_the_name_of_one_sword_profiles.txt"
+        },
+        {
+          "character_name": "s : (Malia does not name her weapons",
+          "topic_url": "https://nexus.eotir.com/topic/1629-malia-jaenor-hollis/",
+          "output_path": "LLM\\character_profiles\\s____Malia_does_not_name_her_weapons_profiles.txt"
+        },
+        {
+          "character_name": "for himself outside of the dark shadow that lingers over his race",
+          "topic_url": "https://nexus.eotir.com/topic/1666-zendosh-ze-viran/",
+          "output_path": "LLM\\character_profiles\\for_himself_outside_of_the_dark_shadow_that_lingers_over_his_race_profiles.txt"
+        },
+        {
+          "character_name": "Revan Centurion",
+          "topic_url": "https://nexus.eotir.com/topic/1503-revan-centurion/",
+          "output_path": "LLM\\character_profiles\\Revan_Centurion_profiles.txt"
+        },
+        {
+          "character_name": "Druissa Renn Frye",
+          "topic_url": "https://nexus.eotir.com/topic/1665-druissa-frye/",
+          "output_path": "LLM\\character_profiles\\Druissa_Renn_Frye_profiles.txt"
+        },
+        {
+          "character_name": "Honoria White",
+          "topic_url": "https://nexus.eotir.com/topic/1602-honoria-white/",
+          "output_path": "LLM\\character_profiles\\Honoria_White_profiles.txt"
+        },
+        {
+          "character_name": "OVERMIND (a first name is suspected but not confirmed)",
+          "topic_url": "https://nexus.eotir.com/topic/1064-overmind/",
+          "output_path": "LLM\\character_profiles\\OVERMIND__a_first_name_is_suspected_but_not_confirmed__profiles.txt"
+        },
+        {
+          "character_name": "Corran Halcyon",
+          "topic_url": "https://nexus.eotir.com/topic/1106-corran-halcyon/",
+          "output_path": "LLM\\character_profiles\\Corran_Halcyon_profiles.txt"
+        },
+        {
+          "character_name": "[Jenov Raveshaw](https://nexus.eotir.com/profile/170-jenov-raveshaw/ \"Go to Jenov Raveshaw's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/666-jenov-raveshaw/",
+          "output_path": "LLM\\character_profiles\\_Jenov_Raveshaw__https___nexus_eotir_com_profile_170-jenov-raveshaw___Go_to_Jenov_Raveshaw_s_profile___profiles.txt"
+        },
+        {
+          "character_name": "Tomas Boons",
+          "topic_url": "https://nexus.eotir.com/topic/1138-tomas-boons/",
+          "output_path": "LLM\\character_profiles\\Tomas_Boons_profiles.txt"
+        },
+        {
+          "character_name": "Tegan Jenna Deirdre",
+          "topic_url": "https://nexus.eotir.com/topic/1244-jenna-deirdre/",
+          "output_path": "LLM\\character_profiles\\Tegan_Jenna_Deirdre_profiles.txt"
+        },
+        {
+          "character_name": "Kev McLairson",
+          "topic_url": "https://nexus.eotir.com/topic/769-kev-mclairson/",
+          "output_path": "LLM\\character_profiles\\Kev_McLairson_profiles.txt"
+        },
+        {
+          "character_name": "Shadow Darklighter",
+          "topic_url": "https://nexus.eotir.com/topic/713-shadow-darklighter/",
+          "output_path": "LLM\\character_profiles\\Shadow_Darklighter_profiles.txt"
+        },
+        {
+          "character_name": "_Dravin",
+          "topic_url": "https://nexus.eotir.com/topic/668-vincent-dravin/",
+          "output_path": "LLM\\character_profiles\\_Dravin_profiles.txt"
+        },
+        {
+          "character_name": "_Kai kamahamaha Antilles_",
+          "topic_url": "https://nexus.eotir.com/topic/396-kai-antilles/",
+          "output_path": "LLM\\character_profiles\\_Kai_kamahamaha_Antilles__profiles.txt"
+        },
+        {
+          "character_name": "Layha Solo Centurion",
+          "topic_url": "https://nexus.eotir.com/topic/253-layha-solo/",
+          "output_path": "LLM\\character_profiles\\Layha_Solo_Centurion_profiles.txt"
+        }
+      ]
+    },
+    {
+      "forum_url": "https://nexus.eotir.com/forum/125-secondary-characters/",
+      "forum_name": "125-secondary-characters",
+      "total_topics": 21,
+      "processed_topics": 21,
+      "saved_profiles": 21,
+      "profiles": [
+        {
+          "character_name": "**Basics**",
+          "topic_url": "https://nexus.eotir.com/topic/2766-ryn-talix-chume/",
+          "output_path": "LLM\\character_profiles\\__Basics___characters.txt"
+        },
+        {
+          "character_name": "[Kaidlen Shan](https://nexus.eotir.com/profile/103-kaidlen-shan/ \"Go to Kaidlen Shan's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/2133-tziyona-kinnane/",
+          "output_path": "LLM\\character_profiles\\_Kaidlen_Shan__https___nexus_eotir_com_profile_103-kaidlen-shan___Go_to_Kaidlen_Shan_s_profile___characters.txt"
+        },
+        {
+          "character_name": "[Hosk Buw'atu](https://nexus.eotir.com/profile/555-hosk-buwatu/ \"Go to Hosk Buw'atu's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/2068-hosk-buwatu/",
+          "output_path": "LLM\\character_profiles\\_Hosk_Buw_atu__https___nexus_eotir_com_profile_555-hosk-buwatu___Go_to_Hosk_Buw_atu_s_profile___characters.txt"
+        },
+        {
+          "character_name": "Allan Deapoli",
+          "topic_url": "https://nexus.eotir.com/topic/2067-allan-deapoli/",
+          "output_path": "LLM\\character_profiles\\Allan_Deapoli_characters.txt"
+        },
+        {
+          "character_name": "Dr",
+          "topic_url": "https://nexus.eotir.com/topic/2066-elouna-joffuro/",
+          "output_path": "LLM\\character_profiles\\Dr_characters.txt"
+        },
+        {
+          "character_name": "Nirium Aurora Jacobson",
+          "topic_url": "https://nexus.eotir.com/topic/1943-nirium-jacobson-drake-marian-devin/",
+          "output_path": "LLM\\character_profiles\\Nirium_Aurora_Jacobson_characters.txt"
+        },
+        {
+          "character_name": "William Frederick Benson",
+          "topic_url": "https://nexus.eotir.com/topic/1719-william-benson/",
+          "output_path": "LLM\\character_profiles\\William_Frederick_Benson_characters.txt"
+        },
+        {
+          "character_name": "s** : N/A",
+          "topic_url": "https://nexus.eotir.com/topic/1709-neela-veris/",
+          "output_path": "LLM\\character_profiles\\s_____N_A_characters.txt"
+        },
+        {
+          "character_name": "that would bring a great reputation",
+          "topic_url": "https://nexus.eotir.com/topic/1674-neo-britannia/",
+          "output_path": "LLM\\character_profiles\\that_would_bring_a_great_reputation_characters.txt"
+        },
+        {
+          "character_name": "Rian Filip Katarn (Kats)",
+          "topic_url": "https://nexus.eotir.com/topic/622-rian-kats/",
+          "output_path": "LLM\\character_profiles\\Rian_Filip_Katarn__Kats__characters.txt"
+        },
+        {
+          "character_name": "Kimla Zenifal",
+          "topic_url": "https://nexus.eotir.com/topic/893-kimla-zenifal/",
+          "output_path": "LLM\\character_profiles\\Kimla_Zenifal_characters.txt"
+        },
+        {
+          "character_name": "Ranea Nonstir",
+          "topic_url": "https://nexus.eotir.com/topic/326-ranae-nonstir/",
+          "output_path": "LLM\\character_profiles\\Ranea_Nonstir_characters.txt"
+        },
+        {
+          "character_name": "Josefus Alastar Quick",
+          "topic_url": "https://nexus.eotir.com/topic/1102-josefus-quick/",
+          "output_path": "LLM\\character_profiles\\Josefus_Alastar_Quick_characters.txt"
+        },
+        {
+          "character_name": "Sean Kennedy",
+          "topic_url": "https://nexus.eotir.com/topic/423-sean-kennedy/",
+          "output_path": "LLM\\character_profiles\\Sean_Kennedy_characters.txt"
+        },
+        {
+          "character_name": "Megan De`Soto",
+          "topic_url": "https://nexus.eotir.com/topic/413-megan-desoto/",
+          "output_path": "LLM\\character_profiles\\Megan_De_Soto_characters.txt"
+        },
+        {
+          "character_name": "Bryan Dugaan",
+          "topic_url": "https://nexus.eotir.com/topic/1464-bryan-dugaan/",
+          "output_path": "LLM\\character_profiles\\Bryan_Dugaan_characters.txt"
+        },
+        {
+          "character_name": "[Marc Stratus](https://nexus.eotir.com/profile/468-marc-stratus/ \"Go to Marc Stratus's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/1594-marc-k-stratus/",
+          "output_path": "LLM\\character_profiles\\_Marc_Stratus__https___nexus_eotir_com_profile_468-marc-stratus___Go_to_Marc_Stratus_s_profile___characters.txt"
+        },
+        {
+          "character_name": "Kevin Diems",
+          "topic_url": "https://nexus.eotir.com/topic/949-kevin-diems/",
+          "output_path": "LLM\\character_profiles\\Kevin_Diems_characters.txt"
+        },
+        {
+          "character_name": "Alora Crimson Solo-D\u2019ulkire",
+          "topic_url": "https://nexus.eotir.com/topic/1146-alora-solo-dulkire/",
+          "output_path": "LLM\\character_profiles\\Alora_Crimson_Solo-D_ulkire_characters.txt"
+        },
+        {
+          "character_name": "Mortus Alastar Quick",
+          "topic_url": "https://nexus.eotir.com/topic/1238-mortus-alastar-quick/",
+          "output_path": "LLM\\character_profiles\\Mortus_Alastar_Quick_characters.txt"
+        },
+        {
+          "character_name": "Jessica Mystique Chavez",
+          "topic_url": "https://nexus.eotir.com/topic/1437-jessica-mystique-chavez/",
+          "output_path": "LLM\\character_profiles\\Jessica_Mystique_Chavez_characters.txt"
+        }
+      ]
+    },
+    {
+      "forum_url": "https://nexus.eotir.com/forum/124-character-archives/",
+      "forum_name": "124-character-archives",
+      "total_topics": 38,
+      "processed_topics": 38,
+      "saved_profiles": 38,
+      "profiles": [
+        {
+          "character_name": "Dene Vye Cognatus",
+          "topic_url": "https://nexus.eotir.com/topic/751-dene-vye-cognatus/",
+          "output_path": "LLM\\character_profiles\\Dene_Vye_Cognatus_archives.txt"
+        },
+        {
+          "character_name": "Jaing Skirata Fel",
+          "topic_url": "https://nexus.eotir.com/topic/1553-jaing-skirata-fel/",
+          "output_path": "LLM\\character_profiles\\Jaing_Skirata_Fel_archives.txt"
+        },
+        {
+          "character_name": "Go to Shadow NeedsALastName's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/1539-jonatoss-straussenberg/",
+          "output_path": "LLM\\character_profiles\\Go_to_Shadow_NeedsALastName_s_profile___archives.txt"
+        },
+        {
+          "character_name": "Tesca Falcorix",
+          "topic_url": "https://nexus.eotir.com/topic/1529-tesca-falcorix/",
+          "output_path": "LLM\\character_profiles\\Tesca_Falcorix_archives.txt"
+        },
+        {
+          "character_name": "Agaeki Eegas",
+          "topic_url": "https://nexus.eotir.com/topic/1509-agaeki-eegas/",
+          "output_path": "LLM\\character_profiles\\Agaeki_Eegas_archives.txt"
+        },
+        {
+          "character_name": "Rhyssalen Baia Crowe",
+          "topic_url": "https://nexus.eotir.com/topic/1516-rhyss-crowe/",
+          "output_path": "LLM\\character_profiles\\Rhyssalen_Baia_Crowe_archives.txt"
+        },
+        {
+          "character_name": "Lord Wednar",
+          "topic_url": "https://nexus.eotir.com/topic/1502-lord-wednar/",
+          "output_path": "LLM\\character_profiles\\Lord_Wednar_archives.txt"
+        },
+        {
+          "character_name": "Xanatos Ezekiel Jaden",
+          "topic_url": "https://nexus.eotir.com/topic/1511-xanatos-jaden/",
+          "output_path": "LLM\\character_profiles\\Xanatos_Ezekiel_Jaden_archives.txt"
+        },
+        {
+          "character_name": "Frutol",
+          "topic_url": "https://nexus.eotir.com/topic/1507-frutol/",
+          "output_path": "LLM\\character_profiles\\Frutol_archives.txt"
+        },
+        {
+          "character_name": "Lane Rendell",
+          "topic_url": "https://nexus.eotir.com/topic/772-lane-rendell/",
+          "output_path": "LLM\\character_profiles\\Lane_Rendell_archives.txt"
+        },
+        {
+          "character_name": "Kyros Terrian",
+          "topic_url": "https://nexus.eotir.com/topic/776-kyros-terrian/",
+          "output_path": "LLM\\character_profiles\\Kyros_Terrian_archives.txt"
+        },
+        {
+          "character_name": "Go to Deimos NeedsALastName's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/872-deimos/",
+          "output_path": "LLM\\character_profiles\\Go_to_Deimos_NeedsALastName_s_profile___archives.txt"
+        },
+        {
+          "character_name": "Guest Coral Dayton",
+          "topic_url": "https://nexus.eotir.com/topic/819-coral-dayton/",
+          "output_path": "LLM\\character_profiles\\Guest_Coral_Dayton_archives.txt"
+        },
+        {
+          "character_name": "_ Lloyd Dallas",
+          "topic_url": "https://nexus.eotir.com/topic/873-lloyd-dallas/",
+          "output_path": "LLM\\character_profiles\\__Lloyd_Dallas_archives.txt"
+        },
+        {
+          "character_name": "Doctor Kimberly Ann Philips",
+          "topic_url": "https://nexus.eotir.com/topic/938-kimberly-philips/",
+          "output_path": "LLM\\character_profiles\\Doctor_Kimberly_Ann_Philips_archives.txt"
+        },
+        {
+          "character_name": "Mikel Xavier Badure III",
+          "topic_url": "https://nexus.eotir.com/topic/939-mikel-badure/",
+          "output_path": "LLM\\character_profiles\\Mikel_Xavier_Badure_III_archives.txt"
+        },
+        {
+          "character_name": "Dyn von Exodus",
+          "topic_url": "https://nexus.eotir.com/topic/1016-dyn-von-exodus/",
+          "output_path": "LLM\\character_profiles\\Dyn_von_Exodus_archives.txt"
+        },
+        {
+          "character_name": "Rojan QDel",
+          "topic_url": "https://nexus.eotir.com/topic/1030-rojan-qdel/",
+          "output_path": "LLM\\character_profiles\\Rojan_QDel_archives.txt"
+        },
+        {
+          "character_name": "Caeser Palleon",
+          "topic_url": "https://nexus.eotir.com/topic/390-caeser-palleon/",
+          "output_path": "LLM\\character_profiles\\Caeser_Palleon_archives.txt"
+        },
+        {
+          "character_name": "Colette Nora Miller",
+          "topic_url": "https://nexus.eotir.com/topic/360-colette-miller/",
+          "output_path": "LLM\\character_profiles\\Colette_Nora_Miller_archives.txt"
+        },
+        {
+          "character_name": "Marcus Korlath Kiandri",
+          "topic_url": "https://nexus.eotir.com/topic/1059-marcus-kiandri/",
+          "output_path": "LLM\\character_profiles\\Marcus_Korlath_Kiandri_archives.txt"
+        },
+        {
+          "character_name": "Alanna Kennitt",
+          "topic_url": "https://nexus.eotir.com/topic/1066-alanna-kennitt/",
+          "output_path": "LLM\\character_profiles\\Alanna_Kennitt_archives.txt"
+        },
+        {
+          "character_name": "[Damien Battlecreek](https://nexus.eotir.com/profile/192-damien-battlecreek/ \"Go to Damien Battlecreek's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/757-damien-battlecreek-phd/",
+          "output_path": "LLM\\character_profiles\\_Damien_Battlecreek__https___nexus_eotir_com_profile_192-damien-battlecreek___Go_to_Damien_Battlecreek_s_profile___archives.txt"
+        },
+        {
+          "character_name": "Heero Tatsunami",
+          "topic_url": "https://nexus.eotir.com/topic/1163-heero-tatsunami/",
+          "output_path": "LLM\\character_profiles\\Heero_Tatsunami_archives.txt"
+        },
+        {
+          "character_name": "Danroth D\u2019Illige",
+          "topic_url": "https://nexus.eotir.com/topic/1127-danroth-dillige/",
+          "output_path": "LLM\\character_profiles\\Danroth_D_Illige_archives.txt"
+        },
+        {
+          "character_name": "Tycho Pryde",
+          "topic_url": "https://nexus.eotir.com/topic/1240-tycho-pryde/",
+          "output_path": "LLM\\character_profiles\\Tycho_Pryde_archives.txt"
+        },
+        {
+          "character_name": "Riana Balian Cambiran",
+          "topic_url": "https://nexus.eotir.com/topic/1279-riana-cambrian/",
+          "output_path": "LLM\\character_profiles\\Riana_Balian_Cambiran_archives.txt"
+        },
+        {
+          "character_name": "Nethaniel Kardelon Perdeph Arexel Soren",
+          "topic_url": "https://nexus.eotir.com/topic/1422-nethaniel-soren/",
+          "output_path": "LLM\\character_profiles\\Nethaniel_Kardelon_Perdeph_Arexel_Soren_archives.txt"
+        },
+        {
+          "character_name": "Unknown",
+          "topic_url": "https://nexus.eotir.com/topic/758-battlecreeks-bloody-half-dozen/",
+          "output_path": "LLM\\character_profiles\\Unknown_archives.txt"
+        },
+        {
+          "character_name": "Griffen Moralis",
+          "topic_url": "https://nexus.eotir.com/topic/677-griffen-moralis/",
+          "output_path": "LLM\\character_profiles\\Griffen_Moralis_archives.txt"
+        },
+        {
+          "character_name": "Go to Eagle NeedsANewName's profile\")",
+          "topic_url": "https://nexus.eotir.com/topic/581-eagle/",
+          "output_path": "LLM\\character_profiles\\Go_to_Eagle_NeedsANewName_s_profile___archives.txt"
+        },
+        {
+          "character_name": "Stephan Roquen",
+          "topic_url": "https://nexus.eotir.com/topic/547-stephan-roquen/",
+          "output_path": "LLM\\character_profiles\\Stephan_Roquen_archives.txt"
+        },
+        {
+          "character_name": "Avis Deveaux",
+          "topic_url": "https://nexus.eotir.com/topic/460-avis-deveaux/",
+          "output_path": "LLM\\character_profiles\\Avis_Deveaux_archives.txt"
+        },
+        {
+          "character_name": "Victor Cencori",
+          "topic_url": "https://nexus.eotir.com/topic/367-victor-cencori/",
+          "output_path": "LLM\\character_profiles\\Victor_Cencori_archives.txt"
+        },
+        {
+          "character_name": "Leon-Tei Veskyr Morgan",
+          "topic_url": "https://nexus.eotir.com/topic/348-leon-tei-morgan/",
+          "output_path": "LLM\\character_profiles\\Leon-Tei_Veskyr_Morgan_archives.txt"
+        },
+        {
+          "character_name": "Christopher Yeager",
+          "topic_url": "https://nexus.eotir.com/topic/293-christopher-yeager-bio/",
+          "output_path": "LLM\\character_profiles\\Christopher_Yeager_archives.txt"
+        },
+        {
+          "character_name": "Oho \"Krayt\" Gomao",
+          "topic_url": "https://nexus.eotir.com/topic/192-oho-gomao/",
+          "output_path": "LLM\\character_profiles\\Oho__Krayt__Gomao_archives.txt"
+        },
+        {
+          "character_name": "Loxiz Mivvit",
+          "topic_url": "https://nexus.eotir.com/topic/289-loxiz-mivvit/",
+          "output_path": "LLM\\character_profiles\\Loxiz_Mivvit_archives.txt"
+        }
+      ]
+    }
+  ]
+}

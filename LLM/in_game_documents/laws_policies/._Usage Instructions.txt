@@ -1,0 +1,8 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Plugins\(0A1) Installed Plugins\Google Docs Embed 1.0\__MACOSX\Google Docs Embed 1.0\._Usage Instructions.pdf
+category: in_game_documents/laws_policies
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.925223
+---
+
+ERROR: Could not extract text from c:\EOTIR\EOTIR RPG\OOC\IPS\Plugins\(0A1) Installed Plugins\Google Docs Embed 1.0\__MACOSX\Google Docs Embed 1.0\._Usage Instructions.pdf

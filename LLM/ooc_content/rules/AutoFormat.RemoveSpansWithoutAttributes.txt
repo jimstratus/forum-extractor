@@ -1,0 +1,18 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\AutoFormat.RemoveSpansWithoutAttributes.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.389884
+---
+
+AutoFormat.RemoveSpansWithoutAttributes
+TYPE: bool
+VERSION: 4.0.1
+DEFAULT: false
+--DESCRIPTION--
+<p>
+  This directive causes <code>span</code> tags without any attributes
+  to be removed. It will also remove spans that had all attributes
+  removed during processing.
+</p>
+--# vim: et sw=4 sts=4

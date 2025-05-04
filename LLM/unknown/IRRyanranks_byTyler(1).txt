@@ -1,0 +1,34 @@
+---
+source: c:\EOTIR\EOTIR RPG\Directories\IRRyanranks_byTyler(1).xlsx
+category: unknown
+sheets: ['Sheet1']
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:16.523583
+---
+
+--- Sheet: Sheet1 ---
+
+     Army Unnamed: 1     Unnamed: 2               Enlisted                          Officer Unnamed: 5  Unnamed: 6      Unnamed: 7
+     Army        NaN  64,000-128,00                    NaN                  Command General        NaN         NaN             NaN
+ Division          4  16,000-32,000                    NaN                          General        NaN         NaN             NaN
+   Legion        2-4           8000                    NaN Major General/Lieutenant General        NaN         NaN             NaN
+  Brigade          4           4000 Command Sergeant Major        Colonel/Brigadier General        NaN         NaN             NaN
+Batallion          4           1000         Sergeant Major         Major/Lieutenant Colonel        NaN         NaN             Gen
+  Company          5            200        Master Sergeant                          Captain        NaN         NaN             Col
+  Platoon          4          40-48            Sergeant FC                       Lieutenant        NaN         NaN             LTC
+    Squad          4          10-12               Sergeant                              NaN        NaN         NaN             NaN
+   Patrol          2            5-6               Corporal                              NaN     Compny         NaN             NaN
+    Lance          2              3         Lance Corporal                              NaN         XO         NaN             NaN
+      NaN        NaN            NaN                    NaN                              NaN        NaN         NaN Master Sergeant
+      NaN        NaN            NaN                    NaN                              NaN        NaN         NaN             NaN
+      NaN        NaN            NaN                    NaN                              NaN        NaN         NaN      Specialist
+      NaN        NaN        Colonel                    NaN                              NaN        NaN         NaN             NaN
+      NaN        NaN          Major                    NaN                              NaN        NaN         NaN             NaN
+      NaN        NaN            CPT                    NaN                              NaN        NaN         NaN             NaN
+      NaN        NaN             LT                    NaN                              NaN        NaN         NaN             NaN
+      NaN        NaN            SFC                    NaN                              NaN        NaN         NaN             NaN
+      NaN        NaN       Sergeant                    NaN                              NaN        NaN         NaN             NaN
+      NaN        NaN       Corporal                    NaN                              NaN        NaN         NaN             NaN
+      NaN        NaN Lance Corporal                    NaN                              NaN        NaN         NaN             NaN
+      NaN        NaN            PFC                    NaN                              NaN        NaN         NaN             NaN
+      NaN        NaN        Private                    NaN                              NaN        NaN         NaN             NaN

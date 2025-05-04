@@ -1,0 +1,9 @@
+---
+source: c:\EOTIR\EOTIR RPG\Speeches\A Call to Arms.docx
+category: unknown
+title: Word Document
+modified: 2025-05-03 22:31:45+00:00
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:45.447198
+---
+

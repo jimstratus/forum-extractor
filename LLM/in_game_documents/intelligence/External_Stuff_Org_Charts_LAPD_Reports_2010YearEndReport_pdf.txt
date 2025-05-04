@@ -1,0 +1,1016 @@
+ 
+     
+LOS ANGELES POLICE D EPARTMENT  
+2010 Use of Force Annual Report  
+
+PURPOSE OF THIS REPORT  
+MISSION STATEMENT  
+CORE VALUE  It is the mission of the Los Angeles Police Department to safeguard the lives 
+and property of the people we serve, to reduce the incidence and fear of crime, 
+and to enhance public safety while working with the diverse communities to 
+improve their quality of life. Our mandate is to do so with honor and integrity, 
+while at all times conducting ourselves with the highest ethical standards to 
+maintain public confidence.  
+The six Core Values of the Los Angeles Police Department are intended to guide 
+and inspire us.  Making sure that our values become part of our day -to-day 
+work life is our mandate, and they help to ensure that our personal and 
+professional behavior can be a model for all to follow.  
+ ▪ Service to Our Communities  
+ ▪ Reverence for the Law  
+ ▪ Commitment to Leadership  
+ ▪ Integrity in All We Say and Do  
+ ▪ Respect for People  
+ ▪ Quality Through Continuous Improvement  The purpose of this report is to provide a statistical analysis of 
+the lethal, less -lethal and non -lethal force used by LAPD officers; provide an 
+overview of the adjudication processes involved in  use of force incidents; and 
+enhance transparency between the Department and its stakeholders within the 
+City of Los Angeles.  
+
+     Table of Content  
+ 
+ Acronyms……………………..……….……………………………………………………...  
+ Use of Force Policy….……………………………………………………………………….  
+ Categorical Use of Force Adjudication Procedure……………………….…..  
+ Categorical Use of Force Review Board Process……………………………...  
+ Categorical Use of Force Adjudication Policy…………………………………..  
+ Non -Categorical Use of Force Adjudication Procedure…………………...  
+ Non -Categorical Use of Force Reporting Levels………………………………..  
+ 2010 Use of Force Incident Statistics……………………………………………….  
+ Tactics & Use of Force Findings………………………………………………………..  
+ Categorical Use of Force Incident 2010 Statistics…….……………….……..  
+  CUOF Incident Comparison………………..……………..……………….  
+  CUOF Average Time Frame………………………………………………..  
+  CUOF Adjudication Findings……………………………………………….  
+  Hit/No Hit Officer Involved Shooting Incidents………………….  
+  Hit/No Hit OIS Bureau/Division of Occurrence………………….  
+  Hit/No Hit OIS Classification Type………………………………………  
+  Hit/No Hit OIS —Officer Information………………….………………  
+  Hit/No Hit OIS —Suspect Information……………………………….  
+  Animal Shooting Incidents…..…………………………………………….  
+  Unintentional Discharge Incidents…………………………………….  
+  Carotid Restraint Control Hold Incidents………………………….  
+  Head Strike Incidents………………………………………………………..  
+  In-Custody Death Incidents……………………………………………….  
+  K9 Contact with Hospitalization Incidents………………………...  
+  Law Enforcement Related Injury Incidents…..…………………….  
+ Non -Categorical Use of Force Incidents…………………………………………...  
+  NCUOF Incident Summary………………………………………………….  
+  NCUOF Incident Occurrences…..………………………………………..  
+  Force Options Used During NCUOF …………………………………..  
+  Injuries to Officers/Subjects During NCUOF……………………..  
+  Adjudication of NCUOF Incidents…………………..…………..……..  
+ Definitions……………………………………………………………………………………….  
+ Use of Force Review Division Information……………………………………….  
+ 1 
+2 
+5  
+6 
+6 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+19 
+20 
+21 
+22 
+23 
+24 
+24 
+24 
+24 
+25 
+26 
+27 
+32 
+33 
+34 
+35 
+36 
+39 
+ 
+     ACRONYMS  
+AD Administrative Disapproval  
+BJS Bureau of Justice Statistics  
+BOPC  Los Angeles Board of Police Commissioners  
+COP  Chief of Police  
+COS Chief of Staff  
+CRCH  Carotid Restraint Control Hold  
+CUOF  Categorical Use of Force Incident  
+D/E Drawing or Exhibiting  
+FID Force Investigation Division  
+GED  Gang Enforcement Detail  
+GIT Gang Impact Team  
+GTU  General Training Update  
+HS Head Strike  
+ICD In-Custody Death  
+ITD Information Technology Division  
+LAPD  Los Angeles Police Department  
+LERI  Law Enforcement Related Injury  
+MEU  Mental Evaluation Unit  
+NCUOF  Non-Categorical Use of Force Incident  
+OCB  Operations Central Bureau  
+OIS Officer Involved Shooting  
+OAS Office of Administrative Services  
+OSB Operations South Bureau  
+OVB  Operations Valley Bureau  
+OWB  Operations West Bureau  
+PO Police Officer  
+SOB Special Operations Bureau  
+TEAMS II  Training Evaluation and Management System II  
+UD Unintentional Discharge  
+UOF  Use of Force  
+UOFRB  Use of Force Review Board  
+UOFRD  Use of Force Review Division  
+ 
+2    USE OF FORCE POLICY (2010 LAPD Manual 1/556)  
+PREAMBLE TO USE OF FORCE.   The use of force by members of law enforcement 
+is a matter of critical concern both to the public and the law enforcement 
+community.   It is recognized that some individuals will not comply with the law or 
+submit to control unless compelled to do so by the use of force; therefore, law 
+enforcement officers are sometimes called upon to use force in the performance 
+of their duties.   It is also recognized that members of law enforcement derive their 
+authority from the public and, therefore, must be ever mindful that they are not 
+only the guardians, but also the servants of the public.  
+The Department's guiding value when using force shall be reverence for human 
+life. When warranted, Department personnel may objectively use reasonable 
+force to carry out their duties.   Officers who use unreasonable force degrade the 
+confidence of the community we serve, expose the Department and fellow officers 
+to legal and physical hazards, and violate the rights of individuals upon whom 
+unreasonable force is used.   Conversely, officers who fail to use force when 
+warranted may endanger themselves, the community and fellow officers.   
+Objectively Reasonable.   The legal standard used to determine the lawfulness of 
+a use of force is the Fourth Amendment to the United States Constitution.  See 
+Graham v. Connor, 490 U.S. 386 (1989).   Graham  states in part , "The 
+reasonableness of a particular use of force must be judged from the perspective of 
+a reasonable officer on the scene, rather than with the 20/20 vision of 
+hindsight.   The calculus of reasonableness must embody allowance for the fact 
+that police officers are often forced to make split -second judgments - in 
+circumstances that are tense, uncertain and rapidly evolving - about the amount 
+of force that is necessary in a particular situation.   The test of reasonableness is 
+not capable of precise definition or mechanical application.”   The force must be 
+reasonable under the circumstances known to the officer at the time the force 
+was used.   Therefore, the Department examines all uses of force from an objective 
+standard rather than a subjective standard.  
+Factors Used to Determine Reasonableness.   The Department examines 
+reasonableness using  Graham  and from the articulated facts from the perspective 
+of a Los Angeles Police Officer with similar training and experience placed in 
+generally the same set of circumstances.   In determining the appropriate level of 
+force, officers shall evaluate each situation in light of facts and circumstances of 
+each particular case.   Those factors may include but are not limited to:  The 
+seriousness of the crime or suspected offense; the level of threat or resistance 
+presented by the subject;  whether the subject was posing an immediate threat to 
+officers or a danger to the community; the potential for injury to citizens, officers 
+or subjects; the risk or apparent attempt by the subject to escape; the conduct of 
+the subject being confronted (as reasonably perceived by the officer at the time); 
+the time available to an officer to make a decision; the availability of other 
+resources; the training and experience of the officer; the proximity or access of 
+weapons to the subject; officer versus subject factors such as age, size, relative 
+ 
+3    strength, skill level, injury/exhaustion and number officers versus subjects; and, 
+the environmental factors and/or other exigent circumstances.    
+Serious Bodily Injury.   California Penal Code Section 243(f)(4) defines Serious 
+Bodily Injury as including but not limited to:  Loss of consciousness; concussion; 
+bone fracture; protracted loss or impairment of function of any bodily member or 
+organ; a wound requiring extensive suturing; and serious disfigurement.   
+Warning Shots.   The intentional discharge of a firearm off target, not intended to 
+hit a person, to warn others that deadly force is imminent.    
+Use of Force – General.   It is the policy of this  Department that personnel may use 
+only that  force which is “objectively  reasonable” to:   Defend themselves; defend 
+others; effect an arrest or detention; prevent escape; or overcome resistance.  
+Deadly Force.   Law enforcement officers are authorized to use deadly force to: 
+Protect themselves or others from what is reasonably believed to be 
+in imminent  threat of death or serious bodily injury; or, Prevent a crime where the 
+suspect’s actions place person(s) in  imminent  jeopardy of death or serious bodily 
+injury; or,  Prevent the escape of a violent  fleeing felon when there is probable 
+cause to believe the escape will pose a significant threat of death or serious bodily 
+injury to the officer or others if apprehension is delayed.   In this circumstance, 
+officers shall, to the extent practical, avoid using deadly force that might subject 
+innocent bystanders or hostages to possible death or injury.   
+Warning Shots.   Warning shots shall only be used in exceptional circumstances 
+where it might reasonably be expected to avoid the need to use deadly 
+force.   Generally, warning shots shall be directed in a manner that minimizes the 
+risk of injury to innocent persons, ricochet dangers, and property damage.  
+Shooting At or From Moving Vehicles.   Firearms shall not be discharged at a 
+moving vehicle unless a person in the vehicle is immediately threatening the 
+officer or another person with deadly force by means other than the vehicle.   The 
+moving vehicle itself shall not presumptively constitute a threat that justifies an 
+officer’s use of deadly force.   An officer threatened by an oncoming vehicle shall 
+move out of its path instead of discharging a firearm at it or any of its occupants. 
+Firearms shall not be discharged from a moving vehicle, except in exigent 
+circumstances and in the immediate defense of life.   Note:   It is understood that 
+the policy in regards to discharging a firearm at or from a moving vehicle may not 
+cover every situation that may arise.   In all situations, Department members are 
+expected to act with intelligence and exercise sound judgment, attending to the 
+spirit of this policy.   Any deviations from the provisions of this policy shall be 
+examined rigorously on a case -by-case basis.   The involved officer must be able to 
+articulate clearly the reasons for the use of deadly force.   Factors that may be 
+considered include whether the officer’s life or the lives of others were in 
+immediate peril and there was no reasonable or apparent means of escape.  
+ 
+ 
+ 
+4    DRAWING OR EXHIBITING FIREARMS.   Unnecessarily or prematurely drawing or 
+exhibiting a firearm limits an officer's alternatives in controlling a situation, 
+creates unnecessary anxiety on the part of citizens, and may result in an 
+unwarranted or accidental discharge of the firearm. Officers shall not draw or 
+exhibit a firearm unless the circumstances surrounding the incident create a 
+reasonable belief that it may be necessary to use the firearm in conformance with 
+this policy on the use of firearms.   Note:  During a special meeting on September 
+29, 1977, the Board of Police Commissioners adopted the following as a valid 
+interpretation of this Section:  "Unnecessarily or prematurely drawing or 
+exhibiting a firearm limits an officer's alternatives in controlling a situation, 
+creates unnecessary anxiety on the part of citizens, and may result in an 
+unwarranted or accidental discharge of the firearm.  An officer's decision to 
+draw or exhibit a firearm should be based on the tactical situation and the 
+officer's reasonable belief there is a substantial risk that the situation may 
+escalate to the point where deadly force may be justified.  When an officer has 
+determined that the use of deadly force is not necessary, the officer shall, as 
+soon as practicable, secure or holster the firearm."    (2010 LAPD Manual 1/556)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5    A SS IS T AN T C HIE F  
+Sa ndy Jo  Ma cAr th ur  CATEGORICAL USE OF FORCE ADJUDICATION PROCEDURE  
+The Chief of Police receives the UOFRB 
+findings and evaluates the CUOF incident.  
+The COP reports his recommendations to 
+the Board of Police Commissioners.                          
+    
+ 
+                    C HIE F O F PO LICE  
+                        C har li e Be ck    
+The Use of Force Review Board is convened.  
+Chaired by the Director of the Office of 
+Administrative Services  
+Use of Force Review Division receives completed FID investigative case and conducts an 
+analysis of the CUOF incident and schedules a Use of Force Review Board.  
+General Training Update completed within 90 days of the CUOF incident for all 
+substantially involved personnel (identified by the Area Commanding Officer).  
+Chief of Police 72 -Hour Briefing (all OIS and other significant CUOF incidents).  
+Force Investigation Division personnel begins the CUOF incident investigation.  
+Categorical Use of Force incident occurs.  BOARD OF POLICE COMMISSIONERS  
+Debra Wong Yang  
+Commissioner  
+                       
+    
+                                                    
+The Board of Police Commissioners will receive the COP’s recommendations and 
+evaluate the CUOF incident.  The BOPC will then adjudicate the incident and a Tactical 
+Debrief is completed within 90 days.   
+Robert M. Saltzman  
+Commissioner  
+John W. Mack  
+Commissioner  
+Vice President  Alan J. Skobin  
+Commissioner  Richard E. Drooyan  
+Commissioner  
+President
+ 
+6    CATEGORICAL USE OF FORCE REVIEW BOARD PROCESS  
+After UOFRD reviews the CUOF incident, the Use of Force Review Board is 
+convened.  The UOFRB consists of a representative from the following: Office of 
+Administrative Services (Chair), Office of Operations, Personnel and Training 
+Bureau, Geographic Bureau, and a Peer (similar rank of the substantially involved  
+personnel).  The Office of the Inspector General is present at the Board in an 
+oversight capacity.   
+The UOFRB process:  
+ Force Investigation Division provides a detailed presentation of the 
+CUOF incident  
+ The Commanding Officer of the substantially involved personnel 
+provides his/her assessment of the CUOF incident and submits 
+recommended findings to the UOFRB  
+ The UOFRB evaluates the CUOF incident and forwards their 
+recommendations to the Chief of Police  
+ 
+CATEGORICAL USE OF FORCE ADJUDICATION POLICY  
+Tactics, drawing and exhibiting a firearm, and use of force shall be evaluated 
+during the CUOF adjudication process.   The Use of Force Review Board (UOFRB) 
+shall convene and evaluate the CUOF incident.   The Use of Force Review Board 
+shall make recommendations to the COP.   The Chief of Police shall evaluate the 
+CUOF incident and report his/her recommendations to the Board of Police 
+Commissioners (BOPC).   The Board of Police Commissioners will evaluate the 
+CUOF incident and make findings consistent with the following:  
+Area  Findings  Outcome  
+Tactics  Tactical Debrief  Tactical Debrief  
+Administrative Disapproval  Tactical Debrief plus (one or more):  
+•Extensive Retraining   
+•Notice to Correct   
+•Personnel  Complaint   
+D/E In Policy – No Further Action  Tactical Debrief  
+Administrative Disapproval - 
+Out of Policy  
+ Tactical Debrief plus (one or more):  
+•Extensive Retraining   
+•Notice to Correct   
+•Personnel  Complaint   
+UOF In Policy – No Further Action  Tactical Debrief  
+Administrative Disapproval -  
+Out of Policy  Tactical Debrief plus (one or more):  
+•Extensive Retraining   
+•Notice to Correct   
+•Personnel  Complaint   
+ 
+7    During the adjudication process, the UOFRB, COP, and BOPC may identify areas of 
+conduct that should be included during the Tactical Debrief.   After the 
+adjudication, Use of Force Review Division (UOFRD) shall compile the list of issues 
+to be debriefed and provide it to the CUOF Debrief Facilitator.  
+The CUOF Debrief Facilitator shall conduct the Tactical Debrief with the personnel 
+involved in the CUOF incident.   The CUOF Debrief Facilitator shall be responsible 
+for presenting the fact pattern of the case and leading a facilitated discussion on 
+the training, tactics, force, and leadership issues applicable to the incident.   The 
+CUOF Debrief Facilitator will  present those tactical practices identified by the 
+adjudication process as “strengths” and “lessons learned” so that future practices, 
+policies, or procedures can be enhanced.   The Tactical Debrief shall provide 
+training in the areas of drawing and exhibiting a firearm and use of 
+force.   Note:   The Commanding Officer, UOFRD, shall coordinate the Tactical 
+Debrief Facilitation process.  
+ 
+The Tactical Debrief analysis will be summarized on an Intradepartmental 
+Correspondence, Form 15.02.00, and forwarded within 21 days to UOFRD, 
+Training Division, and Force Investigation Division to collect and analyze the 
+results to further enhance adjudication, training, and critical incident 
+investigations.   Note:   The intent of the Tactical Debrief analysis is to review and 
+analyze Department -wide training, practices, policies and procedures.   The 
+Tactical Debrief analysis shall not focus on or document findings, 
+recommendations, or analysis of individual employees or the incident.  
+(2010  LAPD Manual 3/792.10, 3/792.15)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+8    NON -CATEGORICAL USE OF FORCE INCIDENT ADJUDICATION PROCEDURE  
+COMMANDING OFFICER'S RESPONSIBILITY.  Upon receipt of a Non -Categorical 
+use of force investigation, the commanding officer shall:  Utilize the Area/Division 
+Training Coordinator to evaluate the incident; contact subject matter experts 
+(e.g., Training Division) to obtain additional information, as needed; review all 
+reports and make a recommendation on the disposition; sign the Use of Force 
+Internal Process Report, Form 01.67.04; and notify the employee of Use of Force 
+Review Division’s final disposition as soon as practicable.  
+Non-Categorical Use of Force investigations shall be reviewed by Area/division 
+commanding officers or the acting commanding officer within 14 calendar days of 
+the incident. Investigations not reviewed within the 14 -day time frame require a 
+written explanation on the Non -Categorical Use of Force Internal Process Report 
+(IPR). Upon Area/Division commanding officer approval, the IPR shall be 
+forwarded to the bureau immediately.  
+BUREAU COMMANDING OFFICER'S RESPONSIBILITY.  Upon receipt of a Non -
+Categorical Use of Force investigation, the bureau commanding officer shall:  
+Cross -staff with Internal Affairs Group (IAG) to determine if a related complaint 
+investigation has been initiated regarding the use of force incident and, if so, take 
+that information into consideration; review all reports and make a 
+recommendation on the disposition; sign the IPR; forward the IPR, with all related 
+reports attached, to the Commanding Officer, Use of Force Review Division, within 
+seven calendar days of receipt; and upon receipt of the disposition from Use of 
+Force Review Division, notify the employee's commanding officer of that 
+disposition.  
+COMMANDING OFFICER, USE OF FORCE REVIEW DIVISION, RESPONSIBILITY.  The 
+Office of Administrative Services, is the Department’s review authority for the 
+administrative review of all use of force incidents.  For Non -Categorical Uses of 
+Force, that authority is generally exercised through the Commanding Officer,  Use 
+of Force Review Division, who shall:  Review the Non -Categorical Use of Force 
+investigation and all related reports to ensure compliance with Department policy 
+and procedure; approve or disapprove the recommended disposition and provide 
+a written rationale for any finding that differs from that of the bureau 
+commanding officer; retain the original Non -Categorical Use of Force Internal 
+Process Report and copies of all related reports; and forward a copy of the 
+completed Internal Process Report to the bureau commanding officer.  If the 
+Commanding Officer, Use of Force Review Division, requires further information 
+prior to adjudication, such a request shall be submitted to the employee's bureau 
+commanding officer.  (2010 LAPD Manual 3/793.05 -3/793.15)  
+ 
+ 
+9    NON -CATEGORICAL USE OF FORCE REPORTING LEVELS  
+All Non -Categorical Use of Force incidents shall be initially classified by the 
+investigating supervisor as either a Level I or Level II incident.  
+Level I Incident.  A NCUOF shall be reported as a Level I incident under the 
+following circumstances:   An allegation of unauthorized force is made regarding 
+the force used by a Department employee(s); or the force used results in a serious 
+injury, such as a broken bone, dislocation, an injury requiring sutures, etc., that 
+does not rise to the level of a CUOF incident;  
+Note:  If the investigating supervisor is unable to verify the seriousness of an 
+injury or complained of injury, it shall be reported as a Level I incident.  If the 
+injury requires admission to a hospital, the incident becomes a CUOF and will 
+be investigated by Force Investigation Division.  
+or, the injuries to the person upon whom force was used are inconsistent with the 
+amount or type of force reported by involved Department employee(s); or 
+accounts of the incident provided by witnesses and/or the subject of the use of 
+force substantially conflict with the involved employee(s) account.  
+Level II Incident.  All other reportable NCUOF that do not meet Level I criteria shall 
+be reported as Level II incidents. This will include the use of an impact device or 
+less-lethal munitions  with  hits (Refer to Manual Section 4/245.13 for Level II 
+reporting guidelines).  
+Note:  If the use of an impact device or less -lethal munitions causes a serious 
+injury such as a broken bone, dislocation, or an injury requiring sutures, etc., 
+and does not rise to the level of a CUOF, it shall be reported as a Level I 
+incident. Department employees are reminded that any person struck with a 
+baton shall be transported to a Department approved medical facility for 
+medical treatment prior to booking. ( 2010 LAPD Manual 3/245.11)  
+ 
+ 
+ 
+ 
+10    2010 USE OF FORCE INCIDENT STATISTICS  
+In 2010, there were a total of 1661 reportable use of force incidents which 
+reflects a six percent decrease from 2009.  
+UOF  2010  2009  2008  2007  
+Categorical  86 86 104 106 
+NCUOF  1575  1676  1557  1699  
+TOTAL  1661  1762  1661  1805  
+The percentage of a use of force incident increased (0.04 percent) slightly  from 
+0.97 percent per 100 arrests to 1.01 percent in 2010, but the use of force per 
+contact decreased by 0.02 percent.  
+1.01% 0.97%0.90%0.98%
+0.18% 0.20% 0.19% 0.21%
+2010 2009 2008 2007Percent of UOF per Arrest and Contact
+UOF/Arrest
+ UOF/Contact
+Reportable uses of force are adjudicated within  one year of occurrence, unless 
+tolled.  In 2010, one CUOF incident was tolled and on average, CUOF incidents 
+were adjudicated in 315 days.  NCUOF incidents were adjudicated on average in 
+72 days.  
+2010 2009 2008
+CUOF 315 326 339
+NCUOF 72 88 740100200300400DaysUOF Adjudication Timeframe
+ 
+11    TACTICS  TD/NA  AD 
+2010  4467  99.22%  35 0.78%  
+2009  4640  99.32%  32 0.68%  
+2008  4506  99.32%  31 0.68%  
+UOF  IP OP 
+2010  4384  99.57%  19 0.43%  
+2009  4521  99.54%  21 0.46%  
+2008  4248  99.77%  10 0.23%  In 2010, there were 4502 (4467 TD/NA, 35 AD) substantially involved personnel 
+who received a tactics finding.  Over 99 percent of all officers were found to be 
+consistent with Department training.    
+In 2010, there were a total of 4403 (4384 IP, 19 OP) substantially involved 
+personnel who received a UOF finding.  Over 99 percent of all officers were found 
+to be within policy.   USE OF FORCE FINDING  TACTICS FINDING  
+4467 4640 4506
+35 32 31
+2010 2009 2008
+TD/NA
+ AD
+4384 4521 4248
+19 21 10
+2010 2009 2008
+IP
+ OP
+ 
+12    CATEGORICAL USE OF FORCE  
+INCIDENTS 2010 STATISTICS  
+ 
+13    CATEGORICAL USE OF FORCE INCIDENTS COMPARISON  
+Categorical Use of Force  2010  07-09 Avg    
+Hits 26 30   
+No Hits  14 13   
+Animal Shootings  18 18   
+Unintentional Discharges (UD)  7 9   
+Total Officer Involved Shootings  65 70   
+Law Enforcement Related Injuries (LERI)  9 9   
+In-Custody  Deaths (ICD)  7 6   
+Carotid Restraint Control Holds (CRCH)  1 2   
+Head Strikes (HS)  3 7   
+K9 Contacts  1 4   
+Total Others  21 28   
+TOTAL CUOF INCIDENTS  86 98   
+Hit No Hit Animal UD CRCH HS ICD K9 LERII
+2010 26 14 18 7 1 3 7 1 9
+2009 27 9 17 9 0 5 1 6 11
+2008 31 11 17 13 2 8 9 4 9
+2007 33 18 21 6 2 9 8 1 805101520253035Annual CUOF Comparison
+ TOTALS  2010  2009  2008  2007  
+CUOF  86 85 104 106 
+ 
+14    After a CUOF incident, the substantially involved personnel receive a 
+mandated GTU.  The GTUs must be completed within 90 days of the incident.   
+ In 2010, there was a compliance rate of 100 percent (excluding short term 
+and long term leave of absences)  
+Upon the completion of the adjudication process, a TD is convened with the 
+substantially involved personnel.  The TD shall be provided within 90 days of 
+the adjudication of the CUOF incident.   
+ In 2010, 100 percent of the SIP attended the TD (excluding short term and 
+long term leave of absences)  CATEGORICAL USE OF FORCE AVERAGE TIMEFRAME  
+FID Board Adjudicated
+2010 189 62 315
+2009 210 67 326
+2008 209 73 339050100150200250300350400DaysAverage Timeframe
+2010 2009 2008
+GTU 33 32 42
+TD 44 50 550102030405060DaysGTU and Tac Debrief Completion Average
+ 
+15    CATEGORICAL USE OF FORCE ADJUDICATION FINDINGS  
+Tactics  TD AD 
+2010  237 92.58%  19 7.42%  
+2009  234 91.05%  23 8.95%  
+2008  396 93.62%  27 6.38%  
+D/E IP OP 
+2010  162 99.39%  1 0.61%  
+2009  171 98.84%  2 1.16%  
+2008  280 99.64%  1 0.36%  
+NonLethal  IP OP 
+2010  72 100.00%  0 0.00%  
+2009  75 98.68%  1 1.32%  
+2008  76 100.00%  0 0.00%  
+LessLethal  IP OP 
+2010  13 100.00%  0 0.00%  
+2009  19 100.00%  0 0.00%  
+2008  14 100.00%  0 0.00%  
+Lethal  IP OP 
+2010  95 95.00%  5 5.00%  
+2009  81 94.19%  5 5.81%  
+2008  112 97.39%  3 2.61%  
+Legend  
+AD Administrative Disapproval  
+IP In Policy  
+OP Out of Policy  
+D/E Drawing/Exhibiting  
+TD Tactical Debrief  
+ 
+16     Observation activities and Radio Calls represent approximately 65 percent of 
+Hit/No Hit incidents  
+ Traffic/pedestrian stops accounted for 54 percent of observation activities  
+ Disturbance calls represented 38 percent of radio calls  
+ Assault with a deadly weapon represented 31 percent of radio calls  HIT AND NO HIT OFFICER INVOLVED SHOOTING INCIDENTS  
+Hit and No Hit Officer Involved Shootings represent a majority of the CUOF 
+incidents.  In 2010, there were 40 incidents (26 Hit/14 No Hit), involving 75 
+Officers discharging their firearm at a suspect(s).  
+INCIDENT  Hit No Hit  Hit/No Hit  
+Ratio  
+2010  26 14 65%  
+2009  27 9 75%  
+2008  31 11 74%  
+5
+13
+3
+13
+6Gang Investigation
+Observation
+Off Duty
+Radio Call
+Task Force/Special DetailSource of Activity
+ 
+17    HIT AND NO HIT OIS INCIDENT BUREAU/DIVISION OF OCCURRENCE  
+6
+13
+2
+12 2
+12 24 4
+3
+12
+13Division of Occurrence
+Central South Valley West Out of City
+2010 9 15 9 4 3
+2009 11 10 4 8 3
+2008 15 13 5 4 50246810121416Hit/No HitBureau of Occurrence
+ 
+18    
+HIT AND NO HIT OIS INCIDENT MONTH/DAY/HOUR OF OCCURRENCE  
+13 3 36
+5 5
+23
+234Month
+ 
+19    Type  Description  
+I Suspect verified with firearm – fired at officer or 3rd party  
+II Suspect verified with firearm – firearm in hand or position to 
+fire, but did not fire  
+III Perception shooting – firearm present but not drawn  
+IV Perception shooting – no firearm found  
+V Shooting of person armed with weapon other than firearm  
+VI Shooting of person with no weapon - SBI to self/others  
+VII Tactical Discharge  HIT AND NO HIT OFFICER INVOLVED SHOOTING CLASSIFICATION TYPE  
+LAPD Officers were engaged in an OIS with a suspect(s) armed with a firearm or 
+other weapon in 83 percent (I,II,V) of the Hit/No Hit incidents.  In the Class IV 
+type, perception shootings where no firearm was found, the officers perceived a 
+firearm but pending further investigation, the suspect was in possession of an 
+item perceived to be a firearm (i.e. cell phone, bottle).   
+Hit/No Hit incidents are classified as follows:        
+I II III IV V VI VII
+2010 6 20 0 5 7 1 1
+2009 8 18 0 3 5 2 1
+2008 13 12 1 6 9 2 00510152025Classification Type
+ 
+20    HIT/NO HIT OIS —OFFICER INFORMATION  
+ 75 Officers 
+discharged their 
+firearm, in 40 Hit/
+No Hit incidents.  In 
+one incident the 
+discharge was a 
+warning shot (not 
+included in the 
+following graphs)  
+ The rank, 
+assignment, years of 
+employment , 
+firearm, distance 
+and rounds fired 
+were consistent 
+with prior years  
+4 6228
+19
+83 4Officer Firearm
+ 
+21    
+ Out of the 40 Hit/No Hit OIS 
+incidents, 16 suspects were 
+killed and 13 suspects were 
+injured  
+ 14 Hit/No Hit incidents involved  
+documented gang members  
+ Seven incidents involved 
+suspects under the influence of 
+drugs and/or alcohol  
+ Two incidents involved a suspect 
+with a mental disorder  
+ One incident involved a female 
+suspect  HIT/NO HIT INCIDENT —SUSPECT INFORMATION  
+In the four of the five incidents involving Officer’s perception of a firearm, the 
+suspects were in possession of a bat, cell phone, bottle, and an unknown dark 
+object.  The suspects made similar movements as raising a firearm and pointing it 
+towards the officers.  In the fifth incident, the officer heard gunfire and 
+discharged his/her firearm.   
+
+ 
+22    ANIMAL SHOOTING INCIDENTS  
+ 15 of the 18 Animal OISs, involved a dog shooting  
+ The other three were off duty, involving a bear, opossum, and a bobcat  
+
+ 
+23    UNINTENTIONAL DISCHARGE INCIDENTS  
+There have been seven Unintentional Discharge incidents in 2010.  
+ Three incidents occurred while conducting police activity, and accidently 
+pressed the trigger  
+ Four incidents occurred during an inspection of the firearm and accidently 
+pressed the trigger  
+1 13
+1 1
+Glock .40 cal Glock .45 cal Remmington 
+ShotgunHK 416D Unk Semi 
+PistolFirearm
+1-2 
+Years
+43%
+7-10
+28%12-13
+29%Length of Employment
+PO1
+14%
+PO2
+57%PO3
+29%
+Officer Rank  Length of Employment  
+ 
+24    IN-CUSTODY DEATH INCIDENTS  
+There were seven ICD incidents in 
+2010, which was an increase over 
+2009 (1), but consistent with the 
+average of the previous three years 
+(6).    
+ One of the ICD incidents has been 
+tolled and awaiting adjudication  
+ Five of the subjects were under the 
+influence of drugs, but three 
+subjects died due to an accidental 
+death caused by drugs (based on 
+Coroner’s autopsy)  
+CAROTID RESTRAINT CONTROL HOLD INCIDENT  
+There was one CRCH incident in 2010.  In the incident, the officer was attempting 
+to handcuff a violent suspect armed with a firearm.   
+ 
+HEAD STRIKE INCIDENTS  
+There were three Head Strike 
+incidents in 2010.  One of the three 
+incidents, was an intentional use of 
+deadly force to strike the suspect’s 
+head with a baton.  The other two 
+incidents were inadvertent strikes to 
+the suspect’s head with a bean bag  
+round and a baton.       
+K-9 CONTACTS WITH HOSPITALIZATION INCIDENT  
+In 2010, there was one K -9 Contact with Hospitalization incident.  The average of 
+the previous three years has been four per year.   
+ The K -9 Contact occurred while searching for a gang member armed with a 
+firearm  
+ 
+ 
+25    LAW ENFORCEMENT RELATED INJURY INCIDENTS  
+There were nine LERIs in 2010 which are consistent with the prior years.  
+ Five of nine incidents were generated by a radio call, three observation 
+investigations, and one task force/special detail  
+ All incidents involved suspects that were fighting and resisting arrest  
+ Four suspects were documented gang members  
+ Three suspects were under the influence of drugs/alcohol  
+ Suspect Race: one Black, three Hispanic, three White, two Other  
+ Eight of nine suspects were males  
+5
+02 2
+Central South Valley WestBureau
+ 
+26    Non-Categorical  
+Use of Force Incidents  
+ 
+27    YEAR  NCUOF INCIDENTS  LEVEL I / LEVEL II  
+2010  1575  113/1462  
+2009  1676  113/1563  
+2008  1557  148/1409  
+2007  1699  180/1519  NON -CATEGORICAL USE OF FORCE INCIDENT SUMMARY  
+Overall, NCUOF incidents decreased six percent Department -wide between 2010 
+and 2009, with Level I incidents remaining consistent.  
+
+ 
+28    
+Central Hollenbeck Newton Northeast Rampart
+2010 114 51 85 67 69
+2009 104 76 100 61 70
+2008 134 94 85 56 122
+2007 124 65 105 65 110Central Bureau
+ 
+29    
+Harbor 77th Street Southeast Southwest
+2010 58 151 130 139
+2009 48 205 147 130
+2008 45 167 128 121
+2007 67 153 148 134South Bureau
+ 
+30    
+Devonshire Foothill MissionNorth 
+HollywoodVan Nuys West Valley Topanga
+2010 44 80 79 48 67 37 33
+2009 36 65 109 45 62 42 58
+2008 22 55 79 34 88 50 0
+2007 29 74 73 59 85 66 0Valley Bureau
+ 
+31    
+Hollywood Pacific West LA Wilshire Olympic
+2010 120 57 24 39 52
+2009 93 48 28 51 66
+2008 100 45 27 73 0
+2007 115 58 38 97 0West Bureau
+ 
+32    NON -CATEGORICAL USE OF FORCE INCIDENT OCCURRENCES  
+ 63 percent of NCUOF occurred on Thursday through Sunday  
+ 48 percent occurred between the hours of 6:00 PM and Midnight  
+ 48 percent of NCUOF occurred investigating a Radio Call, followed by 37 
+percent while conducting self -initiated, observational activities  
+18746
+127581
+96
+Station Call Radio Call Other Obs Activity Citizen CallSource of Activity
+ 
+33    FORCE OPTIONS USED DURING NON -CATEGORICAL USE OF FORCE INCIDENTS  
+ In 2010, some type of physical force accounted for 88 percent of all force 
+options used during NCUOF incidents, compared to 87 percent in 2009 and 88 
+percent in 2008  
+ The most commonly used control device, a TASER, accounted for six percent of 
+all Force Type options used during NCUOF incidents in 2010, followed by OC 
+Spray with three percent  
+ The TASER was used 54 percent of the time (2009, 51 percent), OC Spray was 
+deployed 27 percent (2009, 34 percent), Baton used 14 percent (2009, 11.2 
+percent) and the Bean Bag Shotgun was deployed 5 percent (2009, 3.8 percent)  
+During a NCUOF, one or more force option was used.  In a single NCUOF incident, 
+the involved officers may have used a chemical agent, a baton strike, and finally a 
+takedown and physical force to control a subject.  Each force option or tool used 
+was counted separately and included in the chart.  
+ 
+
+ 
+34    INJURIES TO OFFICERS AND SUBJECTS DURING NCUOF INCIDENTS   
+Visible injuries suffered by officers during NCUOF incidents were similar in type as 
+those suffered by subjects (i.e. contusions and abrasions) but not in frequency.  
+The Officer and Subject tables detail the four categories used to capture injuries 
+during NCUOF incidents.  Visible injuries include contusions and bruises, 
+lacerations, punctures, scratches and abrasions. Officers and subjects may have 
+more than one visible injury (i.e. a contusion and an abrasion) which would be 
+counted separately.   The most common visible injuries were abrasions/scratches.  
+ 
+OFFICER INJURY   
+ 
+ 
+SUSPECT INJURY  
+ 
+   2010  2009  2008  
+OFFICER INJURY  NUMBER  % NUMBER  % NUMBER  % 
+Visible Injury  518 24 786 27 575 17 
+No Injury  1518  71 1882  66 2606  79 
+Complained of Pain  87 4 167 6 116 3 
+Fractures/Dislocation  17 0.8 9  0.3 20 0.6 
+TOTALS  2140   2857    3317    
+  2010  2009  2008  
+SUBJECT INJURY  NUMBER  % NUMBER  % NUMBER  % 
+Visible Injury  1473  59 1567  62 1559  60 
+No Injury  489 20 552 22 562 22 
+Complained of Pain  500 20 370 15 420 16 
+Fractures/Dislocation  25 1 22 1 40 2 
+TOTALS  2496   2489   2581   
+ 
+35    ADJUDICATION OF NON -CATEGORICAL USE OF FORCE INCIDENTS  
+All NCUOF incidents are reviewed by the officer’s chain -of-command to ensure 
+compliance with Department policy, and adherence to tactical standards and 
+training.  All NCUOF incidents are reviewed by commanding officers where a 
+finding for force and tactics employed by the officer are evaluated.  Each officer 
+who uses force during a NCUOF incident is given separate findings for the force 
+and tactics.  These findings are bifurcated to better evaluate the actions of the 
+officer leading up to and during the incident (tactics) and the actual control tools 
+(force) used by that officer.  The officer’s Area commanding officer (where 
+appropriate) and Bureau commanding officer, also review the investigation and 
+provide their own findings. The Office of Administrative Services is the final 
+authority in adjudicating NCUOF incidents and delegates to the commanding 
+officer, Use of Force Review Division, the responsibility of the final review and 
+adjudication of NCUOF incidents on behalf of the Chief of Police.  
+In 2010, over 99 percent of all officers involved in a NCUOF were found to be  
+consistent with Department training and/or policy.   
+NON -CATEGORICAL USE OF FORCE INCIDENTS  2010  2009  2008  2007  
+Total Officers Involved  4246  4415  4154  4432  
+Tactics    In Policy/No Action  3586  3704  3540  3899  
+  In Policy/Non -Disciplinary Action  644 702 610 523 
+  Out of Policy (AD)  16 9 4 10 
+Total Officers Involved  4218  4361  4053  4338  
+Force Used    In Policy/No Action  4046  4123  3878  4189  
+  In Policy/Non -Disciplinary Action  158 223 168 133 
+  Out of Policy (AD)  14 15 7 16 RACE OF SUBJECTS INVOLVED IN A NCUOF INCIDENTS  
+SUBJECTS   2010  2009  2008  
+RACE  NUMBER  % NUMBER  % NUMBER  % 
+Asian  17 1 17 1 29 2 
+Black  576 38 624 39 580 38 
+Hispanic  680 45 735 46 715 46 
+White  240 16 231 14 220 14 
+ 
+36    DEFINITIONS  
+Carotid Restraint Control Holds :  All uses of an upper body control hold by a 
+Department employee, including the use of a modified carotid, full carotid or locked 
+carotid hold.  (2010 LAPD Manual 3/794.10)  
+Categorical Use of Force Incident:   An incident involving the use of deadly force 
+(e.g., discharge of a firearm) by a Department employee; all uses of an upper body 
+control hold by a Department employee, including the use of a modified carotid, full 
+carotid or locked carotid hold; all deaths while the arrestee or detainee is in the 
+custodial care of the Department (also known as an In -Custody Death or ICD); A use 
+of force incident resulting in death; a use of force incident resulting in an injury 
+requiring hospitalization,  commonly referred to as a Law Enforcement Related 
+Injury or LERI; all  intentional  head strikes with an impact weapon or device (e.g., 
+baton, flashlight, etc.)  and all unintentional  (inadvertent or accidental)  head strikes 
+that results in  serious  bodily injury, hospitalization  or death; officer involved animal 
+shootings and non -tactical unintentional discharges . (2010 LAPD Manual 3/792.05)  
+Deadly (Lethal) Force: Refer to the Use of Force Policy (pg. #3)  
+Drawing and Exhibiting and/or Use of Force - Administrative Disapproval - Out of 
+Policy:   A finding, supported by a preponderance of the evidence, that the actions 
+of the employee relative to drawing and exhibiting a firearm or use of force were 
+not within the Department’s policies.  (2010 LAPD Manual 3/792.05)    
+Drawing and Exhibiting and Use of Force - In Policy – No Further Action:   A 
+finding, supported by a preponderance of the evidence, that the actions of the 
+employee relative to drawing and exhibiting a firearm or use of force were within 
+the Department’s policies.   (2010 LAPD Manual 3/792.05)  
+Force Option:  All Department -approved physical force techniques (i.e., firm grip, 
+punch, takedown, etc.) or devices (i.e., OC spray, baton, TASER, etc.) available to 
+an officer.  Force Options fall into the following three categories:  Lethal (Deadly 
+Force),  Less -Lethal  (TASER, bean bag, other projectile devices), Non -Lethal (firm 
+grip, takedown, etc.).  
+General Training Update: Standardized training provided by the employee’s 
+command or Training Division personnel, to personnel involved in a CUOF 
+incident.   The Training Update is not an inquiry into the specific details of the 
+CUOF.   The intent of the update is to provide involved personnel with standardized 
+training material in the tactical issues and actions readily identified in the CUOF 
+incident as well as an update on the Use of Force policy.   Training should be 
+provided as soon as practicable.   (2010 LAPD Manual 3/792.05)  
+Head Strikes:  All intentional  head strikes with an impact weapon or device (e.g., 
+baton, flashlight, etc.)  and all unintentional  (inadvertent or accidental)  head strikes 
+that results in  serious  bodily injury, hospitalization  or death .  (2010 LAPD Manual 
+3/794.10)  
+ 
+ 
+37    Imminent:  Black’s Law Dictionary defines imminent as, “Near at hand; 
+impending; on the point of happening.”   (2010 LAPD Manual 1/556.10)  
+In-Custody Deaths:  All deaths while the arrestee or detainee is in the custodial 
+care of the Department.  (2010 LAPD Manual 3/794.10)    
+Less -Lethal Force: Force which describe weapons and ordnance that are not 
+fundamentally designed to kill or cause serious injury and is associated with 
+projectile munitions such as the Department’s bean bag shotgun, Sage Launcher 
+or TASER.  
+Non -Categorical Use of Force:  Incident in which any on -duty Department 
+employee, or off -duty employee whose occupation as a Department employee is a 
+factor, uses a less -lethal control device or physical force to: Compel a person to 
+comply with the employee's direction; or, Overcome resistance of a person during 
+an arrest or a detention; or, Defend any individual from an aggressive action by 
+another person.   
+The following incidents are  not reportable as a Non -Categorical Use of Force: The 
+use of a C -grip, firm grip, or joint lock to compel a person to comply with an 
+employee’s direction which does not result in an injury or complained of injury; 
+The use of force reasonable to overcome passive resistance due to physical 
+disability, mental illness, intoxication, or muscle rigidity of a person (e.g., use of a 
+C-grip or firm grip, joint lock, joint lock walk down or body weight) which does not 
+result in an injury or complained of injury; to being handcuffed. Since there are no 
+injuries or complained of injuries, this incident is not a reportable use of force. 
+Under any circumstances, the discharge of a less -lethal projectile weapon (e.g., 
+bean bag shotgun, TASER, 37mm or 40mm projectile launcher, any chemical 
+control dispenser or Compressed Air Projectile System) that does  not contact a 
+person;  Note:  Such incidents shall be reported on an Employee's Report, Form 
+15.07.00, and submitted to the commanding officer for review and appropriate 
+action.  Force used by an organized squad in a crowd control situation, or a 
+riotous situation when the crowd exhibits hostile behavior and does not respond 
+to verbal directions from Department employees. Such incidents are documented 
+via an after -action report or Sergeant’s Daily Report, Form 15.48.00; and  isolated 
+incidents resulting from a crowd control situation may require a use of force 
+investigation as determined by a supervisor at the scene.   (2010 LAPD Manual 
+4/245.05)  
+Non -Lethal Force: Amount of force not likely to cause significant or serious injury.  
+Substantially Involved Personnel:  The term “substantially involved” includes the 
+employee(s) applying force or who had a significant tactical or decision -making 
+role in the incident.   (2010 LAPD Manual 3/792.05)   
+Tactics - Administrative Disapproval:   A finding, supported by a preponderance of 
+the evidence, that the tactics employed during a CUOF incident unjustifiably and 
+substantially deviated from approved Department tactical training.  (2010 LAPD 
+Manual 3/792.05)   
+ 
+38    Tactics —Standard (Tactical) Debrief:   A finding that no action beyond the Tactical 
+Debrief and Training Update is needed. (2010 LAPD Manual 3/792.05)   
+Tactical Debrief:  The collective review of an incident to identify those areas where 
+actions and decisions were effective and those areas where actions and decisions 
+could have been improved.   The intent of a Tactical Debrief is to enhance future 
+performance.   The Tactical Debrief is conducted by the Categorical Use of Force 
+Debrief Facilitator.   (2010 LAPD Manual 3/792.05)   
+Unintentional Discharge:  The unintentional discharge of a firearm regardless of 
+cause.   Unintentional discharges are evaluated then determined to be “Accidental 
+Discharges” or “Negligent Discharges.”  (2010 LAPD Manual 3/792.05)  
+Use of Force —Tactics Directive:  A written directive from the Chief of Police, which 
+contains procedure and/or insight into use of force issues.  Use of Force policy  will 
+continue to be placed into the Department Manual and may be reiterated in a Use 
+of Force —Tactics Directive.   
+ 
+ 
+39    
+CONTACT INFORMATION  
+ Office of Administrative Services  
+ Sandy Jo MacArthur,  Assistant  Chief  
+ 100 West First Street, Suite 1030    
+ Los Angeles, CA 90012  
+ 213-486-6790    
+ 
+ Use of Force Review Division  
+ Captain Scott Sargent  
+ 100 West First  Street, Suite 268,  
+ Los Angeles, CA 90012  
+ 213-486-5950  
+  Administrative Section  
+Sergeant Susana Padilla  
+213-486-5950  
+  Categorical Review Section  
+Lieutenant Jeff Wenninger  
+213-486-5960  
+  Non -Categorical Review Section  
+Lieutenant Brian Gilman  
+213-486-5970  
+  Tactics Review Section  
+Sergeant Derek O’Donnell  
+  213-486-5980  ABOUT THE DIVISION  
+Use of Force Review Division is comprised 
+of the following sections:  Administration 
+Section, Categorical Review Section, Non -
+Categorical Review Section and Tactics 
+Review Section.  Use of Force Review 
+Division reports directly to the Office of 
+Administrative Services and facilitates the 
+review and adjudication of all Categorical 
+and Non -Categorical Use of Force 
+incidents on behalf of the COP.  
+Use of Force Review Division coordinates 
+and schedules the Use of Force Review 
+Boards for Categorical Use of Force 
+incidents and provides staff support to 
+the Board members. Use of Force Review 
+Division maintains and updates 
+Categorical and Non -Categorical Use of 
+Force databases and prepares statistical 
+information pertaining to use of force 
+incidents.   
+Additionally, the Tactics Review Section 
+provides Department -wide use of force 
+training,  oversees the Department’s 
+General Training Update and Tactical 
+Debrief process, as well as, publishes the 
+quarterly Tac Ops newsletter and 
+maintains the UOFRD website (LAN).  

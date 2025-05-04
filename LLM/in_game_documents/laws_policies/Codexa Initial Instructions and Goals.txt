@@ -1,0 +1,69 @@
+---
+source: c:\EOTIR\EOTIR RPG\Codexa\Codexa Initial Instructions and Goals.docx
+category: in_game_documents/laws_policies
+title: Word Document
+modified: 2025-05-03 22:31:05+00:00
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:05.801767
+---
+
+🧭 INITIAL INSTRUCTIONS & GOALS
+Establish Source Priority for Governance Queries
+
+Prioritized source list defined for all questions related to:
+
+Laws
+
+Policies
+
+Organization charts
+
+Government structure
+
+Leadership
+
+List is editable by designated admins.
+
+ClickUp doc initially used, later replaced with a structured Google Sheet.
+
+Enable Admin Control
+
+Admins may append, reorder, and remove sources at will.
+
+Admins designated:
+
+Ryan (Nexus) / Ryan Mander (ClickUp)
+
+Keshaun (Nexus) / Keshaun Williams (ClickUp)
+
+Registry Automation Setup
+
+Spreadsheet at Google Sheets Registry established as the canonical source registry.
+
+Supports multiple tabs: Source Priority, Canonical Docs, Forum Threads, etc.
+
+Terminology Enforcement
+
+The governing document is called the Imperial Republic Charter (not “constitution”).
+
+All references to constitutional law/authority are replaced with charter law/authority.
+
+Any document tagged charter is interpreted as foundational law.
+
+Validation & Flagging Logic
+
+Google Apps Script created to:
+
+Validate links, version status, canonical flags, and tags
+
+Distinguish Superseded from Deprecated
+
+Color-code document rows by status
+
+Terminal Access Project Recognition
+
+The new web platform initiative is tracked via ClickUp:
+
+Terminal Access Project Workspace
+
+Codexa is now aware of its structure and can assist with briefs, features, and feedback collection.

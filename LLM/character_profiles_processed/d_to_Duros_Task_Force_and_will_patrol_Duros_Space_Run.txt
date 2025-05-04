@@ -1,0 +1,57 @@
+# Character Profile: d to Duros Task Force and will patrol Duros Space Run
+
+**Generated:** 2025-05-03 16:42:39
+**Source Files:** 2
+
+
+## Source: Character_Profiles_Grand_admiral_profiles_docx.txt
+
+6 – Grand Admiral Rob Surrell  – Duros Task Force – Clone Warrior
+
+--------------------------------------------------
+
+
+## Source: Grand admiral profiles.txt
+
+---
+source: c:\EOTIR\EOTIR RPG\Character Profiles\Grand admiral profiles.docx
+category: character_profiles
+author: Ryan Mander
+created: 2018-05-25 06:14:00+00:00
+modified: 2018-08-06 04:01:00+00:00
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:30:58.255686
+---
+
+Due to the corruption and vacancies left in the Grand Admiralty, extreme measures have been taken:
+By order of the Supreme Commander of the Armed Forces, the following actions are taken/put into effect immediately: 
+6 – Grand Admiral Rob Surrell  – Duros Task Force – Clone Warrior
+Background check from IRIS, IRSB, HMI, IRAF-MI, IRIS-DCI
+Retired officer, commission reactivated by order of the Supreme Commander, advanced in rank to Grand Admiral
+6th Task Force renamed to Duros Task Force and will patrol Duros Space Run
+7 – Grand Admiral Luna Xidgol – Diplomatic Task Force – Messenger or First Diplomat
+Background check from IRIS, IRSB, HMI, IRAF-MI, IRIS-DCI
+Recently commissioned officer from Stryker Military Services (Stryker House), served special military officer to the Throne Senior Staff (HMPS/EPS)
+Advanced in rank to Grand Admiral
+7th Task Force will continue base of operations at Bastion, patrolling Braxant Run when off assignment
+8 – Grand Admiral Gale Morrin – Axis Task Force – Firebrand
+Background check from IRIS, IRSB, HMI, IRAF-MI, IRIS-DCI
+Transfer from Hapan Fleet with approval of Queen of Hapes
+Commissioned as Imperial Republic Armed Forces Naval Officer
+Advanced in rank to Grand Admiral
+8th Task Force will be renamed to the Axis Task Force and Patrol Perlemian Trade Route, the flagship will be thus named the Firebrand.
+9 – Grand Admiral Cav Anaton – Corellian Task Force – Antioch
+Background check from IRIS, IRSB, HMI, IRAF-MI, IRIS-DCI
+Commissioned as IRAF-NO from the Stratus Industries – House Fleet
+Advanced in rank to Grand Admiral
+The 9th Task Force will be named the Corellian Task Force and will patrol the Corellian Run and their Flagship will be named he Antioch
+10 – Grand Admiral Zeven Durand – Hydian Task Force – Trident
+Background check from IRIS, IRSB, HMI, IRAF-MI, IRIS-DCI
+Existing IRAF Naval Officer, classified background, previously on assignment for the Supreme Ruler. 
+All previous activity and records sealed. 
+Recently advanced in rank to Grand Admiral.
+The 10th Task Force will be named the Hydian Task Force and their flagship the Trident, and will patrol the Hydian Way
+Before assuming command, all newly appointed Grand Admirals will (re) forgo both Basic Training and Officer Training at the Imperial Republic Academy by order of the Supreme Commander of the Armed Forces, His Majesty the Supreme Ruler.
+
+--------------------------------------------------
+

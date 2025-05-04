@@ -1,0 +1,33 @@
+---
+source: c:\EOTIR\EOTIR RPG\Codexa\Codexa Contributor Intake Form.docx
+category: character_profiles
+title: Word Document
+modified: 2025-05-03 22:31:05+00:00
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:05.317913
+---
+
+EOTIR Contributor Intake Form
+Contributor Name:
+Discord/Forum Handle (if applicable):
+Role/Focus Area (choose one or more):
+Lore
+Law & Government
+Factions & Characters
+Worldbuilding
+Plot & Story Arcs
+Mechanics & Gameplay
+Platform Dev / Tech Docs
+Other: _____________
+What are you contributing?
+(Brief description: document titles, areas of lore, character profiles, etc.)
+Canon Status
+Draft / In Progress
+Proposed Canon
+Approved Canon
+Alternate Timeline / Non-Canon
+Key Concepts / Tags
+(List names, factions, planets, ideas, etc. referenced in your content.)
+Any special formatting or sources Codexa should know about?
+(e.g. references to other files, timeline indicators, internal glossary terms, etc.)
+Anything you'd like Codexa to generate or expand on from your content?

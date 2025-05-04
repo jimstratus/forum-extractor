@@ -1,0 +1,48 @@
+2025-05-03 18:58:22,066 - INFO - Running component: scenarios (scenario_processor.py)
+2025-05-03 18:58:22,318 - INFO - Component scenarios completed successfully
+2025-05-03 19:05:51,273 - INFO - Starting full EOTIR processing pipeline
+2025-05-03 19:05:51,275 - INFO - Running component: scraper (scenario_scraper.py)
+2025-05-03 19:05:51,770 - INFO - Component scraper completed successfully
+2025-05-03 19:05:51,771 - INFO - Running component: scenarios (scenario_processor.py)
+2025-05-03 19:05:52,493 - INFO - Component scenarios completed successfully
+2025-05-03 19:05:52,494 - INFO - Running component: indexer (scenario_indexer.py)
+2025-05-03 19:06:03,021 - INFO - Component indexer completed successfully
+2025-05-03 19:06:03,022 - INFO - Running component: llm (extract_llm_data.py)
+2025-05-03 19:06:07,654 - ERROR - Component llm failed with return code 1
+2025-05-03 19:06:07,654 - ERROR - Error output: Traceback (most recent call last):
+  File "C:\EOTIR\extract_llm_data.py", line 280, in process_file
+    print(f"Processed: {file_path} \u2192 {output_file}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 69: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\EOTIR\extract_llm_data.py", line 477, in <module>
+    main()
+    ~~~~^^
+  File "C:\EOTIR\extract_llm_data.py", line 457, in main
+    process_directory(SOURCE_NOVELS_DIR, "EOTIR Novels")
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\EOTIR\extract_llm_data.py", line 305, in process_directory
+    process_directory(item, relative_source_name)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\EOTIR\extract_llm_data.py", line 300, in process_directory
+    process_file(item, relative_source_name)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\EOTIR\extract_llm_data.py", line 285, in process_file
+    print(traceback.format_exc())
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 137: character maps to <undefined>
+
+2025-05-03 19:06:07,655 - ERROR - Stopping pipeline due to failure in component: llm
+2025-05-03 19:06:07,655 - INFO - EOTIR processing pipeline complete
+2025-05-03 19:06:07,656 - INFO - Successful components: 3
+2025-05-03 19:06:07,656 - INFO - Failed components: 1
+2025-05-03 19:06:07,656 - WARNING - Failed components: llm

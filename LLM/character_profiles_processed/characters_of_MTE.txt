@@ -1,0 +1,18 @@
+# Character Profile: characters of MTE
+
+**Generated:** 2025-05-03 16:42:39
+**Source Files:** 1
+
+
+## Source: characters of MTE.txt
+
+---
+source: c:\EOTIR\EOTIR Novels\Mission to Earth\characters of MTE.pdf
+category: character_profiles
+/producer: Lionel Li PDF Library
+source_type: EOTIR Novels
+extraction_date: 2025-05-03T15:30:29.783708
+---
+
+--------------------------------------------------
+

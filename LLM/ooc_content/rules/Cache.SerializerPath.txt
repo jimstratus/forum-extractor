@@ -1,0 +1,20 @@
+---
+source: c:\EOTIR\EOTIR RPG\OOC\IPS\Invision Community 4.3.0-stable\ips_c2248\system\3rd_party\HTMLPurifier\HTMLPurifier\ConfigSchema\schema\Cache.SerializerPath.txt
+category: ooc_content/rules
+source_type: EOTIR RPG
+extraction_date: 2025-05-03T15:31:40.394620
+---
+
+Cache.SerializerPath
+TYPE: string/null
+VERSION: 2.0.0
+DEFAULT: NULL
+--DESCRIPTION--
+
+<p>
+    Absolute path with no trailing slash to store serialized definitions in.
+    Default is within the
+    HTML Purifier library inside DefinitionCache/Serializer. This
+    path must be writable by the webserver.
+</p>
+--# vim: et sw=4 sts=4

@@ -1,0 +1,123 @@
+
+# 🛡️ Resolute-Class Cruiser (RCC) Overview
+
+The Resolute-Class Cruiser (designation RCC) is the backbone of the Imperial Republic Navy’s heavy cruiser line — a mainline warship designed for long-duration deployments, multi-theater engagements, and task force command.
+
+At 900 meters in length, the Resolute is one of the largest cruisers in active deployment, boasting heavy shielding, extensive crew capacity, and integrated fleet support systems. With 30 laser cannons, 20 heavy lasers, 30 turbolasers, and 15 missile launchers, the Resolute is more than capable of engaging enemy capital ships while coordinating fighter wings and troop movements.
+
+The ship’s role spans from direct frontline combat to support for planetary invasions, thanks to its complement of 5,000 troopers, 6 ground vehicles, and 4 heavy ground vehicles. It carries 8 squadrons of starfighters and 8 shuttles, supporting both defensive screening and offensive strike packages.
+
+The Resolute is not intended for planetary landing, but it features a large dorsal docking bay and reinforced hull plating for orbital bombardment and standoff engagements.
+
+Ships of this class often serve as flagships in system patrol groups or the center of mid-tier battlegroups, earning their name through reliability, survivability, and unwavering battlefield command.
+
+# 🎨 Resolute-Class Cruiser Liveries
+
+| Livery Name         | Color Scheme Description                          | Role                            |
+|----------------------|----------------------------------------------------|---------------------------------|
+| Iron Resolve         | Dark gunmetal hull with matte steel ridges         | Standard warship configuration |
+| Azure Mantle         | Metallic gray with blue command stripes            | Officer-led escort deployments |
+| Crimson Barrier      | Flat black with red dorsal plating                 | Frontline deterrence variant   |
+| Stalwart Flame       | White-gray with bronze exhaust vents               | Fleet pride, ceremonial group  |
+| Duskhawk Variant     | Charcoal armor with violet-blue glow lines         | Elite strike cruiser groups    |
+
+# 🛡️ Resolute-Class Cruiser (RCC) Stat Sheet (Markdown)
+
+| Attribute            | Value |
+|----------------------|-------|
+| **Length**           | 900 meters |
+| **Cargo Capacity**   | 500,000 tons |
+| **Cargo Volume**     | 200,000 cubic meters |
+| **Hull Strength**    | 11,250 |
+| **Deflector Shields**| 9,500 (Recharge 350 per turn) |
+| **Ionic Capacitance**| 4,500 |
+| **Hyperspeed Multiplier** | 1.50x |
+| **Sublight Speed**   | 60 MGLT |
+| **Manoeuvrability**  | 4 |
+| **Crew**             | 2,500 |
+| **Troopers**         | 5,000 |
+| **Passengers**       | 50 |
+| **Squadrons**        | 8 |
+| **Shuttles**         | 8 |
+| **Ground Vehicles**  | 6 |
+| **Heavy Ground Vehicles** | 4 |
+| **Planetary Landing**| No |
+| **Docking Bay**      | Yes |
+| **Cloaking Device**  | No |
+| **Laser Cannons**    | 30 |
+| **Heavy Lasers**     | 20 |
+| **Turbolasers**      | 30 |
+| **Missile Launchers**| 15 (300 missiles) |
+| **Ion Cannons**      | 0 |
+| **Ion Batteries**    | 20 |
+| **Sensors**          | 7 |
+| **Jammers**          | 7 |
+| **Tractor Beams**    | 8 |
+| **Gravity Well Generator** | 0 |
+
+================================================================================
+
+== 🛡️ Resolute-Class Cruiser (RCC) Stat Sheet (Wikitext) ==
+
+{| class="wikitable sortable"
+! Attribute !! Value
+|-
+| Length || 900 meters
+|-
+| Cargo Capacity || 500,000 tons
+|-
+| Cargo Volume || 200,000 cubic meters
+|-
+| Hull Strength || 11,250
+|-
+| Deflector Shields || 9,500 (Recharge 350 per turn)
+|-
+| Ionic Capacitance || 4,500
+|-
+| Hyperspeed Multiplier || 1.50x
+|-
+| Sublight Speed || 60 MGLT
+|-
+| Manoeuvrability || 4
+|-
+| Crew || 2,500
+|-
+| Troopers || 5,000
+|-
+| Passengers || 50
+|-
+| Squadrons || 8
+|-
+| Shuttles || 8
+|-
+| Ground Vehicles || 6
+|-
+| Heavy Ground Vehicles || 4
+|-
+| Planetary Landing || No
+|-
+| Docking Bay || Yes
+|-
+| Cloaking Device || No
+|-
+| Laser Cannons || 30
+|-
+| Heavy Lasers || 20
+|-
+| Turbolasers || 30
+|-
+| Missile Launchers || 15 (300 missiles)
+|-
+| Ion Cannons || 0
+|-
+| Ion Batteries || 20
+|-
+| Sensors || 7
+|-
+| Jammers || 7
+|-
+| Tractor Beams || 8
+|-
+| Gravity Well Generator || 0
+|}
+================================================================================

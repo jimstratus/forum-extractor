@@ -1,0 +1,123 @@
+
+# 🛡️ Lambda-Class Shuttle (LCS) Overview
+
+The Lambda-class Shuttle (LCS) is the Imperial Republic Navy's most widely used short-range personnel and cargo transport. Recognized for its tri-wing design — a central stabilizer flanked by folding wings — the Lambda is equally adept at docking with capital ships or landing on planetary surfaces.
+
+With a total length of 20 meters, it can carry up to 8 tons of cargo, 50 cubic meters of internal volume, and 10 passengers in addition to its three-person crew.
+
+Armed with two laser cannons, four heavy lasers, and twin missile launchers, the LCS can fend off small threats and navigate contested airspace during extractions or VIP transports.
+
+Its reinforced shielding and multiple jammer/sensor suites offer respectable protection during boarding operations, covert insertions, and shuttle runs across dangerous sectors.
+
+Though primarily a workhorse, customized Lambda variants also serve roles as field command pods, medical evacuation shuttles, or elite infiltration craft.
+
+# 🎨 Lambda-Class Shuttle Color Schemes
+
+| Livery Name         | Color Scheme Description                          | Role                            |
+|----------------------|----------------------------------------------------|---------------------------------|
+| Sovereign White      | Bright white with black cockpit canopy             | VIP transport and diplomacy     |
+| Ironwind Gray        | Matte gray with cobalt wing stripes                | Standard military shuttle ops   |
+| Phantom Drift        | Dark steel with minimalistic dark red markings     | Covert insertion operations     |
+| Solar Crest          | White hull with golden trim accents                | Royal escort and ceremonies     |
+| Stormblade Variant   | Gunmetal with bright blue engine trails            | Special forces fast deployment  |
+
+# 🛡️ Lambda-Class Shuttle (LCS) Stat Sheet (Markdown)
+
+| Attribute            | Value |
+|----------------------|-------|
+| **Length**           | 20 meters |
+| **Cargo Capacity**   | 8 tons |
+| **Cargo Volume**     | 50 cubic meters |
+| **Hull Strength**    | 250 |
+| **Deflector Shields**| 400 (Recharge 20 per turn) |
+| **Ionic Capacitance**| 180 |
+| **Hyperspeed Multiplier** | 0.75x |
+| **Sublight Speed**   | 90 MGLT |
+| **Manoeuvrability**  | 8 |
+| **Crew**             | 3 |
+| **Troopers**         | 0 |
+| **Passengers**       | 10 |
+| **Squadrons**        | 0 |
+| **Shuttles**         | 0 |
+| **Ground Vehicles**  | 0 |
+| **Heavy Ground Vehicles** | 0 |
+| **Planetary Landing**| Yes |
+| **Docking Bay**      | No |
+| **Cloaking Device**  | No |
+| **Laser Cannons**    | 2 |
+| **Heavy Lasers**     | 4 |
+| **Turbolasers**      | 0 |
+| **Missile Launchers**| 2 (10 missiles) |
+| **Ion Cannons**      | 0 |
+| **Ion Batteries**    | 0 |
+| **Sensors**          | 3 |
+| **Jammers**          | 3 |
+| **Tractor Beams**    | 1 |
+| **Gravity Well Generator** | 0 |
+
+================================================================================
+
+== 🛡️ Lambda-Class Shuttle (LCS) Stat Sheet (Wikitext) ==
+
+{| class="wikitable sortable"
+! Attribute !! Value
+|-
+| Length || 20 meters
+|-
+| Cargo Capacity || 8 tons
+|-
+| Cargo Volume || 50 cubic meters
+|-
+| Hull Strength || 250
+|-
+| Deflector Shields || 400 (Recharge 20 per turn)
+|-
+| Ionic Capacitance || 180
+|-
+| Hyperspeed Multiplier || 0.75x
+|-
+| Sublight Speed || 90 MGLT |
+|-
+| Manoeuvrability || 8
+|-
+| Crew || 3
+|-
+| Troopers || 0
+|-
+| Passengers || 10
+|-
+| Squadrons || 0 |
+|-
+| Shuttles || 0
+|-
+| Ground Vehicles || 0
+|-
+| Heavy Ground Vehicles || 0
+|-
+| Planetary Landing || Yes
+|-
+| Docking Bay || No
+|-
+| Cloaking Device || No
+|-
+| Laser Cannons || 2
+|-
+| Heavy Lasers || 4
+|-
+| Turbolasers || 0
+|-
+| Missile Launchers || 2 (10 missiles)
+|-
+| Ion Cannons || 0
+|-
+| Ion Batteries || 0
+|-
+| Sensors || 3
+|-
+| Jammers || 3
+|-
+| Tractor Beams || 1
+|-
+| Gravity Well Generator || 0
+|}
+================================================================================
