@@ -51,7 +51,7 @@ This document tracks all files in the repository and their review/cleanup status
 | File | Status | Notes |
 |------|--------|-------|
 | `scenario_manager.py` | 📝 | Pipeline coordinator, no changes needed |
-| `forum_scraper.py` | 📝 | Main scraper with ForumScraper class |
+| `forum_scraper.py` | 🔧 | Added fallback CSS selectors for IPS4 compatibility |
 | `scenario_scraper.py` | 🔧 | Updated to integrate with forum_scraper |
 | `scenario_processor.py` | 🔧 | Removed duplicate imports |
 | `scenario_indexer.py` | 🔧 | Fixed syntax warning (raw string for HTML) |
@@ -96,6 +96,24 @@ These directories contain extracted/generated data:
 ## Summary
 
 - **Total files reviewed**: 22 source files
-- **Files modified**: 14
+- **Files modified**: 15
 - **Files removed**: 13 (duplicates/unnecessary)
-- **New files created**: 2 (run_manager.bat, run_manager.sh)
+- **New files created**: 3 (run_manager.bat, run_manager.sh, FILES.md)
+
+## Testing Notes
+
+The forum scraper and scenario extraction cannot be tested in this sandbox environment due to DNS resolution restrictions. The code has been improved with:
+- Multiple fallback CSS selectors for IPS4 forum compatibility
+- Better error logging and diagnostics
+- Improved robustness for different IPS theme variations
+
+To test locally, run:
+```bash
+python test_extraction.py
+python forum_scraper.py
+```
+
+Test URLs:
+- Forum: https://nexus.eotir.com/forum/6-palace-situation-room/
+- Topic: https://nexus.eotir.com/topic/2431-corruption-and-incorruption-36-iry/
+- Topic: https://nexus.eotir.com/topic/2157-shadows-rising-31-iry/

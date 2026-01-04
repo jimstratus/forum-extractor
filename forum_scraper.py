@@ -110,23 +110,51 @@ def get_forum_topics(forum_name, forum_path):
         soup = scraper.extract_page(page_url)
 
         if not soup:
+            logger.warning(f"Failed to fetch page {page} from {forum_url}")
             break
 
-        topic_elements = soup.select(".ipsDataItem.ipsDataItem_responsivePhoto")
+        # Try multiple selectors for topic elements (IPS4 compatibility)
+        topic_elements = soup.select(".ipsDataItem")
+        
+        # If no topics found, try alternative selectors
+        if not topic_elements:
+            topic_elements = soup.select("li.ipsDataItem")
+        if not topic_elements:
+            topic_elements = soup.select(".cTopicList li")
+        if not topic_elements:
+            topic_elements = soup.select("[data-rowid]")
+            
+        logger.info(f"Page {page}: Found {len(topic_elements)} topic elements")
 
         if not topic_elements:
+            if page == 1:
+                logger.warning(f"No topics found on first page. Check CSS selectors.")
             break
 
         for topic in topic_elements:
             try:
+                # Try multiple selectors for title
                 title_element = topic.select_one(".ipsDataItem_title a")
+                if not title_element:
+                    title_element = topic.select_one("a.ipsDataItem_title")
+                if not title_element:
+                    title_element = topic.select_one(".ipsContained a")
+                if not title_element:
+                    title_element = topic.select_one("h4 a")
+                    
                 if not title_element:
                     continue
 
                 title = title_element.text.strip()
                 topic_url = title_element.get("href")
 
+                # Try multiple selectors for author
                 author_element = topic.select_one(".ipsDataItem_main .ipsDataItem_meta a")
+                if not author_element:
+                    author_element = topic.select_one(".ipsDataItem_meta a[href*='profile']")
+                if not author_element:
+                    author_element = topic.select_one(".cTopicList_author a")
+                    
                 author = author_element.text.strip() if author_element else "Unknown"
 
                 year = extract_year_from_title(title)
@@ -168,26 +196,57 @@ def extract_posts_from_topic(topic_url):
         soup = scraper.extract_page(page_url)
 
         if not soup:
+            logger.warning(f"Failed to fetch page {page} from {topic_url}")
             break
 
+        # Try multiple selectors for post elements
         post_elements = soup.select(".ipsComment")
+        if not post_elements:
+            post_elements = soup.select("article.ipsComment")
+        if not post_elements:
+            post_elements = soup.select("[data-commentid]")
+        if not post_elements:
+            post_elements = soup.select(".cPost")
+            
+        logger.info(f"Page {page}: Found {len(post_elements)} post elements")
 
         if not post_elements:
+            if page == 1:
+                logger.warning(f"No posts found on first page. Check CSS selectors.")
             break
 
         for post in post_elements:
             try:
+                # Try multiple selectors for author
                 author_element = post.select_one(".cAuthorPane_author")
-                author = author_element.text.strip() if author_element else "Unknown"
+                if not author_element:
+                    author_element = post.select_one(".ipsComment_author a")
+                if not author_element:
+                    author_element = post.select_one("[data-author]")
+                    if author_element:
+                        author = author_element.get("data-author", "Unknown")
+                    else:
+                        author = "Unknown"
+                else:
+                    author = author_element.text.strip()
 
+                # Try multiple selectors for date
                 date_element = post.select_one(".ipsComment_meta time")
+                if not date_element:
+                    date_element = post.select_one("time[datetime]")
                 date = date_element.get("datetime") if date_element else "Unknown"
 
+                # Try multiple selectors for content
                 content_element = post.select_one(".ipsComment_content")
+                if not content_element:
+                    content_element = post.select_one(".cPost_content")
+                if not content_element:
+                    content_element = post.select_one("[data-role='commentContent']")
 
                 if not content_element:
                     continue
 
+                # Clean up the content
                 for report_link in content_element.select(".ipsComment_reportLink"):
                     report_link.decompose()
 
