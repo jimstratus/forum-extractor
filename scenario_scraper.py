@@ -178,8 +178,6 @@ def extract_single_topic(topic_url, output_dir=None):
     """
     logger.info(f"Extracting single topic: {topic_url}")
     
-    scenarios_dir = output_dir if output_dir else SCENARIOS_DIR
-    
     if not FORUM_SCRAPER_AVAILABLE:
         logger.error("forum_scraper module not available for single topic extraction")
         return False
