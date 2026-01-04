@@ -126,10 +126,10 @@ def scrape_forum(forum_url, login=False):
         
         return True
 
-def save_scenario(scenario_data, scenarios_dir=None):
+def save_scenario(scenario_data, output_dir=None):
     """Save a scenario to a Markdown file with YAML frontmatter"""
     # Use provided directory or default
-    base_dir = scenarios_dir if scenarios_dir else SCENARIOS_DIR
+    base_dir = output_dir if output_dir else SCENARIOS_DIR
     
     # Extract forum and year for directory structure
     forum = sanitize_filename(scenario_data.get("forum", "Unknown"))
@@ -241,7 +241,7 @@ def extract_single_topic(topic_url, output_dir=None):
         scenario_data["content"] = "".join(content_parts)
         
         # Save the scenario
-        save_scenario(scenario_data, scenarios_dir)
+        save_scenario(scenario_data, output_dir)
         
         logger.info(f"Successfully extracted {len(posts)} posts from topic")
         return True
