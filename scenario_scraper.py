@@ -119,15 +119,18 @@ def scrape_forum(forum_url, login=False):
         
         return True
 
-def save_scenario(scenario_data):
+def save_scenario(scenario_data, scenarios_dir=None):
     """Save a scenario to a Markdown file with YAML frontmatter"""
+    # Use provided directory or default
+    base_dir = scenarios_dir if scenarios_dir else SCENARIOS_DIR
+    
     # Extract forum and year for directory structure
     forum = sanitize_filename(scenario_data.get("forum", "Unknown"))
     year = sanitize_filename(scenario_data.get("year", "Unknown_Year"))
     year_dir = year.replace(" ", "_")
     
     # Create directory structure
-    scenario_dir = os.path.join(SCENARIOS_DIR, forum, year_dir)
+    scenario_dir = os.path.join(base_dir, forum, year_dir)
     os.makedirs(scenario_dir, exist_ok=True)
     
     # Create filename from title
@@ -168,9 +171,7 @@ def extract_single_topic(topic_url, output_dir=None):
     """
     logger.info(f"Extracting single topic: {topic_url}")
     
-    if output_dir:
-        global SCENARIOS_DIR
-        SCENARIOS_DIR = output_dir
+    scenarios_dir = output_dir if output_dir else SCENARIOS_DIR
     
     if not FORUM_SCRAPER_AVAILABLE:
         logger.error("forum_scraper module not available for single topic extraction")
@@ -190,7 +191,7 @@ def extract_single_topic(topic_url, output_dir=None):
         
         # Try to extract title from URL
         url_parts = topic_url.rstrip('/').split('/')
-        if len(url_parts) > 0:
+        if url_parts and url_parts[-1]:
             title = url_parts[-1].replace('-', ' ').title()
         
         # Try to extract year from title or content
@@ -228,7 +229,7 @@ def extract_single_topic(topic_url, output_dir=None):
         scenario_data["content"] = "".join(content_parts)
         
         # Save the scenario
-        save_scenario(scenario_data)
+        save_scenario(scenario_data, scenarios_dir)
         
         logger.info(f"Successfully extracted {len(posts)} posts from topic")
         return True
@@ -254,7 +255,7 @@ def extract_scenarios_from_forums(forums, output_dir=None, login=False):
         if FORUM_SCRAPER_AVAILABLE:
             forum_name = "Unknown"
             for name, path in FORUM_URLS.items():
-                if path in forum or name.lower() in forum.lower():
+                if forum.endswith(path) or name.lower() in forum.lower():
                     forum_name = name
                     break
             
