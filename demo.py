@@ -148,19 +148,36 @@ def run_process_demo(scenario_path, modules):
     
     # Import the processor module
     try:
-        processor = importlib.import_module('scenario_processor')
+        processor_module = importlib.import_module('scenario_processor')
     except ImportError as e:
         logger.error(f"Failed to import scenario_processor: {e}")
         return False
     
     try:
-        # Process the scenario
-        result = processor.process_scenario(scenario_path)
+        # Get the directory containing the scenario file
+        scenario_dir = os.path.dirname(scenario_path)
         
-        logger.info("Sample scenario processed:")
-        for key, value in result.items():
-            if value and os.path.exists(value):
-                logger.info(f"  - {key}: {value}")
+        # Create a content.md file for the ScenarioProcessor (it expects this structure)
+        content_file = os.path.join(scenario_dir, "content.md")
+        if not os.path.exists(content_file):
+            # Copy scenario content to content.md
+            with open(scenario_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            with open(content_file, 'w', encoding='utf-8') as f:
+                f.write(content)
+        
+        # Use the ScenarioProcessor class
+        processor = processor_module.ScenarioProcessor(scenario_dir)
+        result = processor.process_scenario()
+        
+        if result:
+            logger.info("Sample scenario processed successfully")
+            if isinstance(result, dict):
+                for key, value in result.items():
+                    if value and isinstance(value, str) and os.path.exists(value):
+                        logger.info(f"  - {key}: {value}")
+        else:
+            logger.warning("Scenario processing returned no result")
         
         return True
     
