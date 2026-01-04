@@ -1,3 +1,4 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -103,11 +104,13 @@ def inspect_page(url):
             else:
                 print("Could not identify main content container.")
             
-            # Save a sample of the HTML for further analysis
-            with open("page_sample.html", "w", encoding="utf-8") as f:
+            # Save a sample of the HTML for further analysis (to temp directory)
+            import tempfile
+            sample_path = os.path.join(tempfile.gettempdir(), "page_sample.html")
+            with open(sample_path, "w", encoding="utf-8") as f:
                 # Get the first 10000 characters as a sample
                 f.write(response.text[:10000])
-            print("Saved first 10000 characters of HTML to page_sample.html")
+            print(f"Saved first 10000 characters of HTML to {sample_path}")
             
             # Print some basic page info
             title = soup.title.text if soup.title else "No title found"
