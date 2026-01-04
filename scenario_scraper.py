@@ -253,8 +253,8 @@ def extract_single_topic(topic_url, output_dir=None):
 
 def extract_scenarios_from_forums(forums, output_dir=None, login=False):
     """Extract scenarios from multiple forums"""
-    # Note: output_dir modification only affects fallback mode (when forum_scraper unavailable)
-    # When forum_scraper is available, it uses its own OUTPUT_DIR configuration
+    # Note: When forum_scraper is available, it uses its own OUTPUT_DIR for saving files.
+    # The global SCENARIOS_DIR modification below only affects fallback mode (when forum_scraper unavailable).
     if output_dir:
         global SCENARIOS_DIR
         SCENARIOS_DIR = output_dir
@@ -271,6 +271,10 @@ def extract_scenarios_from_forums(forums, output_dir=None, login=False):
             forum_name = get_forum_name_from_url(forum)
             
             try:
+                # Note: This makes a duplicate request if scrape_forum() succeeded above.
+                # This is a known limitation of the current design where scrape_forum()
+                # doesn't return topics. Refactoring to avoid this would require significant
+                # changes to maintain backwards compatibility.
                 topics = get_forum_topics(forum_name, forum)
                 if topics:
                     all_topics[forum_name] = topics
