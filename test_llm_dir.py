@@ -1,8 +1,8 @@
 import os
 from pathlib import Path
 
-# Define the base directory
-base_dir = Path("c:/EOTIR")
+# Define the base directory relative to the current working directory
+base_dir = Path(os.getcwd())
 llm_dir = base_dir / "LLM"
 
 def check_directory_structure():

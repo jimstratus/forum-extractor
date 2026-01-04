@@ -90,11 +90,11 @@ def create_excel_compatible_index():
 
 
 def extract_year_from_title(title):
-    iry_match = re.search(r'\\[(\d+)\s*IRY\\]', title)
+    iry_match = re.search(r'\[(\d+)\s*IRY\]', title)
     if iry_match:
         return f"{iry_match.group(1)} IRY"
     
-    ufy_match = re.search(r'\\[(\d+)\s*UFY\\]', title)
+    ufy_match = re.search(r'\[(\d+)\s*UFY\]', title)
     if ufy_match:
         return f"{ufy_match.group(1)} UFY"
     

@@ -17,8 +17,8 @@ except ImportError as e:
     print("Please install required libraries using: pip install python-docx PyPDF2 beautifulsoup4 pandas openpyxl")
     exit(1)
 
-# Define paths
-BASE_DIR = Path("c:/EOTIR")
+# Define paths relative to the current working directory
+BASE_DIR = Path(os.getcwd())
 SOURCE_NOVELS_DIR = BASE_DIR / "EOTIR Novels"
 SOURCE_RPG_DIR = BASE_DIR / "EOTIR RPG"
 TARGET_DIR = BASE_DIR / "LLM"

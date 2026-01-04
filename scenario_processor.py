@@ -398,11 +398,6 @@ def generate_development_file(scenario_path, suggestions):
     logger.info(f"Generated development file: {development_path}")
     return development_path
 
-import logging
-from pathlib import Path
-import yaml
-
-logger = logging.getLogger(__name__)
 
 class ScenarioProcessor:
     def __init__(self, scenario_path):
