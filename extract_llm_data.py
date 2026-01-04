@@ -1,6 +1,7 @@
 import os
 import re
 import shutil
+import argparse
 from pathlib import Path
 import json
 from datetime import datetime
@@ -17,11 +18,29 @@ except ImportError as e:
     print("Please install required libraries using: pip install python-docx PyPDF2 beautifulsoup4 pandas openpyxl")
     exit(1)
 
-# Define paths
-BASE_DIR = Path("c:/EOTIR")
-SOURCE_NOVELS_DIR = BASE_DIR / "EOTIR Novels"
-SOURCE_RPG_DIR = BASE_DIR / "EOTIR RPG"
-TARGET_DIR = BASE_DIR / "LLM"
+
+def get_base_directory():
+    """Get the base directory from command line arguments or prompt the user."""
+    parser = argparse.ArgumentParser(description='Extract LLM training data from EOTIR files')
+    parser.add_argument('--base-dir', '-d', type=str, default=None,
+                        help='Base directory path containing EOTIR Novels and EOTIR RPG folders (will prompt if not provided)')
+    args = parser.parse_args()
+    
+    if args.base_dir:
+        return Path(args.base_dir)
+    
+    # Prompt the user for the directory
+    user_input = input("Enter the base directory path (press Enter for current directory): ").strip()
+    if user_input:
+        return Path(user_input)
+    return Path(os.getcwd())
+
+
+# These will be set when the script runs
+BASE_DIR = None
+SOURCE_NOVELS_DIR = None
+SOURCE_RPG_DIR = None
+TARGET_DIR = None
 
 # Define file type categories
 CHARACTER_PROFILE_PATTERNS = [
@@ -450,7 +469,16 @@ def create_training_format_examples():
 
 def main():
     """Main execution function."""
+    global BASE_DIR, SOURCE_NOVELS_DIR, SOURCE_RPG_DIR, TARGET_DIR
+    
+    # Get the base directory from user
+    BASE_DIR = get_base_directory()
+    SOURCE_NOVELS_DIR = BASE_DIR / "EOTIR Novels"
+    SOURCE_RPG_DIR = BASE_DIR / "EOTIR RPG"
+    TARGET_DIR = BASE_DIR / "LLM"
+    
     print("Starting EOTIR LLM training data extraction...")
+    print(f"Using base directory: {BASE_DIR}")
     
     # Process the Novels directory
     print(f"\nProcessing {SOURCE_NOVELS_DIR}...")

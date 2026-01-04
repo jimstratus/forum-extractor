@@ -297,9 +297,9 @@ def generate_json_data(df):
                 year_df = df[df['year'] == year]
                 data["years"][year] = year_df.to_dict('records')
         
-        # Write JSON file
+        # Write JSON file with custom encoder for dates
         with open(json_path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2)
+            json.dump(data, f, indent=2, default=str)
         
         logger.info(f"JSON data saved to {json_path}")
         return json_path
@@ -439,8 +439,8 @@ def generate_html_dashboard():
         logger.error(f"JSON data file not found: {json_path}")
         return None
     
-    # Create the dashboard HTML
-    html = """<!DOCTYPE html>
+    # Create the dashboard HTML (use raw string to avoid escape sequence warnings)
+    html = r"""<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">

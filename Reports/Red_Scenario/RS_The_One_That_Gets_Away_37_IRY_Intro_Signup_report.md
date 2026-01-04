@@ -1,10 +1,60 @@
 # RS: The One That Gets Away [37 IRY] - Intro & Signup
 
-Year: 37 IRY
-URL: https://nexus.eotir.com/topic/2559-rs-the-one-that-gets-away-37-iry-intro-signup/
+## Scenario Metadata
+
+- **Year**: 37 IRY
+- **Forum**: Red_Scenario
+- **Author**: James Stratus
+- **Status**: New
+- **URL**: [https://nexus.eotir.com/topic/2559-rs-the-one-that-gets-away-37-iry-intro-signup/](https://nexus.eotir.com/topic/2559-rs-the-one-that-gets-away-37-iry-intro-signup/)
+- **Post Count**: 2
+- **Extracted**: 2026-01-04 04:32:53
+- **Report Generated**: 2026-01-04 04:38:47
+
+## Dramatis Personae
+
+- Any Fringe
+- Military Intlelligence
+- Mon Cal
+- Outer Rim
+
+
+## Timeline of Events
+
+## Event 1 - 2018-03-31T15:41:05Z
+
 Author: James Stratus
 
-## Post 1 by James Stratus on 2018-03-31T15:41:05Z
+
+
+## Event 2 - 2018-04-04T06:21:35Z
+
+Author: @Ryan
+
+
+
+
+
+## Plot Development Suggestions
+
+## Current State
+
+Scenario with 2 posts and approximately 581 words
+
+## Main Themes
+
+- To be identified manually
+
+## Open Questions
+
+- To be identified manually
+
+## Potential Directions
+
+- To be determined manually
+
+
+## Full Content
 
 
 
@@ -61,4 +111,5 @@ others to be added as the scenario flows
 ![Posted Image](http://images.eotir.com/sigs/ryan-staff-sig.jpg)
 
 ---
+
 

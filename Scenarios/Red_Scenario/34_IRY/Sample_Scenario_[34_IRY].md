@@ -3,7 +3,7 @@ title: Sample Scenario [34 IRY]
 forum: Red_Scenario
 year: 34 IRY
 status: In Progress
-extraction_date: 2025-05-03
+extraction_date: 2026-01-04
 url: https://nexus.eotir.com/forum/69-blue-scenario//topic/sample-scenario-34-iry/
 ---
 

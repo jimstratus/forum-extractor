@@ -36,7 +36,7 @@ logger = logging.getLogger(__name__)
 
 
 class ForumScraper:
-    def __init__(self):
+    def __init__(self, requests_per_minute=30):
         retry_strategy = Retry(
             total=3,
             backoff_factor=1,
@@ -45,27 +45,25 @@ class ForumScraper:
         self.session = requests.Session()
         self.session.mount("https://", HTTPAdapter(max_retries=retry_strategy))
         # Configure rate limiting
-        self.requests_per_minute = 30  # Initial conservative estimate
+        self.requests_per_minute = requests_per_minute
+        self.min_delay = 60.0 / self.requests_per_minute  # Minimum seconds between requests
         self.last_request_time = 0
-        self.request_times = []
         self.rate_limit_hits = 0
         self.total_requests = 0
 
     def _wait_for_rate_limit(self):
-        current_time = time.time()
-        elapsed_time = current_time - self.last_request_time
-        self.request_times.append(current_time)
-        self.last_request_time = current_time
-
-        while len(self.request_times) > self.requests_per_minute:
-            self.request_times.pop(0)
-
-        time_since_last_request = current_time - self.request_times[0] if len(self.request_times) > 0 else 0
-        if time_since_last_request < 60:
-            sleep(60 - time_since_last_request)
-
+        """Wait if necessary to respect rate limiting."""
+        if self.last_request_time > 0:
+            elapsed = time.time() - self.last_request_time
+            if elapsed < self.min_delay:
+                sleep_time = self.min_delay - elapsed
+                if sleep_time > 0.1:  # Only log if significant wait
+                    logger.debug(f"Rate limiting: waiting {sleep_time:.1f}s")
+                sleep(sleep_time)
+        self.last_request_time = time.time()
 
     def extract_page(self, url, timeout=30):
+        """Extract and parse a page, respecting rate limits."""
         try:
             self._wait_for_rate_limit()
             self.total_requests += 1
@@ -73,9 +71,10 @@ class ForumScraper:
 
             if response.status_code == 429:  # Too Many Requests
                 self.rate_limit_hits += 1
-                self.requests_per_minute = max(1, self.requests_per_minute - 5)
+                self.requests_per_minute = max(5, self.requests_per_minute - 5)
+                self.min_delay = 60.0 / self.requests_per_minute
                 logger.warning(f"Rate limit hit. Reducing rate to {self.requests_per_minute} requests/minute")
-                time.sleep(60)  # Wait a minute before retrying
+                time.sleep(30)  # Wait 30 seconds before retrying
                 return self.extract_page(url, timeout)
 
             response.raise_for_status()
@@ -110,23 +109,51 @@ def get_forum_topics(forum_name, forum_path):
         soup = scraper.extract_page(page_url)
 
         if not soup:
+            logger.warning(f"Failed to fetch page {page} from {forum_url}")
             break
 
-        topic_elements = soup.select(".ipsDataItem.ipsDataItem_responsivePhoto")
+        # Try multiple selectors for topic elements (IPS4 compatibility)
+        topic_elements = soup.select(".ipsDataItem")
+        
+        # If no topics found, try alternative selectors
+        if not topic_elements:
+            topic_elements = soup.select("li.ipsDataItem")
+        if not topic_elements:
+            topic_elements = soup.select(".cTopicList li")
+        if not topic_elements:
+            topic_elements = soup.select("[data-rowid]")
+            
+        logger.info(f"Page {page}: Found {len(topic_elements)} topic elements")
 
         if not topic_elements:
+            if page == 1:
+                logger.warning(f"No topics found on first page. Check CSS selectors.")
             break
 
         for topic in topic_elements:
             try:
+                # Try multiple selectors for title
                 title_element = topic.select_one(".ipsDataItem_title a")
+                if not title_element:
+                    title_element = topic.select_one("a.ipsDataItem_title")
+                if not title_element:
+                    title_element = topic.select_one(".ipsContained a")
+                if not title_element:
+                    title_element = topic.select_one("h4 a")
+                    
                 if not title_element:
                     continue
 
                 title = title_element.text.strip()
                 topic_url = title_element.get("href")
 
+                # Try multiple selectors for author
                 author_element = topic.select_one(".ipsDataItem_main .ipsDataItem_meta a")
+                if not author_element:
+                    author_element = topic.select_one(".ipsDataItem_meta a[href*='profile']")
+                if not author_element:
+                    author_element = topic.select_one(".cTopicList_author a")
+                    
                 author = author_element.text.strip() if author_element else "Unknown"
 
                 year = extract_year_from_title(title)
@@ -168,26 +195,57 @@ def extract_posts_from_topic(topic_url):
         soup = scraper.extract_page(page_url)
 
         if not soup:
+            logger.warning(f"Failed to fetch page {page} from {topic_url}")
             break
 
+        # Try multiple selectors for post elements
         post_elements = soup.select(".ipsComment")
+        if not post_elements:
+            post_elements = soup.select("article.ipsComment")
+        if not post_elements:
+            post_elements = soup.select("[data-commentid]")
+        if not post_elements:
+            post_elements = soup.select(".cPost")
+            
+        logger.info(f"Page {page}: Found {len(post_elements)} post elements")
 
         if not post_elements:
+            if page == 1:
+                logger.warning(f"No posts found on first page. Check CSS selectors.")
             break
 
         for post in post_elements:
             try:
+                # Try multiple selectors for author
                 author_element = post.select_one(".cAuthorPane_author")
-                author = author_element.text.strip() if author_element else "Unknown"
+                if not author_element:
+                    author_element = post.select_one(".ipsComment_author a")
+                if not author_element:
+                    author_element = post.select_one("[data-author]")
+                    if author_element:
+                        author = author_element.get("data-author", "Unknown")
+                    else:
+                        author = "Unknown"
+                else:
+                    author = author_element.text.strip()
 
+                # Try multiple selectors for date
                 date_element = post.select_one(".ipsComment_meta time")
+                if not date_element:
+                    date_element = post.select_one("time[datetime]")
                 date = date_element.get("datetime") if date_element else "Unknown"
 
+                # Try multiple selectors for content
                 content_element = post.select_one(".ipsComment_content")
+                if not content_element:
+                    content_element = post.select_one(".cPost_content")
+                if not content_element:
+                    content_element = post.select_one("[data-role='commentContent']")
 
                 if not content_element:
                     continue
 
+                # Clean up the content
                 for report_link in content_element.select(".ipsComment_reportLink"):
                     report_link.decompose()
 
