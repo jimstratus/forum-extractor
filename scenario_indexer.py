@@ -439,8 +439,8 @@ def generate_html_dashboard():
         logger.error(f"JSON data file not found: {json_path}")
         return None
     
-    # Create the dashboard HTML
-    html = """<!DOCTYPE html>
+    # Create the dashboard HTML (use raw string to avoid escape sequence warnings)
+    html = r"""<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">

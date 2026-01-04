@@ -171,4 +171,4 @@ Required Python packages:
 - pyyaml
 - markdownify
 
-Install with: `pip install -r extraction_requirements.txt`
+Install with: `pip install -r requirements.txt`

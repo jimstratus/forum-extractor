@@ -1,9 +1,28 @@
 import os
+import argparse
 from pathlib import Path
 
-# Define the base directory relative to the current working directory
-base_dir = Path(os.getcwd())
-llm_dir = base_dir / "LLM"
+
+def get_base_directory():
+    """Get the base directory from command line arguments or prompt the user."""
+    parser = argparse.ArgumentParser(description='Check LLM directory structure')
+    parser.add_argument('--base-dir', '-d', type=str, default=None,
+                        help='Base directory path (will prompt if not provided)')
+    args = parser.parse_args()
+    
+    if args.base_dir:
+        return Path(args.base_dir)
+    
+    # Prompt the user for the directory
+    user_input = input("Enter the base directory path (press Enter for current directory): ").strip()
+    if user_input:
+        return Path(user_input)
+    return Path(os.getcwd())
+
+
+# These will be set when the script runs
+base_dir = None
+llm_dir = None
 
 def check_directory_structure():
     """Check if the LLM directory structure is properly set up."""
@@ -68,6 +87,11 @@ def count_files_in_directories():
             print(f"{rel_path}: {file_count} files")
 
 if __name__ == "__main__":
+    base_dir = get_base_directory()
+    llm_dir = base_dir / "LLM"
+    
+    print(f"Using base directory: {base_dir}")
+    
     if llm_dir.exists():
         print(f"LLM directory exists at: {llm_dir}")
         check_directory_structure()

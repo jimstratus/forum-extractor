@@ -66,6 +66,16 @@ db.sqlite3-journal
 demo_log.txt
 test_log.txt
 
+# Generated output files
+page_sample.html
+scenario_index.csv
+README_QUICK_RUN.md
+
+# Generated data directories (uncomment if you don't want to track extracted data)
+# Scenarios/
+# Reports/
+# LLM/
+
 # Flask stuff:
 instance/
 .webassets-cache
