@@ -16,12 +16,9 @@ from datetime import datetime
 try:
     from forum_scraper import (
         get_forum_topics,
-        extract_posts_from_topic,
         save_scenario_files,
         create_index,
-        create_combined_index,
-        FORUM_URLS,
-        OUTPUT_DIR
+        FORUM_URLS
     )
     FORUM_SCRAPER_AVAILABLE = True
 except ImportError:
