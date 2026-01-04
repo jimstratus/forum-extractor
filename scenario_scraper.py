@@ -208,11 +208,10 @@ def extract_single_topic(topic_url, output_dir=None):
             logger.warning(f"Could not extract title from URL: {topic_url}")
         
         # Try to extract year from title or content
-        if posts:
-            first_content = posts[0].get("content", "")
-            year_from_content = extract_year_from_title(title) or extract_year_from_title(first_content)
-            if year_from_content:
-                year = year_from_content
+        first_content = posts[0].get("content", "")
+        year_from_content = extract_year_from_title(title) or extract_year_from_title(first_content)
+        if year_from_content:
+            year = year_from_content
         
         # Create scenario data
         scenario_data = {
