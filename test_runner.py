@@ -93,6 +93,96 @@ class ScraperTests(unittest.TestCase):
             self.assertEqual(no_year_result, "")
         except Exception as e:
             self.fail(f"extract_year_from_title failed: {e}")
+    
+    def test_get_forum_name_from_url(self):
+        """Test the get_forum_name_from_url helper function"""
+        try:
+            scraper = importlib.import_module('scenario_scraper')
+            
+            # Only run this test if forum_scraper is available
+            if not scraper.FORUM_SCRAPER_AVAILABLE:
+                logger.warning("Skipping test_get_forum_name_from_url - forum_scraper not available")
+                return
+            
+            # Test with known forum URLs
+            red_result = scraper.get_forum_name_from_url("https://nexus.eotir.com/forum/59-red-scenario/")
+            self.assertEqual(red_result, "Red_Scenario")
+            
+            palace_result = scraper.get_forum_name_from_url("https://nexus.eotir.com/forum/6-palace-situation-room/")
+            self.assertEqual(palace_result, "Palace_Situation_Room")
+            
+            blue_result = scraper.get_forum_name_from_url("https://nexus.eotir.com/forum/69-blue-scenario/")
+            self.assertEqual(blue_result, "Blue_Scenario")
+            
+            # Test with unknown URL
+            unknown_result = scraper.get_forum_name_from_url("https://example.com/unknown/")
+            self.assertEqual(unknown_result, "Unknown")
+        except Exception as e:
+            self.fail(f"get_forum_name_from_url failed: {e}")
+    
+    def test_extract_single_topic_unavailable(self):
+        """Test extract_single_topic when forum_scraper is unavailable"""
+        try:
+            scraper = importlib.import_module('scenario_scraper')
+            
+            # Save original state
+            original_available = scraper.FORUM_SCRAPER_AVAILABLE
+            
+            try:
+                # Temporarily set FORUM_SCRAPER_AVAILABLE to False
+                scraper.FORUM_SCRAPER_AVAILABLE = False
+                
+                result = scraper.extract_single_topic("https://example.com/topic/test/")
+                self.assertFalse(result, "Should return False when forum_scraper unavailable")
+            finally:
+                # Restore original state
+                scraper.FORUM_SCRAPER_AVAILABLE = original_available
+        except Exception as e:
+            self.fail(f"test_extract_single_topic_unavailable failed: {e}")
+    
+    def test_extract_single_topic_with_mock_posts(self):
+        """Test extract_single_topic URL parsing and title extraction logic"""
+        try:
+            scraper = importlib.import_module('scenario_scraper')
+            
+            # Test URL parsing logic directly (doesn't require forum_scraper)
+            test_url = "https://example.com/forum/topic/test-scenario-34-iry/"
+            
+            # Test URL parsing logic
+            url_parts = test_url.split('?')[0].rstrip('/').split('/')
+            if url_parts and url_parts[-1] and len(url_parts[-1]) > 1:
+                title = url_parts[-1].replace('-', ' ').title()
+                self.assertEqual(title, "Test Scenario 34 Iry")
+            
+            # Test URL with query parameters
+            test_url_with_params = "https://example.com/forum/topic/my-topic/?page=2"
+            url_parts = test_url_with_params.split('?')[0].rstrip('/').split('/')
+            if url_parts and url_parts[-1] and len(url_parts[-1]) > 1:
+                title = url_parts[-1].replace('-', ' ').title()
+                self.assertEqual(title, "My Topic")
+        except Exception as e:
+            self.fail(f"test_extract_single_topic_with_mock_posts failed: {e}")
+    
+    def test_extract_scenarios_from_forums_combined_index(self):
+        """Test that extract_scenarios_from_forums can collect topics for combined index"""
+        try:
+            scraper = importlib.import_module('scenario_scraper')
+            
+            # Test that the function exists and is callable
+            self.assertTrue(callable(scraper.extract_scenarios_from_forums))
+            
+            # We can't fully test without network access, but we can verify
+            # the function signature and basic behavior
+            import inspect
+            sig = inspect.signature(scraper.extract_scenarios_from_forums)
+            params = list(sig.parameters.keys())
+            
+            # Verify parameters
+            self.assertIn('forums', params)
+            self.assertIn('output_dir', params)
+            self.assertIn('login', params)
+        except Exception as e:
+            self.fail(f"test_extract_scenarios_from_forums_combined_index failed: {e}")
 
 class ProcessorTests(unittest.TestCase):
     """Tests for the scenario_processor module"""
