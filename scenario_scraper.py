@@ -18,6 +18,9 @@ try:
         get_forum_topics,
         save_scenario_files,
         create_index,
+        create_combined_index,
+        extract_posts_from_topic,
+        OUTPUT_DIR,
         FORUM_URLS
     )
     FORUM_SCRAPER_AVAILABLE = True
@@ -152,6 +155,88 @@ def save_scenario(scenario_data):
     logger.info(f"Saved scenario to {filename}")
     return filename
 
+def extract_single_topic(topic_url, output_dir=None):
+    """
+    Extract posts from a single topic URL and save as scenario.
+    
+    Args:
+        topic_url: URL of the topic to extract
+        output_dir: Optional output directory for the scenario
+        
+    Returns:
+        True if successful, False otherwise
+    """
+    logger.info(f"Extracting single topic: {topic_url}")
+    
+    if output_dir:
+        global SCENARIOS_DIR
+        SCENARIOS_DIR = output_dir
+    
+    if not FORUM_SCRAPER_AVAILABLE:
+        logger.error("forum_scraper module not available for single topic extraction")
+        return False
+    
+    try:
+        # Extract posts from the topic
+        posts = extract_posts_from_topic(topic_url)
+        
+        if not posts:
+            logger.warning(f"No posts found in topic: {topic_url}")
+            return False
+        
+        # Extract title from first post or URL
+        title = "Extracted_Topic"
+        year = "Unknown"
+        
+        # Try to extract title from URL
+        url_parts = topic_url.rstrip('/').split('/')
+        if len(url_parts) > 0:
+            title = url_parts[-1].replace('-', ' ').title()
+        
+        # Try to extract year from title or content
+        if posts:
+            first_content = posts[0].get("content", "")
+            year_from_content = extract_year_from_title(title) or extract_year_from_title(first_content)
+            if year_from_content:
+                year = year_from_content
+        
+        # Create scenario data
+        scenario_data = {
+            "title": title,
+            "forum": "Single_Topic",
+            "year": year,
+            "status": "Extracted",
+            "extraction_date": datetime.now().strftime("%Y-%m-%d"),
+            "url": topic_url,
+            "content": ""
+        }
+        
+        # Build content from posts
+        content_parts = [f"# {title}\n\n"]
+        content_parts.append(f"URL: {topic_url}\n")
+        content_parts.append(f"Year: {year}\n\n")
+        
+        for i, post in enumerate(posts):
+            author = post.get("author", "Unknown")
+            date = post.get("date", "Unknown")
+            post_content = post.get("content", "")
+            
+            content_parts.append(f"## Post {i+1} by {author} on {date}\n\n")
+            content_parts.append(post_content)
+            content_parts.append("\n\n---\n\n")
+        
+        scenario_data["content"] = "".join(content_parts)
+        
+        # Save the scenario
+        save_scenario(scenario_data)
+        
+        logger.info(f"Successfully extracted {len(posts)} posts from topic")
+        return True
+        
+    except Exception as e:
+        logger.error(f"Error extracting single topic: {e}")
+        return False
+
 def extract_scenarios_from_forums(forums, output_dir=None, login=False):
     """Extract scenarios from multiple forums"""
     if output_dir:
@@ -159,9 +244,34 @@ def extract_scenarios_from_forums(forums, output_dir=None, login=False):
         SCENARIOS_DIR = output_dir
     
     results = []
+    all_topics = {}
+    
     for forum in forums:
         result = scrape_forum(forum, login)
         results.append((forum, result))
+        
+        # Collect topics for combined index
+        if FORUM_SCRAPER_AVAILABLE:
+            forum_name = "Unknown"
+            for name, path in FORUM_URLS.items():
+                if path in forum or name.lower() in forum.lower():
+                    forum_name = name
+                    break
+            
+            try:
+                topics = get_forum_topics(forum_name, forum)
+                if topics:
+                    all_topics[forum_name] = topics
+            except Exception as e:
+                logger.error(f"Error getting topics for combined index: {e}")
+    
+    # Create combined index after all forums are processed
+    if FORUM_SCRAPER_AVAILABLE and all_topics:
+        try:
+            create_combined_index(all_topics)
+            logger.info("Combined index created successfully")
+        except Exception as e:
+            logger.error(f"Error creating combined index: {e}")
     
     return results
 
@@ -170,6 +280,7 @@ def main(args=None):
     if args is None:
         parser = argparse.ArgumentParser(description="EOTIR Scenario Scraper - Extract scenarios from forum topics")
         parser.add_argument("--forum", help="URL of the forum to scrape")
+        parser.add_argument("--topic", help="URL of a single topic to extract")
         parser.add_argument("--login", action="store_true", help="Login to the forum (will prompt for credentials)")
         parser.add_argument("--output", help="Output directory for scenarios")
         args = parser.parse_args()
@@ -181,6 +292,14 @@ def main(args=None):
     
     # Ensure scenarios directory exists
     os.makedirs(SCENARIOS_DIR, exist_ok=True)
+    
+    # Handle single topic extraction
+    if args.topic:
+        logger.info("Single topic extraction mode")
+        success = extract_single_topic(args.topic, args.output)
+        status = "Success" if success else "Failed"
+        logger.info(f"Single topic extraction: {status}")
+        return
     
     # Default forums to scrape if none specified
     forums = []
