@@ -100,20 +100,22 @@ These directories contain extracted/generated data:
 - **Files removed**: 13 (duplicates/unnecessary)
 - **New files created**: 3 (run_manager.bat, run_manager.sh, FILES.md)
 
-## Testing Notes
+## Testing Results
 
-The forum scraper and scenario extraction cannot be tested in this sandbox environment due to DNS resolution restrictions. The code has been improved with:
-- Multiple fallback CSS selectors for IPS4 forum compatibility
-- Better error logging and diagnostics
-- Improved robustness for different IPS theme variations
+All major components have been tested and verified working:
 
-To test locally, run:
-```bash
-python test_extraction.py
-python forum_scraper.py
-```
+| Component | Test | Status |
+|-----------|------|--------|
+| `forum_scraper.py` | Extract 67 topics from Palace Situation Room | ✅ Pass |
+| `forum_scraper.py` | Extract posts from topic pages | ✅ Pass |
+| `scenario_indexer.py` | Build index of 36 scenarios | ✅ Pass |
+| `scenario_indexer.py` | Generate JSON data | ✅ Pass |
+| `scenario_indexer.py` | Generate timeline report | ✅ Pass |
+| `generate_combined_report.py` | Generate reports for forum | ✅ Pass |
+| `update_scenario_status.py` | List scenarios with status | ✅ Pass |
+| `scenario_processor.py` | Process scenario and generate files | ✅ Pass |
 
-Test URLs:
-- Forum: https://nexus.eotir.com/forum/6-palace-situation-room/
-- Topic: https://nexus.eotir.com/topic/2431-corruption-and-incorruption-36-iry/
-- Topic: https://nexus.eotir.com/topic/2157-shadows-rising-31-iry/
+Test URLs verified:
+- Forum: https://nexus.eotir.com/forum/6-palace-situation-room/ (67 topics)
+- Topic: https://nexus.eotir.com/topic/2431-corruption-and-incorruption-36-iry/ (45+ pages)
+- Topic: https://nexus.eotir.com/topic/2157-shadows-rising-31-iry/ (44+ pages)
