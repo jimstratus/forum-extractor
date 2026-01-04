@@ -77,7 +77,7 @@ def scrape_forum(forum_url, login=False):
             # Determine forum name from URL
             forum_name = "Unknown"
             for name, path in FORUM_URLS.items():
-                if path in forum_url or name.lower() in forum_url.lower():
+                if forum_url.endswith(path) or path in forum_url or name.lower() in forum_url.lower():
                     forum_name = name
                     break
             
@@ -189,9 +189,10 @@ def extract_single_topic(topic_url, output_dir=None):
         title = "Extracted_Topic"
         year = "Unknown"
         
-        # Try to extract title from URL
-        url_parts = topic_url.rstrip('/').split('/')
-        if url_parts and url_parts[-1]:
+        # Try to extract title from URL path (before query parameters)
+        url_parts = topic_url.split('?')[0].rstrip('/').split('/')
+        if url_parts and url_parts[-1] and len(url_parts[-1]) > 1:
+            # Only use if it looks like a topic slug (not just a single character)
             title = url_parts[-1].replace('-', ' ').title()
         
         # Try to extract year from title or content
@@ -255,7 +256,7 @@ def extract_scenarios_from_forums(forums, output_dir=None, login=False):
         if FORUM_SCRAPER_AVAILABLE:
             forum_name = "Unknown"
             for name, path in FORUM_URLS.items():
-                if forum.endswith(path) or name.lower() in forum.lower():
+                if forum.endswith(path) or path in forum or name.lower() in forum.lower():
                     forum_name = name
                     break
             
