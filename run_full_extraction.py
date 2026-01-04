@@ -59,9 +59,13 @@ def main():
         logger.info("Step 4: Generating combined reports...")
         try:
             import subprocess
-            subprocess.run([sys.executable, "generate_combined_report.py"], check=False)
-        except Exception as e:
-            logger.warning(f"Could not generate combined reports: {e}")
+            result = subprocess.run([sys.executable, "generate_combined_report.py"], check=False)
+            if result.returncode != 0:
+                logger.warning(f"Combined report generation exited with code {result.returncode}")
+        except FileNotFoundError as e:
+            logger.error(f"Could not find generate_combined_report.py: {e}")
+        except subprocess.SubprocessError as e:
+            logger.error(f"Subprocess error generating combined reports: {e}")
         
         logger.info("Full extraction pipeline completed successfully")
         return 0

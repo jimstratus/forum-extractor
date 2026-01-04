@@ -6,6 +6,7 @@ It wraps the forum_scraper module to provide a consistent interface for the scen
 """
 
 import os
+import re
 import sys
 import logging
 import argparse
@@ -39,8 +40,6 @@ logger = logging.getLogger(__name__)
 
 # Base directories
 SCENARIOS_DIR = os.path.join("Scenarios")
-
-import re
 
 
 def sanitize_filename(text):
