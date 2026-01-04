@@ -190,10 +190,15 @@ def extract_single_topic(topic_url, output_dir=None):
         year = "Unknown"
         
         # Try to extract title from URL path (before query parameters)
-        url_parts = topic_url.split('?')[0].rstrip('/').split('/')
-        if url_parts and url_parts[-1] and len(url_parts[-1]) > 1:
-            # Only use if it looks like a topic slug (not just a single character)
-            title = url_parts[-1].replace('-', ' ').title()
+        # Handle different URL formats gracefully
+        try:
+            url_parts = topic_url.split('?')[0].rstrip('/').split('/')
+            if url_parts and url_parts[-1] and len(url_parts[-1]) > 1:
+                # Only use if it looks like a topic slug (not just a single character)
+                title = url_parts[-1].replace('-', ' ').title()
+        except (IndexError, AttributeError):
+            # Fallback to default if URL parsing fails
+            logger.warning(f"Could not extract title from URL: {topic_url}")
         
         # Try to extract year from title or content
         if posts:
@@ -241,6 +246,8 @@ def extract_single_topic(topic_url, output_dir=None):
 
 def extract_scenarios_from_forums(forums, output_dir=None, login=False):
     """Extract scenarios from multiple forums"""
+    # Note: output_dir modification only affects fallback mode (when forum_scraper unavailable)
+    # When forum_scraper is available, it uses its own OUTPUT_DIR configuration
     if output_dir:
         global SCENARIOS_DIR
         SCENARIOS_DIR = output_dir
