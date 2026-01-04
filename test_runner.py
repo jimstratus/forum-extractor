@@ -102,7 +102,16 @@ class ProcessorTests(unittest.TestCase):
         self.scenario_dir = os.path.join(self.temp_dir, "Scenarios", "Test_Forum", "1_IRY")
         os.makedirs(self.scenario_dir, exist_ok=True)
         
-        # Create a test scenario file
+        # Create a test scenario directory with content.md (as expected by ScenarioProcessor)
+        self.scenario_folder = os.path.join(self.scenario_dir, "Test_Scenario")
+        os.makedirs(self.scenario_folder, exist_ok=True)
+        
+        # Create content.md file inside the scenario folder
+        self.content_file = os.path.join(self.scenario_folder, "content.md")
+        with open(self.content_file, 'w', encoding='utf-8') as f:
+            f.write(SAMPLE_SCENARIO)
+        
+        # Also create the old-style scenario file for backward compatibility tests
         self.scenario_path = os.path.join(self.scenario_dir, "Test_Scenario.md")
         with open(self.scenario_path, 'w', encoding='utf-8') as f:
             f.write(SAMPLE_SCENARIO)
@@ -152,7 +161,8 @@ class ProcessorTests(unittest.TestCase):
                 import spacy
                 
                 # Try to process the scenario using the ScenarioProcessor class
-                processor = processor_module.ScenarioProcessor(os.path.dirname(self.scenario_path))
+                # Pass the scenario folder (not the .md file)
+                processor = processor_module.ScenarioProcessor(self.scenario_folder)
                 result = processor.process_scenario()
                 self.assertIsNotNone(result)
                 

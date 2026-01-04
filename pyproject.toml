@@ -2,6 +2,7 @@
 name = "forum-extractor"
 version = "0.1.0"
 description = "EOTIR Forum Extractor - Extract and process scenarios from EOTIR forums"
+authors = [{name = "EOTIR Team"}]
 requires-python = ">=3.11"
 dependencies = [
     "beautifulsoup4>=4.9.3",
