@@ -155,27 +155,27 @@ class ProcessorTests(unittest.TestCase):
     
     def test_process_scenario(self):
         """Test the ScenarioProcessor class"""
+        # Check if NLP libraries are available first
+        try:
+            import nltk
+            import spacy
+        except (ImportError, ModuleNotFoundError):
+            logger.warning("Skipping full process_scenario test as NLP libraries are not available")
+            self.skipTest("NLP libraries not available")
+            return
+        
         try:
             processor_module = importlib.import_module('scenario_processor')
             
-            # May need to mock NLP tools for this test
-            try:
-                import nltk
-                import spacy
-                
-                # Try to process the scenario using the ScenarioProcessor class
-                # Pass the scenario folder (not the .md file)
-                processor = processor_module.ScenarioProcessor(self.scenario_folder)
-                result = processor.process_scenario()
-                self.assertIsNotNone(result)
-                
-                # Check if result contains scenario path
-                if "error" not in result:
-                    self.assertIn('scenario', result)
+            # Try to process the scenario using the ScenarioProcessor class
+            # Pass the scenario folder (not the .md file)
+            processor = processor_module.ScenarioProcessor(self.scenario_folder)
+            result = processor.process_scenario()
+            self.assertIsNotNone(result)
             
-            except (ImportError, ModuleNotFoundError):
-                logger.warning("Skipping full process_scenario test as NLP libraries are not available")
-                self.skipTest("NLP libraries not available")
+            # Check if result contains scenario path
+            if isinstance(result, dict) and "error" not in result:
+                self.assertIn('scenario', result)
         
         except Exception as e:
             self.fail(f"process_scenario failed: {e}")

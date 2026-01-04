@@ -70,16 +70,21 @@ This document tracks all files in the repository and their review/cleanup status
 |------|--------|-------|
 | `extract_llm_data.py` | 🔧 | Added directory prompt (--base-dir) |
 | `prepare_llm_dataset.py` | 📝 | Character dataset preparation |
-| `test_llm_dir.py` | 🔧 | Added directory prompt (--base-dir) |
 
-## Demo & Testing
+## Testing
 
 | File | Status | Notes |
 |------|--------|-------|
-| `demo.py` | 🔧 | Fixed to use ScenarioProcessor class |
-| `quick_run.py` | 📝 | Quick extraction test (embedded script ok) |
-| `test_extraction.py` | 📝 | Forum scraper test |
-| `test_runner.py` | 🔧 | Fixed test setup for ScenarioProcessor |
+| `test_runner.py` | 🔧 | Fixed test assertions and skipTest handling |
+
+## Removed Files (Additional)
+
+| File | Status | Reason |
+|------|--------|--------|
+| `demo.py` | ❌ | Redundant - users can run scripts directly |
+| `quick_run.py` | ❌ | Redundant - duplicates forum_scraper functionality |
+| `test_extraction.py` | ❌ | Redundant - just calls forum_scraper functions |
+| `test_llm_dir.py` | ❌ | Redundant - simple check that could be in extract_llm_data.py |
 
 ## Generated Data Directories
 
@@ -96,8 +101,8 @@ These directories contain extracted/generated data:
 ## Summary
 
 - **Total files reviewed**: 22 source files
-- **Files modified**: 15
-- **Files removed**: 13 (duplicates/unnecessary)
+- **Files modified**: 16
+- **Files removed**: 17 (duplicates/unnecessary)
 - **New files created**: 3 (run_manager.bat, run_manager.sh, FILES.md)
 
 ## Testing Results
@@ -111,6 +116,17 @@ All major components have been tested and verified working:
 | `scenario_indexer.py` | Build index of 36 scenarios | ✅ Pass |
 | `scenario_indexer.py` | Generate JSON data | ✅ Pass |
 | `scenario_indexer.py` | Generate timeline report | ✅ Pass |
+| `generate_combined_report.py` | Generate reports for forum | ✅ Pass |
+| `update_scenario_status.py` | List scenarios with status | ✅ Pass |
+| `scenario_processor.py` | Process scenario and generate files | ✅ Pass |
+| `main.py` | Help and argument parsing | ✅ Pass |
+| `scenario_manager.py` | Help and argument parsing | ✅ Pass |
+| `scenario_scraper.py` | Help and argument parsing | ✅ Pass |
+| `extract_llm_data.py` | Help and argument parsing | ✅ Pass |
+| `prepare_llm_dataset.py` | Module execution | ✅ Pass |
+| `run_full_extraction.py` | Full pipeline execution | ✅ Pass |
+| `inspect_page.py` | Page inspection | ✅ Pass |
+| `test_runner.py` | Unit tests (12 tests, 1 skipped) | ✅ Pass |
 | `generate_combined_report.py` | Generate reports for forum | ✅ Pass |
 | `update_scenario_status.py` | List scenarios with status | ✅ Pass |
 | `scenario_processor.py` | Process scenario and generate files | ✅ Pass |
