@@ -59,6 +59,17 @@ def extract_year_from_title(title):
     return ""
 
 
+def get_forum_name_from_url(forum_url):
+    """Determine forum name from URL"""
+    if not FORUM_SCRAPER_AVAILABLE:
+        return "Unknown"
+    
+    for name, path in FORUM_URLS.items():
+        if forum_url.endswith(path) or path in forum_url or name.lower() in forum_url.lower():
+            return name
+    return "Unknown"
+
+
 def scrape_forum(forum_url, login=False):
     """
     Scrape scenarios from a forum.
@@ -75,11 +86,7 @@ def scrape_forum(forum_url, login=False):
         logger.info("Using forum_scraper module for extraction")
         try:
             # Determine forum name from URL
-            forum_name = "Unknown"
-            for name, path in FORUM_URLS.items():
-                if forum_url.endswith(path) or path in forum_url or name.lower() in forum_url.lower():
-                    forum_name = name
-                    break
+            forum_name = get_forum_name_from_url(forum_url)
             
             # Get topics from forum
             topics = get_forum_topics(forum_name, forum_url)
@@ -196,8 +203,8 @@ def extract_single_topic(topic_url, output_dir=None):
             if url_parts and url_parts[-1] and len(url_parts[-1]) > 1:
                 # Only use if it looks like a topic slug (not just a single character)
                 title = url_parts[-1].replace('-', ' ').title()
-        except (IndexError, AttributeError):
-            # Fallback to default if URL parsing fails
+        except (IndexError, TypeError):
+            # Fallback to default if URL parsing fails (TypeError if topic_url is not a string)
             logger.warning(f"Could not extract title from URL: {topic_url}")
         
         # Try to extract year from title or content
@@ -261,11 +268,7 @@ def extract_scenarios_from_forums(forums, output_dir=None, login=False):
         
         # Collect topics for combined index
         if FORUM_SCRAPER_AVAILABLE:
-            forum_name = "Unknown"
-            for name, path in FORUM_URLS.items():
-                if forum.endswith(path) or path in forum or name.lower() in forum.lower():
-                    forum_name = name
-                    break
+            forum_name = get_forum_name_from_url(forum)
             
             try:
                 topics = get_forum_topics(forum_name, forum)
