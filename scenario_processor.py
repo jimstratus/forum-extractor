@@ -413,12 +413,12 @@ class ScenarioProcessor:
             content_file = self.scenario_path / "content.md"
             if not content_file.exists():
                 logger.error(f"Content file missing for {self.scenario_path}")
-                return False
+                return {"scenario": self.scenario_path, "error": "Content file missing"}
 
             content = content_file.read_text(encoding='utf-8')
             if not self.validate_content(content):
                 logger.error(f"Invalid content in {content_file}")
-                return False
+                return {"scenario": self.scenario_path, "error": "Invalid content"}
 
             # Process the valid content
             # Extract characters

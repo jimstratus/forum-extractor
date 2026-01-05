@@ -949,13 +949,14 @@ def generate_html_dashboard():
         logger.error(f"Error generating HTML dashboard: {e}")
         return None
 
-def main():
+def main(args=None):
     """Main execution function"""
-    parser = argparse.ArgumentParser(description="EOTIR Scenario Indexer - Generate indexes and reports for scenarios")
-    parser.add_argument("--no-excel", action="store_true", help="Skip generating Excel index")
-    parser.add_argument("--no-dashboard", action="store_true", help="Skip generating HTML dashboard")
-    parser.add_argument("--no-timeline", action="store_true", help="Skip generating timeline report")
-    args = parser.parse_args()
+    if args is None:
+        parser = argparse.ArgumentParser(description="EOTIR Scenario Indexer - Generate indexes and reports for scenarios")
+        parser.add_argument("--no-excel", action="store_true", help="Skip generating Excel index")
+        parser.add_argument("--no-dashboard", action="store_true", help="Skip generating HTML dashboard")
+        parser.add_argument("--no-timeline", action="store_true", help="Skip generating timeline report")
+        args = parser.parse_args()
     
     # Build the scenario index
     df = build_scenario_index(SCENARIOS_DIR)
