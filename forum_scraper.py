@@ -191,6 +191,9 @@ def extract_posts_from_topic(topic_url):
     posts = []
     page = 1
     scraper = ForumScraper()
+    seen_post_ids = set()  # Track post IDs to detect duplicates
+    seen_content_hashes = set()  # Track content hashes as backup
+    consecutive_duplicate_pages = 0  # Track how many pages in a row had only duplicates
 
     while True:
         if "?" in topic_url:
@@ -220,8 +223,12 @@ def extract_posts_from_topic(topic_url):
                 logger.warning(f"No posts found on first page. Check CSS selectors.")
             break
 
+        new_posts_this_page = 0
         for post in post_elements:
             try:
+                # Get post ID if available
+                post_id = post.get('data-commentid') or post.get('id') or None
+                
                 # Try multiple selectors for author
                 author_element = post.select_one(".cAuthorPane_author")
                 if not author_element:
@@ -241,7 +248,7 @@ def extract_posts_from_topic(topic_url):
                     date_element = post.select_one("time[datetime]")
                 date = date_element.get("datetime") if date_element else "Unknown"
 
-                # Try multiple selectors for content
+                # Try multiple selectors for content  
                 content_element = post.select_one(".ipsComment_content")
                 if not content_element:
                     content_element = post.select_one(".cPost_content")
@@ -264,27 +271,44 @@ def extract_posts_from_topic(topic_url):
                 content = re.sub(r'Posted.*?\d{4}', '', content)
                 content = re.sub(r'\n\s*\n\s*\n+', '\n\n', content)
 
+                # Create content hash for duplicate detection
+                content_hash = hash(f"{author}{date}{content[:100]}")
+                
+                # Check if this is a duplicate post
+                if post_id and post_id in seen_post_ids:
+                    continue  # Skip duplicate
+                if content_hash in seen_content_hashes:
+                    continue  # Skip duplicate content
+                
+                # Add to seen sets
+                if post_id:
+                    seen_post_ids.add(post_id)
+                seen_content_hashes.add(content_hash)
+                
                 posts.append({
                     "author": author,
                     "date": date,
                     "content": content
                 })
+                new_posts_this_page += 1
 
             except Exception as e:
                 logger.error(f"Error parsing post: {str(e)}")
 
+        # Check if we found any new posts on this page
+        if new_posts_this_page == 0:
+            consecutive_duplicate_pages += 1
+            logger.warning(f"Page {page}: All posts were duplicates (consecutive duplicate pages: {consecutive_duplicate_pages})")
+            if consecutive_duplicate_pages >= 2:
+                logger.info(f"Stopping extraction after {consecutive_duplicate_pages} consecutive pages of duplicates")
+                break
+        else:
+            consecutive_duplicate_pages = 0  # Reset counter
+        
         # Check for next page
         next_page = soup.select_one("a[rel='next']")
         if not next_page:
             break
-        
-        # Safety check: if we found 0 new posts this page, we might be looping
-        posts_before = len(posts)
-        if posts_before > 0 and page > 1:
-            posts_this_page = len([p for p in posts[-50:] if p])  # Check last 50 posts
-            if posts_this_page == 0:
-                logger.warning(f"No new posts found on page {page}, ending extraction")
-                break
         
         # Safety limit: stop after 200 pages to prevent runaway scraping
         if page >= 200:
@@ -294,10 +318,10 @@ def extract_posts_from_topic(topic_url):
         page += 1
         # Show progress every 10 pages
         if page % 10 == 0:
-            logger.info(f"Progress: Extracted {len(posts)} posts so far, continuing to page {page}...")
+            logger.info(f"Progress: Extracted {len(posts)} unique posts so far, continuing to page {page}...")
         sleep(1)
 
-    logger.info(f"Completed: Found {len(posts)} posts in topic")
+    logger.info(f"Completed: Found {len(posts)} unique posts in topic")
     return posts
 
 def identify_characters(posts):
