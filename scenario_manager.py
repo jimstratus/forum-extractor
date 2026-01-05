@@ -62,6 +62,7 @@ def extract_scenarios(args, modules):
         # Prepare arguments for the scraper
         scraper_args = argparse.Namespace()
         scraper_args.forum = args.forum if hasattr(args, 'forum') else None
+        scraper_args.topic = args.topic if hasattr(args, 'topic') else None
         scraper_args.login = args.login if hasattr(args, 'login') else False
         scraper_args.output = args.output if hasattr(args, 'output') else None
         

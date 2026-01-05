@@ -273,8 +273,22 @@ def extract_posts_from_topic(topic_url):
             except Exception as e:
                 logger.error(f"Error parsing post: {str(e)}")
 
+        # Check for next page
         next_page = soup.select_one("a[rel='next']")
         if not next_page:
+            break
+        
+        # Safety check: if we found 0 new posts this page, we might be looping
+        posts_before = len(posts)
+        if posts_before > 0 and page > 1:
+            posts_this_page = len([p for p in posts[-50:] if p])  # Check last 50 posts
+            if posts_this_page == 0:
+                logger.warning(f"No new posts found on page {page}, ending extraction")
+                break
+        
+        # Safety limit: stop after 200 pages to prevent runaway scraping
+        if page >= 200:
+            logger.warning(f"Reached maximum page limit (200), stopping extraction")
             break
 
         page += 1
