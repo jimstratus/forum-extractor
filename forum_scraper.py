@@ -17,7 +17,7 @@ import yaml
 BASE_URL = "https://nexus.eotir.com"
 FORUM_URLS = {
     "Red_Scenario": "/forum/59-red-scenario/",
-    "Palace_Situation_Room": "/forum/6-palace-situation-room/",
+    "Palace_Situation_Room": "/forum/169-palace-situation-room/",
     "Blue_Scenario": "/forum/69-blue-scenario/"
 }
 OUTPUT_DIR = "Scenarios"
@@ -29,9 +29,15 @@ IRY_PATTERN = r'\[(\d+)\s*IRY\]'
 UFY_PATTERN = r'\[(\d+)\s*UFY\]'
 
 # Configure logging
-logging.basicConfig(filename=LOG_FILE, level=logging.INFO, 
-                    format='%(asctime)s - %(levelname)s - %(message)s', 
-                    datefmt='%Y-%m-%d %H:%M:%S')
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    datefmt='%Y-%m-%d %H:%M:%S',
+    handlers=[
+        logging.FileHandler(LOG_FILE),
+        logging.StreamHandler()  # Also log to console for real-time progress
+    ]
+)
 logger = logging.getLogger(__name__)
 
 
@@ -272,9 +278,12 @@ def extract_posts_from_topic(topic_url):
             break
 
         page += 1
+        # Show progress every 10 pages
+        if page % 10 == 0:
+            logger.info(f"Progress: Extracted {len(posts)} posts so far, continuing to page {page}...")
         sleep(1)
 
-    logger.info(f"Found {len(posts)} posts in topic")
+    logger.info(f"Completed: Found {len(posts)} posts in topic")
     return posts
 
 def identify_characters(posts):
@@ -353,12 +362,14 @@ def save_scenario_files(forum_name, topic):
     topic_dir = os.path.join(OUTPUT_DIR, forum_name, safe_title)
     os.makedirs(topic_dir, exist_ok=True)
 
+    logger.info(f"→ Extracting '{topic['title']}'...")
     posts = extract_posts_from_topic(topic["url"])
 
     if not posts:
         logger.warning(f"No posts found for {topic['title']}")
         return False
 
+    logger.info(f"→ Saving {len(posts)} posts to files...")
     content_file = os.path.join(topic_dir, "content.md")
     with open(content_file, "w", encoding="utf-8") as f:
         f.write(f"# {topic['title']}\n\n")
