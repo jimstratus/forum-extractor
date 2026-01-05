@@ -1,0 +1,56 @@
+# Dramatis Personae - A Flagship Restored [30 IRY]
+
+- Admiral Firecam
+- Admiral Jon
+- Advocate General
+- Armed Forces
+- Avenging Phoenix
+- Aye Sir
+- Battle Commander
+- Captain Halcyon
+- Commanding Officer
+- Commodore Corran
+- Duty Uniform
+- Edited October
+- Ensign Smith
+- Ensing Smith
+- Executive Officer
+- Fighter Squadron
+- Fighter Wing
+- First Tactical
+- Ghostrider Squadron
+- Good Afternoon
+- Good Morning
+- High Prince
+- Imperial Republic
+- Isaac Kingsley
+- Issac Kingsley
+- Kuat Drive
+- Kuat Yards
+- Lieutenant Jacen
+- Lieutenant Jenna
+- Lieutenant Tegan
+- Lieutenant Winnry
+- Military Intelligence
+- Military Operations
+- Navy
+
+Judge
+- Petty Officer
+- Phoenix Nine
+- Phoenix Squadron
+- Please Lieutenant
+- Ready Room
+- Royal Fleet
+- Squadron Execs
+- Star Destroyers
+- Ten Hut
+- The Captain
+- The Ensign
+- The Prince
+- Throne Regent
+- Togorian Incident
+- Vexander Smith
+- Well Captain
+- Wolf Squadron
+- Yard Chief

@@ -1,3 +1,4 @@
 # Dramatis Personae - Forum Open to All
 
-To be extracted later.
+- Scenario Admin
+- War Room

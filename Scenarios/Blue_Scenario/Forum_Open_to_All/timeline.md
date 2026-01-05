@@ -1,3 +1,8 @@
 # Timeline of Events - Forum Open to All
 
-To be extracted later.
+## Event 1 - 2009-01-19T02:29:43Z
+
+Author: James Stratus
+
+
+

@@ -1,0 +1,25 @@
+# Dramatis Personae - A Time for Change [28 IRY]
+
+- Acting Director
+- Commandant Kaidlen
+- Considering Revan
+- Crystal Reins
+- Deputy Director
+- Director Watson
+- Earl Delcore
+- General Kaidlen
+- Imperial Palace
+- Imperial Republic
+- Intelligence Service
+- Kyliann Watson
+- Lord Protector
+- Lord Revan
+- Lord Steward
+- Operations Directorate
+- Palace Security
+- Revan Centurion
+- Shadow Jedi
+- Special Agent
+- Supreme Ruler
+- The Colonel
+- The High

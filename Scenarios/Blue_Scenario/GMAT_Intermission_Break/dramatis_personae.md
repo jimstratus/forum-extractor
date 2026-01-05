@@ -1,0 +1,45 @@
+# Dramatis Personae - GMAT: Intermission Break
+
+- Agent Captain
+- Although Eric
+- As Eric
+- As Vincent
+- Attempt Block
+- Before Eric
+- Boston Crab
+- Captain Aladon
+- Cresant Kick
+- Deep Dragon
+- Edited March
+- Eric Jackson
+- Eric Taylor
+- Executor Jackson
+- General Gomao
+- General Krayt
+- Grab Eric
+- If Cresant
+- If Eric
+- If Leg
+- If Roundhouse
+- Left Leg
+- Maric Criminal
+- Nose Punch
+- Oho Gomao
+- Operations Commander
+- Outside Cresant
+- Post Summary
+- Punch Eric
+- Replaced Eriolin
+- Right Arm
+- Solar Plexus
+- The Captain
+- The Executor
+- The General
+- The Neimodian
+- The Neimoidian
+- Think Boston
+- Vincent
+
+Jumping
+- Vincent Aladon
+- While Eric

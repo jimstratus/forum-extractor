@@ -1,0 +1,88 @@
+# Dramatis Personae - Back to the Battlefield [35 IRY]
+
+- Acting Minister
+- Admiral Firecam
+- All Corusca
+- Armed Forces
+- Army Operations
+- As Senator
+- Authorization Policy
+- Central Dias
+- Chandrila
+
+Chairman
+- Colonel Quinn
+- Committee
+
+Imperial
+- Councilor Firecam
+- Defense Fund
+- Democracy Fund
+- Dene Vye
+- Deputy Minister
+- Diplomatic Affairs
+- Emergency Savings
+- Force Users
+- Formal Declaration
+- General Treasury
+- Grand Duke
+- Hello Locke
+- High Dias
+- High Marshall
+- High Minister
+- High Prince
+- Imperial Republic
+- Intelligence Service
+- Jedi Master
+- Lady Devin
+- Lady Diandra
+- Locke Firecam
+- Lord Admiral
+- Make Firecam
+- Martial Law
+- Mass Destruction
+- National Security
+- Naval Admiral
+- Noghri Shadow
+- Operations
+
+Imperial
+- Operations Excellence
+- Policing Action
+- Praetor Bryan
+- Praetor Dugaan
+- Red Alert
+- Republic Armed
+- Republic High
+- Republic Senate
+- Republic Trustees
+- Rhen Var
+- Royal Coruscant
+- Royal Imperial
+- Security Bureau
+- Seinar Fleet
+- Senate Chamber
+- Senate Chambers
+- Senator Blake
+- Senator Carrington
+- Senator Charles
+- Senior Senator
+- Sith Emperor
+- Sith Empire
+- Sith Forces
+- Sovereignty Authorized
+- Special War
+- Strategic Reserves
+- Supreme Chancellor
+- Supreme Ruler
+- The Chancellor
+- The High
+- The Imperial
+- The Prince
+- The Senate
+- The Sith
+- The Supreme
+- Vice Chairman
+- Vye Cognatus
+- Yes Cognatus
+- Your Majesty

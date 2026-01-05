@@ -8,8 +8,8 @@
 - **Status**: New
 - **URL**: [https://nexus.eotir.com/topic/168-red-scenario-rules/](https://nexus.eotir.com/topic/168-red-scenario-rules/)
 - **Post Count**: 2
-- **Extracted**: 2025-05-03 20:08:13
-- **Report Generated**: 2026-01-04 04:38:47
+- **Extracted**: 2026-01-05 02:12:03
+- **Report Generated**: 2026-01-05 04:15:34
 
 ## Dramatis Personae
 

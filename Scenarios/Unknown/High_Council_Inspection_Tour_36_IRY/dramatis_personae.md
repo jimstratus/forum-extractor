@@ -1,0 +1,79 @@
+# Dramatis Personae - High Council Inspection Tour [36 IRY]
+
+- Academy Provost
+- Acting Director
+- Admiral Firecam
+- Admiral Taft
+- Admiral Taftican
+- After Lord
+- Armed Forces
+- As Lan
+- At Abregado
+- Bridge Communications
+- Capitol District
+- Captain Laveer
+- Captain  Laveer
+- Cloning Project
+- Combat Operations
+- Commander Firth
+- Commanding Officer
+- Corulag Academy
+- Council Chambers
+- Deputy Chief
+- Deputy Director
+- District Governor
+- Emperor Stratus
+- Eno Prison
+- Executor Treyson
+- Fleet Headquarters
+- Force
+
+Chief
+- Force Sensitive
+- General Applebee
+- Grand Admiral
+- High Prince
+- Imperial Republic
+- Information Network
+- Inspection Tour
+- Intelligence Service
+- Lady Klone
+- Lord Admiral
+- Lord Klone
+- Lord Lan
+- Lord Moff
+- Lord Steward
+- On Thyferra
+- Once Grand
+- Prince Marc
+- Regasterra Stewardship
+- Regional Goverments
+- Regional Governance
+- Rinma Task
+- Rinma Trade
+- Royal Family
+- Royal Palace
+- Royal Supreme
+- Security Service
+- Shadow Jedi
+- Sienar Fleet
+- Signal Grand
+- Sluis Van
+- State
+
+Lord
+- Supreme Ruler
+- Task Force
+- Terrisa Klone
+- The Admiral
+- The Clone
+- The Director
+- The Emperor
+- The Grand
+- The High
+- The Intelligence
+- The Moffs
+- The Rinma
+- The Supreme
+- The Togruta
+- Tura Taftican

@@ -1,0 +1,30 @@
+# Dramatis Personae - An Angel's Venom (Open)
+
+- Aurielle Stratus
+- But Aurielle
+- Dawn Treader
+- Dene Vye
+- Edited June
+- Edited May
+- General Kaidlen
+- Grand Duke
+- High Prince
+- House Stratus
+- Imperial Republic
+- James Stratus
+- Jedi Master
+- Jim Stratus
+- Palace Garden
+- Royal Fleet
+- Royal Imperial
+- Royal Suites
+- Shadow Guard
+- Supreme Chancellor
+- Supreme Ruler
+- The Force
+- The High
+- The Imperial
+- The Prince
+- The Princess
+- Vye Cognatus
+- Your Highness

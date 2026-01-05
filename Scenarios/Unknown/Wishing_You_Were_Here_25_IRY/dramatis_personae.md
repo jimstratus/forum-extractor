@@ -1,0 +1,27 @@
+# Dramatis Personae - Wishing You Were Here [25 IRY]
+
+- Edited September
+- Find Jayden
+- Fountain Palace
+- Hapan Palace
+- High Prince
+- High Princess
+- Imperial Republic
+- Lady Selina
+- Lady Vadcasta
+- Let Lord
+- Lord Centurion
+- Lord Protector
+- Lord Revan
+- Lord Steward
+- My Princess
+- Palace Press
+- Phoenix Katarn
+- Queen Mother
+- Royal Cruiser
+- Royal Security
+- Royal Theed
+- Shadow Jedi
+- Taryn Dassow
+- While Selina
+- Your Highness

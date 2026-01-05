@@ -1,0 +1,26 @@
+# Dramatis Personae - Inauguration of His Majesty's Royal Guard [27 IRY]
+
+- Attachment Leader
+- Captain Koru
+- Captain Tav
+- Colonel Kaidlen
+- Colonel Shan
+- Executor Treyson
+- Galactic Empire
+- General Bodost
+- General Kaidlen
+- Grand Admiral
+- High Prince
+- Imperail Republic
+- Imperial Republic
+- Lord Protector
+- Private Office
+- Royal Imperial
+- Security Agents
+- Shadow Jedi
+- Supreme Ruler
+- The Admiral
+- The High
+- Throne Room
+- Uniformed Palace
+- Your Majesty

@@ -1,0 +1,26 @@
+# Dramatis Personae - 146th Repulsorlift Company Field Training Exercise
+
+- Basic Graduate
+- Battle Efficiency
+- Captain Alford
+- Doom Juscus
+- Edited February
+- Field Training
+- If Doom
+- Imperial Academy
+- Imperial Republic
+- Lieutenant Hands
+- Light Infantry
+- Platoon Leaders
+- Platoon Sergeant
+- Platoon Sergeants
+- Platoon Squad
+- Recon Battalion
+- Repulsorlift Company
+- Sergeant Banks
+- Sergeant Capello
+- Sergeant Juscus
+- Sergeant Major
+- Staff Sergeant
+- The Captain
+- Yes Sir

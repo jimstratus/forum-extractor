@@ -1,0 +1,34 @@
+# Dramatis Personae - Royal Guard Debriefing [35 IRY]
+
+- Captain Alberoz
+- Captain Saika
+- Coruscant Palace
+- Edited February
+- Force Sensitive
+- General Kaidlen
+- Grand Master
+- Guard Phalanx
+- High Prince
+- Imperial Republic
+- James Stratus
+- Jedi Orders
+- Kaidlen Shan
+- Lord Protector
+- Major Saika
+- Moff Preston
+- Palace Security
+- Praetor Shan
+- Royal Family
+- Royal Gala
+- Saika Alberoz
+- Shadow Affinity
+- Shadow Guard
+- Shadow Jedi
+- Supreme Chancellor
+- Supreme Ruler
+- The Commandant
+- The High
+- The Supreme
+- Two Royal
+- Your Highness
+- Your Majesty

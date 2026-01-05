@@ -1,0 +1,45 @@
+# Dramatis Personae - GMAT: Round 1
+
+- Agent Eriolin
+- Arts Tournament
+- As Eric
+- Before Eriolin
+- Cresent Kick
+- Defense Daniella
+- Defense Ieyena
+- Deputy Minister
+- Drop Toe
+- Edited March
+- Eri
+
+If
+- Eric Headbutting
+- Eric Jackson
+- Eric Taylor
+- Executor Eric
+- Galactic Martial
+- General Gomao
+- General Krayt
+- Grand Minister
+- High Prince
+- If Eri
+- If Eric
+- If Fist
+- Imperial Republic
+- Imperial Repulic
+- Intelligence Loxiz
+- James Stratus
+- Joe Quick
+- Lahya Solo
+- Left Jab
+- Leg Sweep
+- Maric Criminal
+- My God
+- Oho Gomao
+- Operations Commander
+- Post Summary
+- Quick Jab
+- Right Hook
+- Royal Family
+- Supreme Chancellor
+- Taylor Jackson

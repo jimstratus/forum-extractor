@@ -1,0 +1,197 @@
+# Dramatis Personae - Coronation on Hapes [26 IRY]
+
+- Acknowledged Sir
+- After Dana
+- After Rhowen
+- Alpha Crew
+- Although Phoenix
+- And Kyle
+- As Dana
+- As Layha
+- As Stratus
+- Aunt Caralon
+- Before Dana
+- Captain Tav
+- Certainly Your
+- Colonel Shan
+- Coruscant Sector
+- Court
+
+Chief
+- Dana Lance
+- Dark Angel
+- Dark Lady
+- Dark Side
+- Darth Kaira
+- Dawn Treader
+- Deputy Regent
+- Dowager Empress
+- Edited April
+- Edited June
+- Edited March
+- Edited May
+- Empress Dana
+- Executive Officer
+- Executor Layha
+- Fountain Palace
+- Fountain Side
+- General Bodost
+- General Kaidlen
+- General Raithos
+- Grand Admiral
+- Great Hall
+- Great One
+- Ground Forces
+- Hapan Consortium
+- Hapan Court
+- Hapan Defense
+- Hapan Fleet
+- Hapan Forces
+- Hapan Guard
+- Hapan Judiciary
+- Hapan Palace
+- Hapan Prince
+- Hapan Princess
+- Hapan Reception
+- Hapan Royal
+- Hapan Royals
+- Hapan Sovereign
+- Hapan Throne
+- Hapes
+
+The
+- Hapes Cluster
+- Hapes Consortium
+- Hello Kyle
+- Hello Layha
+- Her Mothers
+- Hey Phoenix
+- High Prince
+- High Princes
+- High Quarters
+- His Royal
+- House Stratus
+- Ieyena Cohean
+- If Ms
+- If Rhowen
+- Imperial Palace
+- Imperial Republic
+- Intelligence Retiree
+- James Stratus
+- Jayden Centurion
+- Jedi Knight
+- Jim Stratus
+- Kaidlen Shan
+- Kuat
+
+Duchess
+- Kuat
+
+Member
+- Kyle Katarn
+- Lady Selina
+- Lady Solo
+- Layha
+
+After
+- Layha
+
+Layha
+- Layha
+
+The
+- Layha Solo
+- Lord Brandice
+- Lord Centurion
+- Lord Justice
+- Lord Katarn
+- Lord Kennedy
+- Lord Protector
+- Lord Revan
+- Lord Steward
+- Many Hapan
+- Meanwhile Phoenix
+- Meanwhile Rhowen
+- Mi Lady
+- Miss Lance
+- Ms Shan
+- My Lord
+- My Mother
+- My Queen
+- New Order
+- No Mum
+- Now Uncle
+- Once Layha
+- Outer Rim
+- Palace Phoenix
+- Palace Servants
+- Phoenix Katarn
+- Phoenix One
+- Phoenix Solo
+- Poli Massa
+- Posted Coronation
+- Prince Stratus
+- Princess Layha
+- Princess Nicole
+- Princess Phoenix
+- Princess Royal
+- Princesses Nicole
+- Queen Mother
+- Queen Mothers
+- Regent Princess
+- Relephon Moons
+- Royal Family
+- Royal House
+- Royal Navy
+- Royal Supreme
+- Secretary Devin
+- See Hapans
+- Seriously Kyle
+- Shadow Jedi
+- Shadow Senior
+- Sith Lord
+- So Hapes
+- So Mum
+- Sovereign House
+- State Security
+- Stratus
+
+The
+- Stratus Industries
+- Supreme Ruler
+- Sweet Princess
+- Team Bravo
+- Thanks Dee
+- The Admiral
+- The Captain
+- The Charter
+- The Colonel
+- The Crowd
+- The Force
+- The Hapan
+- The Hapans
+- The Hapes
+- The High
+- The Layha
+- The Lord
+- The Phoenix
+- The Prince
+- The Princess
+- The Princesses
+- The Royal
+- The Torgorian
+- These Hapans
+- Throne Room
+- Uncle Jim
+- Uncle Jims
+- Uncle Mikael
+- Unfortunately Jim
+- Unknown Regions
+- Well Kaira
+- When Jim
+- When Layha
+- When Phoenix
+- While Hapes
+- Young Jayden
+- Your Highness
+- Your Majesty

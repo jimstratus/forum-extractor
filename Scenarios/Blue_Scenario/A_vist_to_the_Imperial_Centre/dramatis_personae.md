@@ -1,0 +1,21 @@
+# Dramatis Personae - A vist to the Imperial Centre
+
+- Army Intelligence
+- Director Kyliann
+- Director Watson
+- Edited June
+- Imperial Palace
+- Jared Quinn
+- Major Jared
+- Major Quinn
+- Miss Lance
+- Royal Imperial
+- Secretary Devin
+- Supreme Ruler
+- The High
+- The Sergeant
+- Throne Office
+- Underdirector Watson
+- Well Mr
+- Well Secretary
+- Your Majesty

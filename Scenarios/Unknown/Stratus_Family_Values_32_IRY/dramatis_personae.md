@@ -1,0 +1,21 @@
+# Dramatis Personae - Stratus Family Values [32 IRY]
+
+- Armed Forces
+- Bright Jewel
+- Colonel Dana
+- Galactic Standard
+- General Kaidlen
+- High Prince
+- House Dormitories
+- Imperial Republic
+- Inspection Tours
+- James Stratus
+- Lord Protector
+- Palace Hangar
+- Praetor Kaidlen
+- Regional Task
+- Shadow Jedi
+- Simon Morris
+- Stratus University
+- Supreme Ruler
+- The Supreme

@@ -1,0 +1,26 @@
+# Dramatis Personae - RS: Intro & Signup: Epidemic Outbreak @ ANOBIS
+
+- Admiral Cavaleiro
+- Admiral Diego
+- Admiral Eric
+- Darth Kaiya
+- Defense Ieyena
+- Diego Cavaleir
+- Edited February
+- Eric Taylor
+- General Krayt
+- Imperial Republic
+- Intelligence Departments
+- Intelligence Lord
+- James Stratus
+- Joe Quick
+- Lieutenant Colonel
+- Maric Criminal
+- Naval Headquarters
+- Naval Operations
+- Operations Commander
+- Operations Division
+- Ranae Nonstir
+- Security Bureau
+- The Ministry
+- The Naval

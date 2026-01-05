@@ -1,0 +1,279 @@
+# Dramatis Personae - Operation Recovery [25 IRY]
+
+- Again Doom
+- Ah Blaster
+- Air Marshal
+- All Ibram
+- Alpha Point
+- Alright Bravo
+- Although Emdee
+- And Casx
+- Armed Forces
+- Armor Clad
+- Armored Battalion
+- Armored Brigade
+- Armored Division
+- Armored Interface
+- Army Sergeant
+- As Casx
+- As Revan
+- As Second
+- Assault Battalion
+- Assault Craft
+- Assault Fleet
+- Assault Infantry
+- Assault Platoons
+- Assault Troops
+- Assualt Platoon
+- Auri Jackson
+- Aye Sir
+- Bad Guys
+- Balle Royale
+- Basic Graduate
+- Battle Efficiency
+- Battle Stations
+- Behind Dene
+- Being Mandalorian
+- Black Hawk
+- Both Doom
+- Both Squads
+- Bravo Company
+- Bravo Five
+- Bravo Four
+- Bravo Three
+- Bravo Two
+- Brother Marek
+- But Marek
+- But Sarge
+- Cadmus Project
+- Captain Gourdine
+- Captain Hollis
+- Captain Ibram
+- Captain Kai
+- Captain Koru
+- Captain Tav
+- Cease Fire
+- Centerpoint
+
+Pretty
+- Class Doom
+- Clone Wars
+- Cognatus
+
+Corran
+- Colonel Shan
+- Colonel Trembal
+- Com Unit
+- Commander Halcyon
+- Commander Talak
+- Commodore Corran
+- Company
+
+Imperial
+- Company Commander
+- Congrats Sergeant
+- Congratulations Lieutenant
+- Corporal Gry
+- Coruscant
+
+Everyone
+- Dana Lance
+- Daniella Organa
+- Dark Lord
+- Dawn Treader
+- Delta Leader
+- Delta One
+- Dene Cognatus
+- Dene Vye
+- Deputy Regent
+- Det Pack
+- Doom Juscus
+- Droid Dekas
+- Edited December
+- Edited January
+- Empress Dana
+- Ensign Helcres
+- Eric Jackson
+- Evidently Revan
+- Executor Treyson
+- Federation Battle
+- Few Friends
+- Fighter Control
+- Fighter Coordinator
+- First Class
+- Fleet
+
+Kuat
+- For Revan
+- Four Unstable
+- Galactic Civil
+- General Cognatus
+- General Kaidlen
+- Get Read
+- Gold Leader
+- Gold Star
+- Grand Admiral
+- Grand Vizier
+- Grand Duke
+- Halcyon
+
+Kai
+- Hangar Bay
+- Hanger Platforms
+- Heavy Weapons
+- High Prince
+- His Royal
+- Holiday Season
+- However Colonel
+- Ibram Chamberlain
+- Imperial Academy
+- Imperial Army
+- Imperial Republic
+- Imperial Silver
+- Infantry Squad
+- Instruct General
+- Intelligence Retiree
+- Interchangeable Weapon
+- Ion Batteries
+- James Stratus
+- Jaylen Myst
+- Jedi Master
+- Kaidlen Shan
+- Kathol Rift
+- Koru Tav
+- Kuat
+
+Duchess
+- Kuat
+
+Everyone
+- Kuat Defense
+- Lady Selina
+- Lain Cunnis
+- Len Ciunus
+- Lieutenant Chamberlain
+- Lieutenant Ciunus
+- Lieutenant Colonel
+- Lieutenant Commander
+- Lieutenant Hands
+- Lieutenant Junior
+- Lieutenants Quinn
+- Light Infantry
+- Light Sir
+- Like Revan
+- Line Battalion
+- Line Brigade
+- Lord Centurion
+- Lord Kennedy
+- Lord Protector
+- Lord Revan
+- Lord Steward
+- Lt Chamberlain
+- Lt Ciunus
+- Lt Quinn
+- Malia Hollis
+- Malia Jae
+- Military Intelligence
+- Miss Dee
+- Mission Leader
+- Mission Objectives
+- Moments Later
+- Morning Sergeant
+- Much Everyone
+- My Men
+- Navy
+
+Squadron
+- Nice Going
+- No Jackson
+- Nor Hollis
+- Obsidian Crescent
+- Oh Sith
+- Ok Sith
+- Pearl Handled
+- People Down
+- Platoon Sergeant
+- Platoon Sgt
+- Post Battle
+- Recon Battalion
+- Recovery Scenario
+- Red Alert
+- Red Sheer
+- Relephon Moons
+- Republic Army
+- Repulsorlift Battalion
+- Repulsorlift Company
+- Revan Centurion
+- Rocket Launchers
+- Room Clear
+- Royal Imperial
+- Second Armored
+- Second Lieutenant
+- Second Platoon
+- Sector Army
+- Selina Vadcasta
+- Sergeant Banks
+- Sergeant First
+- Sergeant Juscus
+- Sergeant Major
+- Shadow Jedi
+- Silver Star
+- Sith Lord
+- Sleep Miss
+- So Let
+- Sorry Captain
+- Special Agent
+- Special Operations
+- Squad Leader
+- Squad Leaders
+- Staff Sergeant
+- Star Destroyers
+- State Security
+- Supreme Chancellor
+- Supreme Ruler
+- Talak Kasra
+- Task Force
+- The Admiral
+- The Army
+- The Assault
+- The Captain
+- The Colonel
+- The Cortosis
+- The Delta
+- The Elite
+- The Fighter
+- The Force
+- The General
+- The Grand
+- The Helm
+- The High
+- The Lieutenant
+- The Navy
+- The Operation
+- The Prince
+- The Private
+- The Pvt
+- The Shadow
+- The Sith
+- The Tactical
+- The Vanguard
+- Then Casx
+- Then Ibram
+- Those Navy
+- Though Koru
+- To Ibram
+- To Revan
+- Two Sith
+- Unit Aten
+- Vye Cognatus
+- Weapons Control
+- Well Sir
+- What Ibram
+- When Kaidlen
+- While Revan
+- With Revan
+- Yes Ma
+- Yes Sir
+- Yes Your
+- Your Excellency
+- Your Highness

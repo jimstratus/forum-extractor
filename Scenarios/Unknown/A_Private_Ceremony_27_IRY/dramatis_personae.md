@@ -1,0 +1,86 @@
+# Dramatis Personae - A Private Ceremony [27 IRY]
+
+- Admiral Firecam
+- Admiral Kelly
+- Admiral Overmind
+- Admirals Firecam
+- Armed Forces
+- As Fleet
+- Avenging Phoenix
+- Balle Royale
+- Both Koru
+- But Selina
+- Captain Koru
+- Captain Tav
+- Colonel Kaidlen
+- Colonel Shan
+- Dana Lance
+- Dawn Treader
+- Dene Cognatus
+- Deputy Minister
+- Deputy Regent
+- Diandra Devin
+- Edited January
+- Empress Dana
+- Executor Tavria
+- Executor Trayson
+- Executor Treyson
+- Fleet Admiral
+- General Bodost
+- General Cognatus
+- General Dene
+- General Kaidlen
+- General Raithos
+- Grand Admiral
+- Grand Duke
+- Hapes Consortium
+- High Prince
+- Imperial Naval
+- Imperial Republic
+- Imperial Soldiers
+- Intelligence Retiree
+- Jaylen Myst
+- Jedi Master
+- Koru Tav
+- Kuat
+
+Duchess
+- Kuat Drive
+- Kuati Drive
+- Lady Selina
+- Locke Firecam
+- Lord Admiral
+- Lord Protector
+- Miss Lance
+- My Lord
+- Naval Headquarters
+- Operations
+
+Imperial
+- Prince Marc
+- Princess Aurielle
+- Raithos Bodost
+- Relephon Moons
+- Republic High
+- Royal Balle
+- Royal Family
+- Royal Imperial
+- Royale Ball
+- Security Bureau
+- Selina Vadcasta
+- Shadow Jedi
+- Sorry Jim
+- State Security
+- Supreme Chancellor
+- Supreme Ruler
+- The Admiral
+- The Colonel
+- The General
+- The High
+- The Void
+- The War
+- Then Sire
+- Vice Admiral
+- Vye Cognatus
+- Yaga Minor
+- Your Highness

@@ -1,0 +1,21 @@
+# Dramatis Personae - Subtle Return [24 IRY]
+
+- As Selina
+- Coruscani Orbit
+- Crystal Reins
+- Fine Revan
+- Great Grandfather
+- Great Uncle
+- Hey Crystal
+- High Command
+- High Prince
+- Imperial Palace
+- Imperial Republic
+- Lady Selina
+- Lord Revan
+- Lord Steward
+- Port Authority
+- Revan Centurion
+- Shadow Jedi
+- State Security
+- Though Revan

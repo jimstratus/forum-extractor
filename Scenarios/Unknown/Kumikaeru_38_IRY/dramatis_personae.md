@@ -1,0 +1,64 @@
+# Dramatis Personae - Kumikaeru [38 IRY]
+
+- After Layha
+- Black Core
+- Champion Pair
+- Command Fleet
+- Coruscant Shocktroopers
+- Dark Fleet
+- Dawn Treader
+- Death Star
+- Deputy Regent
+- Derrick Zethrid
+- Emperor James
+- Empress Dana
+- Go Dark
+- Grey Security
+- Guard Marines
+- Hapan Battle
+- Hapes Consortium
+- House Stratus
+- Ice Dancers
+- Ice Rink
+- Ice Skate
+- Ice Skating
+- Imperial Ice
+- Imperial Knight
+- Imperial Republic
+- Intelligence Retiree
+- James Stratus
+- Jim Stratus
+- Kathol Sector
+- Kuat
+
+Duchess
+- Kuat Royal
+- Lord Kennedy
+- Lord Protector
+- My Lord
+- Noghri Shadow
+- Palace Royal
+- Palace Throne
+- Praetor Kaidlen
+- Red Protectors
+- Relephon Moons
+- Rink Operations
+- Rink Security
+- Royal Box
+- Royal Family
+- Royal House
+- Royal Houses
+- Royal Pearl
+- Royal Security
+- Royal Supreme
+- Shadow Protectors
+- Sun Crusher
+- Supreme Ruler
+- The Command
+- The Emperor
+- The Empress
+- The Paladins
+- The Royal
+- Tide Runner
+- Wes Clayton
+- Xalinda Grober
