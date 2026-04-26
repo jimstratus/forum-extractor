@@ -215,6 +215,14 @@ The scraper includes automatic rate limiting. Adjust in `forum_scraper.py`:
 self.requests_per_minute = 30  # Requests per minute limit
 ```
 
+## Documentation
+
+| Document | Description |
+|----------|-------------|
+| [CONTRIBUTING.md](./CONTRIBUTING.md) | Code conventions, commit guidelines, and contribution standards |
+| [DEVELOPMENT.md](./DEVELOPMENT.md) | Setup instructions, environment variables, and running locally |
+| [docs/README.md](./docs/README.md) | Categorized index of all documentation |
+
 ## Development
 
 ### Running Tests
